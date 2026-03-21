@@ -3,7 +3,7 @@
 
 Kurallar:
   1. Sadece .tr domainleri kabul edilir (yurt içi filtresi).
-  2. Provider adı (TÜRKKEP, EDM, NTB, TBM, PTTKEP) başlık veya özet içinde
+  2. Provider adı (TÜRKKEP, EDM, TBM, PTTKEP) başlık veya özet içinde
      birebir geçmeli — benzeterek eşleştirme yapılmaz.
   3. Haber bulunamazsa bölüm "Bu hafta haber bulunamadı." der.
 
@@ -106,17 +106,7 @@ PROVIDERS: Dict[str, Dict] = {
             "https://www.tbm.com.tr/duyurular",
         ],
     },
-    "ntb": {
-        "label": "NTB / Net Bilişim",
-        "queries": ['"netbt.com.tr"', '"Net Bilişim" KEP türkiye'],
-        "exact_terms": ["netbt.com.tr", "net bilişim kep", "ntb kep"],
-        "kep_context_required": False,
-        "own_domains": ["ntb.com.tr", "netbt.com.tr"],
-        "news_urls": [
-            "http://www.netbt.com.tr/haberler",
-            "http://www.netbt.com.tr/duyurular",
-        ],
-    },
+
     "pttkep": {
         "label": "PTTKEP",
         "queries": ['"PTTKEP"', '"pttkep"'],
@@ -439,7 +429,7 @@ def collect_provider_articles(token: str) -> Dict[str, List[Article]]:
                     combined = f"{title} {snippet}"
                     if not text_contains_any(combined, exact_terms):
                         continue
-                    # 5. EDM / TBM / NTB için KEP bağlamı zorunlu
+                    # 5. EDM / TBM için KEP bağlamı zorunlu
                     if kep_required and not text_contains_any(combined, ["kep", "kayıtlı elektronik"]):
                         continue
 
@@ -605,7 +595,7 @@ def build_email(
         "",
     ]
 
-    prov_order = ["TÜRKKEP", "EDM", "TBM", "NTB", "PTTKEP"]
+    prov_order = ["TÜRKKEP", "EDM", "TBM", "PTTKEP"]
     for p in prov_order:
         lines.extend(text_section(f"📌 {p}", by_provider.get(p, [])))
 
