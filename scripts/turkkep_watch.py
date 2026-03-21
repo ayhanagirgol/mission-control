@@ -131,7 +131,7 @@ TOPIC_QUERIES: List[Tuple[str, str, List[str]]] = [
     ('"e-imza" türkiye 2025 2026', "e-İmza", ["e-imza", "eimza"]),
     ('"e-arşiv" türkiye belge', "e-Arşiv", ["e-arşiv", "e-arsiv", "e-arşiv"]),
     ('"e-mutabakat" türkiye finans', "e-Mutabakat", ["e-mutabakat"]),
-    ('"KEP" entegrasyon türkiye', "KEP Entegrasyon", ["kep"]),
+    ('"regtech" türkiye fintech', "RegTech", ["regtech"]),
 ]
 
 
