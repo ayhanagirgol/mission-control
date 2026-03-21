@@ -38,7 +38,7 @@ TIMEZONE = ZoneInfo("Europe/Istanbul")
 BRAVE_NEWS_ENDPOINT = "https://api.search.brave.com/res/v1/news/search"
 BRAVE_WEB_ENDPOINT = "https://api.search.brave.com/res/v1/web/search"
 RESULTS_PER_QUERY = 10
-LOOKBACK_DAYS = 7
+LOOKBACK_DAYS = 14  # 2 haftalık pencere
 
 # ── Sadece bu TLD'ler yurt içi sayılır ──────────────────────────────────────
 DOMESTIC_TLD = ".tr"
@@ -78,6 +78,12 @@ PROVIDERS: Dict[str, Dict] = {
         "queries": ['"TÜRKKEP"', '"turkkep"'],
         "exact_terms": ["türkkep", "turkkep"],
         "own_domains": ["turkkep.com.tr"],
+        # Firmanın kendi haber/duyuru sayfaları — doğrudan fetch edilir
+        "news_urls": [
+            "https://turkkep.com.tr/haberler/",
+            "https://turkkep.com.tr/basin-odasi/",
+            "https://turkkep.com.tr/duyurular/",
+        ],
     },
     "edm": {
         "label": "EDM",
@@ -85,28 +91,44 @@ PROVIDERS: Dict[str, Dict] = {
         "exact_terms": ["edm"],
         "kep_context_required": True,
         "own_domains": ["edm.com.tr"],
+        "news_urls": [
+            "https://www.edm.com.tr/haberler",
+            "https://www.edm.com.tr/duyurular",
+            "https://www.edm.com.tr/blog",
+        ],
     },
     "tbm": {
         "label": "TBM",
-        # TBM = "Türkiye Bilişim Merkezi" KEP sağlayıcısı; kısa isim gürültülü
         "queries": ['"tbm.com.tr"', '"TBM" "kayıtlı elektronik" türkiye'],
         "exact_terms": ["tbm.com.tr", "tbm kep", "tbm kayıtlı"],
-        "kep_context_required": False,   # exact_terms zaten yeterince spesifik
+        "kep_context_required": False,
         "own_domains": ["tbm.com.tr"],
+        "news_urls": [
+            "https://www.tbm.com.tr/haberler",
+            "https://www.tbm.com.tr/duyurular",
+        ],
     },
     "ntb": {
         "label": "NTB / Net Bilişim",
-        # NTB = netbt.com.tr; kısa isim çok gürültülü, domain ile ara
         "queries": ['"netbt.com.tr"', '"Net Bilişim" KEP türkiye'],
         "exact_terms": ["netbt.com.tr", "net bilişim kep", "ntb kep"],
         "kep_context_required": False,
         "own_domains": ["ntb.com.tr", "netbt.com.tr"],
+        "news_urls": [
+            "http://www.netbt.com.tr/haberler",
+            "http://www.netbt.com.tr/duyurular",
+        ],
     },
     "pttkep": {
         "label": "PTTKEP",
         "queries": ['"PTTKEP"', '"pttkep"'],
         "exact_terms": ["pttkep"],
         "own_domains": ["pttkep.gov.tr", "ptt.gov.tr"],
+        "news_urls": [
+            "https://www.pttkep.gov.tr/haberler",
+            "https://www.pttkep.gov.tr/duyurular",
+            "https://www.ptt.gov.tr/haberler",
+        ],
     },
 }
 
@@ -252,6 +274,98 @@ def item_to_article(item: dict) -> Tuple[Optional[str], Optional[str], Optional[
     return url, title, snippet, domain, published
 
 
+# ── Firma sitesi doğrudan fetch ──────────────────────────────────────────────
+
+def fetch_site_articles(news_urls: List[str], label: str, exact_terms: List[str]) -> List[Article]:
+    """
+    Firmanın kendi haber/duyuru sayfalarını doğrudan çeker.
+    HTML içinden <a href> linklerini ve başlıkları çıkarır.
+    Tarih bilgisi genellikle yoktur — undated olarak işaretlenir.
+    """
+    import html as _html
+    results: List[Article] = []
+    seen: Set[str] = set()
+
+    # Basit link+başlık çıkarıcı regex (harici kütüphane gerekmez)
+    LINK_RE = re.compile(
+        r'<a\s[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
+        re.IGNORECASE | re.DOTALL,
+    )
+    TAG_RE = re.compile(r'<[^>]+>')
+
+    for base_url in news_urls:
+        try:
+            import ssl as _ssl
+            ctx = _ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = _ssl.CERT_NONE
+            req = request.Request(
+                base_url,
+                headers={"User-Agent": "Mozilla/5.0 (compatible; KEPWatch/2.0)"},
+            )
+            with request.urlopen(req, timeout=15, context=ctx) as resp:
+                raw = resp.read().decode("utf-8", errors="replace")
+        except Exception as exc:
+            print(f"[fetch] {base_url} → {exc}", file=sys.stderr)
+            continue
+
+        base_domain = extract_domain(base_url)
+
+        for href, anchor_html in LINK_RE.findall(raw):
+            # Temiz metin
+            title = TAG_RE.sub("", anchor_html).strip()
+            title = _html.unescape(title).strip()
+            if not title or len(title) < 10:
+                continue
+
+            # Mutlak URL yap
+            if href.startswith("//"):
+                href = "https:" + href
+            elif href.startswith("/"):
+                from urllib.parse import urlparse as _p
+                parsed = _p(base_url)
+                href = f"{parsed.scheme}://{parsed.netloc}{href}"
+            elif not href.startswith("http"):
+                continue
+
+            if href in seen:
+                continue
+
+            # Yurt içi ve statik değil
+            if not is_domestic(href):
+                continue
+            if is_static_page(href):
+                continue
+            if NON_NEWS_DOMAINS.search(href):
+                continue
+            from urllib.parse import urlparse as _up3
+            if _up3(href).path.strip("/") == "":
+                continue
+
+            # Başlıkta ilgili terim geçmeli
+            if not text_contains_any(title, exact_terms):
+                # KEP sağlayıcının kendi sitesindeyiz; başlık ilgili mi kontrol et
+                # (kep / elektronik / duyuru gibi terimler yeterliyken marka adı olmak zorunda değil)
+                if not text_contains_any(title, ["kep", "kayıtlı", "elektronik", "duyuru", "haber", "güncelleme"]):
+                    continue
+
+            seen.add(href)
+            domain = extract_domain(href) or base_domain
+            results.append(Article(
+                title=title,
+                url=href,
+                source=domain,
+                snippet="",
+                published=None,  # site'dan tarih çıkarmak zor, None bırak
+                tags={label},
+            ))
+
+        if len(results) >= 5:
+            break  # fazla derinleşme
+
+    return results[:5]
+
+
 # ── Toplama mantığı ──────────────────────────────────────────────────────────
 
 def collect_provider_articles(token: str) -> Dict[str, List[Article]]:
@@ -305,7 +419,19 @@ def collect_provider_articles(token: str) -> Dict[str, List[Article]]:
                         tags={label},
                     ))
 
-    # Her sağlayıcı için tarihe göre sırala
+    # ── Firmaların kendi sitelerini doğrudan tara (Brave'de çıkmayanlar için) ──
+    for prov_meta in PROVIDERS.values():
+        label = prov_meta["label"]
+        news_urls = prov_meta.get("news_urls", [])
+        if not news_urls:
+            continue
+        site_articles = fetch_site_articles(news_urls, label, prov_meta["exact_terms"])
+        for art in site_articles:
+            if art.url not in seen[label]:
+                seen[label].add(art.url)
+                by_provider[label].append(art)
+
+    # Her sağlayıcı için tarihe göre sırala (tarihsizler sona)
     for label in by_provider:
         by_provider[label].sort(
             key=lambda a: a.published or datetime.min.replace(tzinfo=timezone.utc),
