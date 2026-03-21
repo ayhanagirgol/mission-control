@@ -1,523 +1,523 @@
-email,name,domain,company_hint,direction,count,first_seen,last_seen,source_mailbox,notes
-"eda.tastemir@finhouse.com.tr","Eda Taştemir","finhouse.com.tr","finhouse",both,141,2026-01-05T13:55:01Z,2026-03-20T15:53:28Z,"ayhan.agirgol@finhouse.com.tr",
-"orkun.akyuz@orbina.ai","orkun.akyuz@orbina.ai","orbina.ai","orbina",both,76,2026-01-02T07:19:08Z,2026-03-19T08:59:32Z,"ayhan.agirgol@finhouse.com.tr",
-"dilara.kaplan@orbina.ai","dilara.kaplan@orbina.ai","orbina.ai","orbina",both,65,2026-01-02T06:38:14Z,2026-03-20T15:52:47Z,"ayhan.agirgol@finhouse.com.tr",
-"ayhan.agirgol@gmail.com","ayhan.agirgol@gmail.com","gmail.com","gmail",both,55,2026-01-04T14:36:52Z,2026-03-21T13:34:49Z,"ayhan.agirgol@finhouse.com.tr",
-"can.tunali@finhouse.com.tr","Yusuf Can Tunalı","finhouse.com.tr","finhouse",both,47,2025-12-21T16:27:06Z,2026-03-15T11:38:55Z,"ayhan.agirgol@finhouse.com.tr",
-"mert.menekse@co-one.co","mert.menekse@co-one.co","co-one.co","co-one",both,42,2025-12-26T07:13:09Z,2026-03-09T19:15:10Z,"ayhan.agirgol@finhouse.com.tr",
-"nilgun.yenice@finhouse.com.tr","Nilgün Yenice","finhouse.com.tr","finhouse",both,40,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,"ayhan.agirgol@finhouse.com.tr",
-"ekber.hasanzade@finhouse.com.tr","Ekber HASANZADE","finhouse.com.tr","finhouse",both,35,2026-02-26T09:43:29Z,2026-03-19T13:15:45Z,"ayhan.agirgol@finhouse.com.tr",
-"sirma.eren@cloudandcloud.net","sirma.eren@cloudandcloud.net","cloudandcloud.net","cloudandcloud",both,26,2026-01-14T12:10:10Z,2026-03-18T11:55:04Z,"ayhan.agirgol@finhouse.com.tr",
-"arman.kayhan@co-one.co","arman.kayhan@co-one.co","co-one.co","co-one",to,26,2026-01-14T10:45:18Z,2026-03-20T16:14:22Z,"ayhan.agirgol@finhouse.com.tr",
-"lothar.vandenberg@spl-group.com","Lothar van den Berg / SPL Group","spl-group.com","spl-group",both,19,2026-02-26T09:43:29Z,2026-03-19T13:15:45Z,"ayhan.agirgol@finhouse.com.tr",
-"barkin.takmaz@bulutistan.com","barkin.takmaz@bulutistan.com","bulutistan.com","bulutistan",both,19,2025-12-23T12:17:22Z,2026-02-28T19:18:24Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@tldv.io","tl;dv Team","tldv.io","tldv",from,19,2026-01-21T14:35:32Z,2026-02-12T14:05:27Z,"ayhan.agirgol@finhouse.com.tr",
-"sistem@bulten.sistemglobal.com.tr","Sistem Global","bulten.sistemglobal.com.tr","sistemglobal",from,18,2026-01-14T08:53:58Z,2026-03-17T07:57:55Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@otter.ai","Eda Taştemir via Otter.ai","otter.ai","otter",from,18,2026-01-14T12:32:15Z,2026-03-12T08:04:07Z,"ayhan.agirgol@finhouse.com.tr",
-"paul.walker@spl-group.com","paul.walker@spl-group.com","spl-group.com","spl-group",both,17,2026-03-03T13:25:22Z,2026-03-19T13:15:45Z,"ayhan.agirgol@finhouse.com.tr",
-"gulsevim.dinler@co-one.co","gulsevim.dinler@co-one.co","co-one.co","co-one",to,17,2026-01-14T10:45:18Z,2026-02-23T11:10:10Z,"ayhan.agirgol@finhouse.com.tr",
-"andrea.bruning@spl-group.com","Andrea Bruning / SPL Group","spl-group.com","spl-group",both,16,2026-03-03T13:38:14Z,2026-03-19T13:15:45Z,"ayhan.agirgol@finhouse.com.tr",
-"fred@fireflies.ai","Fred from Fireflies.ai","fireflies.ai","fireflies",both,16,2026-01-16T09:58:12Z,2026-03-20T15:52:12Z,"ayhan.agirgol@finhouse.com.tr",
-"mustafa.abd@alsaqi.iq","mustafa.abd@alsaqi.iq","alsaqi.iq","iq",both,16,2025-12-22T10:32:35Z,2026-03-20T15:57:03Z,"ayhan.agirgol@finhouse.com.tr",
-"barisbilenvural@cloudandcloud.net","barisbilenvural@cloudandcloud.net","cloudandcloud.net","cloudandcloud",to,14,2026-01-15T08:42:47Z,2026-03-20T15:56:38Z,"ayhan.agirgol@finhouse.com.tr",
-"arzu.sancar@finhouse.com.tr","Arzu Sancar","finhouse.com.tr","finhouse",both,14,2026-02-12T18:48:25Z,2026-03-20T15:53:01Z,"ayhan.agirgol@finhouse.com.tr",
-"oguz.govem@gmail.com","oguz.govem@gmail.com","gmail.com","gmail",both,13,2025-12-22T13:45:13Z,2026-03-13T07:02:40Z,"ayhan.agirgol@finhouse.com.tr",
-"devrimbayrakli@hsbc.com.tr","devrimbayrakli@hsbc.com.tr","hsbc.com.tr","hsbc",both,12,2026-01-28T14:28:15Z,2026-03-20T15:58:33Z,"ayhan.agirgol@finhouse.com.tr",
-"sevda.ersoy@cloudandcloud.net","sevda.ersoy@cloudandcloud.net","cloudandcloud.net","cloudandcloud",both,11,2025-12-26T10:42:48Z,2026-03-16T15:49:20Z,"ayhan.agirgol@finhouse.com.tr",
-"acquiringurunyonetimi@bkm.com.tr","BKM Acquiring Ürün Yönetimi","bkm.com.tr","bkm",both,11,2026-01-21T08:03:50Z,2026-03-20T15:53:46Z,"ayhan.agirgol@finhouse.com.tr",
-"begim.basligil@bulutistan.com","Begim Başlıgil","bulutistan.com","bulutistan",both,11,2025-12-29T12:26:20Z,2026-03-20T15:57:20Z,"ayhan.agirgol@finhouse.com.tr",
-"aykut.kutlusan@turkkep.com.tr","aykut.kutlusan@turkkep.com.tr","turkkep.com.tr","turkkep",to,11,2025-12-25T07:20:45Z,2026-03-09T10:05:09Z,"ayhan.agirgol@finhouse.com.tr",
-"hulya.dundar@enlighty.ai","hulya.dundar@enlighty.ai","enlighty.ai","enlighty",both,10,2025-12-22T07:00:14Z,2026-03-19T18:34:39Z,"ayhan.agirgol@finhouse.com.tr",
-"gokhanagirgol@gmail.com","gokhanagirgol@gmail.com","gmail.com","gmail",to,10,2026-02-18T06:24:51Z,2026-03-04T05:30:24Z,"ayhan.agirgol@finhouse.com.tr",
-"oguz.kaya@bulutistan.com","Oğuz Kaya","bulutistan.com","bulutistan",to,10,2026-01-01T09:35:45Z,2026-03-20T16:12:34Z,"ayhan.agirgol@finhouse.com.tr",
-"ahmetuslu@hsbc.com.tr","ahmetuslu@hsbc.com.tr","hsbc.com.tr","hsbc",to,10,2026-01-30T06:41:42Z,2026-02-23T11:10:10Z,"ayhan.agirgol@finhouse.com.tr",
-"ahmed.t@alsaqi.iq","ahmed.t@alsaqi.iq","alsaqi.iq","iq",both,10,2025-12-22T10:32:35Z,2026-03-20T15:57:38Z,"ayhan.agirgol@finhouse.com.tr",
-"publishing@email.mckinsey.com","McKinsey & Company","email.mckinsey.com","mckinsey",from,9,2026-01-13T16:06:40Z,2026-03-17T20:51:38Z,"ayhan.agirgol@finhouse.com.tr",
-"dilek.yigit@conevel.com","dilek.yigit@conevel.com","conevel.com","conevel",to,9,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"emre.acay@cloudandcloud.net","emre.acay@cloudandcloud.net","cloudandcloud.net","cloudandcloud",both,9,2025-12-26T10:42:48Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"kemal.yavuzcetin@hayatfinans.com.tr","kemal.yavuzcetin@hayatfinans.com.tr","hayatfinans.com.tr","hayatfinans",both,9,2026-01-19T05:59:20Z,2026-03-02T15:13:15Z,"ayhan.agirgol@finhouse.com.tr",
-"serkan.biroglu@medipol.com.tr","serkan.biroglu@medipol.com.tr","medipol.com.tr","medipol",both,9,2026-01-27T12:54:00Z,2026-03-20T15:58:37Z,"ayhan.agirgol@finhouse.com.tr",
-"cenap.isik@medipol.edu.tr","cenap.isik@medipol.edu.tr","medipol.edu.tr","medipol",to,8,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"eren@wagmitech.co","eren@wagmitech.co","wagmitech.co","wagmitech",both,8,2026-02-05T13:45:02Z,2026-03-20T15:52:40Z,"ayhan.agirgol@finhouse.com.tr",
-"taner.aslan@hedefbank.com.tr","taner.aslan@hedefbank.com.tr","hedefbank.com.tr","hedefbank",both,8,2025-12-25T07:16:37Z,2026-03-17T08:27:56Z,"ayhan.agirgol@finhouse.com.tr",
-"yesimmurzoglu@hsbc.com.tr","yesimmurzoglu@hsbc.com.tr","hsbc.com.tr","hsbc",to,8,2026-02-02T07:07:36Z,2026-02-23T11:10:10Z,"ayhan.agirgol@finhouse.com.tr",
-"osman.orengul@medipol.com.tr","Osman ÖRENGÜL ( Bilgi Teknolojileri )","medipol.com.tr","medipol",to,7,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"suleyman.topal@conevel.com","suleyman.topal@conevel.com","conevel.com","conevel",to,7,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"senay.karagoz@conevel.com","senay.karagoz@conevel.com","conevel.com","conevel",to,7,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"cem.isleyen@dunyavarlik.com","Cem.Isleyen@dunyavarlik.com","dunyavarlik.com","dunyavarlik",both,7,2026-02-10T05:58:44Z,2026-03-10T14:53:32Z,"ayhan.agirgol@finhouse.com.tr",
-"onur.nizamoglu@dunyavarlik.com","Onur.Nizamoglu@dunyavarlik.com","dunyavarlik.com","dunyavarlik",to,7,2026-02-10T05:58:44Z,2026-03-10T14:53:32Z,"ayhan.agirgol@finhouse.com.tr",
-"mehmetali.hacisalihoglu@bulutistan.com","Mehmet Ali Hacısalihoglu","bulutistan.com","bulutistan",to,7,2026-02-11T13:19:06Z,2026-02-25T13:50:45Z,"ayhan.agirgol@finhouse.com.tr",
-"salah.haider@alsaqi.iq","salah.haider@alsaqi.iq","alsaqi.iq","iq",to,7,2026-01-14T08:53:15Z,2026-02-17T07:51:13Z,"ayhan.agirgol@finhouse.com.tr",
-"teoman.gokcan@dunyavarlik.com","Teoman.Gokcan@dunyavarlik.com","dunyavarlik.com","dunyavarlik",to,7,2026-01-15T08:42:47Z,2026-02-17T06:44:51Z,"ayhan.agirgol@finhouse.com.tr",
-"taylan.guvercin@sabancidx.com","Mustafa Taylan Güvercin","sabancidx.com","sabancidx",to,7,2026-02-11T13:19:06Z,2026-03-20T16:03:14Z,"ayhan.agirgol@finhouse.com.tr",
-"ekrem.belli@paysmart.com.tr","ekrem.belli@paysmart.com.tr","paysmart.com.tr","paysmart",both,7,2025-12-29T10:53:46Z,2026-03-20T15:58:07Z,"ayhan.agirgol@finhouse.com.tr",
-"acelebi3@burgan.com.tr","ACelebi3@burgan.com.tr","burgan.com.tr","burgan",both,6,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,"ayhan.agirgol@finhouse.com.tr",
-"ertugrul.agar@gmail.com","ertugrul.agar@gmail.com","gmail.com","gmail",both,6,2026-02-28T16:54:36Z,2026-03-20T15:52:30Z,"ayhan.agirgol@finhouse.com.tr",
-"noreply@fintechistanbul.org","FinTech Istanbul","fintechistanbul.org","fintechistanbul",from,6,2026-01-19T05:31:17Z,2026-03-09T06:01:56Z,"ayhan.agirgol@finhouse.com.tr",
-"busra.sen@co-one.co","Büşra Şen","co-one.co","co-one",both,6,2026-01-20T09:02:11Z,2026-03-20T15:58:43Z,"ayhan.agirgol@finhouse.com.tr",
-"gunesagar@gmail.com","gunesagar@gmail.com","gmail.com","gmail",to,6,2025-12-25T07:09:36Z,2026-03-04T05:30:24Z,"ayhan.agirgol@finhouse.com.tr",
-"scott.sul@sourcedefense.com","Scott Sullivan","sourcedefense.com","sourcedefense",from,6,2026-01-14T14:01:53Z,2026-03-03T14:05:19Z,"ayhan.agirgol@finhouse.com.tr",
-"utkan.mentes@hayatfinans.com.tr","utkan.mentes@hayatfinans.com.tr","hayatfinans.com.tr","hayatfinans",to,6,2026-02-03T05:23:03Z,2026-03-02T15:13:15Z,"ayhan.agirgol@finhouse.com.tr",
-"orkun.kayin@sabancidx.com","Orkun Kayın","sabancidx.com","sabancidx",both,6,2026-02-11T13:19:06Z,2026-02-17T06:23:35Z,"ayhan.agirgol@finhouse.com.tr",
-"ali.kirdas@hedefbank.com.tr","Ali Kırdaş","hedefbank.com.tr","hedefbank",both,6,2026-02-09T04:27:46Z,2026-02-13T10:05:53Z,"ayhan.agirgol@finhouse.com.tr",
-"sahin.kurt@sabancidx.com","Şahin Kurt","sabancidx.com","sabancidx",both,6,2026-02-11T13:19:06Z,2026-03-20T15:57:30Z,"ayhan.agirgol@finhouse.com.tr",
-"anmar.kareem@alsaqi.iq","Anmar.Kareem@alsaqi.iq","alsaqi.iq","iq",to,6,2025-12-22T10:32:35Z,2026-03-20T16:13:13Z,"ayhan.agirgol@finhouse.com.tr",
-"hasan.apaydin@moneymate.com.tr","hasan.apaydin@moneymate.com.tr","moneymate.com.tr","moneymate",to,6,2025-12-29T13:02:59Z,2026-03-20T16:12:36Z,"ayhan.agirgol@finhouse.com.tr",
-"zmusoglu@pbs.com.tr","zmusoglu@pbs.com.tr","pbs.com.tr","pbs",to,6,2025-12-29T12:26:20Z,2026-01-28T13:35:53Z,"ayhan.agirgol@finhouse.com.tr",
-"ali.kaya.tr@outlook.com","ali.kaya.tr@outlook.com","outlook.com","outlook",to,6,2026-01-01T09:35:45Z,2026-01-28T13:35:53Z,"ayhan.agirgol@finhouse.com.tr",
-"team@moderntreasury.com","Modern Treasury","moderntreasury.com","moderntreasury",both,5,2026-02-03T17:32:28Z,2026-03-20T15:51:30Z,"ayhan.agirgol@finhouse.com.tr",
-"no_reply@email.apple.com","Apple","email.apple.com","apple",from,5,2026-02-24T14:53:34Z,2026-03-19T09:34:01Z,"ayhan.agirgol@finhouse.com.tr",
-"molmuser@burgan.com.tr","Mert Olmuşer","burgan.com.tr","burgan",to,5,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,"ayhan.agirgol@finhouse.com.tr",
-"sparlak@burgan.com.tr","Sercan Parlak","burgan.com.tr","burgan",to,5,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,"ayhan.agirgol@finhouse.com.tr",
-"ilayda.aladag@bosporuslojistik.com.tr","ilayda.aladag@bosporuslojistik.com.tr","bosporuslojistik.com.tr","bosporuslojistik",both,5,2026-03-16T06:49:37Z,2026-03-17T13:24:06Z,"ayhan.agirgol@finhouse.com.tr",
-"export@bosporuslojistik.com.tr","'Bosporus Lojistik - Export'","bosporuslojistik.com.tr","bosporuslojistik",to,5,2026-03-16T06:49:37Z,2026-03-17T13:24:06Z,"ayhan.agirgol@finhouse.com.tr",
-"gulay.seval-akdag@bosporuslojistik.com.tr","gulay.seval-akdag@bosporuslojistik.com.tr","bosporuslojistik.com.tr","bosporuslojistik",to,5,2026-03-16T06:49:37Z,2026-03-17T13:24:06Z,"ayhan.agirgol@finhouse.com.tr",
-"bulten@bulten.edanisman.com.tr","eDanışman Dijital Danışmanlık Platformu","bulten.edanisman.com.tr","edanisman",from,5,2026-02-10T13:02:01Z,2026-03-16T13:20:33Z,"ayhan.agirgol@finhouse.com.tr",
-"pinar.yukay@hedefbank.com.tr","Pınar Yukay Bora","hedefbank.com.tr","hedefbank",to,5,2026-02-09T04:27:46Z,2026-03-13T07:02:40Z,"ayhan.agirgol@finhouse.com.tr",
-"sarah@cybercyte.com","Sarah Collins","cybercyte.com","cybercyte",both,5,2026-02-13T05:58:44Z,2026-03-20T15:51:22Z,"ayhan.agirgol@finhouse.com.tr",
-"gokhan@letta.com.tr","Gökhan KURTOĞLU","letta.com.tr","letta",both,5,2026-02-02T12:11:57Z,2026-03-20T15:52:57Z,"ayhan.agirgol@finhouse.com.tr",
-"ayhan.agirgol@bulutistan.com","Ayhan Ağırgöl","bulutistan.com","bulutistan",both,5,2026-01-01T09:35:45Z,2026-03-09T20:08:47Z,"ayhan.agirgol@finhouse.com.tr",
-"hakan.gursoy@dt.net.tr","hakan.gursoy@dt.net.tr","dt.net.tr","dt",both,5,2026-01-13T08:28:22Z,2026-03-20T15:58:13Z,"ayhan.agirgol@finhouse.com.tr",
-"marcelvoost@substack.com","Marcel van Oost","substack.com","substack",from,5,2026-01-15T17:03:59Z,2026-02-19T17:02:02Z,"ayhan.agirgol@finhouse.com.tr",
-"haider.saad@alsaqi.iq","haider.saad@alsaqi.iq","alsaqi.iq","iq",to,5,2026-01-14T08:53:15Z,2026-02-17T07:51:13Z,"ayhan.agirgol@finhouse.com.tr",
-"yasemencelik@siberson.com","Yasemen Çelik","siberson.com","siberson",both,5,2026-02-10T12:41:31Z,2026-03-20T15:57:17Z,"ayhan.agirgol@finhouse.com.tr",
-"de@degsan.com.tr","de@degsan.com.tr","degsan.com.tr","degsan",both,5,2026-01-30T10:37:12Z,2026-02-13T08:20:14Z,"ayhan.agirgol@finhouse.com.tr",
-"hatice.genc@verisoft.com","hatice.genc@verisoft.com","verisoft.com","verisoft",both,5,2026-01-01T15:18:24Z,2026-03-20T15:58:16Z,"ayhan.agirgol@finhouse.com.tr",
-"osman.eroglu@medipol.edu.tr","osman.eroglu@medipol.edu.tr","medipol.edu.tr","medipol",to,5,2026-01-27T12:54:00Z,2026-02-03T14:18:19Z,"ayhan.agirgol@finhouse.com.tr",
-"connect@atmmarketplace.com","ATM Marketplace","atmmarketplace.com","atmmarketplace",both,5,2026-01-13T20:03:54Z,2026-03-20T15:51:53Z,"ayhan.agirgol@finhouse.com.tr",
-"abomaali@alsaqi.iq","abomaali@alsaqi.iq","alsaqi.iq","iq",to,5,2025-12-22T10:32:35Z,2026-02-03T13:58:14Z,"ayhan.agirgol@finhouse.com.tr",
-"igogus@burgan.com.tr","İbrahim Halil Göğüş","burgan.com.tr","burgan",to,4,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,"ayhan.agirgol@finhouse.com.tr",
-"hpulurbey@burgan.com.tr","Hilal Hayal Pulurbey","burgan.com.tr","burgan",to,4,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,"ayhan.agirgol@finhouse.com.tr",
-"cbilgen@burgan.com.tr","Celalettin Bilgen","burgan.com.tr","burgan",to,4,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,"ayhan.agirgol@finhouse.com.tr",
-"noreply@bilgi.ito.org.tr","İTO - Polonya’ya Yönelik Yatırım Fırsatları Semineri hk.","bilgi.ito.org.tr","ito",from,4,2026-02-02T14:12:44Z,2026-03-18T13:55:30Z,"ayhan.agirgol@finhouse.com.tr",
-"nihal.gungor@ctsgumruk.com","Nihal Güngör","ctsgumruk.com","ctsgumruk",both,4,2026-03-13T13:04:42Z,2026-03-20T15:52:27Z,"ayhan.agirgol@finhouse.com.tr",
-"mehmetnuri.aybayar@techsign.com.tr","Mehmet Nuri Aybayar","techsign.com.tr","techsign",both,4,2026-01-26T11:42:22Z,2026-03-17T12:23:47Z,"ayhan.agirgol@finhouse.com.tr",
-"cem.bayazit@techsign.com.tr","Cem Bayazit","techsign.com.tr","techsign",to,4,2026-01-26T11:42:22Z,2026-03-17T12:23:47Z,"ayhan.agirgol@finhouse.com.tr",
-"alper.kara@conevel.com","alper.kara@conevel.com","conevel.com","conevel",to,4,2026-02-09T15:41:29Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"info@servicecore-news.web.tr","Servicecore Newsletter","servicecore-news.web.tr","web",both,4,2026-02-02T09:45:25Z,2026-03-20T15:52:35Z,"ayhan.agirgol@finhouse.com.tr",
-"mustafa.sonmez@codigno.com","Mustafa Sönmez","codigno.com","codigno",both,4,2026-02-02T14:03:44Z,2026-03-20T15:58:25Z,"ayhan.agirgol@finhouse.com.tr",
-"ms@codigno.com","ms@codigno.com","codigno.com","codigno",to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,"ayhan.agirgol@finhouse.com.tr",
-"erdem@letta.com.tr","Erdem Güneş","letta.com.tr","letta",both,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,"ayhan.agirgol@finhouse.com.tr",
-"engin.altuntas@letta.com.tr","Engin Altuntaş","letta.com.tr","letta",to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,"ayhan.agirgol@finhouse.com.tr",
-"burakmert.mus@letta.com.tr","Burak Mert Muş","letta.com.tr","letta",to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,"ayhan.agirgol@finhouse.com.tr",
-"gulden.bostanci@beytturk.com","Gülden Bostancı Beytturk","beytturk.com","beytturk",to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,"ayhan.agirgol@finhouse.com.tr",
-"info@finhouse.ai","info@finhouse.ai","finhouse.ai","finhouse",both,4,2026-03-09T20:11:50Z,2026-03-20T15:53:55Z,"ayhan.agirgol@finhouse.com.tr",
-"azure@promomail.microsoft.com","Microsoft Azure","promomail.microsoft.com","microsoft",from,4,2026-03-01T01:18:35Z,2026-03-06T21:39:12Z,"ayhan.agirgol@finhouse.com.tr",
-"okan.erdogan@penti.com.tr","okan.erdogan@penti.com.tr","penti.com.tr","penti",both,4,2026-01-27T08:41:10Z,2026-03-04T11:23:48Z,"ayhan.agirgol@finhouse.com.tr",
-"techbando@bkm.com.tr","TechBanDo","bkm.com.tr","bkm",to,4,2026-01-21T08:03:50Z,2026-03-03T13:13:07Z,"ayhan.agirgol@finhouse.com.tr",
-"ketsis-noreply@gelirler.gov.tr","ketsis-noreply@gelirler.gov.tr","gelirler.gov.tr","gelirler",from,4,2026-01-16T09:50:37Z,2026-02-24T07:53:57Z,"ayhan.agirgol@finhouse.com.tr",
-"dilek.sagiroglu@verisoft.com","Dilek Sağıroglu","verisoft.com","verisoft",to,4,2026-01-01T15:18:24Z,2026-02-05T07:54:32Z,"ayhan.agirgol@finhouse.com.tr",
-"oztorun@gmail.com","oztorun@gmail.com","gmail.com","gmail",to,4,2026-01-01T09:35:45Z,2026-01-08T06:28:48Z,"ayhan.agirgol@finhouse.com.tr",
-"microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@netorg15755469.onmicrosoft.com","Microsoft Outlook","netorg15755469.onmicrosoft.com","onmicrosoft",from,3,2026-02-11T18:09:22Z,2026-03-21T16:19:57Z,"ayhan.agirgol@finhouse.com.tr",
-"john@teamgantt.com","John from TeamGantt","teamgantt.com","teamgantt",from,3,2026-01-31T18:49:20Z,2026-03-20T22:02:36Z,"ayhan.agirgol@finhouse.com.tr",
-"salim.buge@dokuz.io","Salim Büge","dokuz.io","dokuz",both,3,2026-03-18T18:25:44Z,2026-03-19T18:46:31Z,"ayhan.agirgol@finhouse.com.tr",
-"oarabaci@liderfaktoring.com.tr","Onur ARABACI (Bilgi İşlem Müdürü)","liderfaktoring.com.tr","liderfaktoring",both,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"onur.cunedioglu@orbina.ai","Onur Cünedioğlu","orbina.ai","orbina",both,3,2026-03-10T14:53:32Z,2026-03-18T08:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"duran@garantisoft.com.tr","Duran Topbaş / Garantisoft","garantisoft.com.tr","garantisoft",to,3,2026-03-17T15:52:08Z,2026-03-20T15:56:59Z,"ayhan.agirgol@finhouse.com.tr",
-"sadato@liderfaktoring.com.tr","'Semih Adato (Genel Müdür Yardımcısı)'","liderfaktoring.com.tr","liderfaktoring",to,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"vturkoglu@liderfaktoring.com.tr","'Volkan Türkoğlu (Genel Müdür Yardımcısı)'","liderfaktoring.com.tr","liderfaktoring",to,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"btemiz@liderfaktoring.com.tr","'Burak Temiz (Genel Müdür Yardımcısı)'","liderfaktoring.com.tr","liderfaktoring",to,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"nihal-dayi@hotmail.com","NİHAL DAYI","hotmail.com","hotmail",to,3,2026-03-13T13:04:42Z,2026-03-17T13:49:01Z,"ayhan.agirgol@finhouse.com.tr",
-"oltan@skymod.tech","oltan@skymod.tech","skymod.tech","tech",both,3,2026-02-26T14:13:40Z,2026-03-21T13:31:18Z,"ayhan.agirgol@finhouse.com.tr",
-"ferhanur.ozkalp@hepiyi.com.tr","ferhanur.ozkalp@hepiyi.com.tr","hepiyi.com.tr","hepiyi",to,3,2026-02-16T18:48:01Z,2026-03-16T15:49:20Z,"ayhan.agirgol@finhouse.com.tr",
-"barisbilenvural@callie.center","Barış Bilen Vural (Callie)","callie.center","center",to,3,2025-12-26T10:42:48Z,2026-03-16T15:49:20Z,"ayhan.agirgol@finhouse.com.tr",
-"hello@spaceship.com","Spaceship","spaceship.com","spaceship",both,3,2026-03-03T19:13:31Z,2026-03-20T15:52:17Z,"ayhan.agirgol@finhouse.com.tr",
-"reply@camunda.com","Camunda Team","camunda.com","camunda",both,3,2026-02-23T17:07:36Z,2026-03-20T15:53:50Z,"ayhan.agirgol@finhouse.com.tr",
-"aynur.koken@mentorgumruk.com.tr","aynur.koken@mentorgumruk.com.tr","mentorgumruk.com.tr","mentorgumruk",both,3,2026-03-05T07:46:26Z,2026-03-09T14:46:22Z,"ayhan.agirgol@finhouse.com.tr",
-"musteri@email.edenred.com.tr","Edenred Kurumsal Çözümler A.Ş.","email.edenred.com.tr","edenred",both,3,2026-02-02T12:55:26Z,2026-03-20T15:53:33Z,"ayhan.agirgol@finhouse.com.tr",
-"alisenlikci@bilisimvadisi.com.tr","Ali Şenlikci | Bilişim Vadisi","bilisimvadisi.com.tr","bilisimvadisi",to,3,2026-01-29T08:31:35Z,2026-03-02T10:21:19Z,"ayhan.agirgol@finhouse.com.tr",
-"melisoztirpan@bilisimvadisi.com.tr","Melis Özveran Öztırpan | Bilişim Vadisi","bilisimvadisi.com.tr","bilisimvadisi",to,3,2026-01-29T08:31:35Z,2026-03-02T10:21:19Z,"ayhan.agirgol@finhouse.com.tr",
-"elif.uceyler@turkkep.com.tr","Elif Nur Uceyler","turkkep.com.tr","turkkep",both,3,2026-03-02T08:38:51Z,2026-03-02T09:18:07Z,"ayhan.agirgol@finhouse.com.tr",
-"cansu.demirci@bulutistan.com","Cansu Demirci","bulutistan.com","bulutistan",to,3,2026-02-27T07:52:44Z,2026-02-28T19:18:24Z,"ayhan.agirgol@finhouse.com.tr",
-"info@groupbsp.co","Seda Mutlu","groupbsp.co","groupbsp",both,3,2026-01-13T13:00:33Z,2026-03-20T15:53:37Z,"ayhan.agirgol@finhouse.com.tr",
-"meylis.amanmyradov@upt.com.tr","meylis.amanmyradov@upt.com.tr","upt.com.tr","upt",both,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,"ayhan.agirgol@finhouse.com.tr",
-"zaid@sheefrah.com","Zaid Al-Najjar","sheefrah.com","sheefrah",both,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,"ayhan.agirgol@finhouse.com.tr",
-"yurtdisikanalyonetimibolumu@upt.com.tr","yurtdisikanalyonetimibolumu@upt.com.tr","upt.com.tr","upt",to,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,"ayhan.agirgol@finhouse.com.tr",
-"m.natheer@sheefrah.com","m.natheer@sheefrah.com","sheefrah.com","sheefrah",to,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,"ayhan.agirgol@finhouse.com.tr",
-"ogun.okmen@cloudserv.com.tr","ogun.okmen@cloudserv.com.tr","cloudserv.com.tr","cloudserv",to,3,2025-12-25T07:09:55Z,2026-02-19T17:40:17Z,"ayhan.agirgol@finhouse.com.tr",
-"marcelvanoostfintechlatam@substack.com","Marcel van Oost","substack.com","substack",from,3,2026-01-21T17:01:13Z,2026-02-18T17:05:13Z,"ayhan.agirgol@finhouse.com.tr",
-"yashin.fonseca@icx.co","Yashin Fonseca","icx.co","icx",both,3,2026-02-04T07:32:15Z,2026-03-20T15:56:56Z,"ayhan.agirgol@finhouse.com.tr",
-"sanli.saatcioglu@buteksoft.com.tr","Sanlı SAATCIOĞLU / Buteksoft Teknoloji","buteksoft.com.tr","buteksoft",both,3,2026-02-16T17:02:16Z,2026-03-20T15:57:11Z,"ayhan.agirgol@finhouse.com.tr",
-"gokhan.gencturk@bulutistan.com","Gökhan Gençtürk","bulutistan.com","bulutistan",to,3,2026-02-11T13:03:25Z,2026-02-15T16:59:14Z,"ayhan.agirgol@finhouse.com.tr",
-"ozge.akbal@hedefbank.com.tr","Özge Akbal","hedefbank.com.tr","hedefbank",to,3,2026-02-12T10:55:02Z,2026-02-13T10:05:53Z,"ayhan.agirgol@finhouse.com.tr",
-"utku.callak@asseco-see.com.tr","Utku Callak","asseco-see.com.tr","asseco-see",to,3,2025-12-25T20:32:00Z,2026-02-11T08:57:10Z,"ayhan.agirgol@finhouse.com.tr",
-"ahmed.nidhal@alsaqi.iq","ahmed.nidhal@alsaqi.iq","alsaqi.iq","iq",to,3,2025-12-22T10:32:35Z,2026-02-11T07:41:53Z,"ayhan.agirgol@finhouse.com.tr",
-"aydin.yilmaz@firisbe.com","aydin.yilmaz@firisbe.com","firisbe.com","firisbe",to,3,2026-01-28T15:19:53Z,2026-03-20T15:58:10Z,"ayhan.agirgol@finhouse.com.tr",
-"ceo@alsaqi.iq","ceo@alsaqi.iq","alsaqi.iq","iq",to,3,2026-01-14T08:53:15Z,2026-02-03T08:06:47Z,"ayhan.agirgol@finhouse.com.tr",
-"samer.alsafi@alsaqi.iq","samer.alsafi@alsaqi.iq","alsaqi.iq","iq",to,3,2026-01-14T08:53:15Z,2026-02-03T08:06:47Z,"ayhan.agirgol@finhouse.com.tr",
-"argeportal@bilisimvadisi.com.tr","Bilişim Vadisi","bilisimvadisi.com.tr","bilisimvadisi",from,3,2026-01-30T11:31:01Z,2026-02-02T06:42:59Z,"ayhan.agirgol@finhouse.com.tr",
-"ilayda.bahadiroglu@tenity.com","İlayda Bahadıroğlu | Tenity","tenity.com","tenity",both,3,2026-01-22T07:10:33Z,2026-03-20T15:53:24Z,"ayhan.agirgol@finhouse.com.tr",
-"hilal.gercek@tenity.com","Hilal Gerçek | Tenity","tenity.com","tenity",from,3,2026-01-16T07:26:32Z,2026-01-28T06:58:05Z,"ayhan.agirgol@finhouse.com.tr",
-"onur.yildirim3@isbank.com.tr","Onur Yıldırım - Müşteri İlişkileri Bölümü","isbank.com.tr","isbank",both,3,2026-01-26T17:47:39Z,2026-03-20T15:58:51Z,"ayhan.agirgol@finhouse.com.tr",
-"ekrembelli@gmail.com","Ekrem B.","gmail.com","gmail",both,3,2026-01-26T13:37:28Z,2026-03-20T15:58:53Z,"ayhan.agirgol@finhouse.com.tr",
-"hello@tldv.io","tl;dv Team","tldv.io","tldv",both,3,2026-01-24T16:35:49Z,2026-03-20T15:59:01Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@updates.otter.ai","The Otter.ai Team","updates.otter.ai","otter",from,3,2026-01-17T07:52:08Z,2026-01-24T07:52:27Z,"ayhan.agirgol@finhouse.com.tr",
-"sinan@peeraj.com","sinan@peeraj.com","peeraj.com","peeraj",to,3,2026-01-14T11:37:42Z,2026-01-20T09:02:11Z,"ayhan.agirgol@finhouse.com.tr",
-"sinan.ilhan@peeraj.com.tr","sinan.ilhan@peeraj.com.tr","peeraj.com.tr","peeraj",to,3,2026-01-14T11:37:42Z,2026-01-20T09:02:11Z,"ayhan.agirgol@finhouse.com.tr",
-"gozde.candemir@insha.ventures","gozde.candemir@insha.ventures","insha.ventures","ventures",to,3,2026-01-14T16:00:43Z,2026-02-02T08:11:08Z,"ayhan.agirgol@finhouse.com.tr",
-"hakan.gursoy@bulutistan.com","Hakan Gursoy","bulutistan.com","bulutistan",to,3,2025-12-23T12:17:22Z,2026-03-20T16:03:50Z,"ayhan.agirgol@finhouse.com.tr",
-"ceo@alsaqi.com","ceo@alsaqi.com","alsaqi.com","alsaqi",to,2,2026-03-20T16:13:18Z,2026-03-21T16:19:57Z,"ayhan.agirgol@finhouse.com.tr",
-"semihozbek@protem.com.tr","SEMIH OZBEK","protem.com.tr","protem",both,2,2026-03-20T16:19:56Z,2026-03-20T17:36:02Z,"ayhan.agirgol@finhouse.com.tr",
-"alper.cakir@peple.com.tr","Alper Cakir","peple.com.tr","peple",both,2,2026-03-20T16:20:02Z,2026-03-20T17:12:59Z,"ayhan.agirgol@finhouse.com.tr",
-"notifications@reclaim.ai","Reclaim","reclaim.ai","reclaim",from,2,2026-01-23T05:54:20Z,2026-03-20T05:54:17Z,"ayhan.agirgol@finhouse.com.tr",
-"luiscordes0102@gmail.com","Luis","gmail.com","gmail",both,2,2026-03-19T15:56:16Z,2026-03-19T18:29:46Z,"ayhan.agirgol@finhouse.com.tr",
-"cagatay.kaya@dokuz.io","Çağatay Kaya","dokuz.io","dokuz",to,2,2026-03-18T18:25:44Z,2026-03-19T08:24:58Z,"ayhan.agirgol@finhouse.com.tr",
-"sema.temur@orbina.ai","Sema Temur","orbina.ai","orbina",to,2,2026-03-17T15:52:08Z,2026-03-18T08:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"velat.dicleli@orbina.ai","Velat Dicleli","orbina.ai","orbina",to,2,2026-03-17T15:52:08Z,2026-03-18T08:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"ertugrul.agar@finhouse.ai","ertugrul.agar@finhouse.ai","finhouse.ai","finhouse",to,2,2026-03-17T18:24:31Z,2026-03-18T06:47:57Z,"ayhan.agirgol@finhouse.com.tr",
-"feedback@spaceship.com","Spaceship","spaceship.com","spaceship",both,2,2026-03-17T21:01:02Z,2026-03-20T15:51:48Z,"ayhan.agirgol@finhouse.com.tr",
-"george@trevorlabs.com","George from Trevor AI","trevorlabs.com","trevorlabs",from,2,2026-02-24T17:30:43Z,2026-03-16T17:00:32Z,"ayhan.agirgol@finhouse.com.tr",
-"firat.aslantas@kaspersky.com","Firat Aslantas","kaspersky.com","kaspersky",both,2,2026-03-06T14:13:09Z,2026-03-13T13:49:06Z,"ayhan.agirgol@finhouse.com.tr",
-"hasan.bilici@penti.com.tr","Hasan Bilici","penti.com.tr","penti",to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,"ayhan.agirgol@finhouse.com.tr",
-"meltem.oktayemeksiz@penti.com.tr","Meltem Oktay Emeksiz","penti.com.tr","penti",to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,"ayhan.agirgol@finhouse.com.tr",
-"muratselahattin.gunes@penti.com.tr","Murat Selahattin Gunes","penti.com.tr","penti",to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,"ayhan.agirgol@finhouse.com.tr",
-"omer.ozden@penti.com.tr","Omer Ozden","penti.com.tr","penti",to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,"ayhan.agirgol@finhouse.com.tr",
-"alert@spaceship.com","Spaceship","spaceship.com","spaceship",both,2,2026-03-03T19:03:03Z,2026-03-20T15:53:19Z,"ayhan.agirgol@finhouse.com.tr",
-"robin.vandenberg@spl-group.com","robin.vandenberg@spl-group.com","spl-group.com","spl-group",to,2,2026-02-26T09:43:29Z,2026-03-03T10:20:16Z,"ayhan.agirgol@finhouse.com.tr",
-"damla.bilici@vodafone.com","Damla Bilici, Vodafone","vodafone.com","vodafone",from,2,2026-03-02T11:55:01Z,2026-03-02T11:55:10Z,"ayhan.agirgol@finhouse.com.tr",
-"muberrakaramustafa@bilisimvadisi.com.tr","Fatma Müberra Karamustafa | Bilişim Vadisi","bilisimvadisi.com.tr","bilisimvadisi",both,2,2026-02-13T06:46:20Z,2026-03-02T10:21:19Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@metunic.com.tr","METUnic","metunic.com.tr","metunic",from,2,2026-01-15T09:59:43Z,2026-02-26T10:14:54Z,"ayhan.agirgol@finhouse.com.tr",
-"gozde.agca@bulutistan.com","Gözde Ağca","bulutistan.com","bulutistan",from,2,2026-02-19T11:01:56Z,2026-02-25T13:50:45Z,"ayhan.agirgol@finhouse.com.tr",
-"sarah.collins@cybercyte.uk","Sarah Collins","cybercyte.uk","uk",from,2,2026-01-14T06:59:27Z,2026-02-18T05:02:03Z,"ayhan.agirgol@finhouse.com.tr",
-"apac1connectingthedotsinfintech@substack.com","Marcel van Oost","substack.com","substack",from,2,2026-01-14T02:01:09Z,2026-02-18T02:01:40Z,"ayhan.agirgol@finhouse.com.tr",
-"ilker.caner@gmail.com","Ilker Caner","gmail.com","gmail",both,2,2026-02-16T11:39:19Z,2026-03-20T15:57:13Z,"ayhan.agirgol@finhouse.com.tr",
-"basak.ersan@degsan.com.tr","'Başak Ersan'","degsan.com.tr","degsan",to,2,2026-02-13T08:17:40Z,2026-02-13T08:20:14Z,"ayhan.agirgol@finhouse.com.tr",
-"aycadagli@bilisimvadisi.com.tr","Ayça Dağlı | Bilişim Vadisi","bilisimvadisi.com.tr","bilisimvadisi",from,2,2026-01-29T08:31:35Z,2026-02-13T06:46:20Z,"ayhan.agirgol@finhouse.com.tr",
-"ekber@evergreentech.com.tr","ekber@evergreentech.com.tr","evergreentech.com.tr","evergreentech",to,2,2026-02-11T18:09:18Z,2026-02-11T18:09:22Z,"ayhan.agirgol@finhouse.com.tr",
-"hazar.cacekli@medipol.com.tr","hazar.cacekli@medipol.com.tr","medipol.com.tr","medipol",to,2,2026-02-09T15:41:29Z,2026-02-11T12:39:54Z,"ayhan.agirgol@finhouse.com.tr",
-"alyssa@fathom.video","Alyssa Edelman","fathom.video","video",both,2,2026-02-10T12:32:12Z,2026-03-20T15:52:22Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@fathom.video","Fathom","fathom.video","video",from,2,2026-02-07T17:21:49Z,2026-02-10T11:27:44Z,"ayhan.agirgol@finhouse.com.tr",
-"omer.yurttas@hedefbank.com.tr","Ömer Yurttaş","hedefbank.com.tr","hedefbank",to,2,2026-02-09T04:27:46Z,2026-03-20T15:57:41Z,"ayhan.agirgol@finhouse.com.tr",
-"mutlu.gokten@hedefbank.com.tr","Mutlu Gökten","hedefbank.com.tr","hedefbank",to,2,2026-02-09T04:27:46Z,2026-03-20T16:13:10Z,"ayhan.agirgol@finhouse.com.tr",
-"c.arslan@searchinform.com","Cansu Arslan","searchinform.com","searchinform",both,2,2026-02-04T10:09:30Z,2026-02-04T10:09:30Z,"ayhan.agirgol@finhouse.com.tr",
-"20419205@bcc.hubspot.com","20419205@bcc.hubspot.com","bcc.hubspot.com","hubspot",to,2,2026-02-02T14:06:53Z,2026-02-03T14:43:28Z,"ayhan.agirgol@finhouse.com.tr",
-"info@alsaqi.iq","info@alsaqi.iq","alsaqi.iq","iq",to,2,2026-02-03T07:54:17Z,2026-02-03T08:06:47Z,"ayhan.agirgol@finhouse.com.tr",
-"support@tldv.io","tl;dv Team","tldv.io","tldv",both,2,2026-02-02T12:33:19Z,2026-03-20T15:58:30Z,"ayhan.agirgol@finhouse.com.tr",
-"kadir.ozturk@aktifbank.com.tr","Kadir.Ozturk@aktifbank.com.tr","aktifbank.com.tr","aktifbank",to,2,2026-01-28T08:53:03Z,2026-03-20T16:03:09Z,"ayhan.agirgol@finhouse.com.tr",
-"devrimbayrakli@hcbc.com.tr","devrimbayrakli@hcbc.com.tr","hcbc.com.tr","hcbc",to,2,2026-01-27T14:14:59Z,2026-01-27T16:29:00Z,"ayhan.agirgol@finhouse.com.tr",
-"faruk.araz@craftgate.io","Faruk Araz","craftgate.io","craftgate",both,2,2026-01-27T08:35:42Z,2026-03-20T15:58:47Z,"ayhan.agirgol@finhouse.com.tr",
-"salih.yakici@softtech.com.tr","Salih Yakıcı","softtech.com.tr","softtech",to,2,2026-01-26T17:47:39Z,2026-01-27T06:26:50Z,"ayhan.agirgol@finhouse.com.tr",
-"dersan.cakar@isbank.com.tr","Ali Derşan Çakar","isbank.com.tr","isbank",to,2,2026-01-26T17:47:39Z,2026-01-27T06:26:50Z,"ayhan.agirgol@finhouse.com.tr",
-"piteka@me.com","Piteka@me.com","me.com","me",to,2,2026-01-26T13:37:28Z,2026-01-26T13:48:30Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@marketing.otter.ai","The Otter.ai Team","marketing.otter.ai","otter",from,2,2026-01-20T07:52:21Z,2026-01-23T07:52:23Z,"ayhan.agirgol@finhouse.com.tr",
-"inspiration@hello.design.com","Design.com","hello.design.com","design",both,2,2026-01-22T10:32:06Z,2026-03-20T15:57:50Z,"ayhan.agirgol@finhouse.com.tr",
-"billg@gatesnotes.com","Bill Gates (via the Gates Notes)","gatesnotes.com","gatesnotes",both,2,2026-01-21T21:13:53Z,2026-03-20T15:53:15Z,"ayhan.agirgol@finhouse.com.tr",
-"nafiye.ozturk@verisoft.com","Nafiye Öztürk","verisoft.com","verisoft",both,2,2026-01-20T07:21:56Z,2026-01-20T10:46:37Z,"ayhan.agirgol@finhouse.com.tr",
-"emresenel@gmail.com","Emre Şenel","gmail.com","gmail",to,2,2026-01-20T07:21:56Z,2026-01-20T10:46:37Z,"ayhan.agirgol@finhouse.com.tr",
-"datasec@verisoft.com","datasec@verisoft.com","verisoft.com","verisoft",to,2,2026-01-20T07:21:56Z,2026-01-20T10:46:37Z,"ayhan.agirgol@finhouse.com.tr",
-"hakan.inceoglu@yaz.com.tr","hakan.inceoglu@yaz.com.tr","yaz.com.tr","yaz",to,2,2026-01-20T05:02:09Z,2026-03-20T16:18:12Z,"ayhan.agirgol@finhouse.com.tr",
-"bilal.ozcan@somposigorta.com.tr","bilal.ozcan@somposigorta.com.tr","somposigorta.com.tr","somposigorta",to,2,2026-01-19T12:22:04Z,2026-03-20T15:59:08Z,"ayhan.agirgol@finhouse.com.tr",
-"info@wesorganizasyon.com","Ömer Çelik","wesorganizasyon.com","wesorganizasyon",both,2,2026-01-19T07:01:46Z,2026-03-20T15:53:09Z,"ayhan.agirgol@finhouse.com.tr",
-"yasemin.koc@yapikredi.com.tr","yasemin.koc@yapikredi.com.tr","yapikredi.com.tr","yapikredi",to,2,2025-12-22T07:00:14Z,2026-03-20T16:13:02Z,"ayhan.agirgol@finhouse.com.tr",
-"ozgur.batur@yapikredi.com.tr","ozgur.batur@yapikredi.com.tr","yapikredi.com.tr","yapikredi",to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:59Z,"ayhan.agirgol@finhouse.com.tr",
-"ozer.depren@yapikredi.com.tr","ozer.depren@yapikredi.com.tr","yapikredi.com.tr","yapikredi",to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:57Z,"ayhan.agirgol@finhouse.com.tr",
-"nagme.kisikcilar@yapikredi.com.tr","nagme.kisikcilar@yapikredi.com.tr","yapikredi.com.tr","yapikredi",to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:55Z,"ayhan.agirgol@finhouse.com.tr",
-"zeynep.gokakin@yapikredi.com.tr","zeynep.gokakin@yapikredi.com.tr","yapikredi.com.tr","yapikredi",to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:53Z,"ayhan.agirgol@finhouse.com.tr",
-"gokhan.ozdinc@ykteknoloji.com.tr","gokhan.ozdinc@ykteknoloji.com.tr","ykteknoloji.com.tr","ykteknoloji",to,2,2026-01-02T09:03:14Z,2026-03-20T16:12:32Z,"ayhan.agirgol@finhouse.com.tr",
-"g.c@hello.design.com","Guillermo Conde, Design.com","hello.design.com","design",to,2,2026-03-20T15:06:15Z,2026-03-20T15:51:39Z,"ayhan.agirgol@finhouse.com.tr",
-"news@atmmarketplace.com","ATM Marketplace","atmmarketplace.com","atmmarketplace",to,2,2026-03-20T15:06:10Z,2026-03-20T15:51:36Z,"ayhan.agirgol@finhouse.com.tr",
-"ramazankucuk@finwiseconsulting.com","Ramazan  Küçük","finwiseconsulting.com","finwiseconsulting",to,2,2025-12-23T08:16:13Z,2025-12-29T12:29:06Z,"ayhan.agirgol@finhouse.com.tr",
-"ozgur.oktan@formica.ai","Özgür Oktan","formica.ai","formica",to,2,2025-12-25T08:00:27Z,2025-12-29T07:00:17Z,"ayhan.agirgol@finhouse.com.tr",
-"koray.kose@formica.ai","Koray Köse","formica.ai","formica",to,2,2025-12-25T08:00:27Z,2025-12-29T07:00:17Z,"ayhan.agirgol@finhouse.com.tr",
-"murat.mustafaoglu@turkkep.com.tr","Murat Mustafaoglu","turkkep.com.tr","turkkep",to,2,2025-12-25T07:20:45Z,2025-12-25T07:42:01Z,"ayhan.agirgol@finhouse.com.tr",
-"huseyin.karayagiz@turkkep.com.tr","Huseyin Karayagiz","turkkep.com.tr","turkkep",to,2,2025-12-25T07:20:45Z,2025-12-25T07:42:01Z,"ayhan.agirgol@finhouse.com.tr",
-"erdem.yoruk@enlighty.ai","Erdem Yörük","enlighty.ai","enlighty",to,2,2025-12-22T07:00:14Z,2025-12-23T12:14:01Z,"ayhan.agirgol@finhouse.com.tr",
-"team@marketing.worldef.com","WORLDEF","marketing.worldef.com","worldef",from,1,2026-03-20T06:05:33Z,2026-03-20T06:05:33Z,"ayhan.agirgol@finhouse.com.tr",
-"marketing@ncontracts.com","Ncontracts","ncontracts.com","ncontracts",from,1,2026-03-19T07:54:17Z,2026-03-19T07:54:17Z,"ayhan.agirgol@finhouse.com.tr",
-"uyumsoft@erp.uyumsoftmail.com","Uyumsoft Bilgi Sistemleri","erp.uyumsoftmail.com","uyumsoftmail",from,1,2026-03-18T00:56:56Z,2026-03-18T00:56:56Z,"ayhan.agirgol@finhouse.com.tr",
-"azure@infoemails.microsoft.com","Microsoft Azure","infoemails.microsoft.com","microsoft",from,1,2026-03-17T23:27:35Z,2026-03-17T23:27:35Z,"ayhan.agirgol@finhouse.com.tr",
-"drive-shares-dm-noreply@google.com","Dilara Kaplan (via Google Docs)","google.com","google",from,1,2026-03-17T12:36:38Z,2026-03-17T12:36:38Z,"ayhan.agirgol@finhouse.com.tr",
-"bora.gul@assistbox.io","bora.gul@assistbox.io","assistbox.io","assistbox",to,1,2026-03-17T12:23:47Z,2026-03-17T12:23:47Z,"ayhan.agirgol@finhouse.com.tr",
-"dilara.us@assistbox.io","dilara.us@assistbox.io","assistbox.io","assistbox",to,1,2026-03-17T12:23:47Z,2026-03-17T12:23:47Z,"ayhan.agirgol@finhouse.com.tr",
-"cembey@gmail.com","cembey@gmail.com","gmail.com","gmail",to,1,2026-03-17T12:23:47Z,2026-03-17T12:23:47Z,"ayhan.agirgol@finhouse.com.tr",
-"hello@em.ikas.com","ikas","em.ikas.com","ikas",from,1,2026-03-17T07:57:10Z,2026-03-17T07:57:10Z,"ayhan.agirgol@finhouse.com.tr",
-"gizem@skymod.tech","Gizem Argunşah","skymod.tech","tech",to,1,2026-03-16T21:37:43Z,2026-03-16T21:37:43Z,"ayhan.agirgol@finhouse.com.tr",
-"melisakaya@medipol.com.tr","melisakaya@medipol.com.tr","medipol.com.tr","medipol",to,1,2026-03-16T15:07:42Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"tugce.kunc@callie.center","tugce.kunc@callie.center","callie.center","center",to,1,2026-03-16T15:07:42Z,2026-03-16T15:07:42Z,"ayhan.agirgol@finhouse.com.tr",
-"busra@turkiye.ai","Büşra Eşkara","turkiye.ai","turkiye",from,1,2026-03-16T12:58:16Z,2026-03-16T12:58:16Z,"ayhan.agirgol@finhouse.com.tr",
-"alper@turkiye.ai","Alper Akça","turkiye.ai","turkiye",to,1,2026-03-16T12:58:16Z,2026-03-16T12:58:16Z,"ayhan.agirgol@finhouse.com.tr",
-"vijdan.izmirli@dunyavarlik.com","vijdan.izmirli@dunyavarlik.com","dunyavarlik.com","dunyavarlik",to,1,2026-03-10T14:53:32Z,2026-03-10T14:53:32Z,"ayhan.agirgol@finhouse.com.tr",
-"selin.arslan@dunyavarlik.com","selin.arslan@dunyavarlik.com","dunyavarlik.com","dunyavarlik",to,1,2026-03-10T14:53:32Z,2026-03-10T14:53:32Z,"ayhan.agirgol@finhouse.com.tr",
-"security@fireflies.ai","Fireflies Security and Compliance Team","fireflies.ai","fireflies",from,1,2026-03-07T00:21:30Z,2026-03-07T00:21:30Z,"ayhan.agirgol@finhouse.com.tr",
-"zafer.akin@kaspersky.com","Zafer Akin","kaspersky.com","kaspersky",to,1,2026-03-06T14:13:09Z,2026-03-06T14:13:09Z,"ayhan.agirgol@finhouse.com.tr",
-"marketing@campaign.chainup.com","ChainUp","campaign.chainup.com","chainup",from,1,2026-03-06T05:51:29Z,2026-03-06T05:51:29Z,"ayhan.agirgol@finhouse.com.tr",
-"newsletter@craftgate.io","Craftgate Teknoloji","craftgate.io","craftgate",from,1,2026-03-05T05:51:47Z,2026-03-05T05:51:47Z,"ayhan.agirgol@finhouse.com.tr",
-"info@futureprocurementsummit.com","Deniz Şenay","futureprocurementsummit.com","futureprocurementsummit",from,1,2026-03-04T12:01:15Z,2026-03-04T12:01:15Z,"ayhan.agirgol@finhouse.com.tr",
-"ozcan@dativa.ai","ozcan@dativa.ai","dativa.ai","dativa",to,1,2026-03-04T10:51:01Z,2026-03-04T10:51:01Z,"ayhan.agirgol@finhouse.com.tr",
-"hafize.kayabora@bkm.com.tr","Hafize Kaya Bora","bkm.com.tr","bkm",to,1,2026-03-04T10:45:24Z,2026-03-04T10:45:24Z,"ayhan.agirgol@finhouse.com.tr",
-"receipts@spaceship.com","Spaceship","spaceship.com","spaceship",from,1,2026-03-03T19:12:58Z,2026-03-03T19:12:58Z,"ayhan.agirgol@finhouse.com.tr",
-"luis.gutierrez@spl-group.com","Luis Gutierrez","spl-group.com","spl-group",to,1,2026-03-03T16:13:25Z,2026-03-03T16:13:25Z,"ayhan.agirgol@finhouse.com.tr",
-"aycadaglı@bilisimvadisi.com.tr","Ayça Dağlı","bilisimvadisi.com.tr","bilisimvadisi",to,1,2026-03-02T10:21:19Z,2026-03-02T10:21:19Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@mercor.com","Mercor","mercor.com","mercor",from,1,2026-02-25T09:04:31Z,2026-02-25T09:04:31Z,"ayhan.agirgol@finhouse.com.tr",
-"communications@crowdstrike.com","CrowdStrike","crowdstrike.com","crowdstrike",from,1,2026-02-24T10:05:48Z,2026-02-24T10:05:48Z,"ayhan.agirgol@finhouse.com.tr",
-"azure-noreply@microsoft.com","Microsoft Azure","microsoft.com","microsoft",from,1,2026-02-22T13:48:47Z,2026-02-22T13:48:47Z,"ayhan.agirgol@finhouse.com.tr",
-"bilsay.incedalci@adilbilesim.com.tr","bilsay.incedalci@adilbilesim.com.tr","adilbilesim.com.tr","adilbilesim",to,1,2026-02-19T12:50:30Z,2026-02-19T12:50:30Z,"ayhan.agirgol@finhouse.com.tr",
-"hakan.sahin@bulutistan.com","Hakan Şahin","bulutistan.com","bulutistan",to,1,2026-02-19T11:01:56Z,2026-02-19T11:01:56Z,"ayhan.agirgol@finhouse.com.tr",
-"enterprise@tabnine.com","Tabnine Enterprise","tabnine.com","tabnine",from,1,2026-02-18T20:07:17Z,2026-02-18T20:07:17Z,"ayhan.agirgol@finhouse.com.tr",
-"developer@insideapple.apple.com","Apple Developer","insideapple.apple.com","apple",from,1,2026-02-17T18:08:00Z,2026-02-17T18:08:00Z,"ayhan.agirgol@finhouse.com.tr",
-"no-reply@complyadvantage.com","ComplyAdvantage","complyadvantage.com","complyadvantage",from,1,2026-02-17T10:39:21Z,2026-02-17T10:39:21Z,"ayhan.agirgol@finhouse.com.tr",
-"hakanyedek@siberson.com","Hakan Yedek","siberson.com","siberson",to,1,2026-02-16T07:34:29Z,2026-02-16T07:34:29Z,"ayhan.agirgol@finhouse.com.tr",
-"gokhanmanav@siberson.com","Gökhan Manav","siberson.com","siberson",to,1,2026-02-16T07:34:29Z,2026-02-16T07:34:29Z,"ayhan.agirgol@finhouse.com.tr",
-"msertugrul@ziraatteknoloji.com","Mehmet Salih ERTUĞRUL (Yapay Zeka Uygulamaları)","ziraatteknoloji.com","ziraatteknoloji",to,1,2026-02-16T06:55:54Z,2026-02-16T06:55:54Z,"ayhan.agirgol@finhouse.com.tr",
-"okaya@ziraatteknoloji.com","Oğuz KAYA (Analitik Uygulamalar)","ziraatteknoloji.com","ziraatteknoloji",to,1,2026-02-16T06:55:54Z,2026-02-16T06:55:54Z,"ayhan.agirgol@finhouse.com.tr",
-"ahmetakg@amerikanhastanesi.org","ahmetakg@amerikanhastanesi.org","amerikanhastanesi.org","amerikanhastanesi",to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,"ayhan.agirgol@finhouse.com.tr",
-"batuhantul@amerikanhastanesi.org","batuhantul@amerikanhastanesi.org","amerikanhastanesi.org","amerikanhastanesi",to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,"ayhan.agirgol@finhouse.com.tr",
-"fatihyak@amerikanhastanesi.org","fatihyak@amerikanhastanesi.org","amerikanhastanesi.org","amerikanhastanesi",to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,"ayhan.agirgol@finhouse.com.tr",
-"bulentyil@amerikanhastanesi.org","bulentyil@amerikanhastanesi.org","amerikanhastanesi.org","amerikanhastanesi",to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,"ayhan.agirgol@finhouse.com.tr",
-"ozhanc@amerikanhastanesi.org","ozhanc@amerikanhastanesi.org","amerikanhastanesi.org","amerikanhastanesi",to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,"ayhan.agirgol@finhouse.com.tr",
-"noreply@email.apple.com","Apple","email.apple.com","apple",from,1,2026-02-15T20:27:54Z,2026-02-15T20:27:54Z,"ayhan.agirgol@finhouse.com.tr",
-"mehmet.firat@bulutistan.com","Mehmet Fırat","bulutistan.com","bulutistan",to,1,2026-02-15T16:59:14Z,2026-02-15T16:59:14Z,"ayhan.agirgol@finhouse.com.tr",
-"applearcade@insideapple.apple.com","Apple Arcade","insideapple.apple.com","apple",from,1,2026-02-15T14:36:04Z,2026-02-15T14:36:04Z,"ayhan.agirgol@finhouse.com.tr",
-"beril@sunreef.com","beril@sunreef.com","sunreef.com","sunreef",from,1,2026-02-15T05:12:22Z,2026-02-15T05:12:22Z,"ayhan.agirgol@finhouse.com.tr",
-"arzu.sancar@finhause.com.tr","arzu.sancar@finhause.com.tr","finhause.com.tr","finhause",to,1,2026-02-13T08:17:40Z,2026-02-13T08:17:40Z,"ayhan.agirgol@finhouse.com.tr",
-"azru.sancar@finhouse.com.tr","azru.sancar@finhouse.com.tr","finhouse.com.tr","finhouse",to,1,2026-02-12T18:45:50Z,2026-02-12T18:45:50Z,"ayhan.agirgol@finhouse.com.tr",
-"oguz.kaya@sabancidx.com","Oğuz Kaya","sabancidx.com","sabancidx",to,1,2026-02-12T06:20:17Z,2026-02-12T06:20:17Z,"ayhan.agirgol@finhouse.com.tr",
-"hizmet@turkcell.com.tr","hizmet@turkcell.com.tr","turkcell.com.tr","turkcell",to,1,2026-02-11T12:56:35Z,2026-02-11T12:56:35Z,"ayhan.agirgol@finhouse.com.tr",
-"ilayda.kucukafacan@enlighty.ai","ilayda.kucukafacan@enlighty.ai","enlighty.ai","enlighty",to,1,2026-02-11T12:39:54Z,2026-02-11T12:39:54Z,"ayhan.agirgol@finhouse.com.tr",
-"ilaydakucukafacan@gmail.com","İlayda Küçükafacan","gmail.com","gmail",to,1,2026-02-11T12:39:54Z,2026-02-11T12:39:54Z,"ayhan.agirgol@finhouse.com.tr",
-"zeynep.ustugen@asseco-see.com.tr","Zeynep Ustugen","asseco-see.com.tr","asseco-see",to,1,2026-02-11T08:57:10Z,2026-02-11T08:57:10Z,"ayhan.agirgol@finhouse.com.tr",
-"ayhan.agirgol@turkkep.com.tr","Ayhan Agirgol","turkkep.com.tr","turkkep",to,1,2026-02-09T13:27:26Z,2026-02-09T13:27:26Z,"ayhan.agirgol@finhouse.com.tr",
-"ozler.icel@moneymate.com.tr","ozler.icel@moneymate.com.tr","moneymate.com.tr","moneymate",to,1,2026-02-09T08:01:10Z,2026-02-09T08:01:10Z,"ayhan.agirgol@finhouse.com.tr",
-"ozge.kalkavan@hedefbank.com.tr","Özge Kalkavan","hedefbank.com.tr","hedefbank",to,1,2026-02-09T04:27:46Z,2026-02-09T04:27:46Z,"ayhan.agirgol@finhouse.com.tr",
-"info@mail.uipath.com","UiPath","mail.uipath.com","uipath",from,1,2026-02-07T17:38:04Z,2026-02-07T17:38:04Z,"ayhan.agirgol@finhouse.com.tr",
-"aykut.koc@firisbe.com","Aykut Koç | Firisbe","firisbe.com","firisbe",to,1,2026-02-06T10:56:25Z,2026-02-06T10:56:25Z,"ayhan.agirgol@finhouse.com.tr",
-"gorkem.duman@firisbe.com","Görkem Duman | Firisbe","firisbe.com","firisbe",to,1,2026-02-06T10:56:25Z,2026-02-06T10:56:25Z,"ayhan.agirgol@finhouse.com.tr",
-"erden.altun@bulutistan.com","erden.altun","bulutistan.com","bulutistan",to,1,2026-02-06T05:59:41Z,2026-02-06T05:59:41Z,"ayhan.agirgol@finhouse.com.tr",
-"oznur.ozenis@verisoft.com","Öznur Özenis","verisoft.com","verisoft",to,1,2026-02-05T07:54:32Z,2026-02-05T07:54:32Z,"ayhan.agirgol@finhouse.com.tr",
-"e.varol@searchinform.com","Elena Varol","searchinform.com","searchinform",to,1,2026-02-04T10:09:30Z,2026-02-04T10:09:30Z,"ayhan.agirgol@finhouse.com.tr",
-"metin.olge@fibafactoring.com.tr","metin.olge@fibafactoring.com.tr","fibafactoring.com.tr","fibafactoring",to,1,2026-02-03T15:11:43Z,2026-02-03T15:11:43Z,"ayhan.agirgol@finhouse.com.tr",
-"mehmet.susakli@fibafactoring.com.tr","mehmet.susakli@fibafactoring.com.tr","fibafactoring.com.tr","fibafactoring",to,1,2026-02-03T15:11:43Z,2026-02-03T15:11:43Z,"ayhan.agirgol@finhouse.com.tr",
-"baris.tekin@fibafactoring.com.tr","baris.tekin@fibafactoring.com.tr","fibafactoring.com.tr","fibafactoring",to,1,2026-02-03T15:11:43Z,2026-02-03T15:11:43Z,"ayhan.agirgol@finhouse.com.tr",
-"gamze.kaplangokalp@odeabank.com.tr","Gamze.KaplanGokalp@odeabank.com.tr","odeabank.com.tr","odeabank",to,1,2026-02-03T14:30:15Z,2026-02-03T14:30:15Z,"ayhan.agirgol@finhouse.com.tr",
-"erdem.celikel@aktiftech.com","erdem.celikel@aktiftech.com","aktiftech.com","aktiftech",to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,"ayhan.agirgol@finhouse.com.tr",
-"muratcan.polat@aktiftech.com","muratcan.polat@aktiftech.com","aktiftech.com","aktiftech",to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,"ayhan.agirgol@finhouse.com.tr",
-"oguzkaan.eksi@aktiftech.com","OguzKaan.Eksi@aktiftech.com","aktiftech.com","aktiftech",to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,"ayhan.agirgol@finhouse.com.tr",
-"yzinisiyatifi@aktifbank.com.tr","yzinisiyatifi@aktifbank.com.tr","aktifbank.com.tr","aktifbank",to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,"ayhan.agirgol@finhouse.com.tr",
-"sales@craftgate.io","sales@craftgate.io","craftgate.io","craftgate",to,1,2026-01-27T08:35:42Z,2026-01-27T08:35:42Z,"ayhan.agirgol@finhouse.com.tr",
-"havvanur.ozdemir@isbank.com.tr","Havvanur Özdemir","isbank.com.tr","isbank",to,1,2026-01-27T06:26:50Z,2026-01-27T06:26:50Z,"ayhan.agirgol@finhouse.com.tr",
-"tyildirim@marmarateknokent.com.tr","Ömer Tarık YILDIRIM","marmarateknokent.com.tr","marmarateknokent",from,1,2026-01-26T07:46:56Z,2026-01-26T07:46:56Z,"ayhan.agirgol@finhouse.com.tr",
-"kulucka@marmarateknokent.com.tr","kulucka@marmarateknokent.com.tr","marmarateknokent.com.tr","marmarateknokent",to,1,2026-01-26T07:46:56Z,2026-01-26T07:46:56Z,"ayhan.agirgol@finhouse.com.tr",
-"tto@marmarateknokent.com.tr","tto@marmarateknokent.com.tr","marmarateknokent.com.tr","marmarateknokent",to,1,2026-01-26T07:46:56Z,2026-01-26T07:46:56Z,"ayhan.agirgol@finhouse.com.tr",
-"pinar.cetinim@alternatifbank.com.tr","pinar.cetinim@alternatifbank.com.tr","alternatifbank.com.tr","alternatifbank",to,1,2026-01-23T08:49:49Z,2026-01-23T08:49:49Z,"ayhan.agirgol@finhouse.com.tr",
-"korhan.korkmaz@alternatifbank.com.tr","Korhan.Korkmaz@alternatifbank.com.tr","alternatifbank.com.tr","alternatifbank",to,1,2026-01-23T08:49:49Z,2026-01-23T08:49:49Z,"ayhan.agirgol@finhouse.com.tr",
-"serhan.yildiz@bogazici.edu.tr","serhan.yildiz@bogazici.edu.tr","bogazici.edu.tr","bogazici",to,1,2026-01-21T13:42:46Z,2026-01-21T13:42:46Z,"ayhan.agirgol@finhouse.com.tr",
-"info+fintechcircle.com.2370@933354.myactivecampaign.com","FINTECH Circle","933354.myactivecampaign.com","myactivecampaign",from,1,2026-01-20T22:21:55Z,2026-01-20T22:21:55Z,"ayhan.agirgol@finhouse.com.tr",
-"latif@magicpay.ai","latif@magicpay.ai","magicpay.ai","magicpay",to,1,2026-01-20T15:27:50Z,2026-01-20T15:27:50Z,"ayhan.agirgol@finhouse.com.tr",
-"crowdcasts@crowdstrike.com","CrowdStrike","crowdstrike.com","crowdstrike",from,1,2026-01-20T08:45:39Z,2026-01-20T08:45:39Z,"ayhan.agirgol@finhouse.com.tr",
-"yeliz.agca@turktelekom.com.tr","yeliz.agca@turktelekom.com.tr","turktelekom.com.tr","turktelekom",to,1,2026-01-20T05:00:21Z,2026-01-20T05:00:21Z,"ayhan.agirgol@finhouse.com.tr",
-"okan.dede@somposigorta.com.tr","okan.dede@somposigorta.com.tr","somposigorta.com.tr","somposigorta",to,1,2026-01-19T12:22:04Z,2026-01-19T12:22:04Z,"ayhan.agirgol@finhouse.com.tr",
-"efe.yilmaz@cloudandcloud.net","efe.yilmaz@cloudandcloud.net","cloudandcloud.net","cloudandcloud",to,1,2026-01-19T12:22:04Z,2026-01-19T12:22:04Z,"ayhan.agirgol@finhouse.com.tr",
-"mert.zeybek@yonetim.academy","mert.zeybek@yonetim.academy","yonetim.academy","academy",to,1,2026-01-19T12:22:04Z,2026-01-19T12:22:04Z,"ayhan.agirgol@finhouse.com.tr",
-"alec@hello.design.com","Alec Lynch","hello.design.com","design",from,1,2026-01-17T10:31:34Z,2026-01-17T10:31:34Z,"ayhan.agirgol@finhouse.com.tr",
-"support@design.com","Design.com","design.com","design",from,1,2026-01-17T10:30:27Z,2026-01-17T10:30:27Z,"ayhan.agirgol@finhouse.com.tr",
-"marketing@yzf.com.tr","Yapay Zeka Fabrikası","yzf.com.tr","yzf",from,1,2026-01-16T17:41:25Z,2026-01-16T17:41:25Z,"ayhan.agirgol@finhouse.com.tr",
-"mail@bigid.com","BigID Team","bigid.com","bigid",from,1,2026-01-15T21:48:50Z,2026-01-15T21:48:50Z,"ayhan.agirgol@finhouse.com.tr",
-"bilgilendirme@kamusm.gov.tr","bilgilendirme@kamusm.gov.tr","kamusm.gov.tr","kamusm",from,1,2026-01-15T12:17:00Z,2026-01-15T12:17:00Z,"ayhan.agirgol@finhouse.com.tr",
-"ece.ozen@dunyavarlik.com","Ece Özen","dunyavarlik.com","dunyavarlik",to,1,2026-01-15T08:42:47Z,2026-01-15T08:42:47Z,"ayhan.agirgol@finhouse.com.tr",
-"murat@cxltd.com","murat@cxltd.com","cxltd.com","cxltd",to,1,2026-01-14T10:45:18Z,2026-01-14T10:45:18Z,"ayhan.agirgol@finhouse.com.tr",
-"busra@co-one.co","Busra Demir","co-one.co","co-one",to,1,2026-01-14T10:45:18Z,2026-01-14T10:45:18Z,"ayhan.agirgol@finhouse.com.tr",
-"cevdet.yilmaz@hayatfinans.com.tr","Cevdet Yılmaz","hayatfinans.com.tr","hayatfinans",to,1,2026-03-20T16:33:03Z,2026-03-20T16:33:03Z,"ayhan.agirgol@finhouse.com.tr",
-"nadir.sahbaz@albarakatech.com.tr","nadir.sahbaz@albarakatech.com.tr","albarakatech.com.tr","albarakatech",to,1,2026-03-20T16:29:21Z,2026-03-20T16:29:21Z,"ayhan.agirgol@finhouse.com.tr",
-"oarslan@atilimfaktoring.com.tr","'Osman Arslan'","atilimfaktoring.com.tr","atilimfaktoring",to,1,2026-03-20T16:29:13Z,2026-03-20T16:29:13Z,"ayhan.agirgol@finhouse.com.tr",
-"alper.kanat@getmidas.com","'Alper Kanat'","getmidas.com","getmidas",to,1,2026-03-20T16:29:09Z,2026-03-20T16:29:09Z,"ayhan.agirgol@finhouse.com.tr",
-"veysel.kingir@tech4pay.com","'Veysel Kıngır | Tech4Pay'","tech4pay.com","tech4pay",to,1,2026-03-20T16:29:06Z,2026-03-20T16:29:06Z,"ayhan.agirgol@finhouse.com.tr",
-"onur.balcik@wechiptech.com","'Onur Balcik | Wechip'","wechiptech.com","wechiptech",to,1,2026-03-20T16:29:04Z,2026-03-20T16:29:04Z,"ayhan.agirgol@finhouse.com.tr",
-"mithat.goksel@aksis.com.tr","Mithat Göksel","aksis.com.tr","aksis",to,1,2026-03-20T16:29:00Z,2026-03-20T16:29:00Z,"ayhan.agirgol@finhouse.com.tr",
-"fuat.yildirim@fkb.org.tr","fuat.yildirim@fkb.org.tr","fkb.org.tr","fkb",to,1,2026-03-20T16:28:53Z,2026-03-20T16:28:53Z,"ayhan.agirgol@finhouse.com.tr",
-"iskender@getmagnus.com","'İskender Ada'","getmagnus.com","getmagnus",to,1,2026-03-20T16:28:50Z,2026-03-20T16:28:50Z,"ayhan.agirgol@finhouse.com.tr",
-"omer.yazicioglu@hayatfinans.com.tr","omer.yazicioglu@hayatfinans.com.tr","hayatfinans.com.tr","hayatfinans",to,1,2026-03-20T16:28:48Z,2026-03-20T16:28:48Z,"ayhan.agirgol@finhouse.com.tr",
-"taylan.koc@kargoist.com","Taylan Koç","kargoist.com","kargoist",to,1,2026-03-20T16:28:29Z,2026-03-20T16:28:29Z,"ayhan.agirgol@finhouse.com.tr",
-"mustafa@akinfaktoring.com.tr","Mustafa Taşralı","akinfaktoring.com.tr","akinfaktoring",to,1,2026-03-20T16:28:26Z,2026-03-20T16:28:26Z,"ayhan.agirgol@finhouse.com.tr",
-"soner.mescioglu@aktifportfoy.com.tr","soner.mescioglu@aktifportfoy.com.tr","aktifportfoy.com.tr","aktifportfoy",to,1,2026-03-20T16:28:22Z,2026-03-20T16:28:22Z,"ayhan.agirgol@finhouse.com.tr",
-"yusuf.genc@d-teknoloji.com.tr","'Yusuf Genc (Dogus Teknoloji)'","d-teknoloji.com.tr","d-teknoloji",to,1,2026-03-20T16:25:37Z,2026-03-20T16:25:37Z,"ayhan.agirgol@finhouse.com.tr",
-"mr.serdar.balci@gmail.com","mr.serdar.balci@gmail.com","gmail.com","gmail",to,1,2026-03-20T16:25:31Z,2026-03-20T16:25:31Z,"ayhan.agirgol@finhouse.com.tr",
-"akbar@avcitanitim.com","akbar@avcitanitim.com","avcitanitim.com","avcitanitim",to,1,2026-03-20T16:25:29Z,2026-03-20T16:25:29Z,"ayhan.agirgol@finhouse.com.tr",
-"sinem.sener@bilesim.net.tr","'Sinem Şener'","bilesim.net.tr","bilesim",to,1,2026-03-20T16:25:26Z,2026-03-20T16:25:26Z,"ayhan.agirgol@finhouse.com.tr",
-"guray.kuru@bilesim.net.tr","'Güray Kuru'","bilesim.net.tr","bilesim",to,1,2026-03-20T16:25:23Z,2026-03-20T16:25:23Z,"ayhan.agirgol@finhouse.com.tr",
-"recep.yakut@bilesim.net.tr","'Recep Yakut'","bilesim.net.tr","bilesim",to,1,2026-03-20T16:25:19Z,2026-03-20T16:25:19Z,"ayhan.agirgol@finhouse.com.tr",
-"ugur.topcu@bilesim.net.tr","'Uğur Topçu'","bilesim.net.tr","bilesim",to,1,2026-03-20T16:25:16Z,2026-03-20T16:25:16Z,"ayhan.agirgol@finhouse.com.tr",
-"hasan.peksen@bilesim.net.tr","'Hasan Pekşen'","bilesim.net.tr","bilesim",to,1,2026-03-20T16:25:14Z,2026-03-20T16:25:14Z,"ayhan.agirgol@finhouse.com.tr",
-"bertan.demirci@zorlu.com","'Bertan Demirci'","zorlu.com","zorlu",to,1,2026-03-20T16:25:11Z,2026-03-20T16:25:11Z,"ayhan.agirgol@finhouse.com.tr",
-"taner.aslan@misyon.com","'Taner ASLAN'","misyon.com","misyon",to,1,2026-03-20T16:25:08Z,2026-03-20T16:25:08Z,"ayhan.agirgol@finhouse.com.tr",
-"muhammet.cerit@misyon.com","'Muhammet CERİT'","misyon.com","misyon",to,1,2026-03-20T16:25:04Z,2026-03-20T16:25:04Z,"ayhan.agirgol@finhouse.com.tr",
-"buse@kayaport.com","'Buse TURHAN (Kayaport)'","kayaport.com","kayaport",to,1,2026-03-20T16:24:59Z,2026-03-20T16:24:59Z,"ayhan.agirgol@finhouse.com.tr",
-"murat.kokdemir@tomdigital.com.tr","Murat.kokdemir@tomdigital.com.tr","tomdigital.com.tr","tomdigital",to,1,2026-03-20T16:24:56Z,2026-03-20T16:24:56Z,"ayhan.agirgol@finhouse.com.tr",
-"hakan.akova@profen.com","Hakan Akova","profen.com","profen",to,1,2026-03-20T16:24:53Z,2026-03-20T16:24:53Z,"ayhan.agirgol@finhouse.com.tr",
-"tugberk.seckin@payburger.com","tugberk.seckin@payburger.com","payburger.com","payburger",to,1,2026-03-20T16:24:50Z,2026-03-20T16:24:50Z,"ayhan.agirgol@finhouse.com.tr",
-"hilmi@yancep.com","'Hilmi Kaya'","yancep.com","yancep",to,1,2026-03-20T16:24:47Z,2026-03-20T16:24:47Z,"ayhan.agirgol@finhouse.com.tr",
-"abdullah.aslan@birevim.com.tr","abdullah.aslan@birevim.com.tr","birevim.com.tr","birevim",to,1,2026-03-20T16:24:24Z,2026-03-20T16:24:24Z,"ayhan.agirgol@finhouse.com.tr",
-"cengizhan@ode.al","cengizhan@ode.al","ode.al","al",to,1,2026-03-20T16:24:15Z,2026-03-20T16:24:15Z,"ayhan.agirgol@finhouse.com.tr",
-"arife.elmasbayram@ziraatkatilim.com.tr","Arife.ElmasBayram@ziraatkatilim.com.tr","ziraatkatilim.com.tr","ziraatkatilim",to,1,2026-03-20T16:24:12Z,2026-03-20T16:24:12Z,"ayhan.agirgol@finhouse.com.tr",
-"engin.avci@mplusgroup.com.tr","Engin.Avci@mplusgroup.com.tr","mplusgroup.com.tr","mplusgroup",to,1,2026-03-20T16:24:09Z,2026-03-20T16:24:09Z,"ayhan.agirgol@finhouse.com.tr",
-"ozkan.ok@paratika.com.tr","ozkan.ok@paratika.com.tr","paratika.com.tr","paratika",to,1,2026-03-20T16:24:06Z,2026-03-20T16:24:06Z,"ayhan.agirgol@finhouse.com.tr",
-"burak.yaziksiz@paratika.com.tr","burak.yaziksiz@paratika.com.tr","paratika.com.tr","paratika",to,1,2026-03-20T16:24:03Z,2026-03-20T16:24:03Z,"ayhan.agirgol@finhouse.com.tr",
-"anil@finekra.com","anil@finekra.com","finekra.com","finekra",to,1,2026-03-20T16:23:54Z,2026-03-20T16:23:54Z,"ayhan.agirgol@finhouse.com.tr",
-"beril.sarohan@firisbe.com","'Beril Sarohan | Firisbe'","firisbe.com","firisbe",to,1,2026-03-20T16:23:52Z,2026-03-20T16:23:52Z,"ayhan.agirgol@finhouse.com.tr",
-"tayfun.topkoc@akinon.com","'Tayfun Topkoç'","akinon.com","akinon",to,1,2026-03-20T16:23:50Z,2026-03-20T16:23:50Z,"ayhan.agirgol@finhouse.com.tr",
-"mehmet@finlab.com.tr","'Mehmet Kavi'","finlab.com.tr","finlab",to,1,2026-03-20T16:23:46Z,2026-03-20T16:23:46Z,"ayhan.agirgol@finhouse.com.tr",
-"kkalkan@vhvsigorta.com.tr","KKalkan@vhvsigorta.com.tr","vhvsigorta.com.tr","vhvsigorta",to,1,2026-03-20T16:23:37Z,2026-03-20T16:23:37Z,"ayhan.agirgol@finhouse.com.tr",
-"mehmet.sahin@fkb.org.tr","Mehmet.Sahin@fkb.org.tr","fkb.org.tr","fkb",to,1,2026-03-20T16:23:35Z,2026-03-20T16:23:35Z,"ayhan.agirgol@finhouse.com.tr",
-"taylan.ozsoy@vepara.com.tr","Tayian Özsoy","vepara.com.tr","vepara",to,1,2026-03-20T16:23:32Z,2026-03-20T16:23:32Z,"ayhan.agirgol@finhouse.com.tr",
-"muhammet.sahin@vepara.com.tr","muhammet.sahin@vepara.com.tr","vepara.com.tr","vepara",to,1,2026-03-20T16:23:28Z,2026-03-20T16:23:28Z,"ayhan.agirgol@finhouse.com.tr",
-"ayhan.agirgol@evergreen.com.tr","ayhan.agirgol@evergreen.com.tr","evergreen.com.tr","evergreen",to,1,2026-03-20T16:23:10Z,2026-03-20T16:23:10Z,"ayhan.agirgol@finhouse.com.tr",
-"gtercan@gmail.com","gtercan@gmail.com","gmail.com","gmail",to,1,2026-03-20T16:23:06Z,2026-03-20T16:23:06Z,"ayhan.agirgol@finhouse.com.tr",
-"merve.yanik@prianto.com","Merve Yanik","prianto.com","prianto",to,1,2026-03-20T16:23:04Z,2026-03-20T16:23:04Z,"ayhan.agirgol@finhouse.com.tr",
-"elif.mutlu@bilesim.net.tr","Elif Mutlu","bilesim.net.tr","bilesim",to,1,2026-03-20T16:20:19Z,2026-03-20T16:20:19Z,"ayhan.agirgol@finhouse.com.tr",
-"sevcan.cetinkayademir@bilgeadam.com","Sevcan CETINKAYA DEMIR (BilgeAdam)","bilgeadam.com","bilgeadam",to,1,2026-03-20T16:20:16Z,2026-03-20T16:20:16Z,"ayhan.agirgol@finhouse.com.tr",
-"behic.tanagardi@bilgeadam.com","behic.tanagardi@bilgeadam.com","bilgeadam.com","bilgeadam",to,1,2026-03-20T16:20:12Z,2026-03-20T16:20:12Z,"ayhan.agirgol@finhouse.com.tr",
-"ebru.ozgen@basistek.com.tr","Ebru Özgen","basistek.com.tr","basistek",to,1,2026-03-20T16:20:09Z,2026-03-20T16:20:09Z,"ayhan.agirgol@finhouse.com.tr",
-"hatice.ayas@asseco-see.com.tr","Hatice Ayas","asseco-see.com.tr","asseco-see",to,1,2026-03-20T16:20:05Z,2026-03-20T16:20:05Z,"ayhan.agirgol@finhouse.com.tr",
-"resatgokayy@gmail.com","resatgokayy@gmail.com","gmail.com","gmail",to,1,2026-03-20T16:20:01Z,2026-03-20T16:20:01Z,"ayhan.agirgol@finhouse.com.tr",
-"alpercakir1@hotmail.com","ALPER ÇAKIR","hotmail.com","hotmail",to,1,2026-03-20T16:19:58Z,2026-03-20T16:19:58Z,"ayhan.agirgol@finhouse.com.tr",
-"cembinerer@protem.com.tr","Cem Binerer","protem.com.tr","protem",to,1,2026-03-20T16:19:51Z,2026-03-20T16:19:51Z,"ayhan.agirgol@finhouse.com.tr",
-"gulsah.erayata@tomdigital.com.tr","Gülşah Erayata","tomdigital.com.tr","tomdigital",to,1,2026-03-20T16:19:46Z,2026-03-20T16:19:46Z,"ayhan.agirgol@finhouse.com.tr",
-"cagri@electroop.io","cagri@electroop.io","electroop.io","electroop",to,1,2026-03-20T16:19:41Z,2026-03-20T16:19:41Z,"ayhan.agirgol@finhouse.com.tr",
-"derya@nefsolution.com","derya@nefsolution.com","nefsolution.com","nefsolution",to,1,2026-03-20T16:19:35Z,2026-03-20T16:19:35Z,"ayhan.agirgol@finhouse.com.tr",
-"erdem@letta.com","erdem@letta.com","letta.com","letta",to,1,2026-03-20T16:19:33Z,2026-03-20T16:19:33Z,"ayhan.agirgol@finhouse.com.tr",
-"yavuzgurlek@protem.com.tr","'Yavuz Gürlek'","protem.com.tr","protem",to,1,2026-03-20T16:19:31Z,2026-03-20T16:19:31Z,"ayhan.agirgol@finhouse.com.tr",
-"berkay.eroglu@firisbe.com","Berkay Eroğlu | Firisbe","firisbe.com","firisbe",to,1,2026-03-20T16:19:28Z,2026-03-20T16:19:28Z,"ayhan.agirgol@finhouse.com.tr",
-"eyup.kilincdemir@payten.com","Eyup Kilincdemir","payten.com","payten",to,1,2026-03-20T16:19:06Z,2026-03-20T16:19:06Z,"ayhan.agirgol@finhouse.com.tr",
-"ismail.orhan@payten.com","Ismail Orhan","payten.com","payten",to,1,2026-03-20T16:19:02Z,2026-03-20T16:19:02Z,"ayhan.agirgol@finhouse.com.tr",
-"ramazan.kucuk@finwiseconsulting.com.tr","ramazan.kucuk@finwiseconsulting.com.tr","finwiseconsulting.com.tr","finwiseconsulting",to,1,2026-03-20T16:18:57Z,2026-03-20T16:18:57Z,"ayhan.agirgol@finhouse.com.tr",
-"erdem.girgic@posiflex-ist.com","Erdem Girgic","posiflex-ist.com","posiflex-ist",to,1,2026-03-20T16:18:55Z,2026-03-20T16:18:55Z,"ayhan.agirgol@finhouse.com.tr",
-"meryem.erkilic@insha.ventures","meryem.erkilic@insha.ventures","insha.ventures","ventures",to,1,2026-03-20T16:18:52Z,2026-03-20T16:18:52Z,"ayhan.agirgol@finhouse.com.tr",
-"burak.hira@asirbank.com.tr","burak.hira@asirbank.com.tr","asirbank.com.tr","asirbank",to,1,2026-03-20T16:18:48Z,2026-03-20T16:18:48Z,"ayhan.agirgol@finhouse.com.tr",
-"ali.ayad@alsaqi.iq","ali.ayad@alsaqi.iq","alsaqi.iq","iq",to,1,2026-03-20T16:18:39Z,2026-03-20T16:18:39Z,"ayhan.agirgol@finhouse.com.tr",
-"tamer.guven@asirbank.com.tr","tamer.guven@asirbank.com.tr","asirbank.com.tr","asirbank",to,1,2026-03-20T16:18:38Z,2026-03-20T16:18:38Z,"ayhan.agirgol@finhouse.com.tr",
-"info@lazzonihotel.com","info@lazzonihotel.com","lazzonihotel.com","lazzonihotel",to,1,2026-03-20T16:18:38Z,2026-03-20T16:18:38Z,"ayhan.agirgol@finhouse.com.tr",
-"oguzunal@live.com","Oğuz Ünal","live.com","live",to,1,2026-03-20T16:18:35Z,2026-03-20T16:18:35Z,"ayhan.agirgol@finhouse.com.tr",
-"erhan.gedik@platinbilisim.com.tr","Erhan.Gedik@platinbilisim.com.tr","platinbilisim.com.tr","platinbilisim",to,1,2026-03-20T16:18:24Z,2026-03-20T16:18:24Z,"ayhan.agirgol@finhouse.com.tr",
-"ismail.gokcen@yaz.com.tr","ismail.gokcen@yaz.com.tr","yaz.com.tr","yaz",to,1,2026-03-20T16:18:20Z,2026-03-20T16:18:20Z,"ayhan.agirgol@finhouse.com.tr",
-"kahraman@epin.com.tr","kahraman@epin.com.tr","epin.com.tr","epin",to,1,2026-03-20T16:18:17Z,2026-03-20T16:18:17Z,"ayhan.agirgol@finhouse.com.tr",
-"hakan.gumus@yahoo.com.tr","hakan.gumus@yahoo.com.tr","yahoo.com.tr","yahoo",to,1,2026-03-20T16:17:55Z,2026-03-20T16:17:55Z,"ayhan.agirgol@finhouse.com.tr",
-"ali@alsaqi.iq","Ali S. Noor","alsaqi.iq","iq",to,1,2026-03-20T16:17:53Z,2026-03-20T16:17:53Z,"ayhan.agirgol@finhouse.com.tr",
-"harika.yalaza@confisio.tech","Harika Yalaza","confisio.tech","tech",to,1,2026-03-20T16:17:48Z,2026-03-20T16:17:48Z,"ayhan.agirgol@finhouse.com.tr",
-"ozkan.koculu@misyon.com","ozkan.koculu@misyon.com","misyon.com","misyon",to,1,2026-03-20T16:15:02Z,2026-03-20T16:15:02Z,"ayhan.agirgol@finhouse.com.tr",
-"hakan.erarslan@gmail.com","hakan.erarslan@gmail.com","gmail.com","gmail",to,1,2026-03-20T16:14:58Z,2026-03-20T16:14:58Z,"ayhan.agirgol@finhouse.com.tr",
-"faki.ozgur@codit.com.tr","faki.ozgur@codit.com.tr","codit.com.tr","codit",to,1,2026-03-20T16:14:55Z,2026-03-20T16:14:55Z,"ayhan.agirgol@finhouse.com.tr",
-"cantunali@gmail.com","Can TUNALI","gmail.com","gmail",to,1,2026-03-20T16:14:52Z,2026-03-20T16:14:52Z,"ayhan.agirgol@finhouse.com.tr",
-"banu.hizli@mplusgroup.com.tr","banu.hizli@mplusgroup.com.tr","mplusgroup.com.tr","mplusgroup",to,1,2026-03-20T16:14:48Z,2026-03-20T16:14:48Z,"ayhan.agirgol@finhouse.com.tr",
-"eozturk@turkonay.com.tr","eozturk@turkonay.com.tr","turkonay.com.tr","turkonay",to,1,2026-03-20T16:14:46Z,2026-03-20T16:14:46Z,"ayhan.agirgol@finhouse.com.tr",
-"cenkeripin@gmail.com","Cenker Ipin","gmail.com","gmail",to,1,2026-03-20T16:14:43Z,2026-03-20T16:14:43Z,"ayhan.agirgol@finhouse.com.tr",
-"huyanik@ulusalfaktoring.com","Hakan UYANIK","ulusalfaktoring.com","ulusalfaktoring",to,1,2026-03-20T16:14:39Z,2026-03-20T16:14:39Z,"ayhan.agirgol@finhouse.com.tr",
-"olcay.atlioglu@halkbank.com.tr","Olcay ATLIOGLU","halkbank.com.tr","halkbank",to,1,2026-03-20T16:14:36Z,2026-03-20T16:14:36Z,"ayhan.agirgol@finhouse.com.tr",
-"ismail.bayraktar@figensoft.com","Ismail Bayraktar","figensoft.com","figensoft",to,1,2026-03-20T16:14:34Z,2026-03-20T16:14:34Z,"ayhan.agirgol@finhouse.com.tr",
-"binnaz@figensoft.com","Binnaz Bayraktar","figensoft.com","figensoft",to,1,2026-03-20T16:14:28Z,2026-03-20T16:14:28Z,"ayhan.agirgol@finhouse.com.tr",
-"omerfetvaci@gmail.com","omerfetvaci@gmail.com","gmail.com","gmail",to,1,2026-03-20T16:14:24Z,2026-03-20T16:14:24Z,"ayhan.agirgol@finhouse.com.tr",
-"bahadir.isguzerer@sompoteknoloji.com.tr","BAHADIR ISGUZERER","sompoteknoloji.com.tr","sompoteknoloji",to,1,2026-03-20T16:14:17Z,2026-03-20T16:14:17Z,"ayhan.agirgol@finhouse.com.tr",
-"elvan.boyaci@somposigorta.com.tr","ELVAN BOYACI","somposigorta.com.tr","somposigorta",to,1,2026-03-20T16:14:10Z,2026-03-20T16:14:10Z,"ayhan.agirgol@finhouse.com.tr",
-"zumra.yucesoy@sompoteknoloji.com.tr","ZUMRA YUCESOY","sompoteknoloji.com.tr","sompoteknoloji",to,1,2026-03-20T16:14:08Z,2026-03-20T16:14:08Z,"ayhan.agirgol@finhouse.com.tr",
-"dakkaranfil@burgan.com.tr","Darço Akkaranfil","burgan.com.tr","burgan",to,1,2026-03-20T16:13:47Z,2026-03-20T16:13:47Z,"ayhan.agirgol@finhouse.com.tr",
-"erdemyoruk@enlighty.ai","Erdem Yörük | Enlighty AI","enlighty.ai","enlighty",to,1,2026-03-20T16:13:44Z,2026-03-20T16:13:44Z,"ayhan.agirgol@finhouse.com.tr",
-"iggus@burgan.com.tr","iggus@burgan.com.tr","burgan.com.tr","burgan",to,1,2026-03-20T16:13:41Z,2026-03-20T16:13:41Z,"ayhan.agirgol@finhouse.com.tr",
-"emre.soylemez@ykteknoloji.com.tr","Emre Söylemez","ykteknoloji.com.tr","ykteknoloji",to,1,2026-03-20T16:13:38Z,2026-03-20T16:13:38Z,"ayhan.agirgol@finhouse.com.tr",
-"celal.ozel@beytturk.com","Celal Bey Beyttürk CEO","beytturk.com","beytturk",to,1,2026-03-20T16:13:34Z,2026-03-20T16:13:34Z,"ayhan.agirgol@finhouse.com.tr",
-"mbarman@beytturkholding.com","Muhammet Uğurcan Barman","beytturkholding.com","beytturkholding",to,1,2026-03-20T16:13:29Z,2026-03-20T16:13:29Z,"ayhan.agirgol@finhouse.com.tr",
-"gulistankarakurt@aydin.edu.tr","Gülistan KARAKURT","aydin.edu.tr","aydin",to,1,2026-03-20T16:09:46Z,2026-03-20T16:09:46Z,"ayhan.agirgol@finhouse.com.tr",
-"email@payrix.com","Payrix","payrix.com","payrix",to,1,2026-03-20T16:09:44Z,2026-03-20T16:09:44Z,"ayhan.agirgol@finhouse.com.tr",
-"dogan.pirnal@payten.com","Dogan Pirnal","payten.com","payten",to,1,2026-03-20T16:09:40Z,2026-03-20T16:09:40Z,"ayhan.agirgol@finhouse.com.tr",
-"mkahyaoglu@opentext.com","Mustafa Kahyaoglu","opentext.com","opentext",to,1,2026-03-20T16:09:36Z,2026-03-20T16:09:36Z,"ayhan.agirgol@finhouse.com.tr",
-"emre.koprulu@ducere.com.tr","Emre Köprülü","ducere.com.tr","ducere",to,1,2026-03-20T16:09:34Z,2026-03-20T16:09:34Z,"ayhan.agirgol@finhouse.com.tr",
-"oya.ertugrul@neogenerationmanagement.com","oya.ertugrul@neogenerationmanagement.com","neogenerationmanagement.com","neogenerationmanagement",to,1,2026-03-20T16:09:29Z,2026-03-20T16:09:29Z,"ayhan.agirgol@finhouse.com.tr",
-"pay2@pavo.com.tr","Pay2@pavo.com.tr","pavo.com.tr","pavo",to,1,2026-03-20T16:09:24Z,2026-03-20T16:09:24Z,"ayhan.agirgol@finhouse.com.tr",
-"audience@industrydive.com","Payments Dive","industrydive.com","industrydive",to,1,2026-03-20T16:09:21Z,2026-03-20T16:09:21Z,"ayhan.agirgol@finhouse.com.tr",
-"support@outlier.ai","Outlier Team","outlier.ai","outlier",to,1,2026-03-20T16:09:13Z,2026-03-20T16:09:13Z,"ayhan.agirgol@finhouse.com.tr",
-"fsoc_notify@platinbilisim.com.tr","Platin Bilisim Fusion Security Operations Center","platinbilisim.com.tr","platinbilisim",to,1,2026-03-20T16:09:10Z,2026-03-20T16:09:10Z,"ayhan.agirgol@finhouse.com.tr",
-"metin.caliskan@netloresecurity.com","Metin Çalışkan","netloresecurity.com","netloresecurity",to,1,2026-03-20T16:09:05Z,2026-03-20T16:09:05Z,"ayhan.agirgol@finhouse.com.tr",
-"zaid@alsaqi.iq","zaid@alsaqi.iq","alsaqi.iq","iq",to,1,2026-03-20T16:09:02Z,2026-03-20T16:09:02Z,"ayhan.agirgol@finhouse.com.tr",
-"nazan.arica@softglobal.com","Nazan Arica","softglobal.com","softglobal",to,1,2026-03-20T16:08:57Z,2026-03-20T16:08:57Z,"ayhan.agirgol@finhouse.com.tr",
-"alexa.kar@sourcedefense.com","Alexa Karacostas","sourcedefense.com","sourcedefense",to,1,2026-03-20T16:08:55Z,2026-03-20T16:08:55Z,"ayhan.agirgol@finhouse.com.tr",
-"beril.dikmen@firisbe.com","Beril Dikmen | Firisbe","firisbe.com","firisbe",to,1,2026-03-20T16:08:52Z,2026-03-20T16:08:52Z,"ayhan.agirgol@finhouse.com.tr",
-"halis.guven@tenity.com","Halis Güven | Tenity","tenity.com","tenity",to,1,2026-03-20T16:08:47Z,2026-03-20T16:08:47Z,"ayhan.agirgol@finhouse.com.tr",
-"dimitri.dadiomov@moderntreasury.com","Dimitri at Modern Treasury","moderntreasury.com","moderntreasury",to,1,2026-03-20T16:08:35Z,2026-03-20T16:08:35Z,"ayhan.agirgol@finhouse.com.tr",
-"alper.aydin@fups.com","Alper Aydin","fups.com","fups",to,1,2026-03-20T16:08:30Z,2026-03-20T16:08:30Z,"ayhan.agirgol@finhouse.com.tr",
-"customercare@kiwico.com","KiwiCo Customer Care","kiwico.com","kiwico",to,1,2026-03-20T16:08:25Z,2026-03-20T16:08:25Z,"ayhan.agirgol@finhouse.com.tr",
-"community@mail.miro.com","Mary from Miro","mail.miro.com","miro",to,1,2026-03-20T16:08:17Z,2026-03-20T16:08:17Z,"ayhan.agirgol@finhouse.com.tr",
-"funda.siller@aktif.com","Funda Siller","aktif.com","aktif",to,1,2026-03-20T16:08:14Z,2026-03-20T16:08:14Z,"ayhan.agirgol@finhouse.com.tr",
-"gokhan.hacioglu@transferchain.io","Gokhan Hacioglu","transferchain.io","transferchain",to,1,2026-03-20T16:08:09Z,2026-03-20T16:08:09Z,"ayhan.agirgol@finhouse.com.tr",
-"pay3@pavo.com.tr","Pay3@pavo.com.tr","pavo.com.tr","pavo",to,1,2026-03-20T16:08:06Z,2026-03-20T16:08:06Z,"ayhan.agirgol@finhouse.com.tr",
-"ayhan.bamyaci@platinbilisim.com.tr","Ayhan Bamyaci","platinbilisim.com.tr","platinbilisim",to,1,2026-03-20T16:07:57Z,2026-03-20T16:07:57Z,"ayhan.agirgol@finhouse.com.tr",
-"mercedes-benz@tr.mercedes-benz.eu","Mercedes-Benz","tr.mercedes-benz.eu","eu",to,1,2026-03-20T16:07:53Z,2026-03-20T16:07:53Z,"ayhan.agirgol@finhouse.com.tr",
-"pay4@pavo.com.tr","Pay4@pavo.com.tr","pavo.com.tr","pavo",to,1,2026-03-20T16:07:50Z,2026-03-20T16:07:50Z,"ayhan.agirgol@finhouse.com.tr",
-"reyhan@fintechistanbul.org","Reyhan Yılmaz","fintechistanbul.org","fintechistanbul",to,1,2026-03-20T16:07:46Z,2026-03-20T16:07:46Z,"ayhan.agirgol@finhouse.com.tr",
-"serap.tatli@icore.com.tr","Serap TATLI","icore.com.tr","icore",to,1,2026-03-20T16:07:44Z,2026-03-20T16:07:44Z,"ayhan.agirgol@finhouse.com.tr",
-"uluslararasi@ito.org.tr","uluslararasi@ito.org.tr","ito.org.tr","ito",to,1,2026-03-20T16:07:39Z,2026-03-20T16:07:39Z,"ayhan.agirgol@finhouse.com.tr",
-"falpyilmaz@opentext.com","Fatih Tuna Alpyilmaz","opentext.com","opentext",to,1,2026-03-20T16:07:36Z,2026-03-20T16:07:36Z,"ayhan.agirgol@finhouse.com.tr",
-"hazal.kani@softglobal.com","Hazal Kani","softglobal.com","softglobal",to,1,2026-03-20T16:07:21Z,2026-03-20T16:07:21Z,"ayhan.agirgol@finhouse.com.tr",
-"store11@matriksdata.com","Matriks Store","matriksdata.com","matriksdata",to,1,2026-03-20T16:07:18Z,2026-03-20T16:07:18Z,"ayhan.agirgol@finhouse.com.tr",
-"store3@matriksdata.com","Matriks Store","matriksdata.com","matriksdata",to,1,2026-03-20T16:07:16Z,2026-03-20T16:07:16Z,"ayhan.agirgol@finhouse.com.tr",
-"ayhan.agirgol@orbina.ai","Ayhan Ağırgöl","orbina.ai","orbina",to,1,2026-03-20T16:04:24Z,2026-03-20T16:04:24Z,"ayhan.agirgol@finhouse.com.tr",
-"arinela.coskun@tebarf.com.tr","arinela.coskun@tebarf.com.tr","tebarf.com.tr","tebarf",to,1,2026-03-20T16:04:22Z,2026-03-20T16:04:22Z,"ayhan.agirgol@finhouse.com.tr",
-"mehmet.bostancioglu@sompoteknoloji.com.tr","MEHMET BOSTANCIOGLU","sompoteknoloji.com.tr","sompoteknoloji",to,1,2026-03-20T16:04:20Z,2026-03-20T16:04:20Z,"ayhan.agirgol@finhouse.com.tr",
-"celal.cundoglu@sipay.com.tr","Celal Cundoğlu","sipay.com.tr","sipay",to,1,2026-03-20T16:04:17Z,2026-03-20T16:04:17Z,"ayhan.agirgol@finhouse.com.tr",
-"email@e.lucid.co","Lucid","e.lucid.co","lucid",to,1,2026-03-20T16:04:12Z,2026-03-20T16:04:12Z,"ayhan.agirgol@finhouse.com.tr",
-"ezgi.sahan@payten.com","Ezgi Sahan","payten.com","payten",to,1,2026-03-20T16:04:07Z,2026-03-20T16:04:07Z,"ayhan.agirgol@finhouse.com.tr",
-"kursad.lacin@orbina.ai","Kürşad Laçin","orbina.ai","orbina",to,1,2026-03-20T16:04:05Z,2026-03-20T16:04:05Z,"ayhan.agirgol@finhouse.com.tr",
-"sedef@webrazzi.com","İş CX Türkiye Ekibi","webrazzi.com","webrazzi",to,1,2026-03-20T16:04:02Z,2026-03-20T16:04:02Z,"ayhan.agirgol@finhouse.com.tr",
-"erman.taskin@servicecore.app","Erman Taskin","servicecore.app","app",to,1,2026-03-20T16:03:54Z,2026-03-20T16:03:54Z,"ayhan.agirgol@finhouse.com.tr",
-"marie.wilcox@binalyze.com","Marie Wilcox","binalyze.com","binalyze",to,1,2026-03-20T16:03:47Z,2026-03-20T16:03:47Z,"ayhan.agirgol@finhouse.com.tr",
-"fal.coneurope@crowdstrike.com","CrowdStrike | Fal.Con Europe 2025","crowdstrike.com","crowdstrike",to,1,2026-03-20T16:03:45Z,2026-03-20T16:03:45Z,"ayhan.agirgol@finhouse.com.tr",
-"iletisim@arksigner.com","İletişim ArkSigner","arksigner.com","arksigner",to,1,2026-03-20T16:03:37Z,2026-03-20T16:03:37Z,"ayhan.agirgol@finhouse.com.tr",
-"tayildirim@ziraatteknoloji.com","Tamay YILDIRIM (BT Yatırım)","ziraatteknoloji.com","ziraatteknoloji",to,1,2026-03-20T16:03:32Z,2026-03-20T16:03:32Z,"ayhan.agirgol@finhouse.com.tr",
-"umit.arikboga@insha.ventures","ÜMİT ARIKBOĞA","insha.ventures","ventures",to,1,2026-03-20T16:03:29Z,2026-03-20T16:03:29Z,"ayhan.agirgol@finhouse.com.tr",
-"etkinlik@iscxturkiye.com","İş CX Türkiye","iscxturkiye.com","iscxturkiye",to,1,2026-03-20T16:03:26Z,2026-03-20T16:03:26Z,"ayhan.agirgol@finhouse.com.tr",
-"can.oksuzoglu@thalesgroup.com","OKSUZOGLU Can","thalesgroup.com","thalesgroup",to,1,2026-03-20T16:03:12Z,2026-03-20T16:03:12Z,"ayhan.agirgol@finhouse.com.tr",
-"ilayda.akin@tenity.com","İlayda Akın | Tenity","tenity.com","tenity",to,1,2026-03-20T16:02:58Z,2026-03-20T16:02:58Z,"ayhan.agirgol@finhouse.com.tr",
-"ali.sevinc@zanhagrup.com","ali.sevinc@zanhagrup.com","zanhagrup.com","zanhagrup",to,1,2026-03-20T16:02:55Z,2026-03-20T16:02:55Z,"ayhan.agirgol@finhouse.com.tr",
-"eylem.hanbay@komtera.com","Eylem Hanbay","komtera.com","komtera",to,1,2026-03-20T16:02:53Z,2026-03-20T16:02:53Z,"ayhan.agirgol@finhouse.com.tr",
-"nilko@garantibbva.com.tr","NilKo@garantibbva.com.tr","garantibbva.com.tr","garantibbva",to,1,2026-03-20T16:02:49Z,2026-03-20T16:02:49Z,"ayhan.agirgol@finhouse.com.tr",
-"connect@kioskmarketplace.com","Kiosk Marketplace","kioskmarketplace.com","kioskmarketplace",to,1,2026-03-20T16:02:35Z,2026-03-20T16:02:35Z,"ayhan.agirgol@finhouse.com.tr",
-"orkan.aytulun@dt.net.tr","Orkan Aytulun","dt.net.tr","dt",to,1,2026-03-20T16:02:33Z,2026-03-20T16:02:33Z,"ayhan.agirgol@finhouse.com.tr",
-"ecem.oksuz@enlighty.ai","ecem.oksuz@enlighty.ai","enlighty.ai","enlighty",to,1,2026-03-20T16:02:30Z,2026-03-20T16:02:30Z,"ayhan.agirgol@finhouse.com.tr",
-"hasan@kadrajyapim.com","Hasan Köroğlu","kadrajyapim.com","kadrajyapim",to,1,2026-03-20T16:02:27Z,2026-03-20T16:02:27Z,"ayhan.agirgol@finhouse.com.tr",
-"remzi.soral@teb.com.tr","remzi.soral@teb.com.tr","teb.com.tr","teb",to,1,2026-03-20T16:02:22Z,2026-03-20T16:02:22Z,"ayhan.agirgol@finhouse.com.tr",
-"nilgunyenice@gmail.com","Nilgun Yenice","gmail.com","gmail",to,1,2026-03-20T16:02:20Z,2026-03-20T16:02:20Z,"ayhan.agirgol@finhouse.com.tr",
-"info@doldurapp.com","info@doldurapp.com","doldurapp.com","doldurapp",to,1,2026-03-20T16:02:15Z,2026-03-20T16:02:15Z,"ayhan.agirgol@finhouse.com.tr",
-"fatih.kiyikci@orbina.ai","Fatih Kıyıkçı","orbina.ai","orbina",to,1,2026-03-20T16:02:05Z,2026-03-20T16:02:05Z,"ayhan.agirgol@finhouse.com.tr",
-"eylem.birer@nscsoft.com","eylem.birer@nscsoft.com","nscsoft.com","nscsoft",to,1,2026-03-20T16:02:01Z,2026-03-20T16:02:01Z,"ayhan.agirgol@finhouse.com.tr",
-"neslihan.cift@robusta.com.tr","Neslihan ÇİFT","robusta.com.tr","robusta",to,1,2026-03-20T16:01:58Z,2026-03-20T16:01:58Z,"ayhan.agirgol@finhouse.com.tr",
-"mesahin@zebraelectronics.com","Mehmet Emin Şahin","zebraelectronics.com","zebraelectronics",to,1,2026-03-20T15:59:11Z,2026-03-20T15:59:11Z,"ayhan.agirgol@finhouse.com.tr",
-"selim@fintechistanbul.org","Selim YAZICI","fintechistanbul.org","fintechistanbul",to,1,2026-03-20T15:59:04Z,2026-03-20T15:59:04Z,"ayhan.agirgol@finhouse.com.tr",
-"allianz@bilgi.allianz.com.tr","Allianz Türkiye","bilgi.allianz.com.tr","allianz",to,1,2026-03-20T15:57:56Z,2026-03-20T15:57:56Z,"ayhan.agirgol@finhouse.com.tr",
-"steipete@buttondown.email","Peter Steinberger","buttondown.email","email",to,1,2026-03-20T15:57:53Z,2026-03-20T15:57:53Z,"ayhan.agirgol@finhouse.com.tr",
-"outebubekir.sezer@eximbank.gov.tr","Ebubekir Sezer [KM]","eximbank.gov.tr","eximbank",to,1,2026-03-20T15:57:33Z,2026-03-20T15:57:33Z,"ayhan.agirgol@finhouse.com.tr",
-"connect@networldmediagroup.com","Automated Retail & Kiosk Innovation Show","networldmediagroup.com","networldmediagroup",to,1,2026-03-20T15:56:51Z,2026-03-20T15:56:51Z,"ayhan.agirgol@finhouse.com.tr",
-"paolo.ottaviani@tenity.com","Paolo Ottaviani | Tenity","tenity.com","tenity",to,1,2026-03-20T15:56:43Z,2026-03-20T15:56:43Z,"ayhan.agirgol@finhouse.com.tr",
-"team@craft.do","Craft Docs","craft.do","do",to,1,2026-03-20T15:53:42Z,2026-03-20T15:53:42Z,"ayhan.agirgol@finhouse.com.tr",
-"sales@idtechproducts.com","ID TECH","idtechproducts.com","idtechproducts",to,1,2026-03-20T15:53:09Z,2026-03-20T15:53:09Z,"ayhan.agirgol@finhouse.com.tr",
-"vodafonekurumsal@bildirim.vodafone.com.tr","Vodafone Kurumsal","bildirim.vodafone.com.tr","vodafone",to,1,2026-03-20T15:52:52Z,2026-03-20T15:52:52Z,"ayhan.agirgol@finhouse.com.tr",
-"complyteam@complyadvantage.com","Andrew Davies","complyadvantage.com","complyadvantage",to,1,2026-03-20T15:52:07Z,2026-03-20T15:52:07Z,"ayhan.agirgol@finhouse.com.tr",
-"hello@swissfintechweek.com","Swiss Fintech Week","swissfintechweek.com","swissfintechweek",to,1,2026-03-20T15:52:04Z,2026-03-20T15:52:04Z,"ayhan.agirgol@finhouse.com.tr",
-"maker@hello.design.com","Design.com","hello.design.com","design",to,1,2026-03-20T15:51:58Z,2026-03-20T15:51:58Z,"ayhan.agirgol@finhouse.com.tr",
-"hello@fathom.video","Fathom","fathom.video","video",to,1,2026-03-20T15:51:44Z,2026-03-20T15:51:44Z,"ayhan.agirgol@finhouse.com.tr",
-"cemal.dogan@turkkep.com.tr","Cemal Dogan","turkkep.com.tr","turkkep",to,1,2026-03-09T09:58:16Z,2026-03-09T09:58:16Z,"ayhan.agirgol@finhouse.com.tr",
-"kemal.beceren@somposigorta.com.tr","KEMAL BECEREN","somposigorta.com.tr","somposigorta",to,1,2026-03-03T13:26:37Z,2026-03-03T13:26:37Z,"ayhan.agirgol@finhouse.com.tr",
-"ozge.miroglu0101@gmail.com","ozge.miroglu0101@gmail.com","gmail.com","gmail",to,1,2026-02-27T12:18:06Z,2026-02-27T12:18:06Z,"ayhan.agirgol@finhouse.com.tr",
-"tubisad@tubisad.org.tr","TÜBİSAD","tubisad.org.tr","tubisad",to,1,2026-02-27T06:54:45Z,2026-02-27T06:54:45Z,"ayhan.agirgol@finhouse.com.tr",
-"ebru.zeybek@aideapro.ai","Ebru ZEYBEK","aideapro.ai","aideapro",to,1,2026-02-25T08:09:57Z,2026-02-25T08:09:57Z,"ayhan.agirgol@finhouse.com.tr",
-"dilek.akyurek@turkkep.com.tr","dilek.akyurek@turkkep.com.tr","turkkep.com.tr","turkkep",to,1,2026-02-16T08:31:02Z,2026-02-16T08:31:02Z,"ayhan.agirgol@finhouse.com.tr",
-"mustafa.ayar@zanhagrup.com","Mustafa AYAR","zanhagrup.com","zanhagrup",to,1,2026-02-08T08:38:42Z,2026-02-08T08:38:42Z,"ayhan.agirgol@finhouse.com.tr",
-"berk.apak@insha.ventures","BERK APAK","insha.ventures","ventures",to,1,2026-02-02T08:11:08Z,2026-02-02T08:11:08Z,"ayhan.agirgol@finhouse.com.tr",
-"feray.korates@fibabanka.com.tr","Feray.Korates@fibabanka.com.tr","fibabanka.com.tr","fibabanka",to,1,2026-01-27T08:41:24Z,2026-01-27T08:41:24Z,"ayhan.agirgol@finhouse.com.tr",
-"hasano@tubisad.org.tr","Hasan OZKAPU /TUBISAD","tubisad.org.tr","tubisad",to,1,2026-01-21T14:28:00Z,2026-01-21T14:28:00Z,"ayhan.agirgol@finhouse.com.tr",
-"ercanelmaci219@gmail.com","Ercan Elmaci","gmail.com","gmail",to,1,2026-01-21T09:19:15Z,2026-01-21T09:19:15Z,"ayhan.agirgol@finhouse.com.tr",
-"irmak@koruimpact.org","Sener Cem Irmak","koruimpact.org","koruimpact",to,1,2026-01-09T13:09:15Z,2026-01-09T13:09:15Z,"ayhan.agirgol@finhouse.com.tr",
-"yasemin.budak@penta.com.tr","Yasemin Budak","penta.com.tr","penta",to,1,2026-01-07T10:16:37Z,2026-01-07T10:16:37Z,"ayhan.agirgol@finhouse.com.tr",
-"ibrahim.agca@penta.com.tr","İbrahim Ağca","penta.com.tr","penta",to,1,2026-01-07T10:16:37Z,2026-01-07T10:16:37Z,"ayhan.agirgol@finhouse.com.tr",
-"kubra.erdogan@bupara.com","Kubra ERDOGAN","bupara.com","bupara",to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,"ayhan.agirgol@finhouse.com.tr",
-"yunusemre.bilgen@bupara.com","yunusemre.bilgen@bupara.com","bupara.com","bupara",to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,"ayhan.agirgol@finhouse.com.tr",
-"asuman.isman@bupara.com","'Asuman Isman'","bupara.com","bupara",to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,"ayhan.agirgol@finhouse.com.tr",
-"aydin.ipek@bupara.com","aydin.ipek@bupara.com","bupara.com","bupara",to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,"ayhan.agirgol@finhouse.com.tr",
-"nilgun.yenice@crede.com.tr","Nilgün Yenice","crede.com.tr","crede",to,1,2025-12-28T17:29:15Z,2025-12-28T17:29:15Z,"ayhan.agirgol@finhouse.com.tr",
-"sirma.eren@callie.center","Sırma Eren","callie.center","center",to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,"ayhan.agirgol@finhouse.com.tr",
-"ferhanur.sahin@hepiyi.com.tr","ferhanur.sahin@hepiyi.com.tr","hepiyi.com.tr","hepiyi",to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,"ayhan.agirgol@finhouse.com.tr",
-"serkan.ozdemir@hepiyi.com.tr","serkan.ozdemir@hepiyi.com.tr","hepiyi.com.tr","hepiyi",to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,"ayhan.agirgol@finhouse.com.tr",
-"sevda.ersoy@callie.center","sevda.ersoy@callie.center","callie.center","center",to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,"ayhan.agirgol@finhouse.com.tr",
-"zakin@opentext.com","Zafer Akin","opentext.com","opentext",to,1,2025-12-26T08:23:48Z,2025-12-26T08:23:48Z,"ayhan.agirgol@finhouse.com.tr",
-"erman.taskin@servicecore.com.tr","Erman Taşkın","servicecore.com.tr","servicecore",to,1,2025-12-26T07:15:42Z,2025-12-26T07:15:42Z,"ayhan.agirgol@finhouse.com.tr",
-"olcay.yildiz@turkkep.com.tr","Olcay Yildiz","turkkep.com.tr","turkkep",to,1,2025-12-25T07:42:01Z,2025-12-25T07:42:01Z,"ayhan.agirgol@finhouse.com.tr",
-"pelin.karamis@turkkep.com.tr","Pelin Karamis","turkkep.com.tr","turkkep",to,1,2025-12-25T07:42:01Z,2025-12-25T07:42:01Z,"ayhan.agirgol@finhouse.com.tr",
-"emre.ogreten@ogrit.net","Emre Öğreten","ogrit.net","ogrit",to,1,2025-12-25T07:16:37Z,2025-12-25T07:16:37Z,"ayhan.agirgol@finhouse.com.tr",
-"sukru.atsizelti@enlighty.ai","Şükrü Atsızelti","enlighty.ai","enlighty",to,1,2025-12-22T07:00:14Z,2025-12-22T07:00:14Z,"ayhan.agirgol@finhouse.com.tr",
-"onur@finekra.com","Onur Taşgöz","finekra.com","finekra",to,1,2025-12-22T06:52:21Z,2025-12-22T06:52:21Z,"ayhan.agirgol@finhouse.com.tr",
-"orkun_kayin@hotmail.com","Orkun Kayın","hotmail.com","hotmail",to,1,2025-12-21T16:27:06Z,2025-12-21T16:27:06Z,"ayhan.agirgol@finhouse.com.tr",
+email,name,domain,company_hint,direction,count,first_seen,last_seen,source_mailbox,notes,contact_type,priority,normalized_name
+eda.tastemir@finhouse.com.tr,Eda Taştemir,finhouse.com.tr,finhouse,both,141,2026-01-05T13:55:01Z,2026-03-20T15:53:28Z,ayhan.agirgol@finhouse.com.tr,,person,high,Eda Taştemir
+orkun.akyuz@orbina.ai,orkun.akyuz@orbina.ai,orbina.ai,orbina,both,76,2026-01-02T07:19:08Z,2026-03-19T08:59:32Z,ayhan.agirgol@finhouse.com.tr,,person,high,Orkun Akyuz
+dilara.kaplan@orbina.ai,dilara.kaplan@orbina.ai,orbina.ai,orbina,both,65,2026-01-02T06:38:14Z,2026-03-20T15:52:47Z,ayhan.agirgol@finhouse.com.tr,,person,high,Dilara Kaplan
+ayhan.agirgol@gmail.com,ayhan.agirgol@gmail.com,gmail.com,gmail,both,55,2026-01-04T14:36:52Z,2026-03-21T13:34:49Z,ayhan.agirgol@finhouse.com.tr,,person,high,Ayhan Agirgol
+can.tunali@finhouse.com.tr,Yusuf Can Tunalı,finhouse.com.tr,finhouse,both,47,2025-12-21T16:27:06Z,2026-03-15T11:38:55Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Yusuf Can Tunalı
+mert.menekse@co-one.co,mert.menekse@co-one.co,co-one.co,co-one,both,42,2025-12-26T07:13:09Z,2026-03-09T19:15:10Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Mert Menekse
+nilgun.yenice@finhouse.com.tr,Nilgün Yenice,finhouse.com.tr,finhouse,both,40,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Nilgün Yenice
+ekber.hasanzade@finhouse.com.tr,Ekber HASANZADE,finhouse.com.tr,finhouse,both,35,2026-02-26T09:43:29Z,2026-03-19T13:15:45Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Ekber HASANZADE
+sirma.eren@cloudandcloud.net,sirma.eren@cloudandcloud.net,cloudandcloud.net,cloudandcloud,both,26,2026-01-14T12:10:10Z,2026-03-18T11:55:04Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Sirma Eren
+arman.kayhan@co-one.co,arman.kayhan@co-one.co,co-one.co,co-one,to,26,2026-01-14T10:45:18Z,2026-03-20T16:14:22Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Arman Kayhan
+lothar.vandenberg@spl-group.com,Lothar van den Berg / SPL Group,spl-group.com,spl-group,both,19,2026-02-26T09:43:29Z,2026-03-19T13:15:45Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Lothar van den Berg / SPL Group
+barkin.takmaz@bulutistan.com,barkin.takmaz@bulutistan.com,bulutistan.com,bulutistan,both,19,2025-12-23T12:17:22Z,2026-02-28T19:18:24Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Barkin Takmaz
+no-reply@tldv.io,tl;dv Team,tldv.io,tldv,from,19,2026-01-21T14:35:32Z,2026-02-12T14:05:27Z,ayhan.agirgol@finhouse.com.tr,,system,low,tl;dv Team
+sistem@bulten.sistemglobal.com.tr,Sistem Global,bulten.sistemglobal.com.tr,sistemglobal,from,18,2026-01-14T08:53:58Z,2026-03-17T07:57:55Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Sistem Global
+no-reply@otter.ai,Eda Taştemir via Otter.ai,otter.ai,otter,from,18,2026-01-14T12:32:15Z,2026-03-12T08:04:07Z,ayhan.agirgol@finhouse.com.tr,,system,low,Eda Taştemir via Otter.ai
+paul.walker@spl-group.com,paul.walker@spl-group.com,spl-group.com,spl-group,both,17,2026-03-03T13:25:22Z,2026-03-19T13:15:45Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Paul Walker
+gulsevim.dinler@co-one.co,gulsevim.dinler@co-one.co,co-one.co,co-one,to,17,2026-01-14T10:45:18Z,2026-02-23T11:10:10Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Gulsevim Dinler
+andrea.bruning@spl-group.com,Andrea Bruning / SPL Group,spl-group.com,spl-group,both,16,2026-03-03T13:38:14Z,2026-03-19T13:15:45Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Andrea Bruning / SPL Group
+fred@fireflies.ai,Fred from Fireflies.ai,fireflies.ai,fireflies,both,16,2026-01-16T09:58:12Z,2026-03-20T15:52:12Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Fred from Fireflies.ai
+mustafa.abd@alsaqi.iq,mustafa.abd@alsaqi.iq,alsaqi.iq,iq,both,16,2025-12-22T10:32:35Z,2026-03-20T15:57:03Z,ayhan.agirgol@finhouse.com.tr,,person,medium,Mustafa Abd
+barisbilenvural@cloudandcloud.net,barisbilenvural@cloudandcloud.net,cloudandcloud.net,cloudandcloud,to,14,2026-01-15T08:42:47Z,2026-03-20T15:56:38Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Barisbilenvural
+arzu.sancar@finhouse.com.tr,Arzu Sancar,finhouse.com.tr,finhouse,both,14,2026-02-12T18:48:25Z,2026-03-20T15:53:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Arzu Sancar
+oguz.govem@gmail.com,oguz.govem@gmail.com,gmail.com,gmail,both,13,2025-12-22T13:45:13Z,2026-03-13T07:02:40Z,ayhan.agirgol@finhouse.com.tr,,person,low,Oguz Govem
+devrimbayrakli@hsbc.com.tr,devrimbayrakli@hsbc.com.tr,hsbc.com.tr,hsbc,both,12,2026-01-28T14:28:15Z,2026-03-20T15:58:33Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Devrimbayrakli
+sevda.ersoy@cloudandcloud.net,sevda.ersoy@cloudandcloud.net,cloudandcloud.net,cloudandcloud,both,11,2025-12-26T10:42:48Z,2026-03-16T15:49:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sevda Ersoy
+acquiringurunyonetimi@bkm.com.tr,BKM Acquiring Ürün Yönetimi,bkm.com.tr,bkm,both,11,2026-01-21T08:03:50Z,2026-03-20T15:53:46Z,ayhan.agirgol@finhouse.com.tr,,person,low,BKM Acquiring Ürün Yönetimi
+begim.basligil@bulutistan.com,Begim Başlıgil,bulutistan.com,bulutistan,both,11,2025-12-29T12:26:20Z,2026-03-20T15:57:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,Begim Başlıgil
+aykut.kutlusan@turkkep.com.tr,aykut.kutlusan@turkkep.com.tr,turkkep.com.tr,turkkep,to,11,2025-12-25T07:20:45Z,2026-03-09T10:05:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,Aykut Kutlusan
+hulya.dundar@enlighty.ai,hulya.dundar@enlighty.ai,enlighty.ai,enlighty,both,10,2025-12-22T07:00:14Z,2026-03-19T18:34:39Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hulya Dundar
+gokhanagirgol@gmail.com,gokhanagirgol@gmail.com,gmail.com,gmail,to,10,2026-02-18T06:24:51Z,2026-03-04T05:30:24Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Gokhanagirgol
+oguz.kaya@bulutistan.com,Oğuz Kaya,bulutistan.com,bulutistan,to,10,2026-01-01T09:35:45Z,2026-03-20T16:12:34Z,ayhan.agirgol@finhouse.com.tr,,person,low,Oğuz Kaya
+ahmetuslu@hsbc.com.tr,ahmetuslu@hsbc.com.tr,hsbc.com.tr,hsbc,to,10,2026-01-30T06:41:42Z,2026-02-23T11:10:10Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Ahmetuslu
+ahmed.t@alsaqi.iq,ahmed.t@alsaqi.iq,alsaqi.iq,iq,both,10,2025-12-22T10:32:35Z,2026-03-20T15:57:38Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ahmed T
+publishing@email.mckinsey.com,McKinsey & Company,email.mckinsey.com,mckinsey,from,9,2026-01-13T16:06:40Z,2026-03-17T20:51:38Z,ayhan.agirgol@finhouse.com.tr,,person,low,McKinsey & Company
+dilek.yigit@conevel.com,dilek.yigit@conevel.com,conevel.com,conevel,to,9,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Dilek Yigit
+emre.acay@cloudandcloud.net,emre.acay@cloudandcloud.net,cloudandcloud.net,cloudandcloud,both,9,2025-12-26T10:42:48Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Emre Acay
+kemal.yavuzcetin@hayatfinans.com.tr,kemal.yavuzcetin@hayatfinans.com.tr,hayatfinans.com.tr,hayatfinans,both,9,2026-01-19T05:59:20Z,2026-03-02T15:13:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Kemal Yavuzcetin
+serkan.biroglu@medipol.com.tr,serkan.biroglu@medipol.com.tr,medipol.com.tr,medipol,both,9,2026-01-27T12:54:00Z,2026-03-20T15:58:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,Serkan Biroglu
+cenap.isik@medipol.edu.tr,cenap.isik@medipol.edu.tr,medipol.edu.tr,medipol,to,8,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cenap Isik
+eren@wagmitech.co,eren@wagmitech.co,wagmitech.co,wagmitech,both,8,2026-02-05T13:45:02Z,2026-03-20T15:52:40Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Eren
+taner.aslan@hedefbank.com.tr,taner.aslan@hedefbank.com.tr,hedefbank.com.tr,hedefbank,both,8,2025-12-25T07:16:37Z,2026-03-17T08:27:56Z,ayhan.agirgol@finhouse.com.tr,,person,low,Taner Aslan
+yesimmurzoglu@hsbc.com.tr,yesimmurzoglu@hsbc.com.tr,hsbc.com.tr,hsbc,to,8,2026-02-02T07:07:36Z,2026-02-23T11:10:10Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Yesimmurzoglu
+osman.orengul@medipol.com.tr,Osman ÖRENGÜL ( Bilgi Teknolojileri ),medipol.com.tr,medipol,to,7,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Osman ÖRENGÜL ( Bilgi Teknolojileri )
+suleyman.topal@conevel.com,suleyman.topal@conevel.com,conevel.com,conevel,to,7,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Suleyman Topal
+senay.karagoz@conevel.com,senay.karagoz@conevel.com,conevel.com,conevel,to,7,2026-01-27T12:54:00Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Senay Karagoz
+cem.isleyen@dunyavarlik.com,Cem.Isleyen@dunyavarlik.com,dunyavarlik.com,dunyavarlik,both,7,2026-02-10T05:58:44Z,2026-03-10T14:53:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cem Isleyen
+onur.nizamoglu@dunyavarlik.com,Onur.Nizamoglu@dunyavarlik.com,dunyavarlik.com,dunyavarlik,to,7,2026-02-10T05:58:44Z,2026-03-10T14:53:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Onur Nizamoglu
+mehmetali.hacisalihoglu@bulutistan.com,Mehmet Ali Hacısalihoglu,bulutistan.com,bulutistan,to,7,2026-02-11T13:19:06Z,2026-02-25T13:50:45Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mehmet Ali Hacısalihoglu
+salah.haider@alsaqi.iq,salah.haider@alsaqi.iq,alsaqi.iq,iq,to,7,2026-01-14T08:53:15Z,2026-02-17T07:51:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,Salah Haider
+teoman.gokcan@dunyavarlik.com,Teoman.Gokcan@dunyavarlik.com,dunyavarlik.com,dunyavarlik,to,7,2026-01-15T08:42:47Z,2026-02-17T06:44:51Z,ayhan.agirgol@finhouse.com.tr,,person,low,Teoman Gokcan
+taylan.guvercin@sabancidx.com,Mustafa Taylan Güvercin,sabancidx.com,sabancidx,to,7,2026-02-11T13:19:06Z,2026-03-20T16:03:14Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mustafa Taylan Güvercin
+ekrem.belli@paysmart.com.tr,ekrem.belli@paysmart.com.tr,paysmart.com.tr,paysmart,both,7,2025-12-29T10:53:46Z,2026-03-20T15:58:07Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ekrem Belli
+acelebi3@burgan.com.tr,ACelebi3@burgan.com.tr,burgan.com.tr,burgan,both,6,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Acelebi3
+ertugrul.agar@gmail.com,ertugrul.agar@gmail.com,gmail.com,gmail,both,6,2026-02-28T16:54:36Z,2026-03-20T15:52:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ertugrul Agar
+noreply@fintechistanbul.org,FinTech Istanbul,fintechistanbul.org,fintechistanbul,from,6,2026-01-19T05:31:17Z,2026-03-09T06:01:56Z,ayhan.agirgol@finhouse.com.tr,,system,low,FinTech Istanbul
+busra.sen@co-one.co,Büşra Şen,co-one.co,co-one,both,6,2026-01-20T09:02:11Z,2026-03-20T15:58:43Z,ayhan.agirgol@finhouse.com.tr,,person,low,Büşra Şen
+gunesagar@gmail.com,gunesagar@gmail.com,gmail.com,gmail,to,6,2025-12-25T07:09:36Z,2026-03-04T05:30:24Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Gunesagar
+scott.sul@sourcedefense.com,Scott Sullivan,sourcedefense.com,sourcedefense,from,6,2026-01-14T14:01:53Z,2026-03-03T14:05:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,Scott Sullivan
+utkan.mentes@hayatfinans.com.tr,utkan.mentes@hayatfinans.com.tr,hayatfinans.com.tr,hayatfinans,to,6,2026-02-03T05:23:03Z,2026-03-02T15:13:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Utkan Mentes
+orkun.kayin@sabancidx.com,Orkun Kayın,sabancidx.com,sabancidx,both,6,2026-02-11T13:19:06Z,2026-02-17T06:23:35Z,ayhan.agirgol@finhouse.com.tr,,person,low,Orkun Kayın
+ali.kirdas@hedefbank.com.tr,Ali Kırdaş,hedefbank.com.tr,hedefbank,both,6,2026-02-09T04:27:46Z,2026-02-13T10:05:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ali Kırdaş
+sahin.kurt@sabancidx.com,Şahin Kurt,sabancidx.com,sabancidx,both,6,2026-02-11T13:19:06Z,2026-03-20T15:57:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Şahin Kurt
+anmar.kareem@alsaqi.iq,Anmar.Kareem@alsaqi.iq,alsaqi.iq,iq,to,6,2025-12-22T10:32:35Z,2026-03-20T16:13:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,Anmar Kareem
+hasan.apaydin@moneymate.com.tr,hasan.apaydin@moneymate.com.tr,moneymate.com.tr,moneymate,to,6,2025-12-29T13:02:59Z,2026-03-20T16:12:36Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hasan Apaydin
+zmusoglu@pbs.com.tr,zmusoglu@pbs.com.tr,pbs.com.tr,pbs,to,6,2025-12-29T12:26:20Z,2026-01-28T13:35:53Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Zmusoglu
+ali.kaya.tr@outlook.com,ali.kaya.tr@outlook.com,outlook.com,outlook,to,6,2026-01-01T09:35:45Z,2026-01-28T13:35:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ali Kaya TR
+team@moderntreasury.com,Modern Treasury,moderntreasury.com,moderntreasury,both,5,2026-02-03T17:32:28Z,2026-03-20T15:51:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Modern Treasury
+no_reply@email.apple.com,Apple,email.apple.com,apple,from,5,2026-02-24T14:53:34Z,2026-03-19T09:34:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Apple
+molmuser@burgan.com.tr,Mert Olmuşer,burgan.com.tr,burgan,to,5,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mert Olmuşer
+sparlak@burgan.com.tr,Sercan Parlak,burgan.com.tr,burgan,to,5,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sercan Parlak
+ilayda.aladag@bosporuslojistik.com.tr,ilayda.aladag@bosporuslojistik.com.tr,bosporuslojistik.com.tr,bosporuslojistik,both,5,2026-03-16T06:49:37Z,2026-03-17T13:24:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ilayda Aladag
+export@bosporuslojistik.com.tr,'Bosporus Lojistik - Export',bosporuslojistik.com.tr,bosporuslojistik,to,5,2026-03-16T06:49:37Z,2026-03-17T13:24:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Bosporus Lojistik - Export'
+gulay.seval-akdag@bosporuslojistik.com.tr,gulay.seval-akdag@bosporuslojistik.com.tr,bosporuslojistik.com.tr,bosporuslojistik,to,5,2026-03-16T06:49:37Z,2026-03-17T13:24:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gulay Seval Akdag
+bulten@bulten.edanisman.com.tr,eDanışman Dijital Danışmanlık Platformu,bulten.edanisman.com.tr,edanisman,from,5,2026-02-10T13:02:01Z,2026-03-16T13:20:33Z,ayhan.agirgol@finhouse.com.tr,,person,low,eDanışman Dijital Danışmanlık Platformu
+pinar.yukay@hedefbank.com.tr,Pınar Yukay Bora,hedefbank.com.tr,hedefbank,to,5,2026-02-09T04:27:46Z,2026-03-13T07:02:40Z,ayhan.agirgol@finhouse.com.tr,,person,low,Pınar Yukay Bora
+sarah@cybercyte.com,Sarah Collins,cybercyte.com,cybercyte,both,5,2026-02-13T05:58:44Z,2026-03-20T15:51:22Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sarah Collins
+gokhan@letta.com.tr,Gökhan KURTOĞLU,letta.com.tr,letta,both,5,2026-02-02T12:11:57Z,2026-03-20T15:52:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gökhan KURTOĞLU
+ayhan.agirgol@bulutistan.com,Ayhan Ağırgöl,bulutistan.com,bulutistan,both,5,2026-01-01T09:35:45Z,2026-03-09T20:08:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ayhan Ağırgöl
+hakan.gursoy@dt.net.tr,hakan.gursoy@dt.net.tr,dt.net.tr,dt,both,5,2026-01-13T08:28:22Z,2026-03-20T15:58:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Gursoy
+marcelvoost@substack.com,Marcel van Oost,substack.com,substack,from,5,2026-01-15T17:03:59Z,2026-02-19T17:02:02Z,ayhan.agirgol@finhouse.com.tr,,person,low,Marcel van Oost
+haider.saad@alsaqi.iq,haider.saad@alsaqi.iq,alsaqi.iq,iq,to,5,2026-01-14T08:53:15Z,2026-02-17T07:51:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,Haider Saad
+yasemencelik@siberson.com,Yasemen Çelik,siberson.com,siberson,both,5,2026-02-10T12:41:31Z,2026-03-20T15:57:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Yasemen Çelik
+de@degsan.com.tr,de@degsan.com.tr,degsan.com.tr,degsan,both,5,2026-01-30T10:37:12Z,2026-02-13T08:20:14Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,DE
+hatice.genc@verisoft.com,hatice.genc@verisoft.com,verisoft.com,verisoft,both,5,2026-01-01T15:18:24Z,2026-03-20T15:58:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hatice Genc
+osman.eroglu@medipol.edu.tr,osman.eroglu@medipol.edu.tr,medipol.edu.tr,medipol,to,5,2026-01-27T12:54:00Z,2026-02-03T14:18:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,Osman Eroglu
+connect@atmmarketplace.com,ATM Marketplace,atmmarketplace.com,atmmarketplace,both,5,2026-01-13T20:03:54Z,2026-03-20T15:51:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,ATM Marketplace
+abomaali@alsaqi.iq,abomaali@alsaqi.iq,alsaqi.iq,iq,to,5,2025-12-22T10:32:35Z,2026-02-03T13:58:14Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Abomaali
+igogus@burgan.com.tr,İbrahim Halil Göğüş,burgan.com.tr,burgan,to,4,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,İbrahim Halil Göğüş
+hpulurbey@burgan.com.tr,Hilal Hayal Pulurbey,burgan.com.tr,burgan,to,4,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hilal Hayal Pulurbey
+cbilgen@burgan.com.tr,Celalettin Bilgen,burgan.com.tr,burgan,to,4,2025-12-22T06:30:15Z,2026-03-19T08:57:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,Celalettin Bilgen
+noreply@bilgi.ito.org.tr,İTO - Polonya’ya Yönelik Yatırım Fırsatları Semineri hk.,bilgi.ito.org.tr,ito,from,4,2026-02-02T14:12:44Z,2026-03-18T13:55:30Z,ayhan.agirgol@finhouse.com.tr,,system,low,İTO - Polonya’ya Yönelik Yatırım Fırsatları Semineri hk.
+nihal.gungor@ctsgumruk.com,Nihal Güngör,ctsgumruk.com,ctsgumruk,both,4,2026-03-13T13:04:42Z,2026-03-20T15:52:27Z,ayhan.agirgol@finhouse.com.tr,,person,low,Nihal Güngör
+mehmetnuri.aybayar@techsign.com.tr,Mehmet Nuri Aybayar,techsign.com.tr,techsign,both,4,2026-01-26T11:42:22Z,2026-03-17T12:23:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mehmet Nuri Aybayar
+cem.bayazit@techsign.com.tr,Cem Bayazit,techsign.com.tr,techsign,to,4,2026-01-26T11:42:22Z,2026-03-17T12:23:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cem Bayazit
+alper.kara@conevel.com,alper.kara@conevel.com,conevel.com,conevel,to,4,2026-02-09T15:41:29Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Alper Kara
+info@servicecore-news.web.tr,Servicecore Newsletter,servicecore-news.web.tr,web,both,4,2026-02-02T09:45:25Z,2026-03-20T15:52:35Z,ayhan.agirgol@finhouse.com.tr,,newsletter,low,Servicecore Newsletter
+mustafa.sonmez@codigno.com,Mustafa Sönmez,codigno.com,codigno,both,4,2026-02-02T14:03:44Z,2026-03-20T15:58:25Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mustafa Sönmez
+ms@codigno.com,ms@codigno.com,codigno.com,codigno,to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,MS
+erdem@letta.com.tr,Erdem Güneş,letta.com.tr,letta,both,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erdem Güneş
+engin.altuntas@letta.com.tr,Engin Altuntaş,letta.com.tr,letta,to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Engin Altuntaş
+burakmert.mus@letta.com.tr,Burak Mert Muş,letta.com.tr,letta,to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Burak Mert Muş
+gulden.bostanci@beytturk.com,Gülden Bostancı Beytturk,beytturk.com,beytturk,to,4,2026-02-02T12:11:57Z,2026-03-12T10:00:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gülden Bostancı Beytturk
+info@finhouse.ai,info@finhouse.ai,finhouse.ai,finhouse,both,4,2026-03-09T20:11:50Z,2026-03-20T15:53:55Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,info@finhouse.ai
+azure@promomail.microsoft.com,Microsoft Azure,promomail.microsoft.com,microsoft,from,4,2026-03-01T01:18:35Z,2026-03-06T21:39:12Z,ayhan.agirgol@finhouse.com.tr,,person,low,Microsoft Azure
+okan.erdogan@penti.com.tr,okan.erdogan@penti.com.tr,penti.com.tr,penti,both,4,2026-01-27T08:41:10Z,2026-03-04T11:23:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Okan Erdogan
+techbando@bkm.com.tr,TechBanDo,bkm.com.tr,bkm,to,4,2026-01-21T08:03:50Z,2026-03-03T13:13:07Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,TechBanDo
+ketsis-noreply@gelirler.gov.tr,ketsis-noreply@gelirler.gov.tr,gelirler.gov.tr,gelirler,from,4,2026-01-16T09:50:37Z,2026-02-24T07:53:57Z,ayhan.agirgol@finhouse.com.tr,,system,low,Ketsis
+dilek.sagiroglu@verisoft.com,Dilek Sağıroglu,verisoft.com,verisoft,to,4,2026-01-01T15:18:24Z,2026-02-05T07:54:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Dilek Sağıroglu
+oztorun@gmail.com,oztorun@gmail.com,gmail.com,gmail,to,4,2026-01-01T09:35:45Z,2026-01-08T06:28:48Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Oztorun
+microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@netorg15755469.onmicrosoft.com,Microsoft Outlook,netorg15755469.onmicrosoft.com,onmicrosoft,from,3,2026-02-11T18:09:22Z,2026-03-21T16:19:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Microsoft Outlook
+john@teamgantt.com,John from TeamGantt,teamgantt.com,teamgantt,from,3,2026-01-31T18:49:20Z,2026-03-20T22:02:36Z,ayhan.agirgol@finhouse.com.tr,,person,low,John from TeamGantt
+salim.buge@dokuz.io,Salim Büge,dokuz.io,dokuz,both,3,2026-03-18T18:25:44Z,2026-03-19T18:46:31Z,ayhan.agirgol@finhouse.com.tr,,person,low,Salim Büge
+oarabaci@liderfaktoring.com.tr,Onur ARABACI (Bilgi İşlem Müdürü),liderfaktoring.com.tr,liderfaktoring,both,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,Onur ARABACI (Bilgi İşlem Müdürü)
+onur.cunedioglu@orbina.ai,Onur Cünedioğlu,orbina.ai,orbina,both,3,2026-03-10T14:53:32Z,2026-03-18T08:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,Onur Cünedioğlu
+duran@garantisoft.com.tr,Duran Topbaş / Garantisoft,garantisoft.com.tr,garantisoft,to,3,2026-03-17T15:52:08Z,2026-03-20T15:56:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,Duran Topbaş / Garantisoft
+sadato@liderfaktoring.com.tr,'Semih Adato (Genel Müdür Yardımcısı)',liderfaktoring.com.tr,liderfaktoring,to,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Semih Adato (Genel Müdür Yardımcısı)'
+vturkoglu@liderfaktoring.com.tr,'Volkan Türkoğlu (Genel Müdür Yardımcısı)',liderfaktoring.com.tr,liderfaktoring,to,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Volkan Türkoğlu (Genel Müdür Yardımcısı)'
+btemiz@liderfaktoring.com.tr,'Burak Temiz (Genel Müdür Yardımcısı)',liderfaktoring.com.tr,liderfaktoring,to,3,2026-02-24T03:56:39Z,2026-03-18T08:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Burak Temiz (Genel Müdür Yardımcısı)'
+nihal-dayi@hotmail.com,NİHAL DAYI,hotmail.com,hotmail,to,3,2026-03-13T13:04:42Z,2026-03-17T13:49:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,NİHAL DAYI
+oltan@skymod.tech,oltan@skymod.tech,skymod.tech,tech,both,3,2026-02-26T14:13:40Z,2026-03-21T13:31:18Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Oltan
+ferhanur.ozkalp@hepiyi.com.tr,ferhanur.ozkalp@hepiyi.com.tr,hepiyi.com.tr,hepiyi,to,3,2026-02-16T18:48:01Z,2026-03-16T15:49:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ferhanur Ozkalp
+barisbilenvural@callie.center,Barış Bilen Vural (Callie),callie.center,center,to,3,2025-12-26T10:42:48Z,2026-03-16T15:49:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,Barış Bilen Vural (Callie)
+hello@spaceship.com,Spaceship,spaceship.com,spaceship,both,3,2026-03-03T19:13:31Z,2026-03-20T15:52:17Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Spaceship
+reply@camunda.com,Camunda Team,camunda.com,camunda,both,3,2026-02-23T17:07:36Z,2026-03-20T15:53:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,Camunda Team
+aynur.koken@mentorgumruk.com.tr,aynur.koken@mentorgumruk.com.tr,mentorgumruk.com.tr,mentorgumruk,both,3,2026-03-05T07:46:26Z,2026-03-09T14:46:22Z,ayhan.agirgol@finhouse.com.tr,,person,low,Aynur Koken
+musteri@email.edenred.com.tr,Edenred Kurumsal Çözümler A.Ş.,email.edenred.com.tr,edenred,both,3,2026-02-02T12:55:26Z,2026-03-20T15:53:33Z,ayhan.agirgol@finhouse.com.tr,,person,low,Edenred Kurumsal Çözümler A.Ş.
+alisenlikci@bilisimvadisi.com.tr,Ali Şenlikci | Bilişim Vadisi,bilisimvadisi.com.tr,bilisimvadisi,to,3,2026-01-29T08:31:35Z,2026-03-02T10:21:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ali Şenlikci | Bilişim Vadisi
+melisoztirpan@bilisimvadisi.com.tr,Melis Özveran Öztırpan | Bilişim Vadisi,bilisimvadisi.com.tr,bilisimvadisi,to,3,2026-01-29T08:31:35Z,2026-03-02T10:21:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,Melis Özveran Öztırpan | Bilişim Vadisi
+elif.uceyler@turkkep.com.tr,Elif Nur Uceyler,turkkep.com.tr,turkkep,both,3,2026-03-02T08:38:51Z,2026-03-02T09:18:07Z,ayhan.agirgol@finhouse.com.tr,,person,low,Elif Nur Uceyler
+cansu.demirci@bulutistan.com,Cansu Demirci,bulutistan.com,bulutistan,to,3,2026-02-27T07:52:44Z,2026-02-28T19:18:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cansu Demirci
+info@groupbsp.co,Seda Mutlu,groupbsp.co,groupbsp,both,3,2026-01-13T13:00:33Z,2026-03-20T15:53:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,Seda Mutlu
+meylis.amanmyradov@upt.com.tr,meylis.amanmyradov@upt.com.tr,upt.com.tr,upt,both,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,ayhan.agirgol@finhouse.com.tr,,person,low,Meylis Amanmyradov
+zaid@sheefrah.com,Zaid Al-Najjar,sheefrah.com,sheefrah,both,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,ayhan.agirgol@finhouse.com.tr,,person,low,Zaid Al-Najjar
+yurtdisikanalyonetimibolumu@upt.com.tr,yurtdisikanalyonetimibolumu@upt.com.tr,upt.com.tr,upt,to,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Yurtdisikanalyonetimibolumu
+m.natheer@sheefrah.com,m.natheer@sheefrah.com,sheefrah.com,sheefrah,to,3,2026-02-23T03:47:45Z,2026-02-23T12:32:33Z,ayhan.agirgol@finhouse.com.tr,,person,low,M Natheer
+ogun.okmen@cloudserv.com.tr,ogun.okmen@cloudserv.com.tr,cloudserv.com.tr,cloudserv,to,3,2025-12-25T07:09:55Z,2026-02-19T17:40:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ogun Okmen
+marcelvanoostfintechlatam@substack.com,Marcel van Oost,substack.com,substack,from,3,2026-01-21T17:01:13Z,2026-02-18T17:05:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,Marcel van Oost
+yashin.fonseca@icx.co,Yashin Fonseca,icx.co,icx,both,3,2026-02-04T07:32:15Z,2026-03-20T15:56:56Z,ayhan.agirgol@finhouse.com.tr,,person,low,Yashin Fonseca
+sanli.saatcioglu@buteksoft.com.tr,Sanlı SAATCIOĞLU / Buteksoft Teknoloji,buteksoft.com.tr,buteksoft,both,3,2026-02-16T17:02:16Z,2026-03-20T15:57:11Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sanlı SAATCIOĞLU / Buteksoft Teknoloji
+gokhan.gencturk@bulutistan.com,Gökhan Gençtürk,bulutistan.com,bulutistan,to,3,2026-02-11T13:03:25Z,2026-02-15T16:59:14Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gökhan Gençtürk
+ozge.akbal@hedefbank.com.tr,Özge Akbal,hedefbank.com.tr,hedefbank,to,3,2026-02-12T10:55:02Z,2026-02-13T10:05:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Özge Akbal
+utku.callak@asseco-see.com.tr,Utku Callak,asseco-see.com.tr,asseco-see,to,3,2025-12-25T20:32:00Z,2026-02-11T08:57:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,Utku Callak
+ahmed.nidhal@alsaqi.iq,ahmed.nidhal@alsaqi.iq,alsaqi.iq,iq,to,3,2025-12-22T10:32:35Z,2026-02-11T07:41:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ahmed Nidhal
+aydin.yilmaz@firisbe.com,aydin.yilmaz@firisbe.com,firisbe.com,firisbe,to,3,2026-01-28T15:19:53Z,2026-03-20T15:58:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,Aydin Yilmaz
+ceo@alsaqi.iq,ceo@alsaqi.iq,alsaqi.iq,iq,to,3,2026-01-14T08:53:15Z,2026-02-03T08:06:47Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Ceo
+samer.alsafi@alsaqi.iq,samer.alsafi@alsaqi.iq,alsaqi.iq,iq,to,3,2026-01-14T08:53:15Z,2026-02-03T08:06:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Samer Alsafi
+argeportal@bilisimvadisi.com.tr,Bilişim Vadisi,bilisimvadisi.com.tr,bilisimvadisi,from,3,2026-01-30T11:31:01Z,2026-02-02T06:42:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,Bilişim Vadisi
+ilayda.bahadiroglu@tenity.com,İlayda Bahadıroğlu | Tenity,tenity.com,tenity,both,3,2026-01-22T07:10:33Z,2026-03-20T15:53:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,İlayda Bahadıroğlu | Tenity
+hilal.gercek@tenity.com,Hilal Gerçek | Tenity,tenity.com,tenity,from,3,2026-01-16T07:26:32Z,2026-01-28T06:58:05Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hilal Gerçek | Tenity
+onur.yildirim3@isbank.com.tr,Onur Yıldırım - Müşteri İlişkileri Bölümü,isbank.com.tr,isbank,both,3,2026-01-26T17:47:39Z,2026-03-20T15:58:51Z,ayhan.agirgol@finhouse.com.tr,,person,low,Onur Yıldırım - Müşteri İlişkileri Bölümü
+ekrembelli@gmail.com,Ekrem B.,gmail.com,gmail,both,3,2026-01-26T13:37:28Z,2026-03-20T15:58:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ekrem B.
+hello@tldv.io,tl;dv Team,tldv.io,tldv,both,3,2026-01-24T16:35:49Z,2026-03-20T15:59:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,tl;dv Team
+no-reply@updates.otter.ai,The Otter.ai Team,updates.otter.ai,otter,from,3,2026-01-17T07:52:08Z,2026-01-24T07:52:27Z,ayhan.agirgol@finhouse.com.tr,,system,low,The Otter.ai Team
+sinan@peeraj.com,sinan@peeraj.com,peeraj.com,peeraj,to,3,2026-01-14T11:37:42Z,2026-01-20T09:02:11Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Sinan
+sinan.ilhan@peeraj.com.tr,sinan.ilhan@peeraj.com.tr,peeraj.com.tr,peeraj,to,3,2026-01-14T11:37:42Z,2026-01-20T09:02:11Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sinan Ilhan
+gozde.candemir@insha.ventures,gozde.candemir@insha.ventures,insha.ventures,ventures,to,3,2026-01-14T16:00:43Z,2026-02-02T08:11:08Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gozde Candemir
+hakan.gursoy@bulutistan.com,Hakan Gursoy,bulutistan.com,bulutistan,to,3,2025-12-23T12:17:22Z,2026-03-20T16:03:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Gursoy
+ceo@alsaqi.com,ceo@alsaqi.com,alsaqi.com,alsaqi,to,2,2026-03-20T16:13:18Z,2026-03-21T16:19:57Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Ceo
+semihozbek@protem.com.tr,SEMIH OZBEK,protem.com.tr,protem,both,2,2026-03-20T16:19:56Z,2026-03-20T17:36:02Z,ayhan.agirgol@finhouse.com.tr,,person,low,SEMIH OZBEK
+alper.cakir@peple.com.tr,Alper Cakir,peple.com.tr,peple,both,2,2026-03-20T16:20:02Z,2026-03-20T17:12:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,Alper Cakir
+notifications@reclaim.ai,Reclaim,reclaim.ai,reclaim,from,2,2026-01-23T05:54:20Z,2026-03-20T05:54:17Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Reclaim
+luiscordes0102@gmail.com,Luis,gmail.com,gmail,both,2,2026-03-19T15:56:16Z,2026-03-19T18:29:46Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Luis
+cagatay.kaya@dokuz.io,Çağatay Kaya,dokuz.io,dokuz,to,2,2026-03-18T18:25:44Z,2026-03-19T08:24:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,Çağatay Kaya
+sema.temur@orbina.ai,Sema Temur,orbina.ai,orbina,to,2,2026-03-17T15:52:08Z,2026-03-18T08:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sema Temur
+velat.dicleli@orbina.ai,Velat Dicleli,orbina.ai,orbina,to,2,2026-03-17T15:52:08Z,2026-03-18T08:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,Velat Dicleli
+ertugrul.agar@finhouse.ai,ertugrul.agar@finhouse.ai,finhouse.ai,finhouse,to,2,2026-03-17T18:24:31Z,2026-03-18T06:47:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ertugrul Agar
+feedback@spaceship.com,Spaceship,spaceship.com,spaceship,both,2,2026-03-17T21:01:02Z,2026-03-20T15:51:48Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Spaceship
+george@trevorlabs.com,George from Trevor AI,trevorlabs.com,trevorlabs,from,2,2026-02-24T17:30:43Z,2026-03-16T17:00:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,George from Trevor AI
+firat.aslantas@kaspersky.com,Firat Aslantas,kaspersky.com,kaspersky,both,2,2026-03-06T14:13:09Z,2026-03-13T13:49:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Firat Aslantas
+hasan.bilici@penti.com.tr,Hasan Bilici,penti.com.tr,penti,to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hasan Bilici
+meltem.oktayemeksiz@penti.com.tr,Meltem Oktay Emeksiz,penti.com.tr,penti,to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Meltem Oktay Emeksiz
+muratselahattin.gunes@penti.com.tr,Murat Selahattin Gunes,penti.com.tr,penti,to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Murat Selahattin Gunes
+omer.ozden@penti.com.tr,Omer Ozden,penti.com.tr,penti,to,2,2026-03-04T08:18:00Z,2026-03-04T11:23:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Omer Ozden
+alert@spaceship.com,Spaceship,spaceship.com,spaceship,both,2,2026-03-03T19:03:03Z,2026-03-20T15:53:19Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Spaceship
+robin.vandenberg@spl-group.com,robin.vandenberg@spl-group.com,spl-group.com,spl-group,to,2,2026-02-26T09:43:29Z,2026-03-03T10:20:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,Robin Vandenberg
+damla.bilici@vodafone.com,"Damla Bilici, Vodafone",vodafone.com,vodafone,from,2,2026-03-02T11:55:01Z,2026-03-02T11:55:10Z,ayhan.agirgol@finhouse.com.tr,,organization,low,"Damla Bilici, Vodafone"
+muberrakaramustafa@bilisimvadisi.com.tr,Fatma Müberra Karamustafa | Bilişim Vadisi,bilisimvadisi.com.tr,bilisimvadisi,both,2,2026-02-13T06:46:20Z,2026-03-02T10:21:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,Fatma Müberra Karamustafa | Bilişim Vadisi
+no-reply@metunic.com.tr,METUnic,metunic.com.tr,metunic,from,2,2026-01-15T09:59:43Z,2026-02-26T10:14:54Z,ayhan.agirgol@finhouse.com.tr,,system,low,METUnic
+gozde.agca@bulutistan.com,Gözde Ağca,bulutistan.com,bulutistan,from,2,2026-02-19T11:01:56Z,2026-02-25T13:50:45Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gözde Ağca
+sarah.collins@cybercyte.uk,Sarah Collins,cybercyte.uk,uk,from,2,2026-01-14T06:59:27Z,2026-02-18T05:02:03Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sarah Collins
+apac1connectingthedotsinfintech@substack.com,Marcel van Oost,substack.com,substack,from,2,2026-01-14T02:01:09Z,2026-02-18T02:01:40Z,ayhan.agirgol@finhouse.com.tr,,person,low,Marcel van Oost
+ilker.caner@gmail.com,Ilker Caner,gmail.com,gmail,both,2,2026-02-16T11:39:19Z,2026-03-20T15:57:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ilker Caner
+basak.ersan@degsan.com.tr,'Başak Ersan',degsan.com.tr,degsan,to,2,2026-02-13T08:17:40Z,2026-02-13T08:20:14Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Başak Ersan'
+aycadagli@bilisimvadisi.com.tr,Ayça Dağlı | Bilişim Vadisi,bilisimvadisi.com.tr,bilisimvadisi,from,2,2026-01-29T08:31:35Z,2026-02-13T06:46:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ayça Dağlı | Bilişim Vadisi
+ekber@evergreentech.com.tr,ekber@evergreentech.com.tr,evergreentech.com.tr,evergreentech,to,2,2026-02-11T18:09:18Z,2026-02-11T18:09:22Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Ekber
+hazar.cacekli@medipol.com.tr,hazar.cacekli@medipol.com.tr,medipol.com.tr,medipol,to,2,2026-02-09T15:41:29Z,2026-02-11T12:39:54Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hazar Cacekli
+alyssa@fathom.video,Alyssa Edelman,fathom.video,video,both,2,2026-02-10T12:32:12Z,2026-03-20T15:52:22Z,ayhan.agirgol@finhouse.com.tr,,person,low,Alyssa Edelman
+no-reply@fathom.video,Fathom,fathom.video,video,from,2,2026-02-07T17:21:49Z,2026-02-10T11:27:44Z,ayhan.agirgol@finhouse.com.tr,,system,low,Fathom
+omer.yurttas@hedefbank.com.tr,Ömer Yurttaş,hedefbank.com.tr,hedefbank,to,2,2026-02-09T04:27:46Z,2026-03-20T15:57:41Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ömer Yurttaş
+mutlu.gokten@hedefbank.com.tr,Mutlu Gökten,hedefbank.com.tr,hedefbank,to,2,2026-02-09T04:27:46Z,2026-03-20T16:13:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mutlu Gökten
+c.arslan@searchinform.com,Cansu Arslan,searchinform.com,searchinform,both,2,2026-02-04T10:09:30Z,2026-02-04T10:09:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cansu Arslan
+20419205@bcc.hubspot.com,20419205@bcc.hubspot.com,bcc.hubspot.com,hubspot,to,2,2026-02-02T14:06:53Z,2026-02-03T14:43:28Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,20419205
+info@alsaqi.iq,info@alsaqi.iq,alsaqi.iq,iq,to,2,2026-02-03T07:54:17Z,2026-02-03T08:06:47Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,info@alsaqi.iq
+support@tldv.io,tl;dv Team,tldv.io,tldv,both,2,2026-02-02T12:33:19Z,2026-03-20T15:58:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,tl;dv Team
+kadir.ozturk@aktifbank.com.tr,Kadir.Ozturk@aktifbank.com.tr,aktifbank.com.tr,aktifbank,to,2,2026-01-28T08:53:03Z,2026-03-20T16:03:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,Kadir Ozturk
+devrimbayrakli@hcbc.com.tr,devrimbayrakli@hcbc.com.tr,hcbc.com.tr,hcbc,to,2,2026-01-27T14:14:59Z,2026-01-27T16:29:00Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Devrimbayrakli
+faruk.araz@craftgate.io,Faruk Araz,craftgate.io,craftgate,both,2,2026-01-27T08:35:42Z,2026-03-20T15:58:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Faruk Araz
+salih.yakici@softtech.com.tr,Salih Yakıcı,softtech.com.tr,softtech,to,2,2026-01-26T17:47:39Z,2026-01-27T06:26:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,Salih Yakıcı
+dersan.cakar@isbank.com.tr,Ali Derşan Çakar,isbank.com.tr,isbank,to,2,2026-01-26T17:47:39Z,2026-01-27T06:26:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ali Derşan Çakar
+piteka@me.com,Piteka@me.com,me.com,me,to,2,2026-01-26T13:37:28Z,2026-01-26T13:48:30Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Piteka
+no-reply@marketing.otter.ai,The Otter.ai Team,marketing.otter.ai,otter,from,2,2026-01-20T07:52:21Z,2026-01-23T07:52:23Z,ayhan.agirgol@finhouse.com.tr,,system,low,The Otter.ai Team
+inspiration@hello.design.com,Design.com,hello.design.com,design,both,2,2026-01-22T10:32:06Z,2026-03-20T15:57:50Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Design.com
+billg@gatesnotes.com,Bill Gates (via the Gates Notes),gatesnotes.com,gatesnotes,both,2,2026-01-21T21:13:53Z,2026-03-20T15:53:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Bill Gates (via the Gates Notes)
+nafiye.ozturk@verisoft.com,Nafiye Öztürk,verisoft.com,verisoft,both,2,2026-01-20T07:21:56Z,2026-01-20T10:46:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,Nafiye Öztürk
+emresenel@gmail.com,Emre Şenel,gmail.com,gmail,to,2,2026-01-20T07:21:56Z,2026-01-20T10:46:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,Emre Şenel
+datasec@verisoft.com,datasec@verisoft.com,verisoft.com,verisoft,to,2,2026-01-20T07:21:56Z,2026-01-20T10:46:37Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Datasec
+hakan.inceoglu@yaz.com.tr,hakan.inceoglu@yaz.com.tr,yaz.com.tr,yaz,to,2,2026-01-20T05:02:09Z,2026-03-20T16:18:12Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Inceoglu
+bilal.ozcan@somposigorta.com.tr,bilal.ozcan@somposigorta.com.tr,somposigorta.com.tr,somposigorta,to,2,2026-01-19T12:22:04Z,2026-03-20T15:59:08Z,ayhan.agirgol@finhouse.com.tr,,person,low,Bilal Ozcan
+info@wesorganizasyon.com,Ömer Çelik,wesorganizasyon.com,wesorganizasyon,both,2,2026-01-19T07:01:46Z,2026-03-20T15:53:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ömer Çelik
+yasemin.koc@yapikredi.com.tr,yasemin.koc@yapikredi.com.tr,yapikredi.com.tr,yapikredi,to,2,2025-12-22T07:00:14Z,2026-03-20T16:13:02Z,ayhan.agirgol@finhouse.com.tr,,person,low,Yasemin Koc
+ozgur.batur@yapikredi.com.tr,ozgur.batur@yapikredi.com.tr,yapikredi.com.tr,yapikredi,to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ozgur Batur
+ozer.depren@yapikredi.com.tr,ozer.depren@yapikredi.com.tr,yapikredi.com.tr,yapikredi,to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ozer Depren
+nagme.kisikcilar@yapikredi.com.tr,nagme.kisikcilar@yapikredi.com.tr,yapikredi.com.tr,yapikredi,to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:55Z,ayhan.agirgol@finhouse.com.tr,,person,low,Nagme Kisikcilar
+zeynep.gokakin@yapikredi.com.tr,zeynep.gokakin@yapikredi.com.tr,yapikredi.com.tr,yapikredi,to,2,2025-12-22T07:00:14Z,2026-03-20T16:12:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Zeynep Gokakin
+gokhan.ozdinc@ykteknoloji.com.tr,gokhan.ozdinc@ykteknoloji.com.tr,ykteknoloji.com.tr,ykteknoloji,to,2,2026-01-02T09:03:14Z,2026-03-20T16:12:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gokhan Ozdinc
+g.c@hello.design.com,"Guillermo Conde, Design.com",hello.design.com,design,to,2,2026-03-20T15:06:15Z,2026-03-20T15:51:39Z,ayhan.agirgol@finhouse.com.tr,,organization,low,"Guillermo Conde, Design.com"
+news@atmmarketplace.com,ATM Marketplace,atmmarketplace.com,atmmarketplace,to,2,2026-03-20T15:06:10Z,2026-03-20T15:51:36Z,ayhan.agirgol@finhouse.com.tr,,newsletter,low,ATM Marketplace
+ramazankucuk@finwiseconsulting.com,Ramazan  Küçük,finwiseconsulting.com,finwiseconsulting,to,2,2025-12-23T08:16:13Z,2025-12-29T12:29:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ramazan  Küçük
+ozgur.oktan@formica.ai,Özgür Oktan,formica.ai,formica,to,2,2025-12-25T08:00:27Z,2025-12-29T07:00:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Özgür Oktan
+koray.kose@formica.ai,Koray Köse,formica.ai,formica,to,2,2025-12-25T08:00:27Z,2025-12-29T07:00:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Koray Köse
+murat.mustafaoglu@turkkep.com.tr,Murat Mustafaoglu,turkkep.com.tr,turkkep,to,2,2025-12-25T07:20:45Z,2025-12-25T07:42:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Murat Mustafaoglu
+huseyin.karayagiz@turkkep.com.tr,Huseyin Karayagiz,turkkep.com.tr,turkkep,to,2,2025-12-25T07:20:45Z,2025-12-25T07:42:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Huseyin Karayagiz
+erdem.yoruk@enlighty.ai,Erdem Yörük,enlighty.ai,enlighty,to,2,2025-12-22T07:00:14Z,2025-12-23T12:14:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erdem Yörük
+team@marketing.worldef.com,WORLDEF,marketing.worldef.com,worldef,from,1,2026-03-20T06:05:33Z,2026-03-20T06:05:33Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,WORLDEF
+marketing@ncontracts.com,Ncontracts,ncontracts.com,ncontracts,from,1,2026-03-19T07:54:17Z,2026-03-19T07:54:17Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Ncontracts
+uyumsoft@erp.uyumsoftmail.com,Uyumsoft Bilgi Sistemleri,erp.uyumsoftmail.com,uyumsoftmail,from,1,2026-03-18T00:56:56Z,2026-03-18T00:56:56Z,ayhan.agirgol@finhouse.com.tr,,person,low,Uyumsoft Bilgi Sistemleri
+azure@infoemails.microsoft.com,Microsoft Azure,infoemails.microsoft.com,microsoft,from,1,2026-03-17T23:27:35Z,2026-03-17T23:27:35Z,ayhan.agirgol@finhouse.com.tr,,person,low,Microsoft Azure
+drive-shares-dm-noreply@google.com,Dilara Kaplan (via Google Docs),google.com,google,from,1,2026-03-17T12:36:38Z,2026-03-17T12:36:38Z,ayhan.agirgol@finhouse.com.tr,,system,low,Dilara Kaplan (via Google Docs)
+bora.gul@assistbox.io,bora.gul@assistbox.io,assistbox.io,assistbox,to,1,2026-03-17T12:23:47Z,2026-03-17T12:23:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Bora Gul
+dilara.us@assistbox.io,dilara.us@assistbox.io,assistbox.io,assistbox,to,1,2026-03-17T12:23:47Z,2026-03-17T12:23:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Dilara US
+cembey@gmail.com,cembey@gmail.com,gmail.com,gmail,to,1,2026-03-17T12:23:47Z,2026-03-17T12:23:47Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Cembey
+hello@em.ikas.com,ikas,em.ikas.com,ikas,from,1,2026-03-17T07:57:10Z,2026-03-17T07:57:10Z,ayhan.agirgol@finhouse.com.tr,,organization,low,ikas
+gizem@skymod.tech,Gizem Argunşah,skymod.tech,tech,to,1,2026-03-16T21:37:43Z,2026-03-16T21:37:43Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gizem Argunşah
+melisakaya@medipol.com.tr,melisakaya@medipol.com.tr,medipol.com.tr,medipol,to,1,2026-03-16T15:07:42Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Melisakaya
+tugce.kunc@callie.center,tugce.kunc@callie.center,callie.center,center,to,1,2026-03-16T15:07:42Z,2026-03-16T15:07:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Tugce Kunc
+busra@turkiye.ai,Büşra Eşkara,turkiye.ai,turkiye,from,1,2026-03-16T12:58:16Z,2026-03-16T12:58:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,Büşra Eşkara
+alper@turkiye.ai,Alper Akça,turkiye.ai,turkiye,to,1,2026-03-16T12:58:16Z,2026-03-16T12:58:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,Alper Akça
+vijdan.izmirli@dunyavarlik.com,vijdan.izmirli@dunyavarlik.com,dunyavarlik.com,dunyavarlik,to,1,2026-03-10T14:53:32Z,2026-03-10T14:53:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Vijdan Izmirli
+selin.arslan@dunyavarlik.com,selin.arslan@dunyavarlik.com,dunyavarlik.com,dunyavarlik,to,1,2026-03-10T14:53:32Z,2026-03-10T14:53:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Selin Arslan
+security@fireflies.ai,Fireflies Security and Compliance Team,fireflies.ai,fireflies,from,1,2026-03-07T00:21:30Z,2026-03-07T00:21:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Fireflies Security and Compliance Team
+zafer.akin@kaspersky.com,Zafer Akin,kaspersky.com,kaspersky,to,1,2026-03-06T14:13:09Z,2026-03-06T14:13:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,Zafer Akin
+marketing@campaign.chainup.com,ChainUp,campaign.chainup.com,chainup,from,1,2026-03-06T05:51:29Z,2026-03-06T05:51:29Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,ChainUp
+newsletter@craftgate.io,Craftgate Teknoloji,craftgate.io,craftgate,from,1,2026-03-05T05:51:47Z,2026-03-05T05:51:47Z,ayhan.agirgol@finhouse.com.tr,,newsletter,low,Craftgate Teknoloji
+info@futureprocurementsummit.com,Deniz Şenay,futureprocurementsummit.com,futureprocurementsummit,from,1,2026-03-04T12:01:15Z,2026-03-04T12:01:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Deniz Şenay
+ozcan@dativa.ai,ozcan@dativa.ai,dativa.ai,dativa,to,1,2026-03-04T10:51:01Z,2026-03-04T10:51:01Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Ozcan
+hafize.kayabora@bkm.com.tr,Hafize Kaya Bora,bkm.com.tr,bkm,to,1,2026-03-04T10:45:24Z,2026-03-04T10:45:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hafize Kaya Bora
+receipts@spaceship.com,Spaceship,spaceship.com,spaceship,from,1,2026-03-03T19:12:58Z,2026-03-03T19:12:58Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Spaceship
+luis.gutierrez@spl-group.com,Luis Gutierrez,spl-group.com,spl-group,to,1,2026-03-03T16:13:25Z,2026-03-03T16:13:25Z,ayhan.agirgol@finhouse.com.tr,,person,low,Luis Gutierrez
+aycadaglı@bilisimvadisi.com.tr,Ayça Dağlı,bilisimvadisi.com.tr,bilisimvadisi,to,1,2026-03-02T10:21:19Z,2026-03-02T10:21:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ayça Dağlı
+no-reply@mercor.com,Mercor,mercor.com,mercor,from,1,2026-02-25T09:04:31Z,2026-02-25T09:04:31Z,ayhan.agirgol@finhouse.com.tr,,system,low,Mercor
+communications@crowdstrike.com,CrowdStrike,crowdstrike.com,crowdstrike,from,1,2026-02-24T10:05:48Z,2026-02-24T10:05:48Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,CrowdStrike
+azure-noreply@microsoft.com,Microsoft Azure,microsoft.com,microsoft,from,1,2026-02-22T13:48:47Z,2026-02-22T13:48:47Z,ayhan.agirgol@finhouse.com.tr,,system,low,Microsoft Azure
+bilsay.incedalci@adilbilesim.com.tr,bilsay.incedalci@adilbilesim.com.tr,adilbilesim.com.tr,adilbilesim,to,1,2026-02-19T12:50:30Z,2026-02-19T12:50:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Bilsay Incedalci
+hakan.sahin@bulutistan.com,Hakan Şahin,bulutistan.com,bulutistan,to,1,2026-02-19T11:01:56Z,2026-02-19T11:01:56Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Şahin
+enterprise@tabnine.com,Tabnine Enterprise,tabnine.com,tabnine,from,1,2026-02-18T20:07:17Z,2026-02-18T20:07:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Tabnine Enterprise
+developer@insideapple.apple.com,Apple Developer,insideapple.apple.com,apple,from,1,2026-02-17T18:08:00Z,2026-02-17T18:08:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,Apple Developer
+no-reply@complyadvantage.com,ComplyAdvantage,complyadvantage.com,complyadvantage,from,1,2026-02-17T10:39:21Z,2026-02-17T10:39:21Z,ayhan.agirgol@finhouse.com.tr,,system,low,ComplyAdvantage
+hakanyedek@siberson.com,Hakan Yedek,siberson.com,siberson,to,1,2026-02-16T07:34:29Z,2026-02-16T07:34:29Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Yedek
+gokhanmanav@siberson.com,Gökhan Manav,siberson.com,siberson,to,1,2026-02-16T07:34:29Z,2026-02-16T07:34:29Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gökhan Manav
+msertugrul@ziraatteknoloji.com,Mehmet Salih ERTUĞRUL (Yapay Zeka Uygulamaları),ziraatteknoloji.com,ziraatteknoloji,to,1,2026-02-16T06:55:54Z,2026-02-16T06:55:54Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mehmet Salih ERTUĞRUL (Yapay Zeka Uygulamaları)
+okaya@ziraatteknoloji.com,Oğuz KAYA (Analitik Uygulamalar),ziraatteknoloji.com,ziraatteknoloji,to,1,2026-02-16T06:55:54Z,2026-02-16T06:55:54Z,ayhan.agirgol@finhouse.com.tr,,person,low,Oğuz KAYA (Analitik Uygulamalar)
+ahmetakg@amerikanhastanesi.org,ahmetakg@amerikanhastanesi.org,amerikanhastanesi.org,amerikanhastanesi,to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Ahmetakg
+batuhantul@amerikanhastanesi.org,batuhantul@amerikanhastanesi.org,amerikanhastanesi.org,amerikanhastanesi,to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Batuhantul
+fatihyak@amerikanhastanesi.org,fatihyak@amerikanhastanesi.org,amerikanhastanesi.org,amerikanhastanesi,to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Fatihyak
+bulentyil@amerikanhastanesi.org,bulentyil@amerikanhastanesi.org,amerikanhastanesi.org,amerikanhastanesi,to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Bulentyil
+ozhanc@amerikanhastanesi.org,ozhanc@amerikanhastanesi.org,amerikanhastanesi.org,amerikanhastanesi,to,1,2026-02-16T04:30:47Z,2026-02-16T04:30:47Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Ozhanc
+noreply@email.apple.com,Apple,email.apple.com,apple,from,1,2026-02-15T20:27:54Z,2026-02-15T20:27:54Z,ayhan.agirgol@finhouse.com.tr,,system,low,Apple
+mehmet.firat@bulutistan.com,Mehmet Fırat,bulutistan.com,bulutistan,to,1,2026-02-15T16:59:14Z,2026-02-15T16:59:14Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mehmet Fırat
+applearcade@insideapple.apple.com,Apple Arcade,insideapple.apple.com,apple,from,1,2026-02-15T14:36:04Z,2026-02-15T14:36:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,Apple Arcade
+beril@sunreef.com,beril@sunreef.com,sunreef.com,sunreef,from,1,2026-02-15T05:12:22Z,2026-02-15T05:12:22Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Beril
+arzu.sancar@finhause.com.tr,arzu.sancar@finhause.com.tr,finhause.com.tr,finhause,to,1,2026-02-13T08:17:40Z,2026-02-13T08:17:40Z,ayhan.agirgol@finhouse.com.tr,,person,low,Arzu Sancar
+azru.sancar@finhouse.com.tr,azru.sancar@finhouse.com.tr,finhouse.com.tr,finhouse,to,1,2026-02-12T18:45:50Z,2026-02-12T18:45:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,Azru Sancar
+oguz.kaya@sabancidx.com,Oğuz Kaya,sabancidx.com,sabancidx,to,1,2026-02-12T06:20:17Z,2026-02-12T06:20:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Oğuz Kaya
+hizmet@turkcell.com.tr,hizmet@turkcell.com.tr,turkcell.com.tr,turkcell,to,1,2026-02-11T12:56:35Z,2026-02-11T12:56:35Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Hizmet
+ilayda.kucukafacan@enlighty.ai,ilayda.kucukafacan@enlighty.ai,enlighty.ai,enlighty,to,1,2026-02-11T12:39:54Z,2026-02-11T12:39:54Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ilayda Kucukafacan
+ilaydakucukafacan@gmail.com,İlayda Küçükafacan,gmail.com,gmail,to,1,2026-02-11T12:39:54Z,2026-02-11T12:39:54Z,ayhan.agirgol@finhouse.com.tr,,person,low,İlayda Küçükafacan
+zeynep.ustugen@asseco-see.com.tr,Zeynep Ustugen,asseco-see.com.tr,asseco-see,to,1,2026-02-11T08:57:10Z,2026-02-11T08:57:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,Zeynep Ustugen
+ayhan.agirgol@turkkep.com.tr,Ayhan Agirgol,turkkep.com.tr,turkkep,to,1,2026-02-09T13:27:26Z,2026-02-09T13:27:26Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ayhan Agirgol
+ozler.icel@moneymate.com.tr,ozler.icel@moneymate.com.tr,moneymate.com.tr,moneymate,to,1,2026-02-09T08:01:10Z,2026-02-09T08:01:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ozler Icel
+ozge.kalkavan@hedefbank.com.tr,Özge Kalkavan,hedefbank.com.tr,hedefbank,to,1,2026-02-09T04:27:46Z,2026-02-09T04:27:46Z,ayhan.agirgol@finhouse.com.tr,,person,low,Özge Kalkavan
+info@mail.uipath.com,UiPath,mail.uipath.com,uipath,from,1,2026-02-07T17:38:04Z,2026-02-07T17:38:04Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,UiPath
+aykut.koc@firisbe.com,Aykut Koç | Firisbe,firisbe.com,firisbe,to,1,2026-02-06T10:56:25Z,2026-02-06T10:56:25Z,ayhan.agirgol@finhouse.com.tr,,person,low,Aykut Koç | Firisbe
+gorkem.duman@firisbe.com,Görkem Duman | Firisbe,firisbe.com,firisbe,to,1,2026-02-06T10:56:25Z,2026-02-06T10:56:25Z,ayhan.agirgol@finhouse.com.tr,,person,low,Görkem Duman | Firisbe
+erden.altun@bulutistan.com,erden.altun,bulutistan.com,bulutistan,to,1,2026-02-06T05:59:41Z,2026-02-06T05:59:41Z,ayhan.agirgol@finhouse.com.tr,,person,low,erden.altun
+oznur.ozenis@verisoft.com,Öznur Özenis,verisoft.com,verisoft,to,1,2026-02-05T07:54:32Z,2026-02-05T07:54:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Öznur Özenis
+e.varol@searchinform.com,Elena Varol,searchinform.com,searchinform,to,1,2026-02-04T10:09:30Z,2026-02-04T10:09:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Elena Varol
+metin.olge@fibafactoring.com.tr,metin.olge@fibafactoring.com.tr,fibafactoring.com.tr,fibafactoring,to,1,2026-02-03T15:11:43Z,2026-02-03T15:11:43Z,ayhan.agirgol@finhouse.com.tr,,person,low,Metin Olge
+mehmet.susakli@fibafactoring.com.tr,mehmet.susakli@fibafactoring.com.tr,fibafactoring.com.tr,fibafactoring,to,1,2026-02-03T15:11:43Z,2026-02-03T15:11:43Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mehmet Susakli
+baris.tekin@fibafactoring.com.tr,baris.tekin@fibafactoring.com.tr,fibafactoring.com.tr,fibafactoring,to,1,2026-02-03T15:11:43Z,2026-02-03T15:11:43Z,ayhan.agirgol@finhouse.com.tr,,person,low,Baris Tekin
+gamze.kaplangokalp@odeabank.com.tr,Gamze.KaplanGokalp@odeabank.com.tr,odeabank.com.tr,odeabank,to,1,2026-02-03T14:30:15Z,2026-02-03T14:30:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gamze Kaplangokalp
+erdem.celikel@aktiftech.com,erdem.celikel@aktiftech.com,aktiftech.com,aktiftech,to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erdem Celikel
+muratcan.polat@aktiftech.com,muratcan.polat@aktiftech.com,aktiftech.com,aktiftech,to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,ayhan.agirgol@finhouse.com.tr,,person,low,Muratcan Polat
+oguzkaan.eksi@aktiftech.com,OguzKaan.Eksi@aktiftech.com,aktiftech.com,aktiftech,to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,ayhan.agirgol@finhouse.com.tr,,person,low,Oguzkaan Eksi
+yzinisiyatifi@aktifbank.com.tr,yzinisiyatifi@aktifbank.com.tr,aktifbank.com.tr,aktifbank,to,1,2026-01-28T08:53:03Z,2026-01-28T08:53:03Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Yzinisiyatifi
+sales@craftgate.io,sales@craftgate.io,craftgate.io,craftgate,to,1,2026-01-27T08:35:42Z,2026-01-27T08:35:42Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,sales@craftgate.io
+havvanur.ozdemir@isbank.com.tr,Havvanur Özdemir,isbank.com.tr,isbank,to,1,2026-01-27T06:26:50Z,2026-01-27T06:26:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,Havvanur Özdemir
+tyildirim@marmarateknokent.com.tr,Ömer Tarık YILDIRIM,marmarateknokent.com.tr,marmarateknokent,from,1,2026-01-26T07:46:56Z,2026-01-26T07:46:56Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ömer Tarık YILDIRIM
+kulucka@marmarateknokent.com.tr,kulucka@marmarateknokent.com.tr,marmarateknokent.com.tr,marmarateknokent,to,1,2026-01-26T07:46:56Z,2026-01-26T07:46:56Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Kulucka
+tto@marmarateknokent.com.tr,tto@marmarateknokent.com.tr,marmarateknokent.com.tr,marmarateknokent,to,1,2026-01-26T07:46:56Z,2026-01-26T07:46:56Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Tto
+pinar.cetinim@alternatifbank.com.tr,pinar.cetinim@alternatifbank.com.tr,alternatifbank.com.tr,alternatifbank,to,1,2026-01-23T08:49:49Z,2026-01-23T08:49:49Z,ayhan.agirgol@finhouse.com.tr,,person,low,Pinar Cetinim
+korhan.korkmaz@alternatifbank.com.tr,Korhan.Korkmaz@alternatifbank.com.tr,alternatifbank.com.tr,alternatifbank,to,1,2026-01-23T08:49:49Z,2026-01-23T08:49:49Z,ayhan.agirgol@finhouse.com.tr,,person,low,Korhan Korkmaz
+serhan.yildiz@bogazici.edu.tr,serhan.yildiz@bogazici.edu.tr,bogazici.edu.tr,bogazici,to,1,2026-01-21T13:42:46Z,2026-01-21T13:42:46Z,ayhan.agirgol@finhouse.com.tr,,person,low,Serhan Yildiz
+info+fintechcircle.com.2370@933354.myactivecampaign.com,FINTECH Circle,933354.myactivecampaign.com,myactivecampaign,from,1,2026-01-20T22:21:55Z,2026-01-20T22:21:55Z,ayhan.agirgol@finhouse.com.tr,,person,low,FINTECH Circle
+latif@magicpay.ai,latif@magicpay.ai,magicpay.ai,magicpay,to,1,2026-01-20T15:27:50Z,2026-01-20T15:27:50Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Latif
+crowdcasts@crowdstrike.com,CrowdStrike,crowdstrike.com,crowdstrike,from,1,2026-01-20T08:45:39Z,2026-01-20T08:45:39Z,ayhan.agirgol@finhouse.com.tr,,organization,low,CrowdStrike
+yeliz.agca@turktelekom.com.tr,yeliz.agca@turktelekom.com.tr,turktelekom.com.tr,turktelekom,to,1,2026-01-20T05:00:21Z,2026-01-20T05:00:21Z,ayhan.agirgol@finhouse.com.tr,,person,low,Yeliz Agca
+okan.dede@somposigorta.com.tr,okan.dede@somposigorta.com.tr,somposigorta.com.tr,somposigorta,to,1,2026-01-19T12:22:04Z,2026-01-19T12:22:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,Okan Dede
+efe.yilmaz@cloudandcloud.net,efe.yilmaz@cloudandcloud.net,cloudandcloud.net,cloudandcloud,to,1,2026-01-19T12:22:04Z,2026-01-19T12:22:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,Efe Yilmaz
+mert.zeybek@yonetim.academy,mert.zeybek@yonetim.academy,yonetim.academy,academy,to,1,2026-01-19T12:22:04Z,2026-01-19T12:22:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mert Zeybek
+alec@hello.design.com,Alec Lynch,hello.design.com,design,from,1,2026-01-17T10:31:34Z,2026-01-17T10:31:34Z,ayhan.agirgol@finhouse.com.tr,,person,low,Alec Lynch
+support@design.com,Design.com,design.com,design,from,1,2026-01-17T10:30:27Z,2026-01-17T10:30:27Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Design.com
+marketing@yzf.com.tr,Yapay Zeka Fabrikası,yzf.com.tr,yzf,from,1,2026-01-16T17:41:25Z,2026-01-16T17:41:25Z,ayhan.agirgol@finhouse.com.tr,,person,low,Yapay Zeka Fabrikası
+mail@bigid.com,BigID Team,bigid.com,bigid,from,1,2026-01-15T21:48:50Z,2026-01-15T21:48:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,BigID Team
+bilgilendirme@kamusm.gov.tr,bilgilendirme@kamusm.gov.tr,kamusm.gov.tr,kamusm,from,1,2026-01-15T12:17:00Z,2026-01-15T12:17:00Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Bilgilendirme
+ece.ozen@dunyavarlik.com,Ece Özen,dunyavarlik.com,dunyavarlik,to,1,2026-01-15T08:42:47Z,2026-01-15T08:42:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ece Özen
+murat@cxltd.com,murat@cxltd.com,cxltd.com,cxltd,to,1,2026-01-14T10:45:18Z,2026-01-14T10:45:18Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Murat
+busra@co-one.co,Busra Demir,co-one.co,co-one,to,1,2026-01-14T10:45:18Z,2026-01-14T10:45:18Z,ayhan.agirgol@finhouse.com.tr,,person,low,Busra Demir
+cevdet.yilmaz@hayatfinans.com.tr,Cevdet Yılmaz,hayatfinans.com.tr,hayatfinans,to,1,2026-03-20T16:33:03Z,2026-03-20T16:33:03Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cevdet Yılmaz
+nadir.sahbaz@albarakatech.com.tr,nadir.sahbaz@albarakatech.com.tr,albarakatech.com.tr,albarakatech,to,1,2026-03-20T16:29:21Z,2026-03-20T16:29:21Z,ayhan.agirgol@finhouse.com.tr,,person,low,Nadir Sahbaz
+oarslan@atilimfaktoring.com.tr,'Osman Arslan',atilimfaktoring.com.tr,atilimfaktoring,to,1,2026-03-20T16:29:13Z,2026-03-20T16:29:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Osman Arslan'
+alper.kanat@getmidas.com,'Alper Kanat',getmidas.com,getmidas,to,1,2026-03-20T16:29:09Z,2026-03-20T16:29:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Alper Kanat'
+veysel.kingir@tech4pay.com,'Veysel Kıngır | Tech4Pay',tech4pay.com,tech4pay,to,1,2026-03-20T16:29:06Z,2026-03-20T16:29:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Veysel Kıngır | Tech4Pay'
+onur.balcik@wechiptech.com,'Onur Balcik | Wechip',wechiptech.com,wechiptech,to,1,2026-03-20T16:29:04Z,2026-03-20T16:29:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Onur Balcik | Wechip'
+mithat.goksel@aksis.com.tr,Mithat Göksel,aksis.com.tr,aksis,to,1,2026-03-20T16:29:00Z,2026-03-20T16:29:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mithat Göksel
+fuat.yildirim@fkb.org.tr,fuat.yildirim@fkb.org.tr,fkb.org.tr,fkb,to,1,2026-03-20T16:28:53Z,2026-03-20T16:28:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Fuat Yildirim
+iskender@getmagnus.com,'İskender Ada',getmagnus.com,getmagnus,to,1,2026-03-20T16:28:50Z,2026-03-20T16:28:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,'İskender Ada'
+omer.yazicioglu@hayatfinans.com.tr,omer.yazicioglu@hayatfinans.com.tr,hayatfinans.com.tr,hayatfinans,to,1,2026-03-20T16:28:48Z,2026-03-20T16:28:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Omer Yazicioglu
+taylan.koc@kargoist.com,Taylan Koç,kargoist.com,kargoist,to,1,2026-03-20T16:28:29Z,2026-03-20T16:28:29Z,ayhan.agirgol@finhouse.com.tr,,person,low,Taylan Koç
+mustafa@akinfaktoring.com.tr,Mustafa Taşralı,akinfaktoring.com.tr,akinfaktoring,to,1,2026-03-20T16:28:26Z,2026-03-20T16:28:26Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mustafa Taşralı
+soner.mescioglu@aktifportfoy.com.tr,soner.mescioglu@aktifportfoy.com.tr,aktifportfoy.com.tr,aktifportfoy,to,1,2026-03-20T16:28:22Z,2026-03-20T16:28:22Z,ayhan.agirgol@finhouse.com.tr,,person,low,Soner Mescioglu
+yusuf.genc@d-teknoloji.com.tr,'Yusuf Genc (Dogus Teknoloji)',d-teknoloji.com.tr,d-teknoloji,to,1,2026-03-20T16:25:37Z,2026-03-20T16:25:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Yusuf Genc (Dogus Teknoloji)'
+mr.serdar.balci@gmail.com,mr.serdar.balci@gmail.com,gmail.com,gmail,to,1,2026-03-20T16:25:31Z,2026-03-20T16:25:31Z,ayhan.agirgol@finhouse.com.tr,,person,low,MR Serdar Balci
+akbar@avcitanitim.com,akbar@avcitanitim.com,avcitanitim.com,avcitanitim,to,1,2026-03-20T16:25:29Z,2026-03-20T16:25:29Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Akbar
+sinem.sener@bilesim.net.tr,'Sinem Şener',bilesim.net.tr,bilesim,to,1,2026-03-20T16:25:26Z,2026-03-20T16:25:26Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Sinem Şener'
+guray.kuru@bilesim.net.tr,'Güray Kuru',bilesim.net.tr,bilesim,to,1,2026-03-20T16:25:23Z,2026-03-20T16:25:23Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Güray Kuru'
+recep.yakut@bilesim.net.tr,'Recep Yakut',bilesim.net.tr,bilesim,to,1,2026-03-20T16:25:19Z,2026-03-20T16:25:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Recep Yakut'
+ugur.topcu@bilesim.net.tr,'Uğur Topçu',bilesim.net.tr,bilesim,to,1,2026-03-20T16:25:16Z,2026-03-20T16:25:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Uğur Topçu'
+hasan.peksen@bilesim.net.tr,'Hasan Pekşen',bilesim.net.tr,bilesim,to,1,2026-03-20T16:25:14Z,2026-03-20T16:25:14Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Hasan Pekşen'
+bertan.demirci@zorlu.com,'Bertan Demirci',zorlu.com,zorlu,to,1,2026-03-20T16:25:11Z,2026-03-20T16:25:11Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Bertan Demirci'
+taner.aslan@misyon.com,'Taner ASLAN',misyon.com,misyon,to,1,2026-03-20T16:25:08Z,2026-03-20T16:25:08Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Taner ASLAN'
+muhammet.cerit@misyon.com,'Muhammet CERİT',misyon.com,misyon,to,1,2026-03-20T16:25:04Z,2026-03-20T16:25:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Muhammet CERİT'
+buse@kayaport.com,'Buse TURHAN (Kayaport)',kayaport.com,kayaport,to,1,2026-03-20T16:24:59Z,2026-03-20T16:24:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Buse TURHAN (Kayaport)'
+murat.kokdemir@tomdigital.com.tr,Murat.kokdemir@tomdigital.com.tr,tomdigital.com.tr,tomdigital,to,1,2026-03-20T16:24:56Z,2026-03-20T16:24:56Z,ayhan.agirgol@finhouse.com.tr,,person,low,Murat Kokdemir
+hakan.akova@profen.com,Hakan Akova,profen.com,profen,to,1,2026-03-20T16:24:53Z,2026-03-20T16:24:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Akova
+tugberk.seckin@payburger.com,tugberk.seckin@payburger.com,payburger.com,payburger,to,1,2026-03-20T16:24:50Z,2026-03-20T16:24:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,Tugberk Seckin
+hilmi@yancep.com,'Hilmi Kaya',yancep.com,yancep,to,1,2026-03-20T16:24:47Z,2026-03-20T16:24:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Hilmi Kaya'
+abdullah.aslan@birevim.com.tr,abdullah.aslan@birevim.com.tr,birevim.com.tr,birevim,to,1,2026-03-20T16:24:24Z,2026-03-20T16:24:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Abdullah Aslan
+cengizhan@ode.al,cengizhan@ode.al,ode.al,al,to,1,2026-03-20T16:24:15Z,2026-03-20T16:24:15Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Cengizhan
+arife.elmasbayram@ziraatkatilim.com.tr,Arife.ElmasBayram@ziraatkatilim.com.tr,ziraatkatilim.com.tr,ziraatkatilim,to,1,2026-03-20T16:24:12Z,2026-03-20T16:24:12Z,ayhan.agirgol@finhouse.com.tr,,person,low,Arife Elmasbayram
+engin.avci@mplusgroup.com.tr,Engin.Avci@mplusgroup.com.tr,mplusgroup.com.tr,mplusgroup,to,1,2026-03-20T16:24:09Z,2026-03-20T16:24:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,Engin Avci
+ozkan.ok@paratika.com.tr,ozkan.ok@paratika.com.tr,paratika.com.tr,paratika,to,1,2026-03-20T16:24:06Z,2026-03-20T16:24:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ozkan OK
+burak.yaziksiz@paratika.com.tr,burak.yaziksiz@paratika.com.tr,paratika.com.tr,paratika,to,1,2026-03-20T16:24:03Z,2026-03-20T16:24:03Z,ayhan.agirgol@finhouse.com.tr,,person,low,Burak Yaziksiz
+anil@finekra.com,anil@finekra.com,finekra.com,finekra,to,1,2026-03-20T16:23:54Z,2026-03-20T16:23:54Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Anil
+beril.sarohan@firisbe.com,'Beril Sarohan | Firisbe',firisbe.com,firisbe,to,1,2026-03-20T16:23:52Z,2026-03-20T16:23:52Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Beril Sarohan | Firisbe'
+tayfun.topkoc@akinon.com,'Tayfun Topkoç',akinon.com,akinon,to,1,2026-03-20T16:23:50Z,2026-03-20T16:23:50Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Tayfun Topkoç'
+mehmet@finlab.com.tr,'Mehmet Kavi',finlab.com.tr,finlab,to,1,2026-03-20T16:23:46Z,2026-03-20T16:23:46Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Mehmet Kavi'
+kkalkan@vhvsigorta.com.tr,KKalkan@vhvsigorta.com.tr,vhvsigorta.com.tr,vhvsigorta,to,1,2026-03-20T16:23:37Z,2026-03-20T16:23:37Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Kkalkan
+mehmet.sahin@fkb.org.tr,Mehmet.Sahin@fkb.org.tr,fkb.org.tr,fkb,to,1,2026-03-20T16:23:35Z,2026-03-20T16:23:35Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mehmet Sahin
+taylan.ozsoy@vepara.com.tr,Tayian Özsoy,vepara.com.tr,vepara,to,1,2026-03-20T16:23:32Z,2026-03-20T16:23:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Tayian Özsoy
+muhammet.sahin@vepara.com.tr,muhammet.sahin@vepara.com.tr,vepara.com.tr,vepara,to,1,2026-03-20T16:23:28Z,2026-03-20T16:23:28Z,ayhan.agirgol@finhouse.com.tr,,person,low,Muhammet Sahin
+ayhan.agirgol@evergreen.com.tr,ayhan.agirgol@evergreen.com.tr,evergreen.com.tr,evergreen,to,1,2026-03-20T16:23:10Z,2026-03-20T16:23:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ayhan Agirgol
+gtercan@gmail.com,gtercan@gmail.com,gmail.com,gmail,to,1,2026-03-20T16:23:06Z,2026-03-20T16:23:06Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Gtercan
+merve.yanik@prianto.com,Merve Yanik,prianto.com,prianto,to,1,2026-03-20T16:23:04Z,2026-03-20T16:23:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,Merve Yanik
+elif.mutlu@bilesim.net.tr,Elif Mutlu,bilesim.net.tr,bilesim,to,1,2026-03-20T16:20:19Z,2026-03-20T16:20:19Z,ayhan.agirgol@finhouse.com.tr,,person,low,Elif Mutlu
+sevcan.cetinkayademir@bilgeadam.com,Sevcan CETINKAYA DEMIR (BilgeAdam),bilgeadam.com,bilgeadam,to,1,2026-03-20T16:20:16Z,2026-03-20T16:20:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sevcan CETINKAYA DEMIR (BilgeAdam)
+behic.tanagardi@bilgeadam.com,behic.tanagardi@bilgeadam.com,bilgeadam.com,bilgeadam,to,1,2026-03-20T16:20:12Z,2026-03-20T16:20:12Z,ayhan.agirgol@finhouse.com.tr,,person,low,Behic Tanagardi
+ebru.ozgen@basistek.com.tr,Ebru Özgen,basistek.com.tr,basistek,to,1,2026-03-20T16:20:09Z,2026-03-20T16:20:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ebru Özgen
+hatice.ayas@asseco-see.com.tr,Hatice Ayas,asseco-see.com.tr,asseco-see,to,1,2026-03-20T16:20:05Z,2026-03-20T16:20:05Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hatice Ayas
+resatgokayy@gmail.com,resatgokayy@gmail.com,gmail.com,gmail,to,1,2026-03-20T16:20:01Z,2026-03-20T16:20:01Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Resatgokayy
+alpercakir1@hotmail.com,ALPER ÇAKIR,hotmail.com,hotmail,to,1,2026-03-20T16:19:58Z,2026-03-20T16:19:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,ALPER ÇAKIR
+cembinerer@protem.com.tr,Cem Binerer,protem.com.tr,protem,to,1,2026-03-20T16:19:51Z,2026-03-20T16:19:51Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cem Binerer
+gulsah.erayata@tomdigital.com.tr,Gülşah Erayata,tomdigital.com.tr,tomdigital,to,1,2026-03-20T16:19:46Z,2026-03-20T16:19:46Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gülşah Erayata
+cagri@electroop.io,cagri@electroop.io,electroop.io,electroop,to,1,2026-03-20T16:19:41Z,2026-03-20T16:19:41Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Cagri
+derya@nefsolution.com,derya@nefsolution.com,nefsolution.com,nefsolution,to,1,2026-03-20T16:19:35Z,2026-03-20T16:19:35Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Derya
+erdem@letta.com,erdem@letta.com,letta.com,letta,to,1,2026-03-20T16:19:33Z,2026-03-20T16:19:33Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Erdem
+yavuzgurlek@protem.com.tr,'Yavuz Gürlek',protem.com.tr,protem,to,1,2026-03-20T16:19:31Z,2026-03-20T16:19:31Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Yavuz Gürlek'
+berkay.eroglu@firisbe.com,Berkay Eroğlu | Firisbe,firisbe.com,firisbe,to,1,2026-03-20T16:19:28Z,2026-03-20T16:19:28Z,ayhan.agirgol@finhouse.com.tr,,person,low,Berkay Eroğlu | Firisbe
+eyup.kilincdemir@payten.com,Eyup Kilincdemir,payten.com,payten,to,1,2026-03-20T16:19:06Z,2026-03-20T16:19:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Eyup Kilincdemir
+ismail.orhan@payten.com,Ismail Orhan,payten.com,payten,to,1,2026-03-20T16:19:02Z,2026-03-20T16:19:02Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ismail Orhan
+ramazan.kucuk@finwiseconsulting.com.tr,ramazan.kucuk@finwiseconsulting.com.tr,finwiseconsulting.com.tr,finwiseconsulting,to,1,2026-03-20T16:18:57Z,2026-03-20T16:18:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ramazan Kucuk
+erdem.girgic@posiflex-ist.com,Erdem Girgic,posiflex-ist.com,posiflex-ist,to,1,2026-03-20T16:18:55Z,2026-03-20T16:18:55Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erdem Girgic
+meryem.erkilic@insha.ventures,meryem.erkilic@insha.ventures,insha.ventures,ventures,to,1,2026-03-20T16:18:52Z,2026-03-20T16:18:52Z,ayhan.agirgol@finhouse.com.tr,,person,low,Meryem Erkilic
+burak.hira@asirbank.com.tr,burak.hira@asirbank.com.tr,asirbank.com.tr,asirbank,to,1,2026-03-20T16:18:48Z,2026-03-20T16:18:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Burak Hira
+ali.ayad@alsaqi.iq,ali.ayad@alsaqi.iq,alsaqi.iq,iq,to,1,2026-03-20T16:18:39Z,2026-03-20T16:18:39Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ali Ayad
+tamer.guven@asirbank.com.tr,tamer.guven@asirbank.com.tr,asirbank.com.tr,asirbank,to,1,2026-03-20T16:18:38Z,2026-03-20T16:18:38Z,ayhan.agirgol@finhouse.com.tr,,person,low,Tamer Guven
+info@lazzonihotel.com,info@lazzonihotel.com,lazzonihotel.com,lazzonihotel,to,1,2026-03-20T16:18:38Z,2026-03-20T16:18:38Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,info@lazzonihotel.com
+oguzunal@live.com,Oğuz Ünal,live.com,live,to,1,2026-03-20T16:18:35Z,2026-03-20T16:18:35Z,ayhan.agirgol@finhouse.com.tr,,person,low,Oğuz Ünal
+erhan.gedik@platinbilisim.com.tr,Erhan.Gedik@platinbilisim.com.tr,platinbilisim.com.tr,platinbilisim,to,1,2026-03-20T16:18:24Z,2026-03-20T16:18:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erhan Gedik
+ismail.gokcen@yaz.com.tr,ismail.gokcen@yaz.com.tr,yaz.com.tr,yaz,to,1,2026-03-20T16:18:20Z,2026-03-20T16:18:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ismail Gokcen
+kahraman@epin.com.tr,kahraman@epin.com.tr,epin.com.tr,epin,to,1,2026-03-20T16:18:17Z,2026-03-20T16:18:17Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Kahraman
+hakan.gumus@yahoo.com.tr,hakan.gumus@yahoo.com.tr,yahoo.com.tr,yahoo,to,1,2026-03-20T16:17:55Z,2026-03-20T16:17:55Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Gumus
+ali@alsaqi.iq,Ali S. Noor,alsaqi.iq,iq,to,1,2026-03-20T16:17:53Z,2026-03-20T16:17:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ali S. Noor
+harika.yalaza@confisio.tech,Harika Yalaza,confisio.tech,tech,to,1,2026-03-20T16:17:48Z,2026-03-20T16:17:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Harika Yalaza
+ozkan.koculu@misyon.com,ozkan.koculu@misyon.com,misyon.com,misyon,to,1,2026-03-20T16:15:02Z,2026-03-20T16:15:02Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ozkan Koculu
+hakan.erarslan@gmail.com,hakan.erarslan@gmail.com,gmail.com,gmail,to,1,2026-03-20T16:14:58Z,2026-03-20T16:14:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan Erarslan
+faki.ozgur@codit.com.tr,faki.ozgur@codit.com.tr,codit.com.tr,codit,to,1,2026-03-20T16:14:55Z,2026-03-20T16:14:55Z,ayhan.agirgol@finhouse.com.tr,,person,low,Faki Ozgur
+cantunali@gmail.com,Can TUNALI,gmail.com,gmail,to,1,2026-03-20T16:14:52Z,2026-03-20T16:14:52Z,ayhan.agirgol@finhouse.com.tr,,person,low,Can TUNALI
+banu.hizli@mplusgroup.com.tr,banu.hizli@mplusgroup.com.tr,mplusgroup.com.tr,mplusgroup,to,1,2026-03-20T16:14:48Z,2026-03-20T16:14:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Banu Hizli
+eozturk@turkonay.com.tr,eozturk@turkonay.com.tr,turkonay.com.tr,turkonay,to,1,2026-03-20T16:14:46Z,2026-03-20T16:14:46Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Eozturk
+cenkeripin@gmail.com,Cenker Ipin,gmail.com,gmail,to,1,2026-03-20T16:14:43Z,2026-03-20T16:14:43Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cenker Ipin
+huyanik@ulusalfaktoring.com,Hakan UYANIK,ulusalfaktoring.com,ulusalfaktoring,to,1,2026-03-20T16:14:39Z,2026-03-20T16:14:39Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hakan UYANIK
+olcay.atlioglu@halkbank.com.tr,Olcay ATLIOGLU,halkbank.com.tr,halkbank,to,1,2026-03-20T16:14:36Z,2026-03-20T16:14:36Z,ayhan.agirgol@finhouse.com.tr,,person,low,Olcay ATLIOGLU
+ismail.bayraktar@figensoft.com,Ismail Bayraktar,figensoft.com,figensoft,to,1,2026-03-20T16:14:34Z,2026-03-20T16:14:34Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ismail Bayraktar
+binnaz@figensoft.com,Binnaz Bayraktar,figensoft.com,figensoft,to,1,2026-03-20T16:14:28Z,2026-03-20T16:14:28Z,ayhan.agirgol@finhouse.com.tr,,person,low,Binnaz Bayraktar
+omerfetvaci@gmail.com,omerfetvaci@gmail.com,gmail.com,gmail,to,1,2026-03-20T16:14:24Z,2026-03-20T16:14:24Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Omerfetvaci
+bahadir.isguzerer@sompoteknoloji.com.tr,BAHADIR ISGUZERER,sompoteknoloji.com.tr,sompoteknoloji,to,1,2026-03-20T16:14:17Z,2026-03-20T16:14:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,BAHADIR ISGUZERER
+elvan.boyaci@somposigorta.com.tr,ELVAN BOYACI,somposigorta.com.tr,somposigorta,to,1,2026-03-20T16:14:10Z,2026-03-20T16:14:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,ELVAN BOYACI
+zumra.yucesoy@sompoteknoloji.com.tr,ZUMRA YUCESOY,sompoteknoloji.com.tr,sompoteknoloji,to,1,2026-03-20T16:14:08Z,2026-03-20T16:14:08Z,ayhan.agirgol@finhouse.com.tr,,person,low,ZUMRA YUCESOY
+dakkaranfil@burgan.com.tr,Darço Akkaranfil,burgan.com.tr,burgan,to,1,2026-03-20T16:13:47Z,2026-03-20T16:13:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Darço Akkaranfil
+erdemyoruk@enlighty.ai,Erdem Yörük | Enlighty AI,enlighty.ai,enlighty,to,1,2026-03-20T16:13:44Z,2026-03-20T16:13:44Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erdem Yörük | Enlighty AI
+iggus@burgan.com.tr,iggus@burgan.com.tr,burgan.com.tr,burgan,to,1,2026-03-20T16:13:41Z,2026-03-20T16:13:41Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Iggus
+emre.soylemez@ykteknoloji.com.tr,Emre Söylemez,ykteknoloji.com.tr,ykteknoloji,to,1,2026-03-20T16:13:38Z,2026-03-20T16:13:38Z,ayhan.agirgol@finhouse.com.tr,,person,low,Emre Söylemez
+celal.ozel@beytturk.com,Celal Bey Beyttürk CEO,beytturk.com,beytturk,to,1,2026-03-20T16:13:34Z,2026-03-20T16:13:34Z,ayhan.agirgol@finhouse.com.tr,,person,low,Celal Bey Beyttürk CEO
+mbarman@beytturkholding.com,Muhammet Uğurcan Barman,beytturkholding.com,beytturkholding,to,1,2026-03-20T16:13:29Z,2026-03-20T16:13:29Z,ayhan.agirgol@finhouse.com.tr,,person,low,Muhammet Uğurcan Barman
+gulistankarakurt@aydin.edu.tr,Gülistan KARAKURT,aydin.edu.tr,aydin,to,1,2026-03-20T16:09:46Z,2026-03-20T16:09:46Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gülistan KARAKURT
+email@payrix.com,Payrix,payrix.com,payrix,to,1,2026-03-20T16:09:44Z,2026-03-20T16:09:44Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Payrix
+dogan.pirnal@payten.com,Dogan Pirnal,payten.com,payten,to,1,2026-03-20T16:09:40Z,2026-03-20T16:09:40Z,ayhan.agirgol@finhouse.com.tr,,person,low,Dogan Pirnal
+mkahyaoglu@opentext.com,Mustafa Kahyaoglu,opentext.com,opentext,to,1,2026-03-20T16:09:36Z,2026-03-20T16:09:36Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mustafa Kahyaoglu
+emre.koprulu@ducere.com.tr,Emre Köprülü,ducere.com.tr,ducere,to,1,2026-03-20T16:09:34Z,2026-03-20T16:09:34Z,ayhan.agirgol@finhouse.com.tr,,person,low,Emre Köprülü
+oya.ertugrul@neogenerationmanagement.com,oya.ertugrul@neogenerationmanagement.com,neogenerationmanagement.com,neogenerationmanagement,to,1,2026-03-20T16:09:29Z,2026-03-20T16:09:29Z,ayhan.agirgol@finhouse.com.tr,,person,low,Oya Ertugrul
+pay2@pavo.com.tr,Pay2@pavo.com.tr,pavo.com.tr,pavo,to,1,2026-03-20T16:09:24Z,2026-03-20T16:09:24Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Pay2
+audience@industrydive.com,Payments Dive,industrydive.com,industrydive,to,1,2026-03-20T16:09:21Z,2026-03-20T16:09:21Z,ayhan.agirgol@finhouse.com.tr,,person,low,Payments Dive
+support@outlier.ai,Outlier Team,outlier.ai,outlier,to,1,2026-03-20T16:09:13Z,2026-03-20T16:09:13Z,ayhan.agirgol@finhouse.com.tr,,person,low,Outlier Team
+fsoc_notify@platinbilisim.com.tr,Platin Bilisim Fusion Security Operations Center,platinbilisim.com.tr,platinbilisim,to,1,2026-03-20T16:09:10Z,2026-03-20T16:09:10Z,ayhan.agirgol@finhouse.com.tr,,person,low,Platin Bilisim Fusion Security Operations Center
+metin.caliskan@netloresecurity.com,Metin Çalışkan,netloresecurity.com,netloresecurity,to,1,2026-03-20T16:09:05Z,2026-03-20T16:09:05Z,ayhan.agirgol@finhouse.com.tr,,person,low,Metin Çalışkan
+zaid@alsaqi.iq,zaid@alsaqi.iq,alsaqi.iq,iq,to,1,2026-03-20T16:09:02Z,2026-03-20T16:09:02Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Zaid
+nazan.arica@softglobal.com,Nazan Arica,softglobal.com,softglobal,to,1,2026-03-20T16:08:57Z,2026-03-20T16:08:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Nazan Arica
+alexa.kar@sourcedefense.com,Alexa Karacostas,sourcedefense.com,sourcedefense,to,1,2026-03-20T16:08:55Z,2026-03-20T16:08:55Z,ayhan.agirgol@finhouse.com.tr,,person,low,Alexa Karacostas
+beril.dikmen@firisbe.com,Beril Dikmen | Firisbe,firisbe.com,firisbe,to,1,2026-03-20T16:08:52Z,2026-03-20T16:08:52Z,ayhan.agirgol@finhouse.com.tr,,person,low,Beril Dikmen | Firisbe
+halis.guven@tenity.com,Halis Güven | Tenity,tenity.com,tenity,to,1,2026-03-20T16:08:47Z,2026-03-20T16:08:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Halis Güven | Tenity
+dimitri.dadiomov@moderntreasury.com,Dimitri at Modern Treasury,moderntreasury.com,moderntreasury,to,1,2026-03-20T16:08:35Z,2026-03-20T16:08:35Z,ayhan.agirgol@finhouse.com.tr,,person,low,Dimitri at Modern Treasury
+alper.aydin@fups.com,Alper Aydin,fups.com,fups,to,1,2026-03-20T16:08:30Z,2026-03-20T16:08:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Alper Aydin
+customercare@kiwico.com,KiwiCo Customer Care,kiwico.com,kiwico,to,1,2026-03-20T16:08:25Z,2026-03-20T16:08:25Z,ayhan.agirgol@finhouse.com.tr,,person,low,KiwiCo Customer Care
+community@mail.miro.com,Mary from Miro,mail.miro.com,miro,to,1,2026-03-20T16:08:17Z,2026-03-20T16:08:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mary from Miro
+funda.siller@aktif.com,Funda Siller,aktif.com,aktif,to,1,2026-03-20T16:08:14Z,2026-03-20T16:08:14Z,ayhan.agirgol@finhouse.com.tr,,person,low,Funda Siller
+gokhan.hacioglu@transferchain.io,Gokhan Hacioglu,transferchain.io,transferchain,to,1,2026-03-20T16:08:09Z,2026-03-20T16:08:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,Gokhan Hacioglu
+pay3@pavo.com.tr,Pay3@pavo.com.tr,pavo.com.tr,pavo,to,1,2026-03-20T16:08:06Z,2026-03-20T16:08:06Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Pay3
+ayhan.bamyaci@platinbilisim.com.tr,Ayhan Bamyaci,platinbilisim.com.tr,platinbilisim,to,1,2026-03-20T16:07:57Z,2026-03-20T16:07:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ayhan Bamyaci
+mercedes-benz@tr.mercedes-benz.eu,Mercedes-Benz,tr.mercedes-benz.eu,eu,to,1,2026-03-20T16:07:53Z,2026-03-20T16:07:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mercedes-Benz
+pay4@pavo.com.tr,Pay4@pavo.com.tr,pavo.com.tr,pavo,to,1,2026-03-20T16:07:50Z,2026-03-20T16:07:50Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Pay4
+reyhan@fintechistanbul.org,Reyhan Yılmaz,fintechistanbul.org,fintechistanbul,to,1,2026-03-20T16:07:46Z,2026-03-20T16:07:46Z,ayhan.agirgol@finhouse.com.tr,,person,low,Reyhan Yılmaz
+serap.tatli@icore.com.tr,Serap TATLI,icore.com.tr,icore,to,1,2026-03-20T16:07:44Z,2026-03-20T16:07:44Z,ayhan.agirgol@finhouse.com.tr,,person,low,Serap TATLI
+uluslararasi@ito.org.tr,uluslararasi@ito.org.tr,ito.org.tr,ito,to,1,2026-03-20T16:07:39Z,2026-03-20T16:07:39Z,ayhan.agirgol@finhouse.com.tr,,organization,low,Uluslararasi
+falpyilmaz@opentext.com,Fatih Tuna Alpyilmaz,opentext.com,opentext,to,1,2026-03-20T16:07:36Z,2026-03-20T16:07:36Z,ayhan.agirgol@finhouse.com.tr,,person,low,Fatih Tuna Alpyilmaz
+hazal.kani@softglobal.com,Hazal Kani,softglobal.com,softglobal,to,1,2026-03-20T16:07:21Z,2026-03-20T16:07:21Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hazal Kani
+store11@matriksdata.com,Matriks Store,matriksdata.com,matriksdata,to,1,2026-03-20T16:07:18Z,2026-03-20T16:07:18Z,ayhan.agirgol@finhouse.com.tr,,person,low,Matriks Store
+store3@matriksdata.com,Matriks Store,matriksdata.com,matriksdata,to,1,2026-03-20T16:07:16Z,2026-03-20T16:07:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,Matriks Store
+ayhan.agirgol@orbina.ai,Ayhan Ağırgöl,orbina.ai,orbina,to,1,2026-03-20T16:04:24Z,2026-03-20T16:04:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ayhan Ağırgöl
+arinela.coskun@tebarf.com.tr,arinela.coskun@tebarf.com.tr,tebarf.com.tr,tebarf,to,1,2026-03-20T16:04:22Z,2026-03-20T16:04:22Z,ayhan.agirgol@finhouse.com.tr,,person,low,Arinela Coskun
+mehmet.bostancioglu@sompoteknoloji.com.tr,MEHMET BOSTANCIOGLU,sompoteknoloji.com.tr,sompoteknoloji,to,1,2026-03-20T16:04:20Z,2026-03-20T16:04:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,MEHMET BOSTANCIOGLU
+celal.cundoglu@sipay.com.tr,Celal Cundoğlu,sipay.com.tr,sipay,to,1,2026-03-20T16:04:17Z,2026-03-20T16:04:17Z,ayhan.agirgol@finhouse.com.tr,,person,low,Celal Cundoğlu
+email@e.lucid.co,Lucid,e.lucid.co,lucid,to,1,2026-03-20T16:04:12Z,2026-03-20T16:04:12Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Lucid
+ezgi.sahan@payten.com,Ezgi Sahan,payten.com,payten,to,1,2026-03-20T16:04:07Z,2026-03-20T16:04:07Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ezgi Sahan
+kursad.lacin@orbina.ai,Kürşad Laçin,orbina.ai,orbina,to,1,2026-03-20T16:04:05Z,2026-03-20T16:04:05Z,ayhan.agirgol@finhouse.com.tr,,person,low,Kürşad Laçin
+sedef@webrazzi.com,İş CX Türkiye Ekibi,webrazzi.com,webrazzi,to,1,2026-03-20T16:04:02Z,2026-03-20T16:04:02Z,ayhan.agirgol@finhouse.com.tr,,person,low,İş CX Türkiye Ekibi
+erman.taskin@servicecore.app,Erman Taskin,servicecore.app,app,to,1,2026-03-20T16:03:54Z,2026-03-20T16:03:54Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erman Taskin
+marie.wilcox@binalyze.com,Marie Wilcox,binalyze.com,binalyze,to,1,2026-03-20T16:03:47Z,2026-03-20T16:03:47Z,ayhan.agirgol@finhouse.com.tr,,person,low,Marie Wilcox
+fal.coneurope@crowdstrike.com,CrowdStrike | Fal.Con Europe 2025,crowdstrike.com,crowdstrike,to,1,2026-03-20T16:03:45Z,2026-03-20T16:03:45Z,ayhan.agirgol@finhouse.com.tr,,person,low,CrowdStrike | Fal.Con Europe 2025
+iletisim@arksigner.com,İletişim ArkSigner,arksigner.com,arksigner,to,1,2026-03-20T16:03:37Z,2026-03-20T16:03:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,İletişim ArkSigner
+tayildirim@ziraatteknoloji.com,Tamay YILDIRIM (BT Yatırım),ziraatteknoloji.com,ziraatteknoloji,to,1,2026-03-20T16:03:32Z,2026-03-20T16:03:32Z,ayhan.agirgol@finhouse.com.tr,,person,low,Tamay YILDIRIM (BT Yatırım)
+umit.arikboga@insha.ventures,ÜMİT ARIKBOĞA,insha.ventures,ventures,to,1,2026-03-20T16:03:29Z,2026-03-20T16:03:29Z,ayhan.agirgol@finhouse.com.tr,,person,low,ÜMİT ARIKBOĞA
+etkinlik@iscxturkiye.com,İş CX Türkiye,iscxturkiye.com,iscxturkiye,to,1,2026-03-20T16:03:26Z,2026-03-20T16:03:26Z,ayhan.agirgol@finhouse.com.tr,,person,low,İş CX Türkiye
+can.oksuzoglu@thalesgroup.com,OKSUZOGLU Can,thalesgroup.com,thalesgroup,to,1,2026-03-20T16:03:12Z,2026-03-20T16:03:12Z,ayhan.agirgol@finhouse.com.tr,,person,low,OKSUZOGLU Can
+ilayda.akin@tenity.com,İlayda Akın | Tenity,tenity.com,tenity,to,1,2026-03-20T16:02:58Z,2026-03-20T16:02:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,İlayda Akın | Tenity
+ali.sevinc@zanhagrup.com,ali.sevinc@zanhagrup.com,zanhagrup.com,zanhagrup,to,1,2026-03-20T16:02:55Z,2026-03-20T16:02:55Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ali Sevinc
+eylem.hanbay@komtera.com,Eylem Hanbay,komtera.com,komtera,to,1,2026-03-20T16:02:53Z,2026-03-20T16:02:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Eylem Hanbay
+nilko@garantibbva.com.tr,NilKo@garantibbva.com.tr,garantibbva.com.tr,garantibbva,to,1,2026-03-20T16:02:49Z,2026-03-20T16:02:49Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Nilko
+connect@kioskmarketplace.com,Kiosk Marketplace,kioskmarketplace.com,kioskmarketplace,to,1,2026-03-20T16:02:35Z,2026-03-20T16:02:35Z,ayhan.agirgol@finhouse.com.tr,,person,low,Kiosk Marketplace
+orkan.aytulun@dt.net.tr,Orkan Aytulun,dt.net.tr,dt,to,1,2026-03-20T16:02:33Z,2026-03-20T16:02:33Z,ayhan.agirgol@finhouse.com.tr,,person,low,Orkan Aytulun
+ecem.oksuz@enlighty.ai,ecem.oksuz@enlighty.ai,enlighty.ai,enlighty,to,1,2026-03-20T16:02:30Z,2026-03-20T16:02:30Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ecem Oksuz
+hasan@kadrajyapim.com,Hasan Köroğlu,kadrajyapim.com,kadrajyapim,to,1,2026-03-20T16:02:27Z,2026-03-20T16:02:27Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hasan Köroğlu
+remzi.soral@teb.com.tr,remzi.soral@teb.com.tr,teb.com.tr,teb,to,1,2026-03-20T16:02:22Z,2026-03-20T16:02:22Z,ayhan.agirgol@finhouse.com.tr,,person,low,Remzi Soral
+nilgunyenice@gmail.com,Nilgun Yenice,gmail.com,gmail,to,1,2026-03-20T16:02:20Z,2026-03-20T16:02:20Z,ayhan.agirgol@finhouse.com.tr,,person,low,Nilgun Yenice
+info@doldurapp.com,info@doldurapp.com,doldurapp.com,doldurapp,to,1,2026-03-20T16:02:15Z,2026-03-20T16:02:15Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,info@doldurapp.com
+fatih.kiyikci@orbina.ai,Fatih Kıyıkçı,orbina.ai,orbina,to,1,2026-03-20T16:02:05Z,2026-03-20T16:02:05Z,ayhan.agirgol@finhouse.com.tr,,person,low,Fatih Kıyıkçı
+eylem.birer@nscsoft.com,eylem.birer@nscsoft.com,nscsoft.com,nscsoft,to,1,2026-03-20T16:02:01Z,2026-03-20T16:02:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Eylem Birer
+neslihan.cift@robusta.com.tr,Neslihan ÇİFT,robusta.com.tr,robusta,to,1,2026-03-20T16:01:58Z,2026-03-20T16:01:58Z,ayhan.agirgol@finhouse.com.tr,,person,low,Neslihan ÇİFT
+mesahin@zebraelectronics.com,Mehmet Emin Şahin,zebraelectronics.com,zebraelectronics,to,1,2026-03-20T15:59:11Z,2026-03-20T15:59:11Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mehmet Emin Şahin
+selim@fintechistanbul.org,Selim YAZICI,fintechistanbul.org,fintechistanbul,to,1,2026-03-20T15:59:04Z,2026-03-20T15:59:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,Selim YAZICI
+allianz@bilgi.allianz.com.tr,Allianz Türkiye,bilgi.allianz.com.tr,allianz,to,1,2026-03-20T15:57:56Z,2026-03-20T15:57:56Z,ayhan.agirgol@finhouse.com.tr,,person,low,Allianz Türkiye
+steipete@buttondown.email,Peter Steinberger,buttondown.email,email,to,1,2026-03-20T15:57:53Z,2026-03-20T15:57:53Z,ayhan.agirgol@finhouse.com.tr,,person,low,Peter Steinberger
+outebubekir.sezer@eximbank.gov.tr,Ebubekir Sezer [KM],eximbank.gov.tr,eximbank,to,1,2026-03-20T15:57:33Z,2026-03-20T15:57:33Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ebubekir Sezer [KM]
+connect@networldmediagroup.com,Automated Retail & Kiosk Innovation Show,networldmediagroup.com,networldmediagroup,to,1,2026-03-20T15:56:51Z,2026-03-20T15:56:51Z,ayhan.agirgol@finhouse.com.tr,,person,low,Automated Retail & Kiosk Innovation Show
+paolo.ottaviani@tenity.com,Paolo Ottaviani | Tenity,tenity.com,tenity,to,1,2026-03-20T15:56:43Z,2026-03-20T15:56:43Z,ayhan.agirgol@finhouse.com.tr,,person,low,Paolo Ottaviani | Tenity
+team@craft.do,Craft Docs,craft.do,do,to,1,2026-03-20T15:53:42Z,2026-03-20T15:53:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Craft Docs
+sales@idtechproducts.com,ID TECH,idtechproducts.com,idtechproducts,to,1,2026-03-20T15:53:09Z,2026-03-20T15:53:09Z,ayhan.agirgol@finhouse.com.tr,,person,low,ID TECH
+vodafonekurumsal@bildirim.vodafone.com.tr,Vodafone Kurumsal,bildirim.vodafone.com.tr,vodafone,to,1,2026-03-20T15:52:52Z,2026-03-20T15:52:52Z,ayhan.agirgol@finhouse.com.tr,,person,low,Vodafone Kurumsal
+complyteam@complyadvantage.com,Andrew Davies,complyadvantage.com,complyadvantage,to,1,2026-03-20T15:52:07Z,2026-03-20T15:52:07Z,ayhan.agirgol@finhouse.com.tr,,person,low,Andrew Davies
+hello@swissfintechweek.com,Swiss Fintech Week,swissfintechweek.com,swissfintechweek,to,1,2026-03-20T15:52:04Z,2026-03-20T15:52:04Z,ayhan.agirgol@finhouse.com.tr,,person,low,Swiss Fintech Week
+maker@hello.design.com,Design.com,hello.design.com,design,to,1,2026-03-20T15:51:58Z,2026-03-20T15:51:58Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Design.com
+hello@fathom.video,Fathom,fathom.video,video,to,1,2026-03-20T15:51:44Z,2026-03-20T15:51:44Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,Fathom
+cemal.dogan@turkkep.com.tr,Cemal Dogan,turkkep.com.tr,turkkep,to,1,2026-03-09T09:58:16Z,2026-03-09T09:58:16Z,ayhan.agirgol@finhouse.com.tr,,person,low,Cemal Dogan
+kemal.beceren@somposigorta.com.tr,KEMAL BECEREN,somposigorta.com.tr,somposigorta,to,1,2026-03-03T13:26:37Z,2026-03-03T13:26:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,KEMAL BECEREN
+ozge.miroglu0101@gmail.com,ozge.miroglu0101@gmail.com,gmail.com,gmail,to,1,2026-02-27T12:18:06Z,2026-02-27T12:18:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ozge Miroglu0101
+tubisad@tubisad.org.tr,TÜBİSAD,tubisad.org.tr,tubisad,to,1,2026-02-27T06:54:45Z,2026-02-27T06:54:45Z,ayhan.agirgol@finhouse.com.tr,,unknown,low,TÜBİSAD
+ebru.zeybek@aideapro.ai,Ebru ZEYBEK,aideapro.ai,aideapro,to,1,2026-02-25T08:09:57Z,2026-02-25T08:09:57Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ebru ZEYBEK
+dilek.akyurek@turkkep.com.tr,dilek.akyurek@turkkep.com.tr,turkkep.com.tr,turkkep,to,1,2026-02-16T08:31:02Z,2026-02-16T08:31:02Z,ayhan.agirgol@finhouse.com.tr,,person,low,Dilek Akyurek
+mustafa.ayar@zanhagrup.com,Mustafa AYAR,zanhagrup.com,zanhagrup,to,1,2026-02-08T08:38:42Z,2026-02-08T08:38:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Mustafa AYAR
+berk.apak@insha.ventures,BERK APAK,insha.ventures,ventures,to,1,2026-02-02T08:11:08Z,2026-02-02T08:11:08Z,ayhan.agirgol@finhouse.com.tr,,person,low,BERK APAK
+feray.korates@fibabanka.com.tr,Feray.Korates@fibabanka.com.tr,fibabanka.com.tr,fibabanka,to,1,2026-01-27T08:41:24Z,2026-01-27T08:41:24Z,ayhan.agirgol@finhouse.com.tr,,person,low,Feray Korates
+hasano@tubisad.org.tr,Hasan OZKAPU /TUBISAD,tubisad.org.tr,tubisad,to,1,2026-01-21T14:28:00Z,2026-01-21T14:28:00Z,ayhan.agirgol@finhouse.com.tr,,person,low,Hasan OZKAPU /TUBISAD
+ercanelmaci219@gmail.com,Ercan Elmaci,gmail.com,gmail,to,1,2026-01-21T09:19:15Z,2026-01-21T09:19:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ercan Elmaci
+irmak@koruimpact.org,Sener Cem Irmak,koruimpact.org,koruimpact,to,1,2026-01-09T13:09:15Z,2026-01-09T13:09:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sener Cem Irmak
+yasemin.budak@penta.com.tr,Yasemin Budak,penta.com.tr,penta,to,1,2026-01-07T10:16:37Z,2026-01-07T10:16:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,Yasemin Budak
+ibrahim.agca@penta.com.tr,İbrahim Ağca,penta.com.tr,penta,to,1,2026-01-07T10:16:37Z,2026-01-07T10:16:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,İbrahim Ağca
+kubra.erdogan@bupara.com,Kubra ERDOGAN,bupara.com,bupara,to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,Kubra ERDOGAN
+yunusemre.bilgen@bupara.com,yunusemre.bilgen@bupara.com,bupara.com,bupara,to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,Yunusemre Bilgen
+asuman.isman@bupara.com,'Asuman Isman',bupara.com,bupara,to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,'Asuman Isman'
+aydin.ipek@bupara.com,aydin.ipek@bupara.com,bupara.com,bupara,to,1,2025-12-29T12:22:59Z,2025-12-29T12:22:59Z,ayhan.agirgol@finhouse.com.tr,,person,low,Aydin Ipek
+nilgun.yenice@crede.com.tr,Nilgün Yenice,crede.com.tr,crede,to,1,2025-12-28T17:29:15Z,2025-12-28T17:29:15Z,ayhan.agirgol@finhouse.com.tr,,person,low,Nilgün Yenice
+sirma.eren@callie.center,Sırma Eren,callie.center,center,to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sırma Eren
+ferhanur.sahin@hepiyi.com.tr,ferhanur.sahin@hepiyi.com.tr,hepiyi.com.tr,hepiyi,to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Ferhanur Sahin
+serkan.ozdemir@hepiyi.com.tr,serkan.ozdemir@hepiyi.com.tr,hepiyi.com.tr,hepiyi,to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Serkan Ozdemir
+sevda.ersoy@callie.center,sevda.ersoy@callie.center,callie.center,center,to,1,2025-12-26T10:42:48Z,2025-12-26T10:42:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Sevda Ersoy
+zakin@opentext.com,Zafer Akin,opentext.com,opentext,to,1,2025-12-26T08:23:48Z,2025-12-26T08:23:48Z,ayhan.agirgol@finhouse.com.tr,,person,low,Zafer Akin
+erman.taskin@servicecore.com.tr,Erman Taşkın,servicecore.com.tr,servicecore,to,1,2025-12-26T07:15:42Z,2025-12-26T07:15:42Z,ayhan.agirgol@finhouse.com.tr,,person,low,Erman Taşkın
+olcay.yildiz@turkkep.com.tr,Olcay Yildiz,turkkep.com.tr,turkkep,to,1,2025-12-25T07:42:01Z,2025-12-25T07:42:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Olcay Yildiz
+pelin.karamis@turkkep.com.tr,Pelin Karamis,turkkep.com.tr,turkkep,to,1,2025-12-25T07:42:01Z,2025-12-25T07:42:01Z,ayhan.agirgol@finhouse.com.tr,,person,low,Pelin Karamis
+emre.ogreten@ogrit.net,Emre Öğreten,ogrit.net,ogrit,to,1,2025-12-25T07:16:37Z,2025-12-25T07:16:37Z,ayhan.agirgol@finhouse.com.tr,,person,low,Emre Öğreten
+sukru.atsizelti@enlighty.ai,Şükrü Atsızelti,enlighty.ai,enlighty,to,1,2025-12-22T07:00:14Z,2025-12-22T07:00:14Z,ayhan.agirgol@finhouse.com.tr,,person,low,Şükrü Atsızelti
+onur@finekra.com,Onur Taşgöz,finekra.com,finekra,to,1,2025-12-22T06:52:21Z,2025-12-22T06:52:21Z,ayhan.agirgol@finhouse.com.tr,,person,low,Onur Taşgöz
+orkun_kayin@hotmail.com,Orkun Kayın,hotmail.com,hotmail,to,1,2025-12-21T16:27:06Z,2025-12-21T16:27:06Z,ayhan.agirgol@finhouse.com.tr,,person,low,Orkun Kayın
