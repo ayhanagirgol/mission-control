@@ -80,9 +80,7 @@ PROVIDERS: Dict[str, Dict] = {
         "own_domains": ["turkkep.com.tr"],
         # Firmanın kendi haber/duyuru sayfaları — doğrudan fetch edilir
         "news_urls": [
-            "https://turkkep.com.tr/haberler/",
-            "https://turkkep.com.tr/basin-odasi/",
-            "https://turkkep.com.tr/duyurular/",
+            "https://turkkep.com.tr/",  # VC Grid haberler ana sayfada
         ],
     },
     "edm": {
@@ -276,32 +274,68 @@ def item_to_article(item: dict) -> Tuple[Optional[str], Optional[str], Optional[
 
 # ── Firma sitesi doğrudan fetch ──────────────────────────────────────────────
 
+_TR_MONTHS = {
+    "ocak": 1, "şubat": 2, "mart": 3, "nisan": 4, "mayıs": 5, "haziran": 6,
+    "temmuz": 7, "ağustos": 8, "eylül": 9, "ekim": 10, "kasım": 11, "aralık": 12,
+}
+_TR_DATE_RE = re.compile(
+    r'(\d{1,2})\s+(ocak|şubat|mart|nisan|mayıs|haziran|temmuz|ağustos|eylül|ekim|kasım|aralık)\s+(\d{4})',
+    re.IGNORECASE,
+)
+
+
+def parse_tr_date(text: str) -> Optional[datetime]:
+    """'2 Mart 2026' gibi Türkçe tarihleri datetime'a çevirir."""
+    m = _TR_DATE_RE.search(text.lower())
+    if not m:
+        return None
+    day, month_tr, year = int(m.group(1)), m.group(2).lower(), int(m.group(3))
+    month = _TR_MONTHS.get(month_tr)
+    if not month:
+        return None
+    try:
+        return datetime(year, month, day, tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
 def fetch_site_articles(news_urls: List[str], label: str, exact_terms: List[str]) -> List[Article]:
     """
-    Firmanın kendi haber/duyuru sayfalarını doğrudan çeker.
-    HTML içinden <a href> linklerini ve başlıkları çıkarır.
-    Tarih bilgisi genellikle yoktur — undated olarak işaretlenir.
+    Firmanın kendi sayfalarını çeker.
+    SADECE tarihi olan ve lookback içindeki makaleler eklenir.
+    Tarih bulunamazsa makale atlanır.
+
+    TÜRKKEP gibi siteler ana sayfada VC Grid formatında haber + tarih sunar;
+    tarih 'vc_gitem-post-data-source-post_date' bloğunda Türkçe yazılı olur.
     """
     import html as _html
+    import ssl as _ssl
+
     results: List[Article] = []
     seen: Set[str] = set()
 
-    # Basit link+başlık çıkarıcı regex (harici kütüphane gerekmez)
-    LINK_RE = re.compile(
-        r'<a\s[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
+    TAG_RE = re.compile(r'<[^>]+>')
+
+    # VC Grid formatı: tarih + başlık + link bloklarını çıkar
+    # <div ...post_date...>...<tarih>...</div>...<h5><a href="url">başlık</a></h5>
+    # Hem post_date hem de post_title aynı vc_gitem bloğunda bulunur
+    GRID_ITEM_RE = re.compile(
+        r'post_date[^>]*>.*?'        # tarih div başlangıcı
+        r'([\d]{1,2}\s+\w+\s+\d{4})'  # Türkçe tarih
+        r'.*?'
+        r'href=["\']([^"\']+)["\'][^>]*title=["\']([^"\']+)["\']',
         re.IGNORECASE | re.DOTALL,
     )
-    TAG_RE = re.compile(r'<[^>]+>')
+
+    ctx = _ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = _ssl.CERT_NONE
 
     for base_url in news_urls:
         try:
-            import ssl as _ssl
-            ctx = _ssl.create_default_context()
-            ctx.check_hostname = False
-            ctx.verify_mode = _ssl.CERT_NONE
             req = request.Request(
                 base_url,
-                headers={"User-Agent": "Mozilla/5.0 (compatible; KEPWatch/2.0)"},
+                headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"},
             )
             with request.urlopen(req, timeout=15, context=ctx) as resp:
                 raw = resp.read().decode("utf-8", errors="replace")
@@ -311,14 +345,14 @@ def fetch_site_articles(news_urls: List[str], label: str, exact_terms: List[str]
 
         base_domain = extract_domain(base_url)
 
-        for href, anchor_html in LINK_RE.findall(raw):
-            # Temiz metin
-            title = TAG_RE.sub("", anchor_html).strip()
-            title = _html.unescape(title).strip()
-            if not title or len(title) < 10:
+        for m in GRID_ITEM_RE.finditer(raw):
+            date_str, href, title_raw = m.group(1), m.group(2), m.group(3)
+            title = _html.unescape(TAG_RE.sub("", title_raw)).strip()
+
+            if not title or not href or len(title) < 10:
                 continue
 
-            # Mutlak URL yap
+            # Mutlak URL
             if href.startswith("//"):
                 href = "https:" + href
             elif href.startswith("/"):
@@ -330,24 +364,21 @@ def fetch_site_articles(news_urls: List[str], label: str, exact_terms: List[str]
 
             if href in seen:
                 continue
-
-            # Yurt içi ve statik değil
             if not is_domestic(href):
                 continue
             if is_static_page(href):
                 continue
             if NON_NEWS_DOMAINS.search(href):
                 continue
-            from urllib.parse import urlparse as _up3
-            if _up3(href).path.strip("/") == "":
+
+            # Tarih çözümle — tarih yoksa ATLA
+            published = parse_tr_date(date_str)
+            if published is None:
                 continue
 
-            # Başlıkta ilgili terim geçmeli
-            if not text_contains_any(title, exact_terms):
-                # KEP sağlayıcının kendi sitesindeyiz; başlık ilgili mi kontrol et
-                # (kep / elektronik / duyuru gibi terimler yeterliyken marka adı olmak zorunda değil)
-                if not text_contains_any(title, ["kep", "kayıtlı", "elektronik", "duyuru", "haber", "güncelleme"]):
-                    continue
+            # Lookback kontrolü
+            if not within_lookback(published):
+                continue
 
             seen.add(href)
             domain = extract_domain(href) or base_domain
@@ -356,14 +387,14 @@ def fetch_site_articles(news_urls: List[str], label: str, exact_terms: List[str]
                 url=href,
                 source=domain,
                 snippet="",
-                published=None,  # site'dan tarih çıkarmak zor, None bırak
+                published=published,
                 tags={label},
             ))
 
-        if len(results) >= 5:
-            break  # fazla derinleşme
+        if results:
+            break  # ilk çalışan URL yeterliyse devam etme
 
-    return results[:5]
+    return results[:8]
 
 
 # ── Toplama mantığı ──────────────────────────────────────────────────────────
