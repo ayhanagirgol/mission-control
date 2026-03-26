@@ -220,6 +220,47 @@ Not: Aşağıdaki roller ve iletişim tarzı notları yalnızca mail içeriğind
 - Savunucu ve açıklayıcı bir üslubu var; ürünün neden farklı olduğunu anlatmaya çalışıyor.
 - Baskı altında (özellikle Pelin ve Hüseyin sorularında) açıklama ve netleştirme rolüne giriyor.
 
+## Yeni grup analizlerinden ek kişi notları
+
+### Özge Erkan
+- **Kaynak gruplar:** `next-gen-turkkep`, `pazarlama-turkkep`
+- **Rol:** pazarlama iletişimi / içerik koordinasyonu / ajans yönetimi
+- **İletişim tarzı:** kibar, hızlı geri dönen, onay akışını düzgün yöneten, yazılı brief toplamaya çalışan
+- **Güçlü yönleri:** ekiplerden görüş topluyor, ajansla teslim akışını yönetiyor, metni revize edip tekrar sunuyor
+- **Zayıf yönleri / baskı alanı:** üst yönetimden farklı yönde gelen mesajlar arasında denge kurmak zorunda kalıyor
+
+### Büşra Altunay
+- **Kaynak grup:** `turkkep-kamu`
+- **Rol:** kamu / dış iş geliştirme / muhtemelen danışmanlık-ara yüz kişi
+- **İletişim tarzı:** sakin, görüşme odaklı, kısa ve net
+- **Gözlem:** Kıbrıs ve e-devlet/dijital dönüşüm bağlamında bilgi taşıyan kişi olarak öne çıkıyor.
+
+### Murat Faruk Türkkep Ankara
+- **Kaynak gruplar:** `next-gen-turkkep`, `turkkep-kamu`, `gib-entegrator`
+- **Rol:** Ankara/kamu ilişkileri ve sektör bağlantıları
+- **İletişim tarzı:** diplomatik, not hazırlayan, kurumsal metin yazan, devlet/kamu hattında dikkatli ilerleyen
+- **Güçlü yönleri:** kamu dili ve ilişki yönetimi
+- **Gözlem:** Kıbrıs, bakanlık, BTHK, kamu kurumları ve bilgi notu hazırlama tarafında önemli köprü kişi.
+
+### Erdem Baş
+- **Kaynak grup:** `gib-entegrator`
+- **Rol:** sektör teknik sesi / özel entegratör teknik lider tipi
+- **İletişim tarzı:** teknik, doğrudan, gerektiğinde eleştirel
+- **Güçlü yönleri:** sorunların kök etkisini anlatıyor; kuyruk, schematron, servis davranışı, GİB mimarisi gibi konularda güçlü çerçeve kuruyor
+- **Gözlem:** sektörde ciddiye alınan teknik kanaat önderi gibi duruyor.
+
+### Hüseyin Öztürk
+- **Kaynak grup:** `gib-entegrator`
+- **Rol:** sektör teknik koordinatörü / güvenilir saha yorumcusu
+- **İletişim tarzı:** açıklayıcı, sakin, veri/neden ilişkisi kuran
+- **Güçlü yönleri:** bakım, kuyruk, portal, URL değişikliği, teknik etki gibi başlıklarda dengeleyici bilgi veriyor
+
+### Ferzan Yalkut
+- **Kaynak grup:** `gib-entegrator`
+- **Rol:** sektör temsil / ekosistem yönetişimi tarafı güçlü oyuncu
+- **İletişim tarzı:** temsilci, çalıştay ve masa kurma diliyle konuşuyor
+- **Gözlem:** GİB–ÖE–SMMM/TURMOB üçgeninde ortak zemin arayan isimlerden.
+
 ## Hızlı yorum
 - Kurumda **mail üzerinden yürüyen güçlü bir proje ve koordinasyon kültürü** var.
 - **Aykut ve Zeynep** kurumsal hafıza / proje görünürlüğü tarafında kritik.

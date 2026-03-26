@@ -240,12 +240,33 @@ Güvenlik grubundan görülen net desen:
 
 Bu, kriz yönetiminde kurumun refleksinin sadece teknik değil, **iş sürekliliği + itibar + regülasyon** üçlüsüne dayandığını gösteriyor.
 
-## I) Kültürel gerilim çizgileri
+## I) Yeni gruplardan görülen ek kültürel çizgiler
+
+### 1. Pazarlama kültürü: iddiadan çok doğrulanabilir fark aranıyor
+- Pazarlama grubunda ilginç bir denge var: Hüseyin daha vurucu dil isterken, Ayhan teknik doğruluk filtresi koyuyor, Pelin ise işi hızlandırıyor.
+- Bu, Türkkep’in pazarlama kültürünün tamamen reklamcı değil; **kanıtlanabilir iddia** arayan bir çizgide olduğunu gösteriyor.
+
+### 2. Proje ofisi kültürü: teknik mümkünlük tek başına yetmiyor
+- Proje Ofisi grubunda açıkça görülen şey şu: “yapabiliyoruz” demek yetmiyor; **satış talebi, ürün pozisyonu ve saha ihtiyacı** da aranıyor.
+- Bu, teknik ekibin kendi başına ürün çıkarmaması gerektiği yönünde üst yönetim refleksi olduğunu gösteriyor.
+
+### 3. Kamu ilişkisi kültürü: dili yumuşatıp değeri netleştirme
+- Kamu grubunda mesajın tonu belirgin şekilde daha rafine.
+- Burada hız değil, doğru çerçeve, doğru giriş paragrafı, doğru muhatap dili önemli.
+- Murat Faruk ve Büşra gibi isimler burada “kurumsal diplomasi” işlevi görüyor.
+
+### 4. Dış ekosistem farkındalığı
+- GİB entegratör grubunun değerli bulunması, Türkkep’in yalnız kendi içine bakarak değil, rakiplerin gerçek sıkıntılarını da takip ederek öğrenebileceğini gösteriyor.
+- Bu, dış dünyadan öğrenmeye açık bir kültür için iyi sinyal.
+
+## J) Kültürel gerilim çizgileri
 WhatsApp geçmişlerinden görülen başlıca sürtünmeler:
 - vizyon hızı vs uygulama kapasitesi
 - rakip baskısı vs teknik doğrulama süresi
 - çok fikir üretme vs kaynak sınırlılığı
 - ürün savunusu vs üst yönetimin “niye daha hızlı değiliz?” sorusu
+- teknik olarak yapılabilir olan vs gerçekten satılabilir olan
+- pazarlama iddiası vs teknik/doğrulanabilir gerçeklik
 
 Bu gerilimler yıkıcı görünmüyor; aksine kurumun büyüme sancısı gibi çalışıyor. Ama iyi yönetilmezse ekip yorgunluğu yaratabilir.
 

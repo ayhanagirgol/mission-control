@@ -226,6 +226,69 @@ Bu grup, Şubat–Mart 2026’daki veri sızıntısı ve saldırı dalgası sır
 - Ardından Hüseyin’in “Olcay bey ile şirket/proje/üçüncü kişi şikayetleri konuşmayın” minvalindeki sert uyarısı görülüyor.
 - Bu, geçişin yalnız sağlık kaynaklı değil, aynı zamanda **erişim ve bilgi akışı bakımından kontrollü** ele alındığını düşündürüyor.
 
+## D) Pazarlama TÜRKKEP grubundan öğrenilenler
+
+### Ana konu
+- Mobil KEP için pazarlama mesajı, kreatif metin, ajans onayı ve rakip söylem farkı
+
+### Çıkan kararlar
+- İletişimde “masaüstünden kurtarıyoruz” gibi kolay çürütülebilecek iddialar yerine, **Türkkep’in gerçek ve savunulabilir avantajlarına** odaklanılması kararlaştırılmış
+- Mesaj, “Türkiye’nin Tek Uçtan Uca Mobil KEP Uygulaması” gibi daha dikkatli ve test edilmiş bir pozisyona çekilmiş
+- Operatörden alınan mobil imza vurgusu netleştirilmiş
+- İçerik segmentasyonu ihtiyacı ortaya çıkmış: muhasebeci, ev sahibi, ev hanımı, uzaktan çalışan gibi ayrı kitleler için ayrı anlatı
+
+### Yönetimsel okuma
+- Pazarlama grubu mikro ama doğrudan üst yönetim temaslı
+- Pelin ve Hüseyin mesajı hızla yönlendiriyor; Özge uyguluyor; Ayhan teknik doğruluk filtresi getiriyor
+
+## E) Proje Ofisi TÜRKKEP YK grubundan öğrenilenler
+
+### Ana konu kümeleri
+1. **CRM + AI chatbot kurulumu**
+2. **Mevcut CRM’de AI desteği → sonra AI tabanlı CRM’e geçiş** şeklinde iki aşamalı plan
+3. **İntranet + CRM paralel ilerleme** isteği
+4. **Satış ve bayi eğitimini CRM üzerinden verme** fikri
+5. **Çok dilli ve bölgesel (TR/EN/AR) yapı** hedefi
+6. **Legal AI / hukuk AI / semantic search / RAG / gerçek AI tanımı** üzerine öğrenme ve çerçeve kurma çabası
+
+### Çıkan kararlar
+- CRM tarafında ilk fazda mevcut yapı üzerine chatbot/AI destek başlaması uygun görülüyor
+- İkinci fazda AI tabanlı CRM dönüşümü planlanacak
+- Birim yöneticilerinden soru-cevap seti toplanması gerektiği netleşmiş
+- Teknik olarak bir şey yapılabiliyor olsa bile, **satış talebi ve ürün konumlaması olmadan geliştirme yapılmaması** gerektiği Hüseyin tarafından özellikle vurgulanmış
+
+### Yönetimsel okuma
+- Bu grup, “teknik ekip ne yapabilir?” ile “satılabilir ürün ne?” ayrımının bilinçli şekilde konuşulduğu küçük bir yönlendirme odası
+- Aykut burada yapı kuran; Ayhan uygulanabilirliği anlatan; Hüseyin ticari filtreyi zorlayan kişi
+
+## F) Türkkep Kamu grubundan öğrenilenler
+
+### Ana konu
+- Kıbrıs / kamu / e-devlet / dijital dönüşüm ekseninde ilişki ve toplantı hazırlığı
+
+### Çıkan kararlar / bulgular
+- Büşra Altunay tarafından Kıbrıs’ın dijital dönüşüm ve e-imza mevzuatıyla ilgili kısa durum tespiti paylaşılmış
+- Kıbrıs’ta sistemin henüz tam oturmadığı, mevzuatın oluştuğu ama yerleşik yapının güçlü olmadığı izlenimi var
+- Murat Faruk kamu tarafı için kurumsal bilgi notu hazırlıyor
+- Hüseyin son paragrafın özellikle lojistik maliyeti ve zaman kaybını azaltan resmi/özel evrak iletimi eksenine çekilmesini istiyor
+
+### Yönetimsel okuma
+- Kamu grubunda dil belirgin şekilde daha diplomatik ve not/brief odaklı
+- Pelin toplantıyı ve ritmi tutuyor; Murat Faruk metin ve ilişkiyi hazırlıyor; Hüseyin mesajın stratejik çerçevesini keskinleştiriyor
+
+## G) GİB Özel Entegratör grubundan toplantı/karar niteliğinde çıkarımlar
+
+### Öne çıkan somut başlıklar
+- Eylül 2024: 1000 statüsünde bekleyen belgeler tüm sektörü etkiliyor
+- GİB kuyrukları sadece gecikme değil, entegratör servis yükü ve müşteri baskısı yaratıyor
+- Sektörde GİB ile birlikte çalıştay / temsil grubu / ortak masa ihtiyacı konuşuluyor
+- Aralık 2024: e-fatura/e-defter tarafında ceza tebligatları ve schematron kaynaklı cezalar ciddi gündem
+- Kasım 2024 ve sonrası: e-defter geçişi, portal/endpoint değişimleri, bakım geçişleri
+- Mayıs 2025 ve sonrası: KamuSM EC 384 geçişi, HSM lisans/destek ve prod-test farkları
+
+### Türkkep açısından önemli not
+- Bu grup Türkkep için klasik iç toplantı kaynağı değil ama **dış ekosistem toplantı notu kadar değerli**; çünkü rakip ve regülasyon sinyallerini erken veriyor.
+
 ## 7) Kısa sonuç
 
 ### Türkkep’te toplantı notlarının ve WhatsApp geçmişlerinin anlattığı büyük resim
