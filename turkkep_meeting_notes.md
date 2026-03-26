@@ -145,17 +145,100 @@ Dilek Akyürek’in paylaştığı kamu görüşmesi notları, Türkkep’in yal
 
 ---
 
-## 6) Kısa sonuç
+## 6) WhatsApp grup geçmişlerinden çıkan önemli konular ve kararlar
 
-### Türkkep’te toplantı notlarının anlattığı büyük resim
+## A) Next-Gen Türkkep grubu — strateji / ürün / vizyon hattı
+
+Bu grup klasik operasyon toplantısından çok, üst yönetim ve yakın çekirdek arasında çalışan bir **strateji + fikir + yönlendirme odası** gibi davranıyor.
+
+### Öne çıkan konu kümeleri
+1. **AI / çağrı merkezi / agent yaklaşımı**
+   - Mart 2024’te Hüseyin Karayağız, çağrı merkezi ses kayıtlarının AI ile analiz edilmesi ve kaçan satış fırsatlarının yakalanması başlığını açıyor.
+   - Sonraki aylarda bu çizgi chatbot, agentic AI, multi-agent, call-center automation ve AI eğitimlerine uzanıyor.
+   - 2026 başında `turkkep.ai` domaini alınarak AI markalaması başlatılıyor.
+
+2. **Saklama / kripto saklama / bankalara derinleşme**
+   - Mart 2024’te Misyon Bank–Taurus örneği üzerinden “saklama” stratejik büyüme alanı olarak işaretleniyor.
+   - Hüseyin bunu sadece kripto değil, daha geniş “saklama as a service” fırsatı olarak görüyor.
+   - Ayhan banka tarafına derinleşme ihtiyacını onaylıyor.
+   - Zeliha’ya araştırma, Ayhan’a regülasyon/BTK, Olcay’a Ankara bağlantıları üzerinden iş dağılıyor.
+
+3. **Rakip analizi ve mobil deneyim**
+   - Mart 2026’da EDM üzerinden mobil/responsive kullanım tartışması ciddi şekilde konuşuluyor.
+   - Pelin açıkça “testlerin daha önce yapılması gerekirdi” diyerek rekabet analizi ve hız talep ediyor.
+   - Hülya ürün tarafını savunuyor; Ayhan ise rakibin web-mobil kullanımının pratik etkisini test etmeyi öneriyor.
+
+4. **İçerik / thought leadership / etkinlikler**
+   - Fintech etkinlikleri, basın, Kıbrıs, sektör içerikleri, podcast/link paylaşımı yoğun.
+   - Grup yalnız iç yönetim değil, aynı zamanda “Türkkep nasıl bir gelecek anlatısı kurmalı?” sorusunun alanı.
+
+5. **Türkkep.ai / AI web varlığı**
+   - 24 Şubat 2026 civarında yeni AI agent adı, domain ve içerik çalışmaları konuşuluyor.
+   - 2 Mart 2026’da `turkkep.ai` domaininin alındığı ve içerik çalışmalarının başladığı belirtiliyor.
+
+### Next-Gen grubundan çıkan önemli karar/sonuçlar
+- AI, Türkkep’te kenar konu değil; kurumsal yönelim başlığı
+- Saklama ve dijital varlık/saklama hizmetleri ciddi stratejik radar alanı
+- Banka / fintech dikeyine derinleşme hedefi net
+- Rakip analizi özellikle mobil ve kullanıcı deneyimi tarafında üst yönetim düzeyinde takip ediliyor
+- Türkkep.ai markalaması fiilen başlatılmış
+
+## B) Veri Güvenlik YK grubu — kriz / güvenlik savaş odası
+
+Bu grup, Şubat–Mart 2026’daki veri sızıntısı ve saldırı dalgası sırasında kullanılan **YK seviyesi kriz koordinasyon grubu** gibi çalışmış.
+
+### Ana olay örgüsü
+- 10 Şubat 2026 civarı veri sızıntısı / sızdırılma şüphesi ortaya çıkıyor.
+- İlk değerlendirme, iç sistemlere tam sızma yerine bir kullanıcı cihazı veya destek portalı kullanıcı hesabı üzerinden veri çıkarılmış olabileceği yönünde.
+- Riskli veri seti olarak e-defter / e-saklama müşteri mail ve telefonları ile son giriş tarihi gibi alanlar konuşuluyor.
+- 72 saat içinde bildirim zorunluluğu ve kriz komitesi/dokümantasyon ihtiyacı devreye giriyor.
+- Sonrasında DDoS, sahte domain, tehdit sitesi, marka ihlali, log takibi, güvenlik firması sorumluluğu, USOM bildirimi, ek koruma önlemleri ve personel cihaz karantinaları konuşuluyor.
+
+### Gruptan çıkan somut aksiyonlar / kararlar
+- **KVKK / resmi bildirim hazırlığı** yapılacak
+- **USOM bildirimi** yapılmış ve erişim engeli için aksiyon alınmış
+- **Platin güvenlik** ile yüksek destek modeline geçiş düşünülmüş
+- **TBM bilgisayarlarının M365 ortamına taşınması** gündeme alınmış
+- **Turkkep bulut uygulaması** geçici kapatılmış
+- **e-Saklama uygulaması** kritik açıklar kapanana kadar kapatılmış
+- **DLP ürününün devreye alınması** planlanmış
+- **Kod güvenlik analizi** başlatılmış
+- **Sızma test kapsamı API erişimlerini kapsayacak şekilde genişletilmiş**
+- **Bayram / tatil nöbet planı** yapılmış
+- **Web sitesi ile CRM bağlantısını azaltma / kaldırma** kararı konuşulmuş
+- **Website’i başka hosting/güvenlik katmanına taşıma** kararı alınmış
+
+### Kriz grubundan çıkan kültürel notlar
+- Pelin çok hızlı biçimde “itibar, süre, müşteri etkisi, ne durumdayız?” sorularını soruyor
+- Hüseyin hukuk, marka, sözleşme ve cezai boyutu aynı anda düşünüyor
+- Ayhan teknik durumu açıklayıp yapılacak aksiyonları kalem kalem aktarıyor
+- Murat Mustafaoğlu daha çok risk ve yönetim/uyum soruları soran dengeleyici figür
+- Grup, teknik detay ile yönetim kaygısını doğrudan aynı düzlemde konuşuyor
+
+### Güvenlik grubunda dikkat çeken karar mantığı
+- Önce durumu anlamak
+- Sonra görünür teknik önlemleri yükseltmek
+- Sonra hukuki/marka/sözleşme tarafını devreye almak
+- Sonra da iş sürekliliği ve tatil senaryolarını düşünmek
+
+## C) Olcay Yıldız geçiş süreci
+- 21 Şubat 2026’da sağlık sorunları nedeniyle yalnız tedaviye odaklanacağını, onay ve koordinasyon konularında yönetim kurulu görevlendirme yapacağını yazıyor.
+- Ardından Hüseyin’in “Olcay bey ile şirket/proje/üçüncü kişi şikayetleri konuşmayın” minvalindeki sert uyarısı görülüyor.
+- Bu, geçişin yalnız sağlık kaynaklı değil, aynı zamanda **erişim ve bilgi akışı bakımından kontrollü** ele alındığını düşündürüyor.
+
+## 7) Kısa sonuç
+
+### Türkkep’te toplantı notlarının ve WhatsApp geçmişlerinin anlattığı büyük resim
 1. **Kurum çok proje ile aynı anda yürüyor**
 2. **Kaynak eksikliği en büyük yapısal sorun**
 3. **AI artık yan proje değil, stratejik yön**
 4. **KEP/UKDS/banka entegrasyonları çekirdek büyüme alanı**
 5. **Regülasyon ve kamu ilişkileri ticari stratejinin parçası**
 6. **Dokümantasyon ve proje ritmi güçlü; ama uygulamada kaynak baskısı var**
+7. **WhatsApp grupları hızlı karar ve yön verme için, mail ise resmileştirme ve kayıt için kullanılıyor**
+8. **Kriz anlarında yönetim seviyesi teknik detayın içine kadar iniyor**
 
-### Kimin neyi taşıdığı toplantı notlarından net görünüyor
+### Kimin neyi taşıdığı artık daha net görünüyor
 - **Zeynep:** hafıza + koordinasyon + kayıt
 - **Aykut:** proje portföyü + strateji + risk görünürlüğü
 - **Sibel/Hülya/Cemal/Okan:** işin sahaya indiği çekirdek

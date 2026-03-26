@@ -143,6 +143,83 @@ Not: Aşağıdaki roller ve iletişim tarzı notları yalnızca mail içeriğind
 - **Dilek ↔ Zeliha ↔ Özlem:** iş ortaklığı / satış / müşteri hattı
 - **Pelin / Hüseyin / Ayhan:** üst yönetim ve yön belirleyen karar çevresi
 
+## WhatsApp grup analizinden ek gözlemler
+
+### Hüseyin Karayağız — grup davranışı derin okuma
+- **Kaynak gruplar:** `next-gen-turkkep`, `veri-guvenlik-yk`
+- **İletişim tarzı:** yüksek frekanslı, dürtü verici, vizyoner ve doğrudan. Link, örnek, rakip hamlesi veya pazar sinyali gördüğünde hemen gruba atıp aksiyon istiyor.
+- **Karakter özellikleri:** yüksek enerji, sezgisel hareket, fırsat koklayan, zaman zaman duygusal ve milliyetçi/iddialı söylem kullanan, mizahı eksik etmeyen bir lider profili.
+- **Güçlü yönleri:**
+  - yeni fırsatları erken görüyor (özellikle saklama, AI, fintech, regülasyon, bankacılık)
+  - kişilere hızla görev dağıtıyor
+  - stratejik vizyonu “ürün + regülasyon + satış” birlikte kuruyor
+  - kriz anında görünür ve erişilebilir kalıyor
+- **Zayıf yönleri / riskli tarafı:**
+  - bazen fikirleri çok hızlı aksiyona çevirmek istiyor; detay/uygulanabilirlik sonradan geliyor
+  - sert ve keskin ifadeler kullanabiliyor
+  - konu çok dallanabiliyor; aynı anda birden fazla iş ateşliyor
+- **Örnek davranış:** saklama/kripto alanını 2024’te erkenden stratejik fırsat olarak zorlamış; 2026’da güvenlik krizinde hukuk, marka, teknik ve yönetim hattını aynı grupta toplamış.
+
+### Pelin Karamış — yatırımcı / YK perspektifi derin okuma
+- **Kaynak gruplar:** `next-gen-turkkep`, `veri-guvenlik-yk`
+- **İletişim tarzı:** kısa ama vurucu. “Tarih ne?”, “Bu ne?”, “Gecikme sebebi?”, “Şu an durum ne?” gibi net sorularla konuya giriyor.
+- **Karakter özellikleri:** sonuç ve risk odaklı, zaman baskısı kuran, marka/itibar ve rekabet farkına hassas.
+- **Güçlü yönleri:**
+  - dağınık bilgiyi hızlıca sade sorularla merkeze çekiyor
+  - itibar riskini erken görüyor
+  - rakip analizi, hız, teslim tarihi ve görünürlük istiyor
+  - kriz anında sessiz kalmayıp aktif sorguluyor
+- **Zayıf yönleri / sürtünme noktası:**
+  - detaylı teknik arka planı beklemeden hızlı netlik bekliyor
+  - ekip açısından baskı yaratabilecek tempo kurabiliyor
+- **Odak alanları:** rakipler ne yapıyor, bizim ürün farkımız ne, mobil/uygulama/KEP deneyiminde geride kalıyor muyuz, veri sızıntısında itibar ve müşteri etkisi ne olacak?
+
+### Aykut Kutlusan — proje yönetim tarzı derin okuma
+- **Kaynak gruplar:** ağırlıklı `next-gen-turkkep`
+- **İletişim tarzı:** ölçülü, resmi, açıklayıcı. Hızlı slogan yerine yapılandırılmış paragrafla cevap veriyor.
+- **Karakter özellikleri:** analitik, çerçeve kuran, kavramları doğru yere oturtmaya çalışan, acele karar yerine açıklama yapan PMO lideri.
+- **Güçlü yönleri:**
+  - karmaşık AI / ürün / proje konularını iyi sınıflandırıyor
+  - teknik derinliği iş diline çevirebiliyor
+  - “hemen satın alalım” yerine kullanım senaryosu / POC / aşamalı yaklaşım öneriyor
+- **Zayıf yönleri / algı riski:**
+  - çok düşünülmüş cevap verdiği için daha hızlı aksiyon isteyen yöneticilere yavaş görünebilir
+  - spontane grup ritminde daha az görünür
+- **Özet:** proje yöneticisinden çok “kurumsal düşünceyi rafine eden stratejik PMO beyni” gibi davranıyor.
+
+### Sibel Kadabaş Aka — operasyon yönetim tarzı derin okuma
+- **Kaynak gruplar:** `next-gen-turkkep` içinde daha az ama anlamlı mesajlar
+- **İletişim tarzı:** az konuşup net konuşuyor. Genelde konuya baktıktan sonra operasyonel gerçekliği söylüyor.
+- **Karakter özellikleri:** titiz, sahadaki etkiyi bilen, hızlı doğrulama ve çözüm kapatma refleksi olan yönetici.
+- **Güçlü yönleri:**
+  - müşteri şikâyeti, çağrı merkezi, operasyon kalitesi gibi başlıklarda gerçek fotoğrafı veriyor
+  - sorun çözülünce kısa net kapanış yapıyor
+  - gereksiz tartışmaya girmiyor
+- **Zayıf yönleri / sınırı:**
+  - grup içinde düşük görünürlük nedeniyle dışarıdan daha az inisiyatif alıyor gibi görünebilir; oysa mesajları operasyonel ağırlık taşıyor
+- **Özet:** “önce sahayı kontrol edelim, sonra konuşalım” çizgisinde.
+
+### Olcay Yıldız — eski GM / geçiş süreci okuması
+- **Kaynak grup:** `next-gen-turkkep`
+- **İletişim tarzı:** haber, bağlam ve ilişki ağı getiren; zaman zaman stratejik itiraz koyan bir ton.
+- **Karakter özellikleri:** ağ kurucu, ilişki taşıyan, dış gelişmeleri içeri aktaran, daha kurumsal ve dengeleyici bir eski yönetici profili.
+- **Güçlü yönleri:**
+  - dış bağlantı, basın, sektör ve iş geliştirme bağlamı taşıyor
+  - Hüseyin’in yüksek enerjili fikirlerine bazen dengeleyici “bunun için ayrı ekip/şirket gerekir” gibi karşı argüman sunuyor
+- **Zayıf yönleri / geçiş izi:**
+  - 2026 Şubat mesajına göre sağlık sorunları nedeniyle operasyonel yükten çekilmek zorunda kalmış
+  - sonrasında Hüseyin’in “Olcay ile şirket/proje konusu konuşmayın” uyarısı, geçişin hassas ve kontrollü yönetildiğini gösteriyor
+- **Özet:** Kurumda önemli tarihsel hafızası var ama geçiş süreci güven ve bilgi akışı açısından kırılgan yaşanmış.
+
+### Zeliha Çolak — WhatsApp davranışı
+- Hızlı görev alan, organizasyon ve follow-up yapan, “araştırıp döneceğim” çizgisinde çalışan ilişki yöneticisi.
+- Güçlü yanı: hız ve sıcak temas. Zayıf yanı: bazen kapsam çok geniş ve üstten geliyor; yük artabiliyor.
+
+### Hülya Yemşen — WhatsApp davranışı
+- Rakip analizi, ürün konumlama, mobil uygulama farkı, regülasyon çözüm ortaklığı söylemi gibi alanlarda güçlü.
+- Savunucu ve açıklayıcı bir üslubu var; ürünün neden farklı olduğunu anlatmaya çalışıyor.
+- Baskı altında (özellikle Pelin ve Hüseyin sorularında) açıklama ve netleştirme rolüne giriyor.
+
 ## Hızlı yorum
 - Kurumda **mail üzerinden yürüyen güçlü bir proje ve koordinasyon kültürü** var.
 - **Aykut ve Zeynep** kurumsal hafıza / proje görünürlüğü tarafında kritik.
