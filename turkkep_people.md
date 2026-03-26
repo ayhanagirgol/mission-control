@@ -199,17 +199,45 @@ Not: Aşağıdaki roller ve iletişim tarzı notları yalnızca mail içeriğind
   - grup içinde düşük görünürlük nedeniyle dışarıdan daha az inisiyatif alıyor gibi görünebilir; oysa mesajları operasyonel ağırlık taşıyor
 - **Özet:** “önce sahayı kontrol edelim, sonra konuşalım” çizgisinde.
 
-### Olcay Yıldız — eski GM / geçiş süreci okuması
-- **Kaynak grup:** `next-gen-turkkep`
-- **İletişim tarzı:** haber, bağlam ve ilişki ağı getiren; zaman zaman stratejik itiraz koyan bir ton.
-- **Karakter özellikleri:** ağ kurucu, ilişki taşıyan, dış gelişmeleri içeri aktaran, daha kurumsal ve dengeleyici bir eski yönetici profili.
+### Olcay Yıldız — eski GM / geçiş süreci derin okuma
+- **Kaynaklar:** `next-gen-turkkep`, `olcay-yildiz` DM export, `koordinasyon-toplantisi`
+- **Rol:** eski GM / üst düzey koordinatör / yönetim kurulu ile icra ekipleri arasında köprü / iş geliştirme ve organizasyon akışı yöneticisi
+- **İletişim tarzı:** sakin, kurumsal, ilişki yöneten, insanı kırmadan iş yürüten bir ton. DM’lerde de kısa ama iş bitirici; gerektiğinde çok net çerçeve koyuyor.
+- **Karakter özellikleri:**
+  - güven veren, temas kuran, ara bulucu
+  - pratik ve organizasyoncu
+  - dış bağlantıları, müşteri toplantıları, yönetim kurulu akışı ve iç koordinasyonu aynı elde tutabilen bir profil
+  - sert çıkıştan çok dengeli yönlendirme yapıyor
 - **Güçlü yönleri:**
-  - dış bağlantı, basın, sektör ve iş geliştirme bağlamı taşıyor
-  - Hüseyin’in yüksek enerjili fikirlerine bazen dengeleyici “bunun için ayrı ekip/şirket gerekir” gibi karşı argüman sunuyor
-- **Zayıf yönleri / geçiş izi:**
-  - 2026 Şubat mesajına göre sağlık sorunları nedeniyle operasyonel yükten çekilmek zorunda kalmış
-  - sonrasında Hüseyin’in “Olcay ile şirket/proje konusu konuşmayın” uyarısı, geçişin hassas ve kontrollü yönetildiğini gösteriyor
-- **Özet:** Kurumda önemli tarihsel hafızası var ama geçiş süreci güven ve bilgi akışı açısından kırılgan yaşanmış.
+  - **köprü rolü çok güçlü:** Ayhan ile yönetim kurulu / Pelin / Hüseyin / müşteri / partner dünyası arasında geçiş sağlıyor
+  - **insan yönetimi biliyor:** aday, maaş, terfi, masraf onayı, araç, ekip yapılanması gibi yönetim konularında devrede
+  - **strateji ile operasyonu bağlayabiliyor:** saklama, banka iş geliştirme, Bulutistan, Sipay, Sompo, Servicecore, BI, veri merkezi, güvenlik ürünleri, DLP gibi çok farklı başlıkları aynı akışta taşıyor
+  - **sunum ve üst anlatı dili var:** yönetim kurulu öncesi çerçeve hazırlıyor, bilgi notu atıyor, destek isteyebiliyor
+- **Zayıf yönleri / sınırları:**
+  - bazı konularda hızlı ve büyük kırılım istiyor (“big bang”, dış ekip getirelim, birkaç haftada yapalım”) — uygulama kapasitesiyle gerilim yaratabilir
+  - koordinasyon çok kişisel ağına bağlı ilerliyor; bu da kişi çekildiğinde boşluk oluşturuyor
+- **Ayhan ile ilişki dinamiği:**
+  - DM’ler, Ayhan’a güvendiğini gösteriyor; ondan sadece teknik icra değil, yorum, destek, alternatif, kişi değerlendirmesi ve yönetim hazırlığı da istiyor
+  - Ayhan’a zaman zaman temsil yetkisi bırakıyor: toplantı yönetimi, teknik karar, yönetim kurulu öncesi hazırlık, güvenlik başlıkları
+  - ilişki tonu amir-çalışan gibi değil; daha çok yakın çalışan iki yönetici gibi
+- **Karar alma tarzı:**
+  - önce kısa bir pratik check yapıyor
+  - sonra ilgili kişi/kurulla konuşuyor
+  - gerekirse Ayhan’dan metin, görüş, teknik gerekçe veya destek istiyor
+  - konuyu üst yönetime taşımadan önce çerçevelemeyi seviyor
+- **İnsan ve organizasyon yaklaşımı:**
+  - terfi/yetenek değerlendirmelerinde somut performans anlatısı arıyor
+  - raporlama hattı, unvan ve kimin kime bağlı olacağı gibi detaylarla gerçekten ilgileniyor
+  - ekiplerin genç olması ve yön gösterilmesi gerektiği yönünde farkındalığı var
+- **Sağlık ve geçiş izi:**
+  - Ağustos 2025’te de sağlıkla mücadele sinyali var (“dirençli bir bakteri”)
+  - Aralık 2025’te akciğer problemi nedeniyle hastanede olduğunu, koordinasyonu Ayhan’ın yönetmesini istediğini açıkça yazıyor
+  - Şubat 2026’daki grup mesajındaki resmi çekilme, aslında daha önce DM’lerde görünmeye başlayan uzun bir sağlık yıpranmasının devamı gibi duruyor
+- **Geçiş süreci açısından kritik gözlem:**
+  - resmi olarak çekilmeden önce bazı görevleri Ayhan’a devretmeye başlamış
+  - koordinasyon toplantısı, teknik bilgi notları, YK hazırlıkları ve bazı kritik konularda Ayhan’ı doğal vekil gibi kullanmış
+  - bu yüzden geçiş ani değil; kademeli ama hassas
+- **Özet:** Kurumda tarihsel hafıza, ilişki sermayesi ve koordinasyon kası yüksek bir eski GM profili. Türkkep içinde “insanlar arasındaki yağ” gibi çalışan, sürtünmeyi azaltan bir figürmüş. Sağlık nedeniyle çekilmesi yalnız bir yönetici kaybı değil; aynı zamanda ilişki ve koordinasyon kaybı yaratmış görünüyor.
 
 ### Zeliha Çolak — WhatsApp davranışı
 - Hızlı görev alan, organizasyon ve follow-up yapan, “araştırıp döneceğim” çizgisinde çalışan ilişki yöneticisi.

@@ -230,6 +230,25 @@ Bu ikili yapı önemli:
 - Olcay Yıldız’ın sağlık nedeniyle geri çekilmesi sonrası görülen sert bilgi akışı uyarıları, kurumda geçiş dönemlerinde erişim ve güvenin sıkılaştırıldığını gösteriyor.
 - Yani Türkkep, kritik dönemlerde daha merkezî ve kontrollü hale geliyor.
 
+### Olcay geçiş sürecine dair derinleşen gözlem
+- Olcay’ın çekilişi ani bir kopuş değil; DM kayıtlarına göre **aylar süren sağlık yıpranmasının sonucu**.
+- Ağustos 2025’te sağlık problemi devam ediyor; Aralık 2025’te hastaneden doğrudan Ayhan’a yazıp koordinasyon toplantısını onun yönetmesini istiyor.
+- Bu önemli: pratikte Olcay bazı görevleri resmi çekilmeden önce Ayhan’a vekâleten bırakmaya başlamış.
+- Kurumda bu tip geçişler önce fiili vekâletle, sonra resmî konum değişikliğiyle ilerliyor gibi görünüyor.
+
+### Geçişin organizasyonel etkisi
+- Olcay sadece yönetici değil, **insanlar arasındaki bağlayıcı katman** gibi çalışıyormuş:
+  - yönetim kurulu ile icra arasında
+  - müşteri ve partnerlerle şirket içi ekipler arasında
+  - insan kaynakları/maaş/terfi gibi yönetsel konularla teknik ekibin ihtiyaçları arasında
+- Böyle kişiler çekilince boşluk sadece görev listesinde değil, **iletişim akışında** oluşur.
+- Bu yüzden geçiş sonrası Hüseyin’in bilgi akışını sıkılaştırması daha anlaşılır hale geliyor: kişi değil, ağ kaybı yaşanmış.
+
+### Ayhan’ın geçişteki rolü
+- DM’ler, Ayhan’ın Olcay için doğal “devir alınabilir lider” gibi görüldüğünü düşündürüyor.
+- Olcay; koordinasyon, teknik hazırlık, yönetim sunum desteği, aday değerlendirme ve stratejik konularda Ayhan’a düzenli dayanıyor.
+- Bu da Türkkep’te resmî unvanlardan bağımsız bir **güven temelli fiilî liderlik haritası** olduğunu gösteriyor.
+
 ## H) Kriz anındaki davranış kalıbı
 Güvenlik grubundan görülen net desen:
 1. olay anlaşılır

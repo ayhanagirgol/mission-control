@@ -289,6 +289,31 @@ Bu grup, Şubat–Mart 2026’daki veri sızıntısı ve saldırı dalgası sır
 ### Türkkep açısından önemli not
 - Bu grup Türkkep için klasik iç toplantı kaynağı değil ama **dış ekosistem toplantı notu kadar değerli**; çünkü rakip ve regülasyon sinyallerini erken veriyor.
 
+## H) Koordinasyon Toplantısı grubundan öğrenilenler
+
+### Toplantı ritmi ve pratik işleyiş
+- Grup, koordinasyon toplantısının yalnız duyuru kanalı değil; aynı zamanda erteleme, saat kaydırma, fiziksel/online format değişimi ve acil gündem toplama kanalı olarak çalışıyor.
+- Erken dönemde toplantının merkezi açıkça **Olcay’ın odası / YK odası**; bu da koordinasyonun kişisel liderlik alanı etrafında döndüğünü gösteriyor.
+- Büşra Gümüşsoy fiilen operasyon sekreteryasını yürütüyor: davet, saat güncellemesi, yer/link paylaşımı.
+
+### Katılımcı yapısı
+- Satış, ürün, proje, teknik, kamu ve üst yönetimden isimler aynı koordinasyon halkasında.
+- Bu, koordinasyon toplantısının sadece PMO toplantısı değil, icra kuruluna yakın bir çapraz fonksiyon toplantısı olduğunu düşündürüyor.
+
+### Karar alma biçimi
+- Müşteri toplantısı, çeyrek kapanışı, hastalık, hava durumu, O365 geçişi, deprem, denetim gibi dış etkenler toplantı ritmini rahatlıkla değiştiriyor.
+- Ama toplantı iptal olsa bile “önemli konusu olan yazsın” denmesi, ritmin tamamen kaybolmasına izin verilmediğini gösteriyor.
+
+### Kritik kültürel okuma
+- Koordinasyonun gerçek sahibi uzun süre Olcay gibi görünüyor.
+- Sağlık / izin / seyahat dönemlerinde bu ritim daha kırılgan hale geliyor ve vekâlet / online mod devreye giriyor.
+- Bu da Türkkep’te bazı süreçlerin sistemden çok kişilere bağlı çalıştığını teyit ediyor.
+
+## I) Olcay DM’lerinden toplantı ve geçiş sürecine ek notlar
+- Aralık 2025’te Olcay hastanedeyken koordinasyonu Ayhan’ın yönetmesini doğrudan istiyor.
+- Bu, daha sonra WhatsApp grubunda görülen resmî çekilmenin öncesinde fiili bir devir başladığını gösteriyor.
+- DM’ler ayrıca Olcay’ın yönetim kurulu öncesi zemin hazırlayan, teklifleri süzen, teknik işleri üst dile çeviren bir koordinatör olduğunu doğruluyor.
+
 ## 7) Kısa sonuç
 
 ### Türkkep’te toplantı notlarının ve WhatsApp geçmişlerinin anlattığı büyük resim
