@@ -47,7 +47,14 @@
 - Kullanıcı, Finhouse mailbox'ındaki okunmamış mailleri proaktif takip etmemi; mümkünse görev/aksiyon/madde çıkarmamı ve uygun olduğunda WhatsApp `custom-1` hattı üzerinden bildirmemi istiyor.
 - Kullanıcı toplantılarını takip eden, işlerini listeleyen daha proaktif bir asistan karakteri istiyor; bu yönde davranışımı genişletmeliyim.
 - Kullanıcı bazen WhatsApp üzerinden toplantı oluşturmak isteyecek; bu durumda mümkünse Teams toplantısı oluşturup davet e-postasını katılımcılara iletmeliyim. Katılımcılar belirtilmemişse veya tarih/saat eksikse önce kullanıcıdan eksik bilgileri istemeliyim.
-- ⚠️ KRİTİK: WhatsApp'ta SADECE Ayhan'a (+905326142316) yanıt ver. Başka herkese (grup, DM, her türlü mesaj) kesinlikle yanıt verme — NO_REPLY bile gönderme, tamamen sessiz kal. Ayhan bile olsa, başkalarına gelen mesajlara cevap yazma; mesajları oku ama yanıt vermeyi Ayhan'a bırak.
+- Güneş'e (+905333610236) WhatsApp mesajı gönderirken bol emoji kullan: aşk emojileri (❤️😍🥰💕😘), gülücükler, sevimli ifadeler. Sıcak ve sevecen ton.
+- ⚠️ KRİTİK WhatsApp KURALI: Başkalarına (Ayhan dışı) doğrudan WhatsApp yanıtı GÖNDERME. Bunun yerine:
+  1. Mesajı oku ve anla
+  2. Cevap taslağı hazırla
+  3. Taslağı webchat'te Ayhan'a göster ve onay bekle
+  4. Ayhan onaylarsa → gönder; onaylamazsa → gönderme
+  - Ayhan'a (+905326142316) direkt yanıt verebilirsin, onay gerekmez.
+  - Ayhan "mesaj yaz/gönder" derse de doğrudan gönder, onay gerekmez. Başka herkese (grup, DM, her türlü mesaj) kesinlikle yanıt verme — NO_REPLY bile gönderme, tamamen sessiz kal. Ayhan bile olsa, başkalarına gelen mesajlara cevap yazma; mesajları oku ama yanıt vermeyi Ayhan'a bırak.
 - Kullanıcı, daha az soru soran; daha otonom, araştırmacı ve sonuç odaklı bir çalışma tarzı istiyor. Mümkün olduğunda önce kendim çözmeli, yalnızca gerçekten eksik bilgi varsa sormalıyım.
 
 ## Microsoft To Do Erişimi (2026-03-21)
@@ -61,7 +68,7 @@
 | Hesap | Mail Okuma | Mail Gönderme | Takvim | To Do |
 |---|---|---|---|---|
 | Finhouse | ✅ | ✅ | ✅ | ✅ |
-| Türkkep | ✅ | ❌ (403) | ✅ | - |
+| Türkkep | ✅ | ✅ (25 Mart açıldı) | ✅ | ✅ Teams |
 | Gmail | ✅ (gog) | ✅ (SMTP) | ✅ (gog) | - |
 - Takvim konsolidasyonu: Türkkep + Gmail → Finhouse (calendar_sync.mjs)
 - Exec approval sorunu çözüldü: exec-approvals.json'da security=full, ask=off
@@ -114,9 +121,10 @@
 
 ## Muhasebe Fatura Yönlendirmesi (2026-03-22)
 - Finhouse A.Ş.'ye gelen tüm faturalar otomatik olarak muhasebeye iletilecek
-- Muhasebeci: İklime Güney — iklime.guney@techsmmm.com
-- Gönderim kaynağı: ayhan.agirgol@gmail.com
-- İlk iletilen: Anthropic faturası ($81.96, #2160-5743-9320, Mart 2026)
+- Muhasebe ekibi: İklime Güney (iklime.guney@techsmmm.com) + Arzu Sancar (arzu.sancar@finhouse.com.tr)
+- .env: MUHASEBE_RECIPIENTS=iklime.guney@techsmmm.com,arzu.sancar@finhouse.com.tr
+- Gönderim kaynağı: ayhan.agirgol@gmail.com (gmail_smtp.py)
+- İletilen faturalar: Anthropic ($81.96, #2160-5743-9320, Mart 2026), X Developer Platform (#2074-8907, 22 Mart 2026)
 
 ## Kalıcı Takip Alanları — Beyttürk & Türkkep
 
@@ -179,3 +187,52 @@
 - Session başında veya rehber değişikliğinde senkron kontrolü yap
 - WhatsApp agent zaman zaman edit hatası alabilir — dosya yazma çakışması olabilir
 - Haftalık raporlarda ve özellikle paylaşılan LinkedIn içeriklerinde sadece paylaşım linkiyle yetinilmemeli; paylaşımı yapan firmanın web sitesi, ilgili birincil kaynaklar ve benzer linkler de birlikte değerlendirilmelidir.
+
+- ⚠️ KESİN KURAL (2026-03-24): YouTube videolarının özetlenmesinde her zaman ve öncelikli olarak Gemini (Gemini CLI / gemini skill) kullanılacaktır. Kullanıcı bu tercihi net bir şekilde vurgulamıştır.
+
+- Fon Takibi: TLY ve DFI serbest fonları TEFAS üzerinden günlük takip ediliyor (Hafta içi 10:00).
+
+## Mission Control / Fintech KOBİ Kurulum Paketi — Gelir Modeli (2026-03-24)
+- Kaynak: "OpenClaw Mission Control: 15 Insane Use Cases!" (Vibe with AI) https://youtu.be/GzNM_bp1WaE
+- Bu video gelir modelimiz için kritik pazar doğrulaması: 7 agent'lı tam otonom işletme kurulumu
+- Yorumlarda talep net: Hazır şablon + kurulum = $5K-10K/kurulum potansiyeli
+- Fintech/KOBİ için özel "OpenClaw Mission Control Kurulum Paketi" gelir modeline eklenecek
+- Bu kaynağı mutlaka hatırla; iş planı görüşmelerinde referans olarak kullan
+
+## Fon Takibi (2026-03-24)
+- TLY (Tera Portföy Serbest Fon) ve DFI (Deniz Portföy Serbest Fon) aktif takipte
+- TEFAS robot: scripts/tefas_tracker.mjs — hafta içi 10:00 WhatsApp bildirimi
+- Kullanıcı yeni fon önerileri de almak istiyor; PHE, TTE, PBR radar altında
+
+## Meeting-to-Prototype Pipeline — Danışmanlık Paketi (2026-03-29)
+- Kaynak tweet: @PrajwalTomar_ (28 Mart 2026) — https://x.com/PrajwalTomar_/status/2037869118230262117
+- Workflow: Müşteri toplantısı → Granola (AI transkript) → Lovable (AI builder) → 15 dk'da çalışan prototip
+- Bu akış Finhouse danışmanlık paketine "Rapid Prototype" servisi olarak eklenecek
+- Araçlar: Granola (toplantı transkript), Lovable/Bolt.new (AI builder), OpenClaw (orkestrasyon)
+- Satış argümanı: "Müşteri heyecanı soğumadan somut ürün eline geçiyor"
+- Riskler: Gözden geçirmeden gönderme tehlikesi (yorumlarda eleştiri var), ilk %80 kolay ama son %20 zor
+- Finhouse danışmanlık paketinde bu pipeline kurulumu ayrı bir hizmet kalemi olabilir
+- Bağlantı: Mission Control kurulum paketi + AI Agent danışmanlık gelir modeli
+
+## OpenClaw Mission Control Dashboard Projesi (2026-03-29)
+- Amaç: Tüm agent'ları, görevleri, skill'leri ve projeleri tek yerden yönetebilecek web dashboard
+- Modüller: Agent Paneli (durum/iş), Skill Kataloğu, Proje & Görev Yönetimi, Proje Yöneticisi Agent, Zaman Planı
+- 132 rol tanımlı agent mevcut (kullanıcıdan dosya/kaynak beklenecek)
+- Deployment: Netlify (finhouse.ai CI/CD modeli gibi)
+- ClawHub ürünü olarak satışa sunulabilir
+- Teknik kararlar (React/statik HTML, backend vb.) belirlenmeli
+
+## Kalıcı Talimat: İş Çıktılarını Mail ile Bildir (2026-03-29)
+- Tamamlanan işlerin çıktılarını (mail sınıflandırma, sabah brifingi, inbox sort vb.) ayhan.agirgol@finhouse.com.tr adresine kısa özet mail olarak da ilet.
+- Bu kalıcı bir talimattır — her iş tamamlandığında uygulanacak.
+
+## FirmaCom vs Finhouse Ayrımı (2026-03-29)
+- **FirmaCom:** Mobil uygulama ürünü — KOBİ belge yönetimi + hizmet talebi platformu
+  - Gelir: Lead gen komisyon (banka/POS/operatör) + reklam + premium abonelik
+  - Müşteri: KOBİ'ler (B2C/B2SMB)
+- **Finhouse (finhouse.ai):** Şirket — AI çözümleri + fintech danışmanlık hizmeti
+  - Gelir: AI danışmanlık + ClawHub skill satışı + managed hosting
+  - Müşteri: Şirketler (B2B)
+- Finhouse, FirmaCom'un sahibi/geliştiricisi — iki ayrı marka, iki ayrı iş modeli
+- ClawHub skill'leri Finhouse markasıyla yayınlanıyor (finhouse.ai CTA)
+- FirmaCom uygulamasında Finhouse markası footer'da görünüyor
