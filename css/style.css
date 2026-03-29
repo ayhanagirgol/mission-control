@@ -261,6 +261,17 @@ textarea.input { resize: vertical; }
 .toast-info { border-left: 3px solid #3b82f6; }
 .toast-warning { border-left: 3px solid #eab308; }
 
+/* === Role & Skill Checkboxes === */
+.role-checkbox-grid, .skill-checkbox-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 6px; max-height: 220px; overflow-y: auto; padding: 4px; }
+.role-checkbox, .skill-checkbox { display: flex; align-items: center; gap: 6px; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg-card); cursor: pointer; font-size: .82rem; transition: all .15s; user-select: none; }
+.role-checkbox:hover, .skill-checkbox:hover { background: var(--bg-card-hover); }
+.role-checkbox.checked, .skill-checkbox.checked { border-color: var(--accent); background: var(--accent-dim); }
+.role-checkbox input, .skill-checkbox input { display: none; }
+.agent-skills { display: flex; gap: 4px; margin: 6px 0; flex-wrap: wrap; }
+.skill-tag { background: var(--accent-dim); border-radius: 6px; padding: 2px 6px; font-size: .75rem; }
+.skill-tag-more { background: var(--bg-card-hover); border-radius: 6px; padding: 2px 6px; font-size: .7rem; color: var(--text-muted); }
+.skill-tag-detail { display: inline-block; background: var(--accent-dim); border-radius: 6px; padding: 2px 8px; font-size: .8rem; margin: 2px 2px; }
+
 /* === Utility === */
 .text-muted { color: var(--text-muted); }
 .text-sm { font-size: 0.75rem; }
