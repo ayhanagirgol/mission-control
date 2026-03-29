@@ -9,7 +9,19 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="app">
+  <!-- Login Screen -->
+  <div id="login-screen" class="login-screen">
+    <div class="login-box">
+      <div class="login-logo">🦞</div>
+      <h2>Mission Control</h2>
+      <p>Finhouse AI — Private Dashboard</p>
+      <input type="password" id="login-password" placeholder="Şifre girin..." autofocus>
+      <button id="login-btn" onclick="checkLogin()">Giriş</button>
+      <div id="login-error" class="login-error"></div>
+    </div>
+  </div>
+
+  <div class="app" id="app-container" style="display:none">
     <!-- Sidebar -->
     <aside class="sidebar">
       <div class="sidebar-logo">
@@ -63,7 +75,35 @@
   <!-- Toast container -->
   <div id="toast-container"></div>
 
-  <!-- Scripts -->
+  <!-- Auth + Scripts -->
+  <script>
+    // Simple client-side auth (hash-based)
+    const AUTH_HASH = '1c8675cfeb9da2dca0151fe82e133338f0ff347d3d575bef1d565c61443f2697';
+    async function sha256(msg){const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(msg));return[...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,'0')).join('')}
+    async function checkLogin(){
+      const pw=document.getElementById('login-password').value;
+      const hash=await sha256(pw);
+      if(hash===AUTH_HASH){
+        localStorage.setItem('mc_auth','1');
+        localStorage.setItem('mc_auth_ts',Date.now().toString());
+        showApp();
+      } else {
+        document.getElementById('login-error').textContent='Yanlış şifre!';
+        document.getElementById('login-password').value='';
+      }
+    }
+    function showApp(){
+      document.getElementById('login-screen').style.display='none';
+      document.getElementById('app-container').style.display='';
+    }
+    function checkAuth(){
+      const ts=parseInt(localStorage.getItem('mc_auth_ts')||'0');
+      if(localStorage.getItem('mc_auth')==='1' && (Date.now()-ts)<7*24*60*60*1000){showApp();return true}
+      return false;
+    }
+    document.getElementById('login-password').addEventListener('keydown',e=>{if(e.key==='Enter')checkLogin()});
+    checkAuth();
+  </script>
   <script src="js/store.js"></script>
   <script src="js/ui.js"></script>
   <script src="js/router.js"></script>
