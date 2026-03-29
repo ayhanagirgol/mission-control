@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenClaw Mission Control</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦞</text></svg>">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="app">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-logo">
+        <span class="logo-icon">🦞</span>
+        <span>Mission Control</span>
+      </div>
+      <nav class="sidebar-nav">
+        <div class="nav-item active" data-page="dashboard">
+          <span class="nav-icon">📊</span> <span>Dashboard</span>
+        </div>
+        <div class="nav-item" data-page="agents">
+          <span class="nav-icon">🤖</span> <span>Agents</span>
+        </div>
+        <div class="nav-item" data-page="skills">
+          <span class="nav-icon">⚡</span> <span>Skills</span>
+        </div>
+        <div class="nav-item" data-page="projects">
+          <span class="nav-icon">📁</span> <span>Projects</span>
+        </div>
+        <div class="nav-item" data-page="timeline">
+          <span class="nav-icon">📅</span> <span>Timeline</span>
+        </div>
+        <div class="nav-item" data-page="settings">
+          <span class="nav-icon">⚙️</span> <span>Settings</span>
+        </div>
+      </nav>
+    </aside>
+
+    <!-- Main -->
+    <div class="main-wrapper">
+      <header class="topbar">
+        <div class="topbar-left">
+          <button id="sidebar-toggle">☰</button>
+          <h1 id="page-title">Dashboard</h1>
+        </div>
+        <div class="topbar-right">
+          <input type="text" id="global-search" placeholder="Search...">
+          <span class="topbar-icon">🔔</span>
+          <div class="topbar-avatar">🦞</div>
+        </div>
+      </header>
+      <main class="content">
+        <div id="main-content"></div>
+      </main>
+    </div>
+  </div>
+
+  <!-- Modal overlay -->
+  <div id="modal-overlay" onclick="if(event.target===this)UI.closeModal()"></div>
+
+  <!-- Toast container -->
+  <div id="toast-container"></div>
+
+  <!-- Scripts -->
+  <script src="js/store.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/agents.js"></script>
+  <script src="js/skills.js"></script>
+  <script src="js/projects.js"></script>
+  <script src="js/timeline.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
