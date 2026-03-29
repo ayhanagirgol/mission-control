@@ -95,6 +95,8 @@
     function showApp(){
       document.getElementById('login-screen').style.display='none';
       document.getElementById('app-container').style.display='';
+      if(typeof Store!=='undefined') Store.init();
+      if(typeof Router!=='undefined') Router.init();
     }
     function checkAuth(){
       const ts=parseInt(localStorage.getItem('mc_auth_ts')||'0');

@@ -17,31 +17,31 @@ const Store = {
   get data() { return this._read(); },
 
   // Agents
-  getAgents() { return this.data.agents; },
+  getAgents() { const d = this.data; return (d && d.agents) || []; },
   addAgent(agent) { const d = this.data; agent.id = crypto.randomUUID(); agent.createdAt = new Date().toISOString(); d.agents.push(agent); this._write(d); return agent; },
   updateAgent(id, updates) { const d = this.data; const i = d.agents.findIndex(a => a.id === id); if (i > -1) { Object.assign(d.agents[i], updates); this._write(d); } },
   deleteAgent(id) { const d = this.data; d.agents = d.agents.filter(a => a.id !== id); this._write(d); },
   getAgent(id) { return this.data.agents.find(a => a.id === id); },
 
   // Projects
-  getProjects() { return this.data.projects; },
+  getProjects() { const d = this.data; return (d && d.projects) || []; },
   addProject(p) { const d = this.data; p.id = crypto.randomUUID(); p.createdAt = new Date().toISOString(); d.projects.push(p); this._write(d); return p; },
   updateProject(id, updates) { const d = this.data; const i = d.projects.findIndex(p => p.id === id); if (i > -1) { Object.assign(d.projects[i], updates); this._write(d); } },
   deleteProject(id) { const d = this.data; d.projects = d.projects.filter(p => p.id !== id); this._write(d); },
 
   // Tasks
-  getTasks(projectId) { return this.data.tasks.filter(t => !projectId || t.projectId === projectId); },
+  getTasks(projectId) { const d = this.data; const tasks = (d && d.tasks) || []; return tasks.filter(t => !projectId || t.projectId === projectId); },
   addTask(t) { const d = this.data; t.id = crypto.randomUUID(); t.createdAt = new Date().toISOString(); d.tasks.push(t); this._write(d); return t; },
   updateTask(id, updates) { const d = this.data; const i = d.tasks.findIndex(t => t.id === id); if (i > -1) { Object.assign(d.tasks[i], updates); this._write(d); } },
   deleteTask(id) { const d = this.data; d.tasks = d.tasks.filter(t => t.id !== id); this._write(d); },
   getTask(id) { return this.data.tasks.find(t => t.id === id); },
 
   // Activities
-  getActivities() { return this.data.activities.slice().sort((a, b) => new Date(b.time) - new Date(a.time)); },
+  getActivities() { const d = this.data; const acts = (d && d.activities) || []; return acts.slice().sort((a, b) => new Date(b.time) - new Date(a.time)); },
   addActivity(text, icon = '📋') { const d = this.data; d.activities.unshift({ id: crypto.randomUUID(), text, icon, time: new Date().toISOString() }); if (d.activities.length > 50) d.activities = d.activities.slice(0, 50); this._write(d); },
 
   // Milestones
-  getMilestones() { return this.data.milestones || []; },
+  getMilestones() { const d = this.data; return (d && d.milestones) || []; },
   addMilestone(m) { const d = this.data; if (!d.milestones) d.milestones = []; m.id = crypto.randomUUID(); d.milestones.push(m); this._write(d); return m; },
   deleteMilestone(id) { const d = this.data; d.milestones = (d.milestones || []).filter(m => m.id !== id); this._write(d); },
 

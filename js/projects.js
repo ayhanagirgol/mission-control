@@ -49,6 +49,7 @@ function renderKanban() {
               <p class="text-muted text-sm">${t.description || ''}</p>
               <div class="kanban-card-meta">
                 ${agent ? `<span>${getRoleEmoji(agent.role)} ${agent.name}</span>` : '<span class="text-muted">Unassigned</span>'}
+                ${t.recurring ? '<span style="color:#8b5cf6">🔁 Recurring</span>' : ''}
                 ${t.deadline ? `<span class="text-muted">📅 ${UI.formatDate(t.deadline)}</span>` : ''}
               </div>
               <div class="kanban-card-actions">
@@ -118,12 +119,13 @@ function showAddTaskModal() {
     <div class="form-group"><label>Description</label><textarea id="task-desc" class="input" rows="2" placeholder="Description"></textarea></div>
     <div class="form-group"><label>Assign Agent</label><select id="task-agent" class="input">${agentOpts}</select></div>
     <div class="form-group"><label>Priority</label><select id="task-priority" class="input"><option value="low">Low</option><option value="medium" selected>Medium</option><option value="high">High</option><option value="critical">Critical</option></select></div>
-    <div class="form-group"><label>Deadline</label><input type="date" id="task-deadline" class="input"></div>
+    <div class="form-group"><label>Deadline <span style="color:var(--text-muted);font-weight:normal">(optional)</span></label><input type="date" id="task-deadline" class="input"></div>
+    <div class="form-group"><label style="display:flex;align-items:center;gap:8px;cursor:pointer"><input type="checkbox" id="task-recurring" style="width:auto"> Recurring / Sürekli görev</label></div>
     <div class="form-group"><label>Status</label><select id="task-status" class="input">${COLUMNS.map(c => `<option value="${c.id}">${c.label}</option>`).join('')}</select></div>
   `, [{ id: 'save', label: 'Create', class: 'btn-primary', handler: () => {
     const title = document.getElementById('task-title').value.trim();
     if (!title) { UI.toast('Title required', 'error'); return; }
-    Store.addTask({ title, description: document.getElementById('task-desc').value, agentId: document.getElementById('task-agent').value || null, priority: document.getElementById('task-priority').value, deadline: document.getElementById('task-deadline').value, status: document.getElementById('task-status').value, projectId: currentProjectId });
+    Store.addTask({ title, description: document.getElementById('task-desc').value, agentId: document.getElementById('task-agent').value || null, priority: document.getElementById('task-priority').value, deadline: document.getElementById('task-deadline').value || null, recurring: document.getElementById('task-recurring').checked, status: document.getElementById('task-status').value, projectId: currentProjectId });
     Store.addActivity(`New task: ${title}`, '📋');
     UI.closeModal(); UI.toast('Task created!', 'success'); renderProjects();
   }}]);
@@ -139,9 +141,10 @@ function showEditTaskModal(id) {
     <div class="form-group"><label>Description</label><textarea id="task-desc" class="input" rows="2">${t.description || ''}</textarea></div>
     <div class="form-group"><label>Assign Agent</label><select id="task-agent" class="input">${agentOpts}</select></div>
     <div class="form-group"><label>Priority</label><select id="task-priority" class="input">${['low','medium','high','critical'].map(p => `<option value="${p}" ${p===t.priority?'selected':''}>${p.charAt(0).toUpperCase()+p.slice(1)}</option>`).join('')}</select></div>
-    <div class="form-group"><label>Deadline</label><input type="date" id="task-deadline" class="input" value="${t.deadline || ''}"></div>
+    <div class="form-group"><label>Deadline <span style="color:var(--text-muted);font-weight:normal">(optional)</span></label><input type="date" id="task-deadline" class="input" value="${t.deadline || ''}"></div>
+    <div class="form-group"><label style="display:flex;align-items:center;gap:8px;cursor:pointer"><input type="checkbox" id="task-recurring" style="width:auto" ${t.recurring ? 'checked' : ''}> Recurring / Sürekli görev</label></div>
   `, [{ id: 'save', label: 'Save', class: 'btn-primary', handler: () => {
-    Store.updateTask(id, { title: document.getElementById('task-title').value, description: document.getElementById('task-desc').value, agentId: document.getElementById('task-agent').value || null, priority: document.getElementById('task-priority').value, deadline: document.getElementById('task-deadline').value });
+    Store.updateTask(id, { title: document.getElementById('task-title').value, description: document.getElementById('task-desc').value, agentId: document.getElementById('task-agent').value || null, priority: document.getElementById('task-priority').value, deadline: document.getElementById('task-deadline').value || null, recurring: document.getElementById('task-recurring').checked });
     UI.closeModal(); UI.toast('Task updated', 'success'); renderProjects();
   }}]);
 }
