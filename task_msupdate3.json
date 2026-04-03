@@ -1,0 +1,130 @@
+[
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAHsnCloAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPr48AAA=",
+    "receivedDateTime": "2026-04-02T13:29:50Z",
+    "hasAttachments": true,
+    "subject": "Failure Notification for Automate Patch Deployment task-User Computer",
+    "bodyPreview": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer)\r\n\r\n\r\n\r\n\r\nFailed Patch Deployments\r\nNo. of Computers :      24\r\n\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central.",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Administrator",
+        "address": "endpoint@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>)\r\n\r\n\r\n\r\n\r\nFailed Patch Deployments\r\nNo. of Computers :      24<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>\r\n\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central<https://srvistendpoapp:8383>.\r\n"
+  },
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAAAAAEMAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPmXJAAA=",
+    "receivedDateTime": "2026-04-02T12:26:26Z",
+    "hasAttachments": true,
+    "subject": "Ynt: Fortify ürünün kullanım durumu ve tüm uygulamalarımızın statik kod analizi hakkında.",
+    "bodyPreview": "Merhabalar Okan,\r\n\r\nFortify için sorularının cevaplarını aşağıya iletiyorum.\r\n\r\n\r\n  1.\r\nÜrün kurulumu yapıldı ancak kurulum süreci benden önce olduğu için backup update gibi süreçleri hakkında bilgi sahibi değilim.  Uygulama sunucusuna erişimim olmadığı i",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Beytullah Bas",
+        "address": "beytullah.bas@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Merhabalar Okan,\r\n\r\nFortify için sorularının cevaplarını aşağıya iletiyorum.\r\n\r\n\r\n  1.\r\nÜrün kurulumu yapıldı ancak kurulum süreci benden önce olduğu için backup update gibi süreçleri hakkında bilgi sahibi değilim.  Uygulama sunucusuna erişimim olmadığı için güncelleme durumunu da görüntüleyemiyorum.\r\n  2.\r\nVendor tarafından iletilen pipeline dışında bir dökümantasyon bulunmamakta. DevOps proje danışmanı ile kullanımı için uygulamalara göre tarama şablonları ve şemaları, zafiyet limitleri süreç içerisinde oluşturulacaktır.\r\n  3.\r\nGitLab ile vendorun ilettiği pipeline dışında entegrasyon bulunmamakta. API entegresi gibi bir desteğini de göremedim.\r\n  4.\r\n Java ve .Net tarafında mevcut yapıya entegre olarak yapabildiğim bazı taramalar mevcut. Süreç içerisinde geliştirme sıklığına göre taramalara devam edilmekte. Mevcut sonucların pdf lerini ekte iletiyorum.\r\n  5.\r\n123.70 terminalinden http://192.168.121.97:8080/ ip ve portuna LDAP ile bağlanılan kullanıcı bilginiz ile bağlantı yapabilirsiniz.\r\n\r\n\r\n[TÜRKKEP]\r\n\r\nBeytullah Baş\r\n\r\nDevOps Uzmanı\r\n\r\nTÜRKKEP Kayıtlı Elektronik Posta Hizmetleri A.Ş\r\n\r\n0212 368 60 00    0850 470 0 537\r\n\r\nbeytullah.bas@turkkep.com.tr<mailto:elif.uceyler@turkkep.com.tr>   www.turkkep.com.tr<https://turkkep.com.tr/>\r\n\r\n19 Mayıs Mahallesi, 19 Mayıs Caddesi, No: 4, Nova-Baran Plaza Kat 18, 34360 Şişli/ İSTANBUL\r\n\r\n[social]<https://www.facebook.com/turkkepcomtr/> [social] <https://www.instagram.com/turkkepcomtr/>  [social] <https://twitter.com/turkkepcomtr>  [social] <https://www.linkedin.com/company/turkkepcomtr/?originalSubdomain=tr>\r\n\r\n________________________________\r\nGönderen: Okan Yildirim <okan.yildirim@turkkep.com.tr>\r\nGönderildi: 31 Mart 2026 Salı 15:50\r\nKime: Beytullah Bas <beytullah.bas@turkkep.com.tr>\r\nBilgi: Murat Mustafaoglu <murat.mustafaoglu@turkkep.com.tr>; Ayhan Agirgol <ayhan.agirgol@turkkep.com.tr>; Cemal Dogan <cemal.dogan@turkkep.com.tr>\r\nKonu: Fortify ürünün kullanım durumu ve tüm uygulamalarımızın statik kod analizi hakkında.\r\n\r\n\r\nMerhaba Beytullah,\r\n\r\n\r\n\r\nFortify statik kod analiz ürünün hakkında bazı bilgilere ihtiyacım var bu konu sendemi değilse beni yönlendirebilir misin?\r\n\r\n\r\n\r\n  1.  Fortify ürünün kurulumu yapıldı mı? Update, zafiyet ve backup işlemleri ayarlandı mı?\r\n  2.  Dokümantasyonları oluşturuldu mu? Prosedür, kullanım dokümanları\r\n  3.  Tüm entegrasyonlar yapıldı mı? Git-lab, TFS gibi\r\n  4.  Tüm uygulamamızda kod analizi yapıldı mı? Hangi uygulamalarımızda tarama yapıldı. Raporlarını alabilir miyim?\r\n  5.  Bana Fortify ürününe giriş tanımı yapabilir misiniz kontrol için.\r\n\r\n\r\n\r\nİyi Çalışmalar.\r\n\r\n\r\n"
+  },
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAHsnCloAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPr46AAA=",
+    "receivedDateTime": "2026-04-02T12:16:23Z",
+    "hasAttachments": true,
+    "subject": "Daily Status Report for Automate Patch Deployment task-User Computer",
+    "bodyPreview": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer)\r\n\r\nDeployment Summary\r\nDetails         No. of Computers\r\nTotal Number of Machines        74\r\nPatching Completed      6\r\nPatching Failed         23\r\nPatches Missing         35\r\nPatching Inprogress     10",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Administrator",
+        "address": "endpoint@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>)\r\n\r\nDeployment Summary\r\nDetails         No. of Computers\r\nTotal Number of Machines        74\r\nPatching Completed      6\r\nPatching Failed         23\r\nPatches Missing         35\r\nPatching Inprogress     10\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central<https://srvistendpoapp:8383>.\r\n"
+  },
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAAAAAEMAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPmW_AAA=",
+    "receivedDateTime": "2026-04-02T11:27:27Z",
+    "hasAttachments": true,
+    "subject": "RE: Microsoft Update Service",
+    "bodyPreview": "Merhaba Ayhan Bey,\r\n\r\nYok ilgilenemedim belgelendirme 14:45 te biliyor KVKK nın istediği kanıtları toplamamız gerekiyor.Tan bilgisayar hazırladığında bana 1 saat verebilirse Ofis firewallında tanımlı olan  Security Profile Group düzenleyerek engeli kaldır",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Okan Yildirim",
+        "address": "okan.yildirim@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Merhaba Ayhan Bey,\r\n\r\nYok ilgilenemedim belgelendirme 14:45 te biliyor KVKK nın istediği kanıtları toplamamız gerekiyor.Tan bilgisayar hazırladığında bana 1 saat verebilirse Ofis firewallında tanımlı olan  Security Profile Group düzenleyerek engeli kaldırabilirim.\r\n\r\nİyi Çalışmalar.\r\n\r\nFrom: Ayhan Agirgol <ayhan.agirgol@turkkep.com.tr>\r\nSent: Thursday, April 2, 2026 1:54 PM\r\nTo: Meliksah Unal Canol <meliksah.canol@turkkep.com.tr>; Okan Yildirim <okan.yildirim@turkkep.com.tr>\r\nCc: Cemal Dogan <cemal.dogan@turkkep.com.tr>; Tan Kocabiyik <tan.kocabiyik@turkkep.com.tr>\r\nSubject: Ynt: Microsoft Update Service\r\n\r\nOkan bu konuda düzeltme oldu mu?\r\n\r\nEdinin Mac için Outlook <https://aka.ms/GetOutlookForMac>\r\nKimden: Meliksah Unal Canol <meliksah.canol@turkkep.com.tr<mailto:meliksah.canol@turkkep.com.tr>>\r\nTarih: Çarşamba, 1 Nisan 2026 17:34\r\nKime: Okan Yildirim <okan.yildirim@turkkep.com.tr<mailto:okan.yildirim@turkkep.com.tr>>\r\nBilgi: Ayhan Agirgol <ayhan.agirgol@turkkep.com.tr<mailto:ayhan.agirgol@turkkep.com.tr>>, Cemal Dogan <cemal.dogan@turkkep.com.tr<mailto:cemal.dogan@turkkep.com.tr>>, Tan Kocabiyik <tan.kocabiyik@turkkep.com.tr<mailto:tan.kocabiyik@turkkep.com.tr>>\r\nKonu: Re: Microsoft Update Service\r\nOkan merhaba,\r\n\r\nAşağıdaki konu da hala sorunlarımız devam ediyor güncellemeler ve yeni kurulumlar microsoft üzerinden indirelimiyor.\r\n\r\nKolay gelsin,\r\nMelikşah\r\n________________________________\r\nFrom: Meliksah Unal Canol <meliksah.canol@turkkep.com.tr<mailto:meliksah.canol@turkkep.com.tr>>\r\nSent: Wednesday, February 25, 2026 13:18\r\nTo: Okan Yildirim <okan.yildirim@turkkep.com.tr<mailto:okan.yildirim@turkkep.com.tr>>\r\nCc: Ayhan Agirgol <ayhan.agirgol@turkkep.com.tr<mailto:ayhan.agirgol@turkkep.com.tr>>; Cemal Dogan <cemal.dogan@turkkep.com.tr<mailto:cemal.dogan@turkkep.com.tr>>; Tan Kocabiyik <tan.kocabiyik@turkkep.com.tr<mailto:tan.kocabiyik@turkkep.com.tr>>\r\nSubject: Microsoft Update Service\r\n\r\nOkan selamlar,\r\n\r\nBu hafta Pazartesiden beridir Microsoft Update servislerini erişimimiz kesildi. Kullanıcıların ofis ve OS güncellemeleri yapılmamakta. Yeni kurduğumuz bilgisayarlarda da sorun yaşıyoruz. Rica etsem kontrol edermisin.\r\n\r\nTeşekkürler,\r\nMelikşah\r\n\r\n[TÜRKKEP]\r\n\r\nMelikşah Canol\r\n\r\nBilgi Teknolojileri Altyapı Müdürü\r\n\r\nTÜRKKEP Kayıtlı Elektronik Posta Hizmetleri A.Ş\r\n\r\n0212 368 60 00    0850 470 0 537\r\n\r\nmeliksah.canol@turkkep.com.tr<mailto:meliksah.canol@turkkep.com.tr>   www.turkkep.com.tr<https://turkkep.com.tr/>\r\n\r\n19 Mayıs Mahallesi, 19 Mayıs Caddesi, No: 4, Nova-Baran Plaza Kat 18, 34360 Şişli/ İSTANBUL\r\n\r\n[social]<https://www.facebook.com/turkkepcomtr/> [social] <https://www.instagram.com/turkkepcomtr/>  [social] <https://twitter.com/turkkepcomtr>  [social] <https://www.linkedin.com/company/turkkepcomtr/?originalSubdomain=tr>\r\n\r\n[cid:image006.png@01DCC2AC.5FEE79E0]<https://outlook.office.com/bookwithme/user/85daf0c7e747451a8de9bd9a487c066f@turkkep.com.tr?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature>\r\nBook time to meet with me<https://outlook.office.com/bookwithme/user/85daf0c7e747451a8de9bd9a487c066f@turkkep.com.tr?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature>\r\n\r\n"
+  },
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAAAAAEJAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPp6cAAA=",
+    "receivedDateTime": "2026-04-02T10:54:29Z",
+    "hasAttachments": false,
+    "subject": "Ynt: Microsoft Update Service",
+    "bodyPreview": "Okan bu konuda düzeltme oldu mu?\r\n\r\nEdinin Mac için Outlook\r\nKimden: Meliksah Unal Canol <meliksah.canol@turkkep.com.tr>\r\nTarih: Çarşamba, 1 Nisan 2026 17:34\r\nKime: Okan Yildirim <okan.yildirim@turkkep.com.tr>\r\nBilgi: Ayhan Agirgol <ayhan.agirgol@turkkep.",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Ayhan Agirgol",
+        "address": "ayhan.agirgol@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Okan bu konuda düzeltme oldu mu?\r\n\r\nEdinin Mac için Outlook <https://aka.ms/GetOutlookForMac>\r\nKimden: Meliksah Unal Canol <meliksah.canol@turkkep.com.tr>\r\nTarih: Çarşamba, 1 Nisan 2026 17:34\r\nKime: Okan Yildirim <okan.yildirim@turkkep.com.tr>\r\nBilgi: Ayhan Agirgol <ayhan.agirgol@turkkep.com.tr>, Cemal Dogan <cemal.dogan@turkkep.com.tr>, Tan Kocabiyik <tan.kocabiyik@turkkep.com.tr>\r\nKonu: Re: Microsoft Update Service\r\n\r\nOkan merhaba,\r\n\r\nAşağıdaki konu da hala sorunlarımız devam ediyor güncellemeler ve yeni kurulumlar microsoft üzerinden indirelimiyor.\r\n\r\nKolay gelsin,\r\nMelikşah\r\n________________________________\r\nFrom: Meliksah Unal Canol <meliksah.canol@turkkep.com.tr>\r\nSent: Wednesday, February 25, 2026 13:18\r\nTo: Okan Yildirim <okan.yildirim@turkkep.com.tr>\r\nCc: Ayhan Agirgol <ayhan.agirgol@turkkep.com.tr>; Cemal Dogan <cemal.dogan@turkkep.com.tr>; Tan Kocabiyik <tan.kocabiyik@turkkep.com.tr>\r\nSubject: Microsoft Update Service\r\n\r\nOkan selamlar,\r\n\r\nBu hafta Pazartesiden beridir Microsoft Update servislerini erişimimiz kesildi. Kullanıcıların ofis ve OS güncellemeleri yapılmamakta. Yeni kurduğumuz bilgisayarlarda da sorun yaşıyoruz. Rica etsem kontrol edermisin.\r\n\r\nTeşekkürler,\r\nMelikşah\r\n\r\n\r\n[TÜRKKEP]\r\n\r\nMelikşah Canol\r\n\r\nBilgi Teknolojileri Altyapı Müdürü\r\n\r\nTÜRKKEP Kayıtlı Elektronik Posta Hizmetleri A.Ş\r\n\r\n0212 368 60 00    0850 470 0 537\r\n\r\nmeliksah.canol@turkkep.com.tr<mailto:meliksah.canol@turkkep.com.tr>   www.turkkep.com.tr<https://turkkep.com.tr/>\r\n\r\n19 Mayıs Mahallesi, 19 Mayıs Caddesi, No: 4, Nova-Baran Plaza Kat 18, 34360 Şişli/ İSTANBUL\r\n\r\n[social]<https://www.facebook.com/turkkepcomtr/> [social] <https://www.instagram.com/turkkepcomtr/>  [social] <https://twitter.com/turkkepcomtr>  [social] <https://www.linkedin.com/company/turkkepcomtr/?originalSubdomain=tr>\r\n\r\n[cid:39f1eca3-e269-42e7-a414-8d18e5efc943]<https://outlook.office.com/bookwithme/user/85daf0c7e747451a8de9bd9a487c066f@turkkep.com.tr?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature>\r\nBook time to meet with me<https://outlook.office.com/bookwithme/user/85daf0c7e747451a8de9bd9a487c066f@turkkep.com.tr?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature>\r\n"
+  },
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAHsnCloAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPr44AAA=",
+    "receivedDateTime": "2026-04-02T07:29:51Z",
+    "hasAttachments": true,
+    "subject": "Failure Notification for Automate Patch Deployment task-User Computer",
+    "bodyPreview": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer)\r\n\r\n\r\n\r\n\r\nFailed Patch Deployments\r\nNo. of Computers :      17\r\n\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central.",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Administrator",
+        "address": "endpoint@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>)\r\n\r\n\r\n\r\n\r\nFailed Patch Deployments\r\nNo. of Computers :      17<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>\r\n\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central<https://srvistendpoapp:8383>.\r\n"
+  },
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAHsnCloAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPr41AAA=",
+    "receivedDateTime": "2026-04-02T00:16:18Z",
+    "hasAttachments": true,
+    "subject": "Daily Status Report for Automate Patch Deployment task-User Computer",
+    "bodyPreview": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer)\r\n\r\nDeployment Summary\r\nDetails         No. of Computers\r\nTotal Number of Machines        74\r\nPatching Completed      10\r\nPatching Failed         24\r\nPatches Missing         37\r\nPatching Inprogress     3",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Administrator",
+        "address": "endpoint@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>)\r\n\r\nDeployment Summary\r\nDetails         No. of Computers\r\nTotal Number of Machines        74\r\nPatching Completed      10\r\nPatching Failed         24\r\nPatches Missing         37\r\nPatching Inprogress     3\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central<https://srvistendpoapp:8383>.\r\n"
+  },
+  {
+    "@odata.etag": "W/\"CQAAAA==\"",
+    "id": "AAMkAGJjOTVhMTZjLTIyMjMtNGQwYS04ZjNhLTBmYzI4N2VlOWZjZgBGAAAAAADljx0HACLnQLR85L2wY3AgBwB-WrIyJ8afR6SzGp6Nlw5uAAHsnCloAAB-WrIyJ8afR6SzGp6Nlw5uAAHyPr4xAAA=",
+    "receivedDateTime": "2026-04-01T19:29:50Z",
+    "hasAttachments": true,
+    "subject": "Failure Notification for Automate Patch Deployment task-User Computer",
+    "bodyPreview": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer)\r\n\r\n\r\n\r\n\r\nFailed Patch Deployments\r\nNo. of Computers :      24\r\n\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central.",
+    "importance": "normal",
+    "from": {
+      "emailAddress": {
+        "name": "Administrator",
+        "address": "endpoint@turkkep.com.tr"
+      }
+    },
+    "_fullBody": "Hi,\r\n\r\nAutomate Patch Deployment (User Computer<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>)\r\n\r\n\r\n\r\n\r\nFailed Patch Deployments\r\nNo. of Computers :      24<https://srvistendpoapp:8383/webclient#/uems/patch-mgmt/deployment/automate-patch-deployment/details/1338>\r\n\r\n\r\n\r\n\r\nThanks\r\nAdmin Team\r\n\r\nThis is an auto-generated mail from ManageEngine Endpoint Central<https://srvistendpoapp:8383>.\r\n"
+  }
+]

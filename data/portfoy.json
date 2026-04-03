@@ -1,0 +1,21 @@
+{
+  "fonlar": [
+    { "kod": "TLY", "ad": "Tera Portföy Serbest Fon", "notlar": "Aktif takipte" },
+    { "kod": "DFI", "ad": "Deniz Portföy Serbest Fon", "notlar": "Aktif takipte" }
+  ],
+  "radar": [
+    { "kod": "PHE", "ad": "Portföy Hisse Senedi Fonu", "notlar": "Radar altında" },
+    { "kod": "TTE", "ad": "Tacirler Portföy Fonu", "notlar": "Radar altında" },
+    { "kod": "PBR", "ad": "Portföy Birinci Fon", "notlar": "Radar altında" }
+  ],
+  "hisseler": [
+    { "sembol": "KCHOL.IS", "ad": "Koç Holding", "mod": "izleme", "hedef_fiyat": null, "notlar": "Takibe alındı 2026-04-02" },
+    { "sembol": "ASELS.IS", "ad": "Aselsan", "mod": "izleme", "hedef_fiyat": null, "notlar": "Hedef fiyata ulaşıldı, yeniden pozisyon için izleme modunda" },
+    { "sembol": "ASTOR.IS", "ad": "Astor Enerji", "mod": "izleme", "hedef_fiyat": null, "notlar": "Takibe alındı 2026-04-02" },
+    { "sembol": "TUPRS.IS", "ad": "Tüpraş", "mod": "izleme", "hedef_fiyat": null, "notlar": "Takibe alındı 2026-04-02" },
+    { "sembol": "GARAN.IS", "ad": "Garanti BBVA", "mod": "izleme", "hedef_fiyat": null, "notlar": "Takibe alındı 2026-04-02" },
+    { "sembol": "ISCTR.IS", "ad": "İş Bankası C", "mod": "izleme", "hedef_fiyat": null, "notlar": "Özge Hanım (Türkkep) tavsiyesi — 12.94 TL giriş referansı, eklendi 2026-04-02" }
+  ],
+  "doviz": ["USD/TRY", "EUR/TRY", "XAU/TRY"],
+  "guncellendi": "2026-04-02"
+}

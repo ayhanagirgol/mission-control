@@ -1,0 +1,333 @@
+[15.02.2026 15:16:27] Veri Guvenlik TURKKEP YK: ‎Mesajlar ve aramalar uçtan uca şifrelidir. Yalnızca bu sohbetteki kişiler bu içerikleri okuyabilir, dinleyebilir veya paylaşabilir.
+[15.02.2026 15:16:27] Huseyin Karayağız: ‎Huseyin Karayağız “TKEP Veri Guvenlik —YK” grubunu oluşturdu
+[15.02.2026 15:16:28] Veri Guvenlik TURKKEP YK: ‎Huseyin Karayağız sizi ekledi
+[15.02.2026 15:18:48] Murat Mustafaoğlu Mkn: ‎Huseyin Karayağız, Murat Mustafaoğlu Mkn kişisini ekledi
+[15.02.2026 15:19:01] Veri Guvenlik TURKKEP YK: ‎Artık yöneticisiniz
+[15.02.2026 15:19:38] Huseyin Karayağız: Selamlar 🖖 herkese
+TKEP veri guvenlik gurubu kurdum
+[15.02.2026 15:20:01] Huseyin Karayağız: Şu anki durum ve sonraki konular için lazim olacak
+[15.02.2026 15:20:17] Huseyin Karayağız: @⁨Pelin⁩  başkanım
+
+@⁨Murat Mustafaoğlu Mkn⁩  Murat hocam
+Ve @⁨Ayhan Ağırgöl⁩  var
+[15.02.2026 15:20:35] Huseyin Karayağız: Gerekirse gm veya ilgili kişileri ekleriz
+[15.02.2026 15:24:46] Pelin: Ne durumdayız şu an
+[15.02.2026 15:26:01] Ayhan Ağırgöl: 10 şubat tarihinde veri sızdırılmış
+[15.02.2026 15:26:17] Ayhan Ağırgöl: Veri tabanlarına erişim yok
+[15.02.2026 15:26:31] Ayhan Ağırgöl: Şahsi bir durum olabilir
+[15.02.2026 15:26:49] Ayhan Ağırgöl: İnceleneye devam ediyoruz
+[15.02.2026 15:27:41] Pelin: 5 güm olmuş 
+Elvana bugün mü gelmiş
+[15.02.2026 15:27:51] Ayhan Ağırgöl: Evet
+[15.02.2026 15:27:56] Ayhan Ağırgöl: Sabah 06:00
+[15.02.2026 15:30:46] Huseyin Karayağız: Niye elvana gelmiş?
+[15.02.2026 15:30:57] Huseyin Karayağız: Elvanı dogru kisimi ‎<Bu mesaj düzenlendi>
+[15.02.2026 15:32:18] Ayhan Ağırgöl: Test user bilgisi var elvanın
+[15.02.2026 15:32:26] Ayhan Ağırgöl: Dosyada
+[15.02.2026 15:34:09] Pelin: Test firmasında bir gelişme var mı
+[15.02.2026 15:37:29] Ayhan Ağırgöl: Bakmaya devam ediyorsistemsel bir erişim bulunamadı
+[15.02.2026 15:40:20] Pelin: Köfteci Yusufa ne ceza gelmişti 
+Ceza bir kenara güvenlik firmasıyız deyip duruyoruz büyük bir itibar kaybı olur 
+Kep tarafında var mı bir açığımız
+[15.02.2026 17:20:44] Ayhan Ağırgöl: İçeriye sızmadan çok bir kullanıcı makinadından sırgu atılmış gibi duruyor
+[15.02.2026 17:45:52] Ayhan Ağırgöl: Destek portal uygulaması a yoğunlaştık bu uygulama kullanıcılarından birinin bilgisayarından atak yapılmış yada kullancıcısı alınarak veri sızdırılmış olabilir ‎<Bu mesaj düzenlendi>
+[15.02.2026 17:53:30] Murat Mustafaoğlu Mkn: Sonraki eylemlerimiz için bir kaç sorum var Ayhan bey : Sızdırılma  ihtimali olan veriler neler olabilir. Müşteri şikayetine sebep olabilcek vriler midir. Bunlar içerisinde bireysel /kişisel veri olabilir mi.
+[15.02.2026 17:54:08] Murat Mustafaoğlu Mkn: Yarın sabah da konuşabiliriz
+[15.02.2026 18:38:21] Ayhan Ağırgöl: Sızma ihtimali olan verilere ilişkin olarak excel de iki dosya var oradaki bilgiler olabilir bunlar edefter ve esaklama müşteri email ve telefon bilgileri en son sisteme giriş tarihi
+[15.02.2026 18:39:22] Ayhan Ağırgöl: Uyumdaki arkadaşıda ekibe aldık kriz komitesi ve dökümantasyonu u yapıyor 72 saat içinde bildirimse bulunmamız gerkecek ‎<Bu mesaj düzenlendi>
+[16.02.2026 10:28:08] Huseyin Karayağız: Selamlar günaydin
+[16.02.2026 10:28:15] Huseyin Karayağız: Bir gelişöe varmi?
+[16.02.2026 10:28:50] Huseyin Karayağız: 15 dakikaya bende gelmiş olacagim
+[16.02.2026 22:05:37] Ali Gökhan Yıldırım: ‎Huseyin Karayağız, Ali Gökhan Yıldırım kişisini ekledi
+[16.02.2026 22:06:02] Huseyin Karayağız: Herkese selam 🫡 ‎<Bu mesaj düzenlendi>
+[16.02.2026 22:06:23] Huseyin Karayağız: @⁨Ali Gökhan Yıldırım⁩  Gokhan beyi ekledim
+[16.02.2026 22:08:24] Huseyin Karayağız: Gokhan bey  2 sorumuz var
+
+1- bizi tehdit edenler firma veya kisiler icinde “turkkep” gecen bir web sitesi kurup oradan çaldıkllari veriyi yayınlama tehdidi yapiyorlar!
+Bu tür sitelere “turkkep.com.tr” haric yasak getirme sansimiz varmi?
+[16.02.2026 22:08:34] Huseyin Karayağız: Bu konuda aksiyon alabilirmiyiz?
+[16.02.2026 22:10:04] Huseyin Karayağız: 2- bizim guvenlik ihlallerini takibi icin kullandigimiz bir firma var, servis alıyoruz onlardan ataklari gorme ve engelleme icin!
+Ama bu firma kritik log olmasina ragmen aksiyon almamiş durumda
+Firma ismini @⁨Ayhan Ağırgöl⁩  bey iletir
+[16.02.2026 22:10:59] Huseyin Karayağız: Bu servis parasini veya aylık odemelerini ceza olarak kesme şansımız nedir?
+[16.02.2026 22:11:26] Ali Gökhan Yıldırım: İyi akşamlar
+[16.02.2026 22:13:27] Ali Gökhan Yıldırım: Türkkep alan adı şirketimiz adına kayıtlı ise müdahale edebileceğimiz kanaatindeyim.
+[16.02.2026 22:14:00] Huseyin Karayağız: Tabi markamiz
+[16.02.2026 22:14:25] Huseyin Karayağız: Ama turkkep.org bizde degil ama markasi bizde açaması lazım
+[16.02.2026 22:14:30] Ali Gökhan Yıldırım: Firma ile yaptığımız sözleşmede teknik şartnane kapsamında olup da ihlal edilen bir sorumluluk varsa tazminat hakkımız doğar
+[16.02.2026 22:14:44] Huseyin Karayağız: Ama xxxturkepxxx.Org olarakta acıyorlar ‎<Bu mesaj düzenlendi>
+[16.02.2026 22:15:26] Ali Gökhan Yıldırım: Bu konuda marka patent vekilimiz ile yarın sabah ayrıntılı görüşürüm.Saat 10 gibi TÜRKKEP’de olacağım
+[16.02.2026 22:15:45] Ali Gökhan Yıldırım: İçinde Türkkep geçtiğinde ihlal gerçekleşir
+[16.02.2026 22:16:52] Ali Gökhan Yıldırım: Sözleşmesini inceleyip değerlendirmek gerekir
+[16.02.2026 22:17:00] Ali Gökhan Yıldırım: Yarın bakarım buna da
+[16.02.2026 22:17:08] Huseyin Karayağız: 🙏
+[16.02.2026 22:17:50] Pelin: Yukarıdaki siteye de yanlışlıkla girmeyin !
+[17.02.2026 00:39:06] Pelin: Verilen süre doldu yine
+[17.02.2026 00:45:07] Huseyin Karayağız: kime mesaj gelecekti
+[17.02.2026 00:49:51] Pelin: Elvana
+[17.02.2026 00:57:47] Pelin: Naptı yayınladı mı 
+Kimden öğrenebilirim
+[17.02.2026 08:43:48] Ayhan Ağırgöl: Şimdilik hayır
+[17.02.2026 10:55:31] Huseyin Karayağız: Selam herkese
+[17.02.2026 10:55:51] Huseyin Karayağız: @⁨Ayhan Ağırgöl⁩  son mesaj veya tehdit yokmu?
+[17.02.2026 10:55:54] Huseyin Karayağız: Veya ne geldi
+[17.02.2026 11:35:49] Ayhan Ağırgöl: Yok sadece verileri gösterdikleir yeri kapatmışlar
+[17.02.2026 11:37:08] Ayhan Ağırgöl: Platin güvenlik ekibi geldi onlarla görüşüyoruz
+[17.02.2026 11:37:17] Ayhan Ağırgöl: Eksiklerimizi gidereceğiz
+[17.02.2026 11:37:46] Ayhan Ağırgöl: 2-3 aylık bir süre için yüksek destek moedeline geçelim diye düşümüyoruz
+[17.02.2026 11:37:56] Ayhan Ağırgöl: Ataklar geçene kadar
+[17.02.2026 11:38:06] Ayhan Ağırgöl: Dün ddos atağı yapmışlar
+[17.02.2026 11:40:05] Pelin: O nedir
+[17.02.2026 11:40:43] Ayhan Ağırgöl: Sistemlerimizin tüm internet erişimini kapatmaya yönelik bir atak türü
+[17.02.2026 11:41:12] Ayhan Ağırgöl: Çok fazla istek gönderip cevap üretemez hale getirme durumu ‎<Bu mesaj düzenlendi>
+[17.02.2026 11:41:52] Ayhan Ağırgöl: Platin akınacak önelmeri sıraladı onalrı gğn içinde yapamaya başlayacağız
+[17.02.2026 11:42:09] Ayhan Ağırgöl: Veri analizi çalışması saat 14:00 gibi tamamlanacak
+[17.02.2026 11:42:39] Ayhan Ağırgöl: Kvkk için Gün sonunda bildirim raporunu arkadaşlarla birlikete ben hazırlıyor olacağım ‎<Bu mesaj düzenlendi>
+‎[18.02.2026 23:33:31] Pelin: ‎görüntü dahil edilmedi
+‎[18.02.2026 23:33:31] Pelin: ‎görüntü dahil edilmedi
+‎[18.02.2026 23:33:31] Pelin: ‎görüntü dahil edilmedi
+‎[18.02.2026 23:33:31] Pelin: ‎görüntü dahil edilmedi
+‎[18.02.2026 23:33:31] Pelin: ‎görüntü dahil edilmedi
+‎[18.02.2026 23:33:32] Pelin: ‎görüntü dahil edilmedi
+‎[18.02.2026 23:33:32] Pelin: ‎görüntü dahil edilmedi
+[18.02.2026 23:35:51] Pelin: Bölge Müdürleri grubundan attığım yazışmaları okur musunuz ltf
+[18.02.2026 23:36:06] Huseyin Karayağız: ‎Bu mesaj silindi.
+[18.02.2026 23:36:49] Huseyin Karayağız: ‎Bu mesaj silindi.
+‎[18.02.2026 23:37:17] Pelin: ‎görüntü dahil edilmedi
+[19.02.2026 11:09:46] Ayhan Ağırgöl: Basit bir adees kopyalama atağı
+[19.02.2026 11:10:14] Ayhan Ağırgöl: Sahte adresle mail atılıyor
+[20.02.2026 12:41:55] Ayhan Ağırgöl: Son durum özeti
+
+1. Platin ile alınan ek önlmelerle saldırılar bize ulaşmadan bloklanoyor
+2. ⁠Bize ulaşan saldırılar çok azaldı
+3. ⁠tbm lerde 340 PC var bu pc lerin microsoft 365 ortamına taşınması gerkli bilgisayar başına 40 usd turkcellden alacağız uygun derseniz çalışmayı hemen başlatmak istiyoruz. Kullandığımız zimra da açık var
+4. ⁠turkkep bulut uygulamasını güvenli bir çözüme taşıyana kadar kapalı duruma aldık
+5. ⁠esaklama uggulaması kritik açıklar yazılımda kapanana kadar kapalı duruma aldık
+6. ⁠soteryan ile perşemebe günü poc çalışması yapılacak
+7. ⁠dlp ürünümüz veri sızıntısı için kullanılan ürün haftaya devreye alınması çalışması başlatılacak
+8. ⁠esaklama ve edefter ürünlerinde kod güvenlik analizi çıktıları alındı ürün açıkları tespit etti açıkları kapatmak için yazılım çalışması başlarıldı
+9. ⁠diğer ürünler içinde güvenlik testi başlatılıcak
+10. ⁠tbm lerin merkeze ulaşması için surf ürünü için poc çalılması haftaya cuma başlayacak 45 usd kullanıcı başına
+11.
+[20.02.2026 12:43:10] Ayhan Ağırgöl: Sibet türk pazartesi öğleden sonra bizim ofiste. Olacak analiz çalışması yürütecekelr
+[20.02.2026 12:43:51] Ayhan Ağırgöl: 12. İki personelin bilgisayarı karantinaya alındı kendilerine yeni bilgisayar verildi
+[20.02.2026 12:44:26] Ayhan Ağırgöl: Bu bilgisayarlaradan yurtdışına erişim tespiti vardı sibertürk ekibi de inceleyecek
+[20.02.2026 12:45:56] Ayhan Ağırgöl: Sızma testi yapan firma ile test kapsamının genişletilmesi konusunda anlaşıldı Api erişimleride kapsama alındı
+[20.02.2026 12:46:05] Ayhan Ağırgöl: Testi genişletecekler
+[20.02.2026 12:47:36] Ayhan Ağırgöl: Perşembe akşamı yapılacak poc sonrası verileri açığa çıkan personel için şifre değişimi süreci yürütülecek
+[20.02.2026 12:48:26] Ayhan Ağırgöl: Çarşamba günü avukat ekibimin siber güvenlik teknik ekibi ile denetim öncesi görüşme yapılacak
+[20.02.2026 12:48:37] Ayhan Ağırgöl: Bendeki updateler bunlar
+[20.02.2026 13:05:51] Huseyin Karayağız: @⁨Ayhan Ağırgöl⁩  bey tesekkürler güncelleme için
+
+Bunlara ek resmi genişletip bakmaya devam edelim lütfen
+
+Felaket önleme merkezi ve oradaki uygulamalar ve sistemlere erisim konusunuda gündeme alalım! Ve aksiyona cevirelim
+
+Bir siber saldırıda En kötü senaryoda ankaraya gecen turkkep sistemlerinin ayaga kalkamaması bizim icin feleket olur.
+[20.02.2026 13:11:11] Ayhan Ağırgöl: Güvenlik ekibine yazılım güvenliği konusunda oersonel alacağı
+[20.02.2026 22:26:23] Ayhan Ağırgöl: Usom için bildirimi mail yolu ile yaptık 15 dak içinde işleme alacaklarını ilettiler
+[20.02.2026 22:26:53] Ayhan Ağırgöl: 05497798785
+[20.02.2026 22:26:53] Ayhan Ağırgöl: 03124122025
+[20.02.2026 22:27:17] Ayhan Ağırgöl: Usom telefon numaraları burada kalsın acil durumda yararlanabiliriz
+[20.02.2026 22:27:42] Murat Mustafaoğlu Mkn: Tamamdır çok iyi oldu
+[20.02.2026 22:35:00] Ayhan Ağırgöl: Erişim engelini koyduklarını bildirdiler
+[20.02.2026 22:35:19] Ayhan Ağırgöl: Siteye girince veriler gözükmüyor ‎<Bu mesaj düzenlendi>
+[20.02.2026 22:46:47] Pelin: Ben de az evvel Arzu hn yönlendirmesiyle e devlet üzerinden yaptım
+[20.02.2026 22:46:57] Pelin: Süper
+[20.02.2026 22:47:06] Pelin: Açılmıyor mu şu an ‎<Bu mesaj düzenlendi>
+[20.02.2026 22:48:33] Murat Mustafaoğlu Mkn: Çok acayip bi'ekip olduk
+[20.02.2026 22:49:18] Ayhan Ağırgöl: Usome ye tekrar bildirimde bulundum veriler görünür hale gelmiş tekrar işleme alacakalr
+‎[20.02.2026 22:51:45] Ayhan Ağırgöl: ‎görüntü dahil edilmedi
+[20.02.2026 22:52:11] Ayhan Ağırgöl: Sabah ola hayr ola
+[20.02.2026 22:53:11] Murat Mustafaoğlu Mkn: Haklısın galiba bu iş bi taraf sıkılıncaya kadar devam edecek, çaresiz sürekli izleyeceğiz...
+[20.02.2026 22:53:23] Murat Mustafaoğlu Mkn: İyi akşamlar
+[20.02.2026 22:53:43] Pelin: Ben bişiy sorabilir miyim
+[20.02.2026 22:53:44] Huseyin Karayağız: Yaw bunu ben yollayacaktim tam !!🤔🧐😎
+[20.02.2026 22:54:04] Ayhan Ağırgöl: 😂
+[20.02.2026 22:54:46] Pelin: Tan uzaktan bağlandı siteye girdik foto çekip e devlete yükledik girdik yani siteye bilgisayarımdan
+[20.02.2026 22:55:09] Pelin: Güvende miyim 🙈
+[20.02.2026 22:55:18] Pelin: ‎Bu mesaj silindi.
+[20.02.2026 22:55:30] Ayhan Ağırgöl: Sizin bişgisayara pazartesi baktıralım
+[20.02.2026 22:55:40] Ayhan Ağırgöl: Siz çok kullanmayın haftasonu
+[20.02.2026 22:55:42] Pelin: 😬
+[20.02.2026 22:56:00] Pelin: E devletim güvende mi
+[20.02.2026 22:56:21] Ayhan Ağırgöl: Orada mobil onay gerekiyor ‎<Bu mesaj düzenlendi>
+[20.02.2026 22:56:45] Ayhan Ağırgöl: Telefondan şifre değiştirin
+[20.02.2026 22:57:07] Pelin: PC den değiştirmeyeyim mi
+[20.02.2026 22:57:18] Ayhan Ağırgöl: Yok telefondan yapın
+[20.02.2026 22:57:28] Ayhan Ağırgöl: İphone daha güvenli
+[20.02.2026 22:57:52] Ayhan Ağırgöl: Edevlet şifrenizi değiştirin
+[20.02.2026 22:58:33] Ayhan Ağırgöl: Ben uyumaca çok yakın bir arkadaşım vefat etmiş bankadan
+[20.02.2026 22:58:46] Ayhan Ağırgöl: Hayırdır bu aralar
+[20.02.2026 22:59:57] Huseyin Karayağız: Allah rahmet eylesin🙏
+[20.02.2026 23:03:57] Pelin: Başınız sağolsun
+[20.02.2026 23:11:36] Murat Mustafaoğlu Mkn: Başınız sağolsun
+[21.02.2026 10:43:18] Ayhan Ağırgöl: En yoğun ayak dün gece oldu
+[21.02.2026 10:45:41] Ayhan Ağırgöl: Koruma sistemlerini aşamadılar
+[21.02.2026 12:22:02] Murat Mustafaoğlu Mkn: Bilgi için teşekkür ederiz.
+[21.02.2026 13:56:58] Pelin: Çok şükür
+[21.02.2026 13:59:47] Pelin: Site açık mı
+[21.02.2026 14:40:42] Pelin: https://www.instagram.com/p/DU9H7esDWL7/?igsh=N2ZreGZ5NnFwend5
+[24.02.2026 10:43:46] Ayhan Ağırgöl: Uzun süre sonra işk ataksız gecemizi geçtidik
+[24.02.2026 10:43:51] Ayhan Ağırgöl: 😍
+[24.02.2026 10:44:53] Huseyin Karayağız: süper...
+[24.02.2026 10:45:16] Huseyin Karayağız: aman dikkat düşman mahsuz geri çekilir.
+[24.02.2026 10:45:31] Huseyin Karayağız: @⁨Ayhan Ağırgöl⁩  bey az once TAKASBANK arasi, SAFA bey var orada
+[24.02.2026 10:45:41] Huseyin Karayağız: bize email ile teknik atak sorusu soracaklar.
+[24.02.2026 10:45:49] Huseyin Karayağız: direk api baglantisi varmış aramızda
+[24.02.2026 10:45:56] Huseyin Karayağız: bizede gol olurmu gibi sorulari var
+[24.02.2026 10:46:05] Huseyin Karayağız: sizin ve benim emaillerimi verdim dikkatinize
+[24.02.2026 10:47:19] Ayhan Ağırgöl: Ok
+[24.02.2026 13:21:53] Pelin: Bir gece dinlenmişlerdir 
+Sü uyur düşman uyumaz
+[24.02.2026 13:29:25] Ayhan Ağırgöl: 🫣
+[24.02.2026 13:29:28] Ayhan Ağırgöl: 😂
+[24.02.2026 15:26:39] Murat Mustafaoğlu Mkn: Yalnız bu deyimdeki SÜ sözcüğü önemlidir, dikkatinizi çekerim...
+[24.02.2026 16:37:40] Pelin: Alt bir manası ypktur 😊
+[24.02.2026 17:57:40] Huseyin Karayağız: Erol ile beraberiz 
+Siber atakcilar iftara gitmiiştir dedi :-))
+[24.02.2026 19:56:46] Ayhan Ağırgöl: 🤨😖
+[25.02.2026 12:01:13] Ayhan Ağırgöl: Türkkep.org hackledik
+[25.02.2026 12:01:28] Ayhan Ağırgöl: Artık açılmıyor
+[25.02.2026 12:01:32] Ayhan Ağırgöl: 😉
+[25.02.2026 12:01:42] Ayhan Ağırgöl: Karşı atak
+[25.02.2026 12:01:50] Huseyin Karayağız: Vayy 🙏🖖
+[25.02.2026 12:01:54] Huseyin Karayağız: Aman dikkat
+[25.02.2026 12:02:03] Huseyin Karayağız: Kan davasina dönmesin :-))
+[25.02.2026 12:02:04] Ayhan Ağırgöl: İnternet cafeden
+[25.02.2026 12:02:09] Huseyin Karayağız: Tebrikler
+[25.02.2026 12:04:01] Ayhan Ağırgöl: 😆
+[25.02.2026 12:20:19] Pelin: 👏
+[25.02.2026 12:20:23] Pelin: Tebrikler
+[25.02.2026 13:54:29] Ayhan Ağırgöl: Bu bilgiyi hiç kimse ile paylaşmayalım
+[25.02.2026 14:47:41] Ayhan Ağırgöl: Arzu hanımlar geldi
+[25.02.2026 14:47:47] Ayhan Ağırgöl: Görüşme yapıyoruz
+[25.02.2026 14:47:56] Ayhan Ağırgöl: Sertifikalar ve dökümanlara bakacaklar
+[25.02.2026 14:48:06] Ayhan Ağırgöl: Destek veren firmanın eksikliğine bakılacak
+[25.02.2026 14:54:04] Ayhan Ağırgöl: Sibergüvenlik gelen döküman ilettik cevap hazırlayacağız
+[26.02.2026 10:48:00] Pelin: https://www.instagram.com/p/DU-cCNQDZGS/?igsh=dnZrOXozMHE4YW1r
+[26.02.2026 10:53:57] Huseyin Karayağız: https://www.instagram.com/p/DU6PqTQEkN3/?img_index=8&igsh=ZHYxcml3dnpha3J6
+[2.03.2026 05:47:03] Pelin: https://www.instagram.com/reel/DVWohbWgK5g/?igsh=MTdhMTVtMjgyZGNkdA==
+[2.03.2026 23:14:47] Pelin: Merhaba
+[2.03.2026 23:15:07] Ayhan Ağırgöl: merhaba pelin hanım
+‎[2.03.2026 23:15:42] Pelin: ‎görüntü dahil edilmedi
+[2.03.2026 23:16:14] Pelin: İki gecedir trendyoldan ödeme gerçekleştirilemedi maili alıyorum
+[2.03.2026 23:16:31] Pelin: Oysaki bir alışveriş yapmıyorum
+[2.03.2026 23:17:36] Ayhan Ağırgöl: trendyolda tanımlı kredi kartınıza varmı
+[2.03.2026 23:17:44] Pelin: Var
+[2.03.2026 23:18:24] Ayhan Ağırgöl: trendyol şifrenizi değiştirin kartınızın bilgilerin silin veya alışverişe kapatın nternette mümkünse sanl kart kullanın
+[2.03.2026 23:18:39] Huseyin Karayağız: O kart sizin degil artik :-))
+[2.03.2026 23:18:48] Huseyin Karayağız: Şaka 🙃
+[2.03.2026 23:34:48] Ayhan Ağırgöl: Konu: KEP / E-Dönüşüm Günlük Rapor - 02 Mar 2026
+
+Merhaba,
+
+Son 48 saatte KEP, e-fatura, e-defter, e-arşiv ve ilgili oyuncular tarafında öne çıkan gelişmeler aşağıdadır.
+
+1) KEP / Kayıtlı Elektronik Posta
+- TÜRKKep, KEP üzerinden yapılacak tebligatlarda yeni kampanya duyurdu.
+Kaynak: turkkep.com.tr · 02 Mar 2026 10:15
+Özet: KOBİ’lere yönelik indirimli yıllık KEP paketi ve yeni e-imza entegrasyonları tanıtıldı.
+
+- PTT KEP, kurumsal müşterilere özel tarife güncellemesi yaptı.
+Kaynak: ptt.gov.tr · 01 Mar 2026 17:40
+Özet: Büyük hacimli tebligat gönderen kurumlar için toplu KEP gönderim ücretleri revize edildi.
+
+2) e-Fatura / e-Defter / e-Arşiv
+- GİB, e-fatura uygulamasında teknik kılavuz güncellemesi yayımladı.
+Kaynak: gib.gov.tr · 02 Mar 2026 09:05
+Özet: Belirli sektörlerde zorunlu geçiş tarihleri güncellendi ve teknik entegrasyon notları revize edildi.
+
+- Önde gelen bir entegratör, e-defter saklama hizmetinde yeni SLA duyurdu.
+Kaynak: entegrator.com.tr · 01 Mar 2026 19:20
+Özet: 7/24 erişim garantisi ve ek yedekleme opsiyonları tanıtıldı.
+
+3) GİB ve Resmi Kaynaklar
+- Resmî Gazete’de KEP ve e-dönüşüm süreçlerini etkileyen yönetmelik değişikliği.
+Kaynak: resmigazete.gov.tr · 02 Mar 2026 00:01
+Özet: Elektronik tebligat kapsamı genişletildi, bazı bildirim türleri için KEP kullanımı zorunlu hale getirildi.
+
+Özet:
+- KEP tarafında kampanya ve fiyat güncellemeleri var (TÜRKKep, PTT KEP).
+- GİB dokümantasyonu ve Resmî Gazete’de e-dönüşümle ilgili güncellemeler var.
+- Entegratörler SLA / hizmet paketlerini sıkılaştırıyor.
+
+Detaylar için HTML sürümünü mail içindeki linkten görebilirsin.
+
+Sevgiler,
+Gö
+[2.03.2026 23:39:55] Huseyin Karayağız: Bu çok iyi
+[2.03.2026 23:40:05] Huseyin Karayağız: Bunu next gurubunuda atalim
+[2.03.2026 23:40:12] Ayhan Ağırgöl: Robot
+[2.03.2026 23:40:28] Ayhan Ağırgöl: Openclaw ile yaptım
+[2.03.2026 23:40:44] Ayhan Ağırgöl: Benim oğlanla beraber
+[2.03.2026 23:40:45] Huseyin Karayağız: Gö ismi biraz sakat
+[2.03.2026 23:40:52] Ayhan Ağırgöl: Gö onun kısaltması
+[2.03.2026 23:40:53] Huseyin Karayağız: Haahaa
+[2.03.2026 23:40:57] Huseyin Karayağız: Gökhan
+[2.03.2026 23:41:00] Huseyin Karayağız: 😁
+[2.03.2026 23:41:01] Ayhan Ağırgöl: Evet
+[2.03.2026 23:41:16] Ayhan Ağırgöl: Ama bende çok beğendim çıktıyı
+[2.03.2026 23:41:33] Ayhan Ağırgöl: İki haftadır upraşıyoruz sonunda oldu
+[2.03.2026 23:41:49] Ayhan Ağırgöl: Sabah 9:0 da mail atıyor
+[3.03.2026 09:15:41] Ali Gökhan Yıldırım: ‎Huseyin Karayağız, Ali Gökhan Yıldırım kişisini çıkardı
+[3.03.2026 09:15:27] Huseyin Karayağız: https://x.com/shanaka86/status/2028285885100523854?s=48
+[3.03.2026 09:15:50] Huseyin Karayağız: 72 saat önce "teorik" olarak sınıflandırılan felaket kurtarma senaryolarını şimdi hesaplıyor.
+[3.03.2026 09:16:59] Huseyin Karayağız: @⁨Ayhan Ağırgöl⁩  bey ve @⁨‎herkes⁩  
+
+Bu yazi güzel ve veri merkezleri icin Dron carpmasi ile turkcell verimerkezi devre dısı kalırmı?
+[3.03.2026 09:17:17] Huseyin Karayağız: Sorusunu düşünmeye başlamamız gibi geliyor
+‎[3.03.2026 20:00:23] Huseyin Karayağız: ozlemtaskiran_CV.pdf • ‎3 sayfa ‎belge dahil edilmedi
+[3.03.2026 20:00:56] Huseyin Karayağız: ‎Huseyin Karayağız grup adını "Veri Guvenlik —YK TURKKEP" olarak değiştirdi
+[3.03.2026 20:01:22] Huseyin Karayağız: Tanımam ama bir guruptan attilar
+[4.03.2026 07:39:50] Pelin: https://www.instagram.com/reel/DVWmgTkCP1k/?igsh=MWRmYWUwY2Q5NTFpMQ==
+[8.03.2026 17:48:19] Huseyin Karayağız: https://x.com/laikcumhuriyett/status/2030387910269456581?s=48
+[9.03.2026 18:07:03] Huseyin Karayağız: ‎Huseyin Karayağız grup adını "Veri Guvenlik TURKKEP YK" olarak değiştirdi
+[9.03.2026 18:06:52] Huseyin Karayağız: https://x.com/ussal/status/2030961509107404989?s=48
+[12.03.2026 13:04:51] Pelin: https://www.instagram.com/p/DVbSdt0DChe/?igsh=aXdlcHZ6YXg2Znd4
+[17.03.2026 23:16:57] Ayhan Ağırgöl: 13 farklı yerden atak var
+[17.03.2026 23:17:14] Ayhan Ağırgöl: Saldırı altındayız
+[17.03.2026 23:17:34] Pelin: Demeyin
+[17.03.2026 23:17:53] Pelin: Yine mi
+[17.03.2026 23:18:12] Huseyin Karayağız: Ülkemi ?
+[17.03.2026 23:20:52] Pelin: Okan deniz tan işlerinin başında mı 
+Cemal izinli
+[17.03.2026 23:25:33] Ayhan Ağırgöl: Evet yine başlamışlar farklı ülkelerden
+[17.03.2026 23:25:48] Ayhan Ağırgöl: Platinden bilgi geldi
+[17.03.2026 23:26:35] Ayhan Ağırgöl: Okan a önce ulaşamamıştım sonra cemali arayıp ulaştık
+[17.03.2026 23:27:10] Ayhan Ağırgöl: Saldırı kanallarını kapattık ama veri çıkışı oldumu okan bakıyor
+[17.03.2026 23:31:56] Ayhan Ağırgöl: Veri çıkışı gözükmüyor
+[17.03.2026 23:35:12] Murat Mustafaoğlu Mkn: Tamamdır, az önce okudum, henüz doğrulayamadım. Bugün çok değişik kuruluşa benzer ataklar varmış.
+[17.03.2026 23:35:48] Ayhan Ağırgöl: Bayram öncesi yapıyorlar genelde
+[17.03.2026 23:35:58] Ayhan Ağırgöl: İnsanlar tatilde diye
+[17.03.2026 23:36:30] Ayhan Ağırgöl: Uzun tatil öncesi açık bulup tatil süresince veri çalıyorlar
+[17.03.2026 23:37:18] Pelin: Çok değişik kuruluşa benzer ne demek
+[17.03.2026 23:38:32] Murat Mustafaoğlu Mkn: Sızma girişimi demek istedim.
+[17.03.2026 23:39:02] Pelin: Bayramda nöbetçilerimiz mi olsun napalım ? 
+Böyle bir atakta arkadaşlara ulaşımımız zor olur
+[17.03.2026 23:43:57] Ayhan Ağırgöl: Ben konuşurum yarın dönerli bir çözüm buluruz
+[17.03.2026 23:44:21] Ayhan Ağırgöl: Durum iyi sıkıntı gözükmüyor
+[17.03.2026 23:44:54] Ayhan Ağırgöl: Yurtdışı ateşelikler nedeniyle yurt sılına kapayamadık 120 ülkeden erişim var
+[17.03.2026 23:45:07] Ayhan Ağırgöl: Ona çare bakacağız
+[17.03.2026 23:45:56] Ayhan Ağırgöl: Bayramlar sıkıntılı olur genelde bankalarda da öyleydi bütün ataklar uzun tatillerde artar
+[17.03.2026 23:46:32] Ayhan Ağırgöl: Şimidişik iyi uykular
+[17.03.2026 23:47:38] Pelin: Şimdilik iyi uykular
+[18.03.2026 13:09:57] Pelin: https://www.instagram.com/reel/DV_o1kfCOoQ/?igsh=a2VvdmMyczR2NWU=
+[19.03.2026 13:40:55] Pelin: Ataklar devam ediyor mu Ayhan Bey
+[19.03.2026 13:41:10] Ayhan Ağırgöl: Dün de vardı
+[19.03.2026 13:41:25] Ayhan Ağırgöl: Bugün yoğun değil
+[19.03.2026 13:41:32] Pelin: Vahim bir durum var mı
+[19.03.2026 13:41:45] Ayhan Ağırgöl: Web sitemizi başka bir hizmet sağlayıcı ortama taşıyacağız
+[19.03.2026 13:41:51] Ayhan Ağırgöl: Yok
+[19.03.2026 13:42:08] Pelin: Bayram günleri için arkadaşları organize edebildiniz mi acil durum planları için
+[19.03.2026 13:42:21] Pelin: Ulaşılabilir olmaları için
+[19.03.2026 13:42:30] Ayhan Ağırgöl: Böylece web sitemize atak eden kişiler hizmet veren kurumun sitemlerine atak edecek
+[19.03.2026 13:42:46] Ayhan Ağırgöl: Evet herkes bilgisayarını yanına aldı
+[19.03.2026 13:43:12] Ayhan Ağırgöl: Her gün için biri nöbetçi olacak ama üç arkadaşında bilgisayarı yanında
+[19.03.2026 13:43:45] Ayhan Ağırgöl: Direk atakları biz karşılamayacağız
+[19.03.2026 13:44:04] Ayhan Ağırgöl: Web sitesinin crm ile bağlantısınıda kaldıracağız
+[19.03.2026 13:44:25] Ayhan Ağırgöl: Tek açık olan web sitesi kalacak onuda hosting firmasına koyacağız
+[19.03.2026 13:44:42] Ayhan Ağırgöl: Web sitesinde veri yok zaten tuyulmayacak
+[19.03.2026 14:04:32] Pelin: Teşekkürler
+[25.03.2026 19:04:54] Pelin: Merhaba
+[25.03.2026 19:05:19] Pelin: Salı günü Hüseyin bey yk için kaçta başlayabiliriz

@@ -1,0 +1,39 @@
+Konu: X / Türkkep aylık görünür gönderi raporu
+Tarih aralığı: 14 Şubat 2026 - 15 Mart 2026
+Arama sorgusu: "Türkkep since:2026-02-14 until:2026-03-16" (X, En Son)
+
+Özet
+- X üzerinde son 30 güne ait görünür sonuçlarda 5 ilgili gönderi tespit edildi.
+- Sonuçların 4'ü @turkkepcomtr hesabından kurumsal paylaşım, 1'i üçüncü taraf haber paylaşımı.
+- Dönemin öne çıkan başlıkları: bayi/iş ortakları buluşması, satış etkinliği, Aksis Dijital Çözümler iş birliği ve veri ihlali haberi.
+
+Detaylar
+
+1) 2 Mar 2026
+Hesap: TÜRKKEP (@turkkepcomtr)
+Link: https://x.com/turkkepcomtr/status/2028492132722573356
+Kısa özet: TÜRKKEP, 12-15 Şubat'ta CVK Park Bosphorus Otel'de düzenlenen geniş katılımlı "2026 TÜRKKEP Buluşması" etkinliğini duyurdu; bayi, ekip ve iş ortaklarının bir araya geldiğini paylaştı.
+
+2) 25 Şub 2026
+Hesap: TÜRKKEP (@turkkepcomtr)
+Link: https://x.com/turkkepcomtr/status/2026657554265252175
+Kısa özet: Şirket, çalışanlar ve bayilerle hedeflerin kutlandığı ve yeni hedeflerin konuşulduğu bir etkinlik sonrası motivasyon mesajı yayımladı; dijital dönüşüm alanında yeni değerler üretme vurgusu yaptı.
+
+3) 25 Şub 2026
+Hesap: TÜRKKEP (@turkkepcomtr)
+Link: https://x.com/turkkepcomtr/status/2026643441359126652
+Kısa özet: "Satışın Yıldızları 2025" başlıklı paylaşımda, ekip ve bayilerle gerçekleştirilen kutlama/planlama etkinliği öne çıkarıldı.
+
+4) 20 Şub 2026
+Hesap: beykozun sesi (@beykozunsesicom)
+Link: https://x.com/beykozunsesicom/status/2024685491174465663
+Kısa özet: Üçüncü taraf haber hesabı, KVKK'nın TÜRKKEP'te 8.170 kişiyi etkileyen veri ihlali ilanını haberleştirdi; paylaşımda 10-16 Şubat tarihleri arasında yaşanan siber saldırı ve yetkisiz erişim iddiası yer aldı.
+
+5) 16 Şub 2026
+Hesap: TÜRKKEP (@turkkepcomtr)
+Link: https://x.com/turkkepcomtr/status/2023417260585673018
+Kısa özet: TÜRKKEP, Aksis Dijital Çözümler ile iş birliğini duyurdu; AXDijital platformu ile TÜRKKEP KEP altyapısının entegre edildiğini açıkladı.
+
+Not
+- Bu rapor, OpenClaw browser profilinde X üzerinde gelişmiş arama filtreleriyle yapılan taramada ekranda görünür sonuçlara dayanır.
+- Beğeni, yanıt, takip veya başka bir etkileşim yapılmadı.

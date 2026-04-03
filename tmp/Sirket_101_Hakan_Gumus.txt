@@ -1,0 +1,1241 @@
+Şirket 101
+Şirketiniz Kurulduktan Sonra Aklınıza Takılan
+Sorular Ve Yanıtları
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Bu Sunumda Neler Var?
+Bölüm 1 – Şirket Kuruldu, Şimdi Ne Olacak?
+Bölüm 2 – Aylık ve Dönemsel Sorumluluklar
+Bölüm 3 – Fatura Düzenlenmesi ve Ön Muhasebe Süreci
+Bölüm 4 – İndirilecek Giderler ve Vergi Avantajları
+Bölüm 5 – Şirkete Ait Yasal Defterler Neler?
+Bölüm 6 – Şirkete Ait Belgelerin Arşivlenmesi Nasıl Yapılmalı?
+Bölüm 7 – Nakit Akışı ve Uyarılar
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Hakan Gümüş
+Certified Public Accountant
++90 535 573 0269
+hakan.gumus@techsmmm.com
+
+BÖLÜM 1 – ŞİRKET KURULDU, ŞİMDİ NE OLACAK?
+İlk Gün – Resmi Süreçler
+➢ Ticaret Sicil Gazetesi yayınlandıktan sonra artık şirketiniz resmen faaliyete
+geçmiş sayılır.
+➢ Vergi dairesi, SGK ve Banka süreçleri paralel ilerlemelidir.
+
+Vergi Dairesi
+Bildirimi:
+
+Kuruluştan sonra vergi daireleri fiziksel “adres tespiti” talep eder. Yoklama tarihi
+ve saati SMS ile size iletilir. Adreste yetkili biri bulunmazsa yoklama olumsuz
+olabilir.
+
+İmza Sirküleri:
+
+Ticaret Sicil Gazetesi ve Kimlik Belgesi ile Notere gidilir ve orada düzenletilir.
+Banka hesabı açılışında zorunludur. Teknopark firmaları için; Ar-Ge Portal
+ekranlarının kullanıma açılması için zorunludur.
+
+Banka Hesabı Açılışı:
+
+Şirket adına yalnızca imza yetkilisi açabilir. Bu hesap hem fatura tahsilatı hem de vergi
+ödemeleri için kullanılmalıdır. (Vergi ödemeleri için devlet bankasında hesap açmak
+gerekir) ( Vergi ödemeleri Dijital vergi dairesinden KK ile online da yapılır)
+
+Dijital Vergi Dairesi
+Şifreleri:
+
+Şirketin resmi temsilcisi, (imza sirkülerinde yetkisi olan kişiler) e-devlet şifresi ile
+dijital vergi dairesi şifresini oluşturur.
+
+Mali Müşavir
+Vekaletnamesi:
+
+Vergi Dairesi ve Sigorta gibi kurumlarda yetkili kişiler dışındaki kişilerin şirket
+adına işlem yapabilmesi için noter onaylı vekalet zorunludur.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Kontrol Listesi:
+✓ Vergi dairesi yoklaması yapıldı mı?
+✓ Banka hesabı açıldı mı?
+✓ E-devlet ve interaktif vergi dairesi şifresi
+alındı mı?
+✓ Mali müşavir vekaleti verildi mi?
+✓ Mali müşavir sözleşme yapıldı mı?
+✓ E-fatura geçişi tamamlandı mı?
+✓ SGK işyeri dosyası açıldı mı? (Çalışan
+Varsa)
+✓ İşyeri Kira sözleşmesi muhasebeye iletildi
+mi?
+✓ Şirket belgeleri arşivlendi mi?
+➢ Ticaret Sicil Gazetesi
+➢ Vergi Levhası
+➢ İmza Sirküleri
+➢ Kira Sözleşmesi
+➢ Mali Müşavir Sözleşmesi
+➢ Şirket ana sözleşmesinin güncel
+PDF’i
+
+3
+
+BÖLÜM 1 - Şirketler İçin Zorunlu Dijital Araçlar ve Sistemler
+Sistem
+
+Tanımı
+
+Kime Ait
+
+E-İmza
+
+Dijital imza
+
+Gerçek kişi
+
+Mali Mühür
+
+Elektronik fatura, e-arşiv, edefter gibi sistemlerde “şirketin
+imzası” olarak kullanılır.
+
+Şirket (tüzel kişi)
+
+KEP
+
+Resmî e-posta sistemidir;
+gönderilen her mesaj noter
+onaylı tebligat hükmündedir.
+
+UETS
+
+Devletin resmî tebligatlarını
+(vergi, dava, SGK, teftiş vb.)
+dijital olarak ilettiği tek taraflı
+bir tebligat sistemdir.
+
+UTTS
+
+info@techsmmm.com
+
+Ulusal Taşıt Tanıma Sistemi
+
+info@techsmmm.com
+
+Şirket
+
+Şirket
+
+Şirket
+
+Kimden Alınır
+
+Uygulama Alanları
+
+PTT KEP, TÜRKKEP vb.
+
+E-devlet, MERSİS, KEP, e-belge, e-defter, KOSGEB,
+TEYDEB, ARGE PORTAL işlemlerinde kullanılır.
+
+TÜBİTAK-KamuSM
+
+E-fatura ve e-deftere geçildiğinde zorunlu (e-belge
+kullanıcıları)
+
+PTT KEP, TÜRKKEP vb.
+
+Resmî kurumlar (SGK, Ticaret Sicili, Vergi Dairesi vb.)
+artık birçok bildirimi KEP üzerinden yapmaktadır. KEP
+ile gönderilen mesajlar ertesi iş günü sonunda okunmuş
+kabul edilir.
+
+PTT
+
+2023’ten itibaren tüm sermaye şirketleri için
+zorunludur. UETS tebligatları 5. günün sonunda yasal
+olarak tebliğ edilmiş sayılır
+
+GİB’in UTTS sistemine
+entegre yetkili taşıt
+tanıma servisleri
+
+Akaryakıt alan tüm ticari araçların plaka bazında
+otomatik tanınmasını sağlayan,
+Hazine ve Maliye Bakanlığı – Gelir İdaresi Başkanlığı
+(GİB) tarafından geliştirilen zorunlu elektronik takip
+sistemidir.
+
+4
+
+BÖLÜM 1 - İlk aylarda en sık yapılan hatalar
+Vergi dairesi yoklaması sırasında adreste kimsenin bulunmaması → yoklama olumsuz sonuçlanır, vergi numarası pasifleşir ve ikinci
+yoklama tespitinde de yoklamada bulunmamanız halinde resen terk işlemi yapılır. (vergi mükellefiyetiniz düşer)
+Kişisel hesaptan yapılan tahsilatlar ve ödemeler → şirkete ait hesaplar kullanılmalı. → Mutabakat sorunları ve ortaklar
+hesaplarının şişmesi → vergi cezası
+
+Sözleşmelerin zamanında bildirilmemesi / imzasız, tarihi olmayan ve damga vergisi ödenmeyen sözleşmeler → damga vergisi
+tahakkuk etmez ve vergi cezası oluşur, ayrıca sözleşmeler hukuken geçersiz sayılır.
+Fatura veya gider belgelerinin eksik ve geç teslimi → yanlış beyan riski, vergi cezası
+Kasadan ödeme sınırı→ 30.000 TL’yi aşarsa, bu ödemelerin banka veya finansal kurumlar kanalıyla yapılması zorunludur. → aksi
+halde vergi cezası
+
+Personel ödemelerinin bankadan yapılmaması→ vergi cezası.
+Personel girişlerinin bir gün önce bildirilmemesi→ zamanında giriş yapılamaması. → SGK cezaları
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+5
+
+BÖLÜM 2 – AYLIK VE DÖNEMSEL VERGİ İLE SOSYAL GÜVENLİK BEYAN VE ÖDEMELERİ
+Beyan / Bildirim
+Tarihi
+
+Tür
+
+Kapsam
+
+KDV (2 No.lu)
+
+Yurtdışı hizmet alımları,
+Google Ads, AWS, vs.
+
+Her ayın 25’ü
+
+Muhtasar
+
+Maaş / Kira Stopaj
+
+SGK (4/A)
+
+Son Ödeme Tarihi
+
+Kim Öder
+
+Açıklama
+
+Her ayın 25’sı
+
+Şirket
+
+Sorumlu sıfatıyla KDV”;
+*fatura yurt dışından geldiği için siz beyan edip
+ödersiniz. KDV1 den indirim yaparsınız.
+*Yurt içinden alınan tevkifatlı faturalar.
+
+Her ayın 26’ü
+
+Her ayın 26’sı
+
+Şirket
+
+Çalışan primi
+
+Her ayın 26’ü
+
+Ay sonu
+
+Şirket
+
+Aylık bildirge, işveren + çalışan payı
+
+Damga Vergisi
+
+Sözleşme tutarları üzerinden
+
+Her ayın 26’ü
+
+26’sı
+
+Şirket
+
+Sözleşme tutarları ve kıymetli evrak üzerinden
+hesaplanır.
+
+KDV (1 No.lu)
+
+Satış-Alım KDV farkı
+
+Her ayın 28’ü
+
+Her ayın 28’sı
+
+Şirket
+
+xxxxx
+
+Geçici Vergi
+
+Dönem kazancı
+
+1-17 (May, Ağu, Kas)
+
+17’si
+
+Şirket
+
+Ödenmesi halinde Yıllık Kurumlar vergisinden mahsup
+edilir.
+
+Kurumlar / Gelir Vergisi
+
+Yıllık kazanç
+
+KV Nisan / GV Mart
+
+30 nisan / 31 Mart
+
+Şirket / Şahıs
+
+Yıllık beyan
+
+Bağkur (4/B)
+
+Ortaklara ait prim
+
+Otomatik tahakkuk ediyor
+
+Ay sonu
+
+Ortak (şahsen)
+
+Şirket gideri değildir
+
+Personel yoksa 3 ayda bir varsa aylık beyan
+
+Ödemelerin hafta sonu ve resmi tatil gününe gelmesi halinde izleyen ilk işgünü ödeme yapılır.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+6
+
+BÖLÜM 2 - Beyannameler Kim Hazırlar? Nelere Dikkat Etmeliyim?
+Beyannameleri mali müşaviriniz hazırlar.
+Ancak verilerin kaynağının doğruluğundan siz
+sorumlusunuz.
+Mali müşavire her ay düzenli iletilmesi gereken
+belgeler:
+➢ Satış faturaları (iptal edilenler dahil)
+➢ Gider faturaları (tüm alış belgeleri)
+➢ Banka ekstreleri ve POS dökümleri
+
+➢ Şirketin yatırım hesaplarına ait extreler
+➢ İmzalanan sözleşme kopyaları
+➢ Varsa hisse devri, kar dağıtımı, sermaye
+artışına ait bilgiler
+➢ Kredi anlaşmaları ve ödeme tabloları
+
+«Doğru belge → Doğru beyan»
+Faturaları ay sonunda değil, yıl sonunda topluca göndermek → KDV ve
+gelir tablosu yanlış çıkar, vergi beyan düzeltmesi gerekir.
+Mali müşavirden gelen tahakkuk fişini saklamamak → İleride vergi iadesi,
+teşvik işlemlerinde ve incelemelerde belge/kanıt eksikliği doğurur.
+Yıl içindeki personel sayısı 5 ve üzerinde olması halinde→ Bireysel
+emeklilik sistemi (BES) ödemesi yapmak zorunludur.
+Bağkur’u şirket hesabından ödemek → Şirket gideri değildir, ortak kendi
+şahsi yükümlülüğüdür.
+Personel işe başlarken SGK girişini bildirmemek → Her bir çalışan için ayrı
+idari para cezası uygulanır.
+
+Şirket gelir ve giderlerini kişisel hesapla karıştırmak → Denetimde “örtülü
+kazanç” veya “belgesiz işlem” sayılabilir. Ortaklar hesabının (şirkete olan
+borçlarının) çoğalması nedeni ile vergi cezaları söz konusu olabilir.
+
+➢ Verilen/Alınan Çek ve Senet Bilgileri
+Tavsiye: Evrakları ayın 1–10 arası gönderin, 15’ten sonra göndermeyin.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+7
+
+BÖLÜM 2 - Tahakkuk Fişi Nedir?
+“Beyannamenin fişi, ödeme belgesidir.”
+•Beyannamenin vergi dairesi sistemince
+onaylanmış çıktısıdır.
+•Üzerinde “Vergi Türü, Dönem, Tutar, Son
+Ödeme Günü” yazar.
+•Ödeme işlemi bu fiş numarası üzerinden
+yapılır.
+
+Örnek: KDV Vergi Tahakkuk Fişi:
+
+Gecikme ve Ceza Durumları:
+Zamanında beyanname verilmezse:
+→ Usulsüzlük cezası kesilir.
+Ödeme gecikirse:
+→ Günlük gecikme faizi işler (%4,5 civarında).
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+8
+
+BÖLÜM 2 - İşletme Sahibinin Aylık Takip Görevleri
+
+“Şirket yöneticisi olarak sizin yapmanız
+gerekenler”
+
+Örnek: SGK Tahakkuk Fişi:
+
+Kontrol Listesi:
+✓ Aylık vergi takvimini kontrol ettim
+✓ Fatura ve belgeleri mali müşavire gönderdim
+✓ Beyanname tahakkuklarını onayladım
+✓ Ödemeleri internet bankacılığından yaptım
+(yapılmaz ise SGK indirimlerinden faydalanamazsınız)
+
+✓ Mali müşavirle ay sonu mini toplantı yaptım
+✓ Nakit akışımı güncelledim
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+9
+
+BÖLÜM 3 – FATURA VE ÖN MUHASEBE SÜRECİ
+İlk Faturanızı Kesmeden Önce
+Pratik İpucu:
+➢ Bir firma e-fatura mükellefiyse, siz de ona
+yalnızca e-fatura kesebilirsiniz
+➢ 2025 yılında e-Arşiv fatura sınırı, KDV dahil
+9.900 TL olarak belirlenmiştir. Bu tutarın
+
+Fatura şirketin en temel resmi belgesidir.”
+Fatura, gelir kaynağınızın ve vergi yükümlülüğünüzün temelidir.
+Şirket kurulur kurulmaz fatura düzenleyebilmeniz için:
+1. Vergi levhası aktif olmalı
+2. E-Arşiv/ E-fatura mükellefiyetiniz tanımlanmış olmalı
+3. Kaşe ve imza yetkiliniz hazır olmalı
+
+üzerindeki işlemler için e-Arşiv faturası
+düzenleme zorunluluğu vardır.
+➢ 2024 hesap döneminde brüt satış hasılatı 3
+milyon TL ve üzeri olan mükellefler, e-fatura
+mükellefi olmak zorundadır.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Fatura Türleri
+E-Fatura: Gelir İdaresi Başkanlığı sisteminde kesilen elektronik
+fatura.
+•E-Arşiv Fatura: E-fatura mükellefi olmayan müşterilere kesilir.
+•İhracat Faturası: Gümrük beyannamesiyle eşleştirilir.
+•İade / İptal Faturası: Yanlış kesilen veya iptal edilen işlemler için
+düzenlenir.
+
+10
+
+BÖLÜM 3 – Fatura Düzenleme Kuralları
+Fatura Tipi Belirleme;
+Temel Fatura: Kesildiği tarihte onaylanmış sayılır ancak
+mali mühürle iptal edilir.
+Ticari Fatura: Kesildikten 8 gün içinde kabul/red imkanı
+vardır.
+
+Süreler:
+Fatura, mal veya hizmet tesliminden en geç 7 gün içinde
+düzenlenmelidir.
+Fatura iptal ve itiraz süresi 8 gündür. Bu süre içinde iptal ve
+itiraz edilmeyen faturalar kabul edilmiş sayılır.
+
+Faturada Bulunması Gerekenler:
+•
+•
+•
+•
+•
+•
+•
+
+Şirket unvanı, vergi numarası, adres
+Alıcının adı, vergi numarası
+Mal / hizmet tanımı
+KDV oranı ve tutarı
+Toplam bedel
+Tarih, sıra numarası, imza / e-imza
+Teknopark’dan proje kapsamında fatura kesiliyorsa. Proje kodu
+ve proje adı ile varsa KDV istisnası açıklama kodu mutlaka
+belirtilmelidir.
+
+Faturada Dikkat Edilecek Konular:
+Hatalı düzenlenen faturalar:
+•
+•
+
+Mali müşavire bilgi verilerek defter kayıtlarında “iptal”
+olarak gösterilir.
+E-faturada iptal işlemi sistem üzerinden yapılır.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+•
+•
+•
+•
+•
+
+Fatura türü belirtilmeli; (tevkifatlı, ihracat, istisna vb.)
+E-faturalarda kaşe gerekmez; sistem e-imza ile onaylar.
+Fatura yabancı dilde veya döviz cinsinden düzenlenebilir.
+Ancak TL karşılığı gösterilmelidir.
+KDV oranları doğru seçilmelidir
+İrsaliye, fatura ile birlikte veya faturadan önce
+gönderilmelidir.
+
+11
+
+BÖLÜM 3 - Ön Muhasebe Süreci
+Başlangıçta: mali müşavir tüm kayıtları tutar,
+işletme sadece evrak gönderir.
+
+Ön Muhasebe Programına Neden Gerek Duyulur?
+“Ön muhasebe = işin mutfağı”
+
+İşlem sayısı arttığında: müşavirlik bürosunun iş yükü
+artar, cari hesap mutabakatları, banka ekstreleri,
+tahsilat takibi gecikmeye başlar.
+
+•Ön muhasebe; satış, tahsilat, gider, stok, cari hesap ve
+nakit akışının takibini sağlar.
+
+Bu noktada ön muhasebe programı veya ön
+muhasebe personeli zorunludur.
+Çünkü:
+Banka ve kasa hareketleri anlık izlenir.
+Müşteri borç/alacak dengesi netleşir.
+Stok, fatura, tahsilat akışı görünür olur.
+Mali müşavirin, aylık beyannameleri
+eksiksiz hazırlayabilmesi için gereklidir.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+•Küçük ölçekli firmalar Excel ile başlayabilir, ama işlem
+hacmi artınca yazılıma geçilmelidir.
+•Özellikle:
+• Vadeli satış/tahsilatlar
+• Banka hesapları ve nakit durumu
+• Çok sayıda tedarikçi
+• Stok takibi
+• Fatura raporlama ihtiyaçları varsa
+ön muhasebe yazılımı zorunlu hale gelir.
+
+12
+
+BÖLÜM 4 – GİDERLER VE VERGİ AVANTAJLARI
+Örnek Gider Kalemleri:
+Vergiden Düşülebilecek Giderler Nedir?
+“Gider yazmak = daha az vergi ödemek,
+ama doğru belgelerle.”
+«Gelir elde etmek amacıyla yapılan» işin
+mahiyeti ile ilgili belgeli harcamalar,
+vergiden düşülebilir.
+Kural: giderin ticari faaliyet/işle
+doğrudan ilgili, belgeye dayalı ve şirkete
+ait olması gerekir.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Aşağıda belirtilen belgelerin tamamı şirket unvanı ve
+vergi numarası kullanılarak hazırlanmalıdır.)
+•Kira giderleri (ofis, depo, showroom)
+•Araç kiralama, yakıt, bakım (şirket envanterine
+kayıtlı veya şirket adına kiralanmış araçların giderleri
+kabul edilir)
+•İletişim giderleri (şirket adına kayıtlı; telefon,
+internet, yazılım lisansları)
+•Temizlik, ofis malzemesi, kırtasiye
+•Eğitim, danışmanlık, mali müşavirlik hizmetleri
+•Banka komisyonları ve finansman giderleri
+•Personel maaş, SGK, yemek, yol, TSS katkı payları
+•Damga vergileri, noter, ticaret sicil harçları
+
+13
+
+BÖLÜM 4 – Eğitim ve Sağlık Giderleri & Yurtdışından Alınan Hizmetler
+“Bazı özel harcamalar sınırlı oranda indirilebilir.”
+•
+
+Şirket çalışanlarının eğitim ve mesleki gelişim giderleri
+vergiden indirilebilir.
+
+•
+
+Sağlık harcamaları (örneğin personel check-up, işyeri
+
+hekimi, TSS katkı payı) de gider olarak yazılabilir.
+•
+
+Ancak şirket sahibinin kişisel eğitim veya sağlık
+
+“Yurt dışı giderler vergi matrahından düşülür ama ek vergi doğurur.”
+Yurt dışı hizmet veya üyelik (örnek: Google Ads, LinkedIn, Zoom,
+AWS, ChatGPT, Canva) gider olarak yazılabilir.
+•Ancak bu tür hizmetler stopaj ve KDV yükümlülüğü doğurabilir.
+➢ Stopaj oranı genellikle %20’tir (GVK md.94/2).
+➢ KDV “sorumlu sıfatıyla” beyan edilir (2 No.lu KDV
+Beyannamesi).
+
+harcamaları yalnızca gelir vergisi beyannamesinde sınırlı
+oranda düşülebilir (gelirin %10’u sınırı)
+•
+
+Araç giderlerinde %30 gider kısıtlaması uygulanır.
+
+•
+
+Finansman gider kısıtlaması: Kısıtlama, yabancı
+kaynakların öz kaynakları aşması durumunda sadece
+aşan kısım için uygulanır.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Örnek:
+Bir Türk firmasının ABD’den aldığı 100 USD’lik gayri maddi hak ve
+danışmanlık için;
+→ KDV2 beyanı verilir (25 USD civarında), Bunu ödediği takdirde
+KDV1 beyanından düşer (geri alır)
+→ Muhtasar stopaj beyanı gerekir. (25 USD civarında)
+→ Toplam Maliyetiniz 125 USD olur.
+
+14
+
+BÖLÜM 4 – Vergi Planlama Stratejileri
+“Az vergi ödemek mümkündür, yeter ki kurallı olun.”
+•
+
+Tüm giderleri belgeli yapın (banka + fatura).
+
+•
+
+Tahsilat ve ödemeleri banka üzerinden gerçekleştirin.
+
+•
+
+Dönem sonu amortisman ve gider karşılıklarını doğru
+hesaplatın.
+
+•
+
+Teknopark veya Ar-Ge/Tasarım Merkezi statünüz
+varsa, gelir vergisi ve SGK teşviklerinden yararlanın.
+
+•
+
+Kar payı dağıtımı yaparken stopaj oranlarını önceden
+planlayın.
+
+•
+
+Eğer uygun faaliyet varsa, yatırım indirimi veya Ar-Ge
+
+Gider Yazarken Yapılan Hatalar
+Belgesiz harcamayı gider yazmak → geçersiz.
+Kişisel cep telefonu / araç / market alışverişini gider
+göstermek → cezalı işlem riski.
+Fatura şirket adına değilse → gider olarak yazılmaz.
+Şirket ortaklarının kişisel sağlık/seyahat giderlerini
+“firma gideri” göstermek → reddedilir.
+Banka dışı (elden) ödemeler → belgesiz işlem sayılır.
+Yurt dışı hizmet faturası geldiğinde bildirmemek →
+KDV ve stopaj cezası.
+
+indirimi (KVK 10/1-a) uygulamasını değerlendirin.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+15
+
+BÖLÜM 5 – ŞİRKET AİT YASAL DEFTERLER
+Yasal Defter Nedir?
+“Her şirketin kanunen tutmak zorunda olduğu
+resmi kayıtların işlendiği defterlerdir”
+•Şirketin tüm mali, ticari ve yönetsel faaliyetlerini
+
+Defter Adı
+
+Kimler İçin Zorunlu Amaç / İçerik
+
+A. Yevmiye Defteri (Günlük
+Muhasebe İşlemleri Defteri)
+
+Tüm şirketler
+
+Her mali işlemin tarih sırasıyla kaydı
+(fatura, tahsilat, ödeme).
+
+B. Defter-i Kebir (Büyük Defter)
+
+Tüm şirketler
+
+Yevmiye kayıtlarının hesap bazında
+dökümü.
+
+C. Envanter Defteri
+
+Tüm şirketler
+
+Dönem sonu kasa, banka, stok,
+demirbaş, alacak, borç listesi.
+
+Limited / Anonim
+
+Ortakların pay oranları, devirler,
+sermaye değişikliklerinin işlendiği
+defter
+
+E. Yönetim Kurulu Karar Defteri
+
+A.Ş.
+
+Yönetim kurulu kararları (atama,
+yetki, yatırım vb.).
+
+F. Genel Kurul Toplantı ve
+Müzakere Defteri
+
+A.Ş.
+
+Genel Kurul Kararlarının işlendiği
+defter
+
+G. Ortaklar Kurulu Karar Defteri
+
+Limited
+
+Ortakların aldığı kararların işlendiği
+defter
+
+H. Damga Vergisi Defteri
+
+LTD/A.Ş.
+
+Damga vergisi tutarları işlenir.
+
+belgeleyen resmi kayıt sistemidir.
+
+•Türk Ticaret Kanunu (TTK) ve Vergi Usul Kanunu
+
+D. Pay Defteri
+
+(VUK) hükümlerine göre tutulur.
+•Her yıl yenilenir, tasdik edilir ve saklanır.
+•Dijitalleşme ile artık e-Defter (elektronik defter)
+sistemi yaygınlaşmıştır.
+
+Yasal defterler, şirketin “geriye dönük ispat”
+güvencesidir.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+16
+
+BÖLÜM 5 – Ne Zaman Tasdik Edilir?
+“Defter tasdik tarihi geçerse defterdeki işlemler geçersiz sayılır!”
+•Yeni kurulan şirketler: Kuruluş sırasında (ticaret sicil tescili öncesi)
+tasdik yapılır.
+•Faaliyette olan şirketler:
+• Yönetim Kurulu Defteri, Müdürler Kurulu Defteri, Damga
+Vergisi Defteri Ocak ayı sonuna kadar defter tasdiki
+noterden yapılmalıdır.
+• Yevmiye, Kebir ve Envanter Defteri elektronik ortamda
+tutulmaktadır. Açılış ve kapanış tasdiki aranmaz.
+
+•Tasdik işlemleri noter veya Ticaret Sicil Müdürlüğü aracılığıyla
+yapılır.
+•TTK madde 64 gereği tasdik edilmeyen defterler hukuken geçerli
+sayılmaz.
+
+Neden Tasdik Zorunludur?
+•
+
+hem de devlet denetimleri için delil
+niteliğindedir.
+
+•
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Vergi incelemesinde, dava veya ortaklık
+anlaşmazlığında en güvenilir bilgi kaynağıdır.
+
+•
+
+Defterler mali müşavir tarafından her ay
+
+doldurulur, ama sorumluluk yönetimdedir.
+Bir davada “şirket şunu yaptı mı?” sorusu, genellikle
+defter sayfalarıyla cevaplanır.
+Elektronik Defter (e-Defter) Uygulaması
+
+•
+Tasdiksiz defter = yok hükmünde kayıt = denetimde reddedilir.
+Yok hükmünde defterler için vergi idaresi resen vergi tarhiyatı
+yapar.
+
+Defterler, hem şirketin kendi iç denetimi
+
+e-Defter, Gelir İdaresi Başkanlığı (GİB) sistemine
+elektronik imza ile gönderilen defter kayıtlarıdır.
+
+•
+
+2025 itibarıyla tüm firmalar için zorunludur.
+
+17
+
+BÖLÜM 6 – ŞİRKET BELGELERİ VE DOSYALAMA
+Fiziksel Arşiv (Hard Copy)
+
+Dijital Arşiv (Soft Copy)
+
+SGK ve Personel Belgeleri
+
+“Bazı belgeler hâlâ ıslak imza ile geçerli.”
+
+“Her belgenin dijital bir kopyası olmalı.”
+
+“Her çalışan için özlük dosyası
+zorunludur.”
+
+Fiziksel olarak saklanması
+gerekenler:
+
+Dijital olarak saklanması önerilen
+belgeler:
+
+1. Kira sözleşmesinin orijinali
+2. Noter tasdikli imza sirküleri /
+vekaletnameler
+3. Faaliyet Belgesi
+4. Mali müşavir sözleşmesi
+5. Personel özlük dosyaları
+6. Sözleşme asılları (müşteri, tedarikçi,
+kira, banka vb.)
+7. Şirkete ait yasal defterler
+8. Vergi Levhası
+
+1. Vergi levhası (her yıl yenilenir)
+2. Ticaret sicil gazetesi (kuruluş +
+değişiklikler)
+3. İmza sirküleri veya beyannamesi
+4. Kira sözleşmesi ve fatura örnekleri
+5. Vergi dairesi açılış tutanağı
+6. E-fatura / e-arşiv kullanıcı
+aktivasyon belgesi
+7. SGK işyeri dosyası, sicil numarası
+bildirimi
+
+Belgelerin düzenli
+tutulması
+info@techsmmm.com
+
+info@techsmmm.com
+
+Asgari bulunması gereken belgeler:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Kimlik fotokopisi
+SGK işe giriş bildirgesi
+Adli sicil kaydı
+İkametgah
+Diploma veya eğitim belgesi
+Sağlık raporu
+Acil durumda iletişim bilgileri
+
+➢ Denetimlerde kolaylık sağlar
+➢ Banka ve teşvik başvurularında hız kazandırır
+➢ Yetki devri veya ortak değişimlerinde karışıklığı önler.
+18
+
+BÖLÜM 6 – ÇALIŞANLARINIZ İÇİN ZORUNLU DOKÜMANLAR
+ÇALIŞMA TİPİ
+
+KAPSAM
+
+EĞİTİM/STAJ/ÇALIŞMA KOŞULLARI
+
+EK/DOKÜMAN
+
+1. İşveren/Çalışan ilişkisi söz konusu değil.
+2. Sözleşme yok.
+3. SGK yok.
+3. Ücret veya yan hak yok.
+4. Fiş karşılığı yemek/yol ücreti masraf yönetimi kapsamında
+ödenebilir.
+
+Ek1: İSG Eğitim Dokümanı
+Ek2: İSG Eğitim Taahhütnamesi
+
+Okul tarafından belirlenmiş süre ile sınırlıdır. Bu süre 20
+günden az olamaz.
+
+1. SGK yok.
+2. Asgari ücretin 1/3'ü tutarında aylık ücret ödenir.
+
+Zorunlu Meslek Stajı Onay
+Formu
+
+Gönüllü staj yapmak amacıyla
+başvuran 18 yaş üstü bireyler
+
+Öğrenme amaçlı olsa dahi Kanun/Yönetmelik kapsamında
+olmayan çalışmalarda İşveren/Çalışan ilişkisi söz konusudur.
+4857 Sayılı İş Kanunu'na tabidiriler.
+
+1. İşveren/Çalışan ilişkisi var
+2. Belirli süreli ve kısmi zamanlı iş sözleşmesi
+Ek3: İş Sözleşmesi
+3. SGK girişi ve bildirimleri var.
+Ek1: İSG Eğitim Dokümanı
+3. Ücret en az asgari ücret tutarında (Kısmi zamanlı ise çalıştığı süre
+Ek2: İSG Eğitim Taahhütnamesi
+ile sınırlı kıst belirlenir.)
+4. Yan haklar var ise bordroya dahil edilerek ödenebilir.
+
+Dış kaynak kullanımı
+18 yaş üstü
+
+1. İşveren/Çalışan ilişkisi söz konusu değil.
+Projelere dahil olarak parça başı iş yapan öğrenci veya mezun 2. Sözleşme var.
+kişiler
+3. SGK yok.
+3. Hizmet bedeli gider pusulası veya fatura karşılığı ödenir.
+
+Şirketin "sosyal sorumluluk faaliyetleri" kapsamında
+değerlendirilir.
+Eğitim/öğrenme amaçlı kendisine
+Bireyin öğrenme amaçlı harcayacağı zaman/eğitim programı
+proje verilen veya bir projeye dahil
+xxx ŞİRKETİ'nin uygunluğuna göre karşılıklı görüşme ile
+edilen teorik ve pratik eğitim sağlanan belirlenir.
+Eğitimler xxx ŞİRKETİ ofisinde veya uzaktan verilir.
+18 yaş üstü bireyler
+Ofiste bulunacağı zamanlar olacaksa İSG eğitimi sağlanır.
+Eğitim Taahhütnamesi imzalatılır.
+
+Lisans öğrencilerinin ilgili Yönetmelik
+kapsamındaki stajı
+
+Çalışan/Personel
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Şirketin faaliyetleri kapsamında yetkinlikleri doğrultusunda
+görevlendirildiği işleri yapmak üzere istihdam edilen kişiler
+
+1. İşveren/Çalışan ilişkisi var.
+2. Belirli/belirsiz süreli, tam/kısmi zamanlı iş sözleşmesi var.
+3. SGK girişi ve bildirimleri var.
+3. Ücret, en az asgari ücret tutarındadır. (Kısmi zamanlı ise çalıştığı
+süre ile sınırlı kıst belirlenir.)
+4. Yan haklar var ise bordroya dahil edilir.
+
+EK5:Hizmet Sözleşmesi
+
+Ek4: İş Sözleşmesi
+Ek1: İSG Eğitim Dokümanı
+Ek2: İSG Eğitim Taahhütnamesi
+
+19
+
+BÖLÜM 6 - Arşivlemede En Sık Yapılan Hatalar
+Belgeleri sadece muhasebecide tutmak → gerektiğinde elinizde belge bulunmaz.
+Sadece fiziki arşiv yapmak → yangın, kayıp, taşınma riskinde bilgi yok olur.
+Belgeleri kişisel e-postalarda saklamak → güvenlik riski.
+Vergi levhasının güncel versiyonunu dosyaya koymamak → banka/ihale başvurusunda reddedilir.
+Kanıt niteliğinde bazı E-imzalı PDF belgeleri çıktı alıp imzalamamak → belgenin resmiyetini ortadan
+kaldırır.
+Özlük dosyalarını eksik tutmak → İş-Kur denetiminde para cezası.
+Yasal defterlerin kaybedilmesi→ Şirket kayıtları ve ödenen vergiler hukuken geçerli sayılmaz.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+20
+
+BÖLÜM 7 – NAKİT AKIŞI VE VERGİ PLANLAMASI
+
+Neden Nakit Akışı Planlaması Gerekir?
+“Kâr etmek başka, nakit yaratmak başka.”
+•Şirketler genellikle kâr eder ama nakit
+sıkışıklığı yaşar.
+•Nakit akışı planlaması, “hangi haftada
+kasada/bankada ne kadar para kalacak”
+sorusuna cevap verir.
+Ana fikir:
+“Bilanço/Gelir Tablosu geçmişi anlatır,
+nakit akışı şimdi ve geleceği gösterir.”
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+1. Kâr kâğıt üzerindedir, nakit gerçektir.
+Bir işletme kârlı olabilir ama kasasında hiç para olmayabilir.
+Muhasebe kârı, henüz tahsil edilmemiş alacakları da içerir; nakit akışı sadece “eldeki parayı”
+gösterir.
+Birçok şirket bilançosunda kâr ederken, kasada maaş ödeyemediği için batar.
+2. Vergi ve SGK, tahsilattan önce gelir.
+Devlet vergiyi tahsilata göre değil, faturaya göre ister.
+Yani parayı almadan önce KDV’yi ödersiniz.
+Nakit planlama yoksa, “henüz tahsil edilmemiş gelirler” için bile nakit çıkışı yaşanır.
+3. Nakit planlama, krizleri değil fırsatları da gösterir.
+Birçok girişimci nakit planlamasını sadece “borç yönetimi” zanneder.
+Oysa doğru nakit takvimi, yatırım, indirimli alım veya erken ödeme avantajlarını da görünür kılar.
+Nakit sıkıntısını değil, nakit fazlasını da yönetmek gerekir.
+4. Nakit akışı, erken uyarı sistemidir.
+Nakit akışı, şirketin “kalp atışıdır.”
+Her hafta küçük bir açık büyüyerek 3 ayda ciddi krize dönüşebilir.
+Erken fark edilirse çözüm kolaydır: tahsilat hızlandırılır, harcamalar ertelenir.
+5. Planlama yoksa stres vardır.
+Kasa hareketi öngörülmediğinde her vergi haftası bir “mini kriz” olur.
+Finansal stres hem karar kalitesini hem ekip moralini düşürür.
+Planlı nakit akışı, yöneticinin zihnini boşaltır; reaktif değil, proaktif yönetim sağlar.
+
+21
+
+BÖLÜM 7 - Temel Nakit Akış Tablosu (Örnek)
+Gelirler/Kaynaklar
+Mevcut sermaye / yatırım
+Satış ve tahsilatlar
+Hibe / destek (KOSGEB vb.)
+Toplam Giriş
+
+Ocak
+200.000
+50.000
+250.000
+
+Şubat
+60.000
+50.000
+110.000
+
+Gider Kalemi
+Personel Maaşları (3 kişi)
+SGK Primleri
+Kira + Ofis Giderleri
+Yazılım / Bulut / Domain Lisansları
+Ar-Ge / Donanım Alımları
+Vergiler (KDV, Muhtasar, Damga, KDV2)
+Eğitim / Danışmanlık / Hukuki Giderler
+Ofis Malzeme / Kırtasiye / Genel Gider
+Toplam Aylık Nakit Çıkışı
+
+Ocak
+90.000
+15.000
+20.000
+10.000
+40.000
+15.000
+5.000
+195.000
+
+55.000
+
+Net Nakit Değişimi (Giriş – Çıkış)
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+Mart
+
+Nisan
+
+Mayıs
+
+90.000
+90.000
+
+120.000
+120.000
+
+80.000
+80.000
+
+Haziran
+100.000
+100.000
+200.000
+
+Şubat
+90.000
+15.000
+20.000
+12.000
+20.000
+8.000
+5.000
+170.000
+
+Mart
+90.000
+15.000
+20.000
+12.000
+40.000
+25.000
+5.000
+207.000
+
+Nisan
+90.000
+15.000
+20.000
+12.000
+20.000
+5.000
+5.000
+167.000
+
+Mayıs
+90.000
+15.000
+20.000
+12.000
+30.000
+20.000
+5.000
+5.000
+177.000
+
+Haziran
+90.000
+15.000
+20.000
+12.000
+50.000
+25.000
+5.000
+5.000
+222.000
+
+–60.000
+
+–117.000
+
+–47.000
+
+–97.000
+
+–22.000
+
+Runway (ay) = Mevcut nakit /
+Aylık ortalama gider
+Örneğin: 500.000 TL nakit ve aylık
+ortalama gider 180.000 TL →
+yaklaşık 2,7 ay runway.
+Bu yapı, “runway analizi” (şirketin
+mevcut nakitle kaç ay
+dayanabileceği) için temel
+tablodur.
+
+22
+
+BÖLÜM 7 - Uyarılar – Nakit ve Vergi Planlamasında Yapılan Temel 10 Hata
+1. Kâr ile nakdi karıştırmak.
+Bir işletme kâr edebilir ama kasasında para olmayabilir.
+Muhasebe kârı, tahsil edilmemiş faturaları da içerir; nakit ise fiilen elde olandır.
+
+6. Stok veya proje maliyetlerini nakit gibi görmek.
+Depoda duran ürün ya da devam eden proje, kasadaki para değildir.
+Likiditeyi korumak için stok dönüş hızını izlemek gerekir.
+
+2. Tahsilat vadelerini izlememek.
+Müşteriden “30 gün” diye alınan çek 60 günde ödeniyorsa, nakit akışı bozulur.
+Her müşteri için tahsilat takvimi oluşturulmalı, geciken ödemelere erken uyarı sistemi
+kurulmalıdır.
+
+7. Kısa vadeli borçla uzun vadeli harcama yapmak.
+3 aylık krediyle 12 ay sürecek proje finanse edilirse, ödemeler gelirden önce başlar.
+Finansman vadesi, nakit dönüş süresiyle uyumlu olmalıdır.
+
+3. Ödemeleri aynı haftaya yığmak.
+Maaş, kira, SGK ve tedarikçi ödemeleri aynı güne denk gelirse kasa aniden boşalır.
+Ödemeleri haftalara bölmek, nakit akışını nefes alır hale getirir.
+4. Vergi ve SGK rezervi ayırmamak.
+KDV, muhtasar ve SGK ödemeleri için aylık cironun %15–20’si kenara konulmalıdır.
+Bu rezerv ayrılmazsa vergi haftasında finansal kriz yaşanır.
+
+5. Tahsil edilmeden büyümeye çalışmak.
+Yeni personel almak, ofis büyütmek veya yatırım yapmak ancak tahsilatlar düzenliyse
+sürdürülebilir olur.
+Gelirler fiilen kasaya girmeden harcamaları artırmak erken nakit krizi doğurur.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+8. Nakit akış tablosu tutmamak.
+Birçok girişimci gelir-gider listesi yapar ama haftalık nakit akışını izlemez.
+Nakit tablosu, her hafta “elde kalan nakit – gelecek hafta çıkış” farkını göstermelidir.
+
+9. Tek müşteri veya tek proje bağımlılığı.
+Tüm gelir tek müşteriden geliyorsa, o müşterinin gecikmesi tüm sistemi sarsar.
+Nakit akışı sürdürülebilir olması için müşteri tabanı çeşitlendirilmelidir.
+
+10. Yatırım veya destek gelirlerini işletme sermayesiyle karıştırmak.
+Yatırımcı veya hibe kaynakları geçici nakit takviyesidir; maaş ve sabit giderlerin kalıcı finansmanı
+olarak görülmemelidir.
+Bu kaynaklar gelişim, Ar-Ge veya pazarlama yatırımlarına yönlendirilmelidir.
+
+23
+
+Cevizli Mah. Zuhal Cad. No: 46E
+Ritim İstanbul Sitesi A5 Blok D:4 Kat:2
+34846 Maltepe/İstanbul/Türkiye
+
++90 535 573 0269
+
+hakan.gumus@techsmmm.com
+
+«Şirket 101» sunumunun tüm hakları Tech Consulting’e aittir.
+Kaynak gösterilmeden çoğaltılamaz veya ticari amaçla paylaşılamaz
+© 2025 Her hakkı saklıdır.
+
+info@techsmmm.com
+
+info@techsmmm.com
+
+

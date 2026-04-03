@@ -1,0 +1,268 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('ayhan.agirgol%40finhouse.com.tr')/calendarView(subject,start,end,location,webLink,organizer)",
+  "value": [
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB59boVw==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oVKdsbAAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABvozVkQAAEA==",
+      "subject": "Bulutistan Ofis&Orbina&Begim Başlıgil",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oVKdsbAAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABvozVkQAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-19T06:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-19T11:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "SabancıDx, Küçük Çamlıca, Kısıklı Cd. No. 56, 34696 Üsküdar/İstanbul, Türkiye; https://meet.google.com/wfk-cjow-zsq",
+        "locationType": "default",
+        "uniqueId": "SabancıDx, Küçük Çamlıca, Kısıklı Cd. No. 56, 34696 Üsküdar/İstanbul, Türkiye; https://meet.google.com/wfk-cjow-zsq",
+        "uniqueIdType": "private"
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "Dilara Kaplan",
+          "address": "dilara.kaplan@orbina.ai"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB2IXKPA==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oVKdsbAAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABm9ZnngAAEA==",
+      "subject": "Finhouse & Orbina",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oVKdsbAAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABm9ZnngAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-19T08:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-19T09:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "https://meet.google.com/kej-rvwv-odw",
+        "locationType": "default",
+        "uniqueId": "https://meet.google.com/kej-rvwv-odw",
+        "uniqueIdType": "private"
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "orkun.akyuz@orbina.ai",
+          "address": "orkun.akyuz@orbina.ai"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB6pGOFg==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oVKdsbAAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABm9ZnnQAAEA==",
+      "subject": "Co-one & Finhouse Update Meetings",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oVKdsbAAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABm9ZnnQAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-19T14:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-19T15:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "https://meet.google.com/fgh-dghk-fen",
+        "locationType": "default",
+        "uniqueId": "https://meet.google.com/fgh-dghk-fen",
+        "uniqueIdType": "private"
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "mert.menekse@co-one.co",
+          "address": "mert.menekse@co-one.co"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB6JBj/A==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oYToTCAAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QAB4aamYAAAEA==",
+      "subject": "Sistem Değerlendirme Toplantısı",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oYToTCAAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QAB4aamYAAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-20T11:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-20T12:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "",
+        "locationType": "default",
+        "uniqueIdType": "unknown",
+        "address": {},
+        "coordinates": {}
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "Eda Taştemir",
+          "address": "eda.tastemir@finhouse.com.tr"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB78SdPg==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oel9gQAAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABysJewAAAEA==",
+      "subject": "Finhouse & Orbina Weekly",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3oel9gQAAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABysJewAAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-22T14:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-22T14:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "https://meet.google.com/jzr-epqj-kcz",
+        "locationType": "default",
+        "uniqueId": "https://meet.google.com/jzr-epqj-kcz",
+        "uniqueIdType": "private"
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "orkun.akyuz@orbina.ai",
+          "address": "orkun.akyuz@orbina.ai"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB78SdRw==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3ohvIG3AAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QAB26Q_GgAAEA==",
+      "subject": "Türkkep Değerlendirme Toplantısı",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3ohvIG3AAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QAB26Q%2BGgAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-23T07:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-23T08:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "",
+        "locationType": "default",
+        "uniqueIdType": "unknown",
+        "address": {},
+        "coordinates": {}
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "Eda Taştemir",
+          "address": "eda.tastemir@finhouse.com.tr"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB78SdTg==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3ohvIG3AAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QAB4aamXgAAEA==",
+      "subject": "FinHouse Danışmanlık Toplantısı",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3ohvIG3AAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QAB4aamXgAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-23T08:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-23T09:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "",
+        "locationType": "default",
+        "uniqueIdType": "unknown",
+        "address": {},
+        "coordinates": {}
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "Eda Taştemir",
+          "address": "eda.tastemir@finhouse.com.tr"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB6pGTgg==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd_ys3MzhAAAAAAENAABlGQ8ZNTsSQK7xd_ys3MzhAAHrnM7DAAA=",
+      "subject": "FinHouse & Co-one",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd%2Bys3MzhAAAAAAENAABlGQ8ZNTsSQK7xd%2Bys3MzhAAHrnM7DAAA%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-24T09:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-24T12:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Co-one Arge Teknoloji A.Ş., UNIQ İstanbul, Huzur, Maslak Ayazağa Cd. No:4/B Bağımsız bölüm: 6, 34475 Sarıyer/İstanbul, Türkiye; https://meet.google.com/udf-uddy-fci",
+        "locationType": "default",
+        "uniqueId": "Co-one Arge Teknoloji A.Ş., UNIQ İstanbul, Huzur, Maslak Ayazağa Cd. No:4/B Bağımsız bölüm: 6, 34475 Sarıyer/İstanbul, Türkiye; https://meet.google.com/udf-uddy-fci",
+        "uniqueIdType": "private"
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "mert.menekse@co-one.co",
+          "address": "mert.menekse@co-one.co"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB78SXmA==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd_ys3MzhAAAAAAENAABlGQ8ZNTsSQK7xd_ys3MzhAAHw1NPKAAA=",
+      "subject": "Assistbox - Ayhan Ağırgöl Tanışma Toplantısı",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd%2Bys3MzhAAAAAAENAABlGQ8ZNTsSQK7xd%2Bys3MzhAAHw1NPKAAA%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-24T10:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-24T11:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "https://meet.google.com/gqa-jbfw-cmf",
+        "locationType": "default",
+        "uniqueId": "https://meet.google.com/gqa-jbfw-cmf",
+        "uniqueIdType": "private"
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "Mehmet Nuri Aybayar",
+          "address": "mehmetnuri.aybayar@techsign.com.tr"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"ZRkPGTU7EkCu8XfsrNzM4QAB8G8RCQ==\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3ooBdUFAAEYAAAAAOFuyWnuGNEqJUk3_moho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABysJewQAAEA==",
+      "subject": "Finhouse & Orbina Takip",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQFRAAgI3ooBdUFAAEYAAAAAOFuyWnuGNEqJUk3%2Bmoho1wcAZRkPGTU7EkCu8XfsrNzM4QAAAAABDQAAZRkPGTU7EkCu8XfsrNzM4QABysJewQAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+      "start": {
+        "dateTime": "2026-03-25T07:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2026-03-25T07:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "https://meet.google.com/uys-voig-hnh",
+        "locationType": "default",
+        "uniqueId": "https://meet.google.com/uys-voig-hnh",
+        "uniqueIdType": "private"
+      },
+      "organizer": {
+        "emailAddress": {
+          "name": "orkun.akyuz@orbina.ai",
+          "address": "orkun.akyuz@orbina.ai"
+        }
+      }
+    }
+  ]
+}

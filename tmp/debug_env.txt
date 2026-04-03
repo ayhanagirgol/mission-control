@@ -1,0 +1,3 @@
+/Users/baykus/.openclaw/workspace/.env
+True
+/Users/baykus/.openclaw/workspace/scripts/fetch_outlook_data.py

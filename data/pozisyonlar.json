@@ -1,0 +1,15 @@
+{
+  "aktif": [
+    {
+      "hisse": "ASELS",
+      "giris_fiyat": 321.50,
+      "giris_tarih": "2026-04-01 14:00",
+      "strateji": "ORB",
+      "stop_loss": 311.86,
+      "hedef": 327.93,
+      "not": "Manuel alım — gün sonu 318.75 TL (-0.86%). Kullanıcı yarına taşıma kararı verdi. Yarın ORB sinyaline göre değerlendirilecek."
+    }
+  ],
+  "kapali": [],
+  "guncellendi": "2026-04-01 21:52"
+}

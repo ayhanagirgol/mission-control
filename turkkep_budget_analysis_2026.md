@@ -40,7 +40,7 @@ Burçin Hanım: "Siz baktıktan sonra **Çarşamba günü** değerlendiririz tek
 
 | Firma | İçerik | TL/Ay |
 |---|---|---|
-| EVERHUB | Servicecore Danışmanlık | 294,000 |
+| ~~EVERHUB~~ | ~~Servicecore Danışmanlık~~ | ~~294,000~~ | ⚠️ **KALDIRILACAK — böyle bir kalem olmamalı** |
 | OGRIT | DevSecOps Teknik Destek | 157,420 |
 | ÖNSOY | MSSQL DBA Desteği | 140,000 |
 | FOCUS | ArGe Danışmanlık | 109,000 |

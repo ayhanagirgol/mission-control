@@ -1,0 +1,5 @@
+📊 BIMAS-TUPRS Pairs 5dk Backtest (Mart 2026): -0.42% | 78 işlem | 53% kazanma oranı | Max DD: -0.98%
+Sermaye: ₺100,000 → ₺99,578
+İşlem sayısı: 78
+Kazanma oranı: 52.6%
+Max Drawdown: -0.98%

@@ -1,0 +1,153 @@
+// BIST50 RSI + Hacim Stratejisi — Gap Filtreli
+// Ayhan Ağırgöl — Özel Strateji v2
+// Pozisyon Trading | Stop-loss yok | RSI Dip Alımı + Hacim
+
+//@version=5
+strategy("BIST50 RSI+Hacim | Gap Filtreli | Ayhan", 
+     overlay=true, 
+     initial_capital=100000,
+     default_qty_type=strategy.percent_of_equity,
+     default_qty_value=100,
+     commission_type=strategy.commission.percent,
+     commission_value=0.05,
+     currency=currency.TRY)
+
+// ─── PARAMETRELER ────────────────────────────────────────────
+rsi_periyot    = input.int(14,  title="RSI Periyot")
+rsi_asiri_satis = input.int(35, title="RSI Aşırı Satış (altına düşünce hazırlan)")
+rsi_al_esigi   = input.int(40,  title="RSI Al Eşiği (yukarı kırınca AL)")
+rsi_asiri_alis = input.int(65,  title="RSI Aşırı Alış (üstüne çıkınca hazırlan)")
+rsi_sat_esigi  = input.int(60,  title="RSI Sat Eşiği (aşağı kırınca SAT)")
+hacim_periyot  = input.int(20,  title="Hacim Ortalama Periyodu")
+hacim_katsayi  = input.float(1.3, title="Hacim Çarpanı (x ortalama)")
+gap_esigi      = input.float(2.0, title="Gap Filtre Eşiği (%)")
+
+// ─── HESAPLAMALAR ────────────────────────────────────────────
+rsi        = ta.rsi(close, rsi_periyot)
+hacim_ort  = ta.sma(volume, hacim_periyot)
+guclu_hacim = volume > hacim_ort * hacim_katsayi
+
+// Gap hesaplama — açılış önceki kapanışa göre ne kadar farklı?
+gap_yuzdesi = math.abs(open - close[1]) / close[1] * 100
+gap_var     = gap_yuzdesi > gap_esigi  // Büyük gap → bu mumu atla
+
+// RSI hafıza: daha önce aşırı satışa girdi mi?
+var bool rsi_dip_gordu = false
+if rsi < rsi_asiri_satis
+    rsi_dip_gordu := true
+if rsi > rsi_al_esigi + 10  // Toparlandı, hafızayı sıfırla
+    rsi_dip_gordu := false
+
+var bool rsi_zirve_gordu = false
+if rsi > rsi_asiri_alis
+    rsi_zirve_gordu := true
+if rsi < rsi_sat_esigi - 10
+    rsi_zirve_gordu := false
+
+// ─── SİNYALLER ───────────────────────────────────────────────
+// AL: RSI önce 35 altına düştü → şimdi 40'ı yukarı kırıyor + güçlü hacim + gap yok
+al_sinyal = rsi_dip_gordu and 
+            ta.crossover(rsi, rsi_al_esigi) and 
+            guclu_hacim and 
+            not gap_var
+
+// SAT 1: RSI önce 65 üstüne çıktı → şimdi 60'ı aşağı kırıyor + güçlü hacim + gap yok
+sat_normal = rsi_zirve_gordu and 
+             ta.crossunder(rsi, rsi_sat_esigi) and 
+             guclu_hacim and 
+             not gap_var
+
+// SAT 2: RSI 85 üstü → aşırı ısınma, hemen çık (hacim/gap şartı aranmaz)
+rsi_asiri_isınma = input.int(85, title="RSI Acil Çıkış Eşiği (≥ bu değerde hemen SAT)")
+sat_acil = ta.crossover(rsi, rsi_asiri_isınma) or rsi >= rsi_asiri_isınma and rsi[1] < rsi_asiri_isınma
+
+sat_sinyal = sat_normal or sat_acil
+
+// ─── İŞLEMLER ────────────────────────────────────────────────
+if al_sinyal
+    strategy.entry("AL", strategy.long)
+
+if sat_sinyal
+    strategy.close("AL")
+
+// ─── GÖRSEL ──────────────────────────────────────────────────
+// RSI seviyeleri için bant
+// Gap olan mumları işaretle
+bgcolor(gap_var ? color.new(color.yellow, 90) : na, title="Gap Uyarısı")
+
+// RSI zone renkleri (arka plan)
+bgcolor(rsi < rsi_asiri_satis ? color.new(color.green, 92) : 
+        rsi > rsi_asiri_alis  ? color.new(color.red, 92)   : na,
+        title="RSI Zone")
+
+// Al/Sat sinyalleri
+plotshape(al_sinyal,  
+     style=shape.triangleup,   
+     location=location.belowbar, 
+     color=color.green, 
+     size=size.large, 
+     title="AL Sinyali",
+     text="AL")
+
+plotshape(sat_normal, 
+     style=shape.triangledown, 
+     location=location.abovebar, 
+     color=color.red,   
+     size=size.large, 
+     title="SAT Sinyali",
+     text="SAT")
+
+plotshape(sat_acil, 
+     style=shape.triangledown, 
+     location=location.abovebar, 
+     color=color.fuchsia,   
+     size=size.huge, 
+     title="ACİL SAT (RSI 85+)",
+     text="🔥SAT")
+
+// Gap uyarısı
+plotshape(gap_var, 
+     style=shape.xcross, 
+     location=location.abovebar, 
+     color=color.new(color.yellow, 0), 
+     size=size.tiny, 
+     title="Gap (Sinyal Atlandı)")
+
+// ─── ALT PANEL: RSI ──────────────────────────────────────────
+rsi_plot = plot(rsi, title="RSI", display=display.none)
+
+// ─── BİLGİ TABLOSU ───────────────────────────────────────────
+var table bilgi = table.new(position.top_right, 2, 7, 
+     bgcolor=color.new(color.black, 75), 
+     border_width=1,
+     border_color=color.new(color.gray, 50))
+
+if barstate.islast
+    rsi_renk = rsi < rsi_asiri_satis ? color.green : 
+               rsi > rsi_asiri_alis  ? color.red   : color.white
+
+    table.cell(bilgi, 0, 0, "🎯 BIST50 RSI+Hacim", text_color=color.white, text_size=size.small, bgcolor=color.new(color.blue, 60))
+    table.cell(bilgi, 1, 0, "", bgcolor=color.new(color.blue, 60))
+    
+    table.cell(bilgi, 0, 1, "RSI:", text_color=color.gray, text_size=size.tiny)
+    table.cell(bilgi, 1, 1, str.tostring(math.round(rsi, 1)), text_color=rsi_renk, text_size=size.small)
+    
+    table.cell(bilgi, 0, 2, "Hacim:", text_color=color.gray, text_size=size.tiny)
+    table.cell(bilgi, 1, 2, guclu_hacim ? "💪 GÜÇLÜ" : "😴 Normal", 
+         text_color=guclu_hacim ? color.green : color.gray, text_size=size.tiny)
+    
+    table.cell(bilgi, 0, 3, "Gap:", text_color=color.gray, text_size=size.tiny)
+    table.cell(bilgi, 1, 3, gap_var ? "⚠️ VAR (" + str.tostring(math.round(gap_yuzdesi, 1)) + "%)" : "✅ Yok",
+         text_color=gap_var ? color.yellow : color.green, text_size=size.tiny)
+    
+    table.cell(bilgi, 0, 4, "Dip Gördü:", text_color=color.gray, text_size=size.tiny)
+    table.cell(bilgi, 1, 4, rsi_dip_gordu ? "✅ Evet" : "❌ Hayır",
+         text_color=rsi_dip_gordu ? color.green : color.gray, text_size=size.tiny)
+    
+    table.cell(bilgi, 0, 5, "Zirve Gördü:", text_color=color.gray, text_size=size.tiny)
+    table.cell(bilgi, 1, 5, rsi_zirve_gordu ? "✅ Evet" : "❌ Hayır",
+         text_color=rsi_zirve_gordu ? color.red : color.gray, text_size=size.tiny)
+
+    table.cell(bilgi, 0, 6, "Pozisyon:", text_color=color.gray, text_size=size.tiny)
+    table.cell(bilgi, 1, 6, strategy.position_size > 0 ? "📈 AÇIK" : "💤 Yok",
+         text_color=strategy.position_size > 0 ? color.green : color.gray, text_size=size.tiny)

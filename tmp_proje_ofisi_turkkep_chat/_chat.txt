@@ -1,0 +1,186 @@
+[28.02.2026 21:35:40] Proje Ofisi TÜRKKEP YK: ‎Mesajlar ve aramalar uçtan uca şifrelidir. Yalnızca bu sohbetteki kişiler bu içerikleri okuyabilir, dinleyebilir veya paylaşabilir.
+[28.02.2026 21:35:40] Huseyin Karayağız: ‎Huseyin Karayağız “Proje Ofisi YK TÜRKKEP” grubunu oluşturdu
+[28.02.2026 21:35:40] Proje Ofisi TÜRKKEP YK: ‎Huseyin Karayağız sizi ekledi
+[28.02.2026 21:36:27] Huseyin Karayağız: Selamlar 🖖 
+@⁨Aykut Kutlusan⁩  ve @⁨Ayhan Ağırgöl⁩  bey
+
+Bu guruptan Projelerin takibi veya taşlarin temizlenmesi amacımız olacak
+[1.03.2026 11:24:38] Ayhan Ağırgöl: Crm tarafında yapay zeka botunu konuşlandırmaya çalışacağız
+[1.03.2026 11:29:32] Huseyin Karayağız: Selam Ayhan 
+Erol ile yapacagimiz toplantida yz ile eski yazılımlarin tamamen yeni hale getirilmesi konusunu dikkatlice anlamamiz lazim ‎<Bu mesaj düzenlendi>
+‎[1.03.2026 11:32:33] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[1.03.2026 11:34:21] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[1.03.2026 11:34:47] Huseyin Karayağız: ‎ses dahil edilmedi
+[1.03.2026 11:49:51] Ayhan Ağırgöl: Buradki konu yapay zeka ile olan çalışmaların gizliliği eğer crm kodu bizim için çok gizli değil ise crm için yapa biliriz
+[1.03.2026 11:50:29] Ayhan Ağırgöl: Bir çok yazılım geliştirme evi antropic ile bunu yapıyor
+[1.03.2026 11:50:42] Ayhan Ağırgöl: Zaten open source bir uygulama
+[1.03.2026 11:51:15] Ayhan Ağırgöl: Kod detayı artık çok kritşk veri olmamaya başladı
+[1.03.2026 11:51:41] Ayhan Ağırgöl: Kep dılındaki uygulamakarda yz kullanabiliriz
+[1.03.2026 11:52:02] Ayhan Ağırgöl: Edatura ve ebelgede henüz yazılım fazına geçmedik
+[1.03.2026 12:19:08] Huseyin Karayağız: Test ortaminda geliştirme asamasinda gercek müşteri bilgileri olmadan yazılım geliştime yapılır
+
+Güvenlik tehditi başka nedir ?
+[1.03.2026 12:19:30] Huseyin Karayağız: Zaten burada kullanabileceksek hiç dert yok
+[1.03.2026 12:31:23] Ayhan Ağırgöl: Kodlarımız yapay zeka ğlatformu ile paylaşılmış olur ki zaten bütün dünya paylaşıyor zaten yapmazsak bir kaç ay sonra rakiplerden çok geri kalırız
+[1.03.2026 12:32:24] Huseyin Karayağız: Açık kod zaten trust demek
+[1.03.2026 12:41:36] Ayhan Ağırgöl: Bu konuda ok isek karar alıp ilerleyelim
+[1.03.2026 12:42:11] Huseyin Karayağız: Evet kod çalışırken ki güvenlik altyapısı önemli ‎<Bu mesaj düzenlendi>
+[1.03.2026 12:42:49] Huseyin Karayağız: Kodun ve diger uygulamalardaki inmıvasyon da tabi
+[1.03.2026 13:39:42] Ayhan Ağırgöl: aykut bey günaydın CRM için chatbot kurulum projesini başlatabilirsek veya projenin bu adımını devreye alabilirsek sevinirim.
+[1.03.2026 13:40:26] Ayhan Ağırgöl: ekiplerin crmden hangi raporları alması için chatbot eğitimi için soru setlerini oluşturabilrsek sevinirim
+[1.03.2026 13:41:05] Huseyin Karayağız: Satış ve bayi ekiplerinin egitimide crm üzerinden olmalı aslında
+
+Nasıl ürün seceyim veya müşterinin ortakında xyz erp var !!?
+Ben nasil efatura entegrasyonu önereyim gibi
+[1.03.2026 13:41:54] Huseyin Karayağız: Bayilere veya satış ekibine egitim alma ve imtihina teste sokmada oradan olmali
+[1.03.2026 13:41:55] Ayhan Ağırgöl: öncelikle chatbot entegrasyonu yapıp istekleri ve sorularını cevaplamayla başlayalım
+[1.03.2026 13:42:04] Aykut Kutlusan: Merhaba Ayhan Bey,
+CRM’de iki aşamalı geçiş planı daha uygun olabilir. İlk aşamada size Cuma günü önerdiğimiz mevcut CRM’de yapay zeka desteği olabilir.
+[1.03.2026 13:42:41] Ayhan Ağırgöl: evet bende aynı fikirdeyim mevcutun chatbot ile kullanımı
+[1.03.2026 13:44:40] Aykut Kutlusan: İkinci aşamada yapay zeka tabanlı CRM’e geçiş.
+İkinci aşama için Pazartesi günü Cemal Bey’in de katılımı ile bir çalışma başlatıp gereksinim analizi planlamasını yaparız.
+[1.03.2026 13:45:16] Ayhan Ağırgöl: Aykut bey zamna planımızı da çıkartabilirmiyiz
+[1.03.2026 13:46:35] Ayhan Ağırgöl: yapay zeka konusunda deneyim li bir adayıda aramıza karasak çok iyi olur. Intranet ve crm için iki ayrı çalışma paralel yürüse çok iyi olur
+[1.03.2026 13:47:14] Aykut Kutlusan: Gereksinimler netleştiğinde işin süresi konusunda net bilgimiz olacak. Kaba planı hızlıca çıkarabiliriz, gereksinim analizi sonrasında planı daha detaylı kırarız.
+[1.03.2026 13:49:24] Aykut Kutlusan: Tamamdır, Ayhan Bey. Bu çalışmalar için CRM ve AI konusunda deneyimli adaylar öncelikli olmak üzere tam zamanlı iki uygulama yazılım geliştiriciye daha ihtiyaç olacaktır.
+[1.03.2026 13:52:12] Huseyin Karayağız: Bölgesel bir yapıya evrimleşirsek
+
+Farkli ülkelerde farkli takımlarin  çalışacagi intranet ve crm alt yapısi hazirladigimizi umutmayalim 
+🧐🧐👀👀🤔🤔🤔
+
+Yani sadece TR için CRM konuşmuyoruz ‎<Bu mesaj düzenlendi>
+[1.03.2026 13:53:31] Huseyin Karayağız: Teklifin arapça veya ingilizce veya türkce çıkmasıda kolay olmali
+[1.03.2026 13:53:39] Aykut Kutlusan: Önemli konumuz bu soru cevap setlerinin hazırlanması. Chatbot’un bilgi tabanının yeterli olgunlukta olması için soru-cevap setlerinin  hazırlanmasında birim yöneticilerinin desteğine ihtiyacımız olacak. Yarın yapılacak Haftalık Yönetim Koordinasyon Toplantısı’nda bu konuyu gündeme getiririz.
+[1.03.2026 13:56:59] Ayhan Ağırgöl: soru setlerini biz birkeç kez dle getirdik gruptan sizin hedef tarih ve içerik paylaşılması iyi olur
+[1.03.2026 14:00:09] Aykut Kutlusan: Merhaba Hüseyin Bey,
+Yapay zeka uygulamalarında NLP ile birlikte çoklu dil desteği default gelmeye başladı. Çağrı merkezi için düşündüğümüz bir AI Asistanı uygulamasının 100 dilde desteği vardı. 
+Ürün geliştirme planlamalarında çoklu dil desteğini dikkate alacağız.
+‎[1.03.2026 14:02:53] Huseyin Karayağız: ‎ses dahil edilmedi
+[6.03.2026 13:50:31] Huseyin Karayağız: Selamlar
+[6.03.2026 13:50:52] Huseyin Karayağız: @⁨Aykut Kutlusan⁩  bey selam
+[6.03.2026 13:51:21] Huseyin Karayağız: Ozge hanimda enlight toplantisina katilsa iyi olur
+[6.03.2026 13:51:42] Huseyin Karayağız: 12 mart persembeye alalim toplantiyi ‎<Bu mesaj düzenlendi>
+[6.03.2026 13:58:34] Aykut Kutlusan: Selam Hüseyin Bey,
+Özge Hanım ve Ayhan Bey katılımcılar arasında. Başka katılımını istediğiniz kişi olursa iletebilirim. Daveti de 12 Mart olarak güncelleyeceğim.
+[6.03.2026 14:08:10] Huseyin Karayağız: Hulya olursa iyi olur 
+Ürün  bazında ve dıi müşteri memnuniyeti konusu temelde ürün satış  yönetimi konusu aslinda
+[6.03.2026 14:08:47] Aykut Kutlusan: Hülya Hanım’a da ileteceğim.
+[7.03.2026 19:27:31] Huseyin Karayağız: @⁨‎herkes⁩  selam 
+Lütfen bunu okuyunuz
+Legal Ai yazilimlari nedir! Ne degildir daha net anlatıllmış.
+[7.03.2026 19:27:31] Huseyin Karayağız: https://x.com/ozanstark/status/2030235465295487321?s=48
+[7.03.2026 19:28:44] Huseyin Karayağız: @⁨Ayhan Ağırgöl⁩  hocam selam
+Bu yazi tamda benim bizim sadece search engine yapan bir uygulama ile bizde yapiyoruz dememiz yanlış olur
+[7.03.2026 19:33:40] Huseyin Karayağız: https://www.linkedin.com/posts/activity-7436039750437863424-1Ofa?utm_source=share&utm_medium=member_ios&rcm=ACoAAAEbEt0BD6ENrLX4VuLUqMVYcht9JEotkHg
+[7.03.2026 19:34:11] Huseyin Karayağız: TJS Yazılım, kurumların sözleşme ve kritik dokümanlarını profesyonel hukukçuların denetiminde çalışan tamamen kapalı yapay zekâ sistemleri ile analiz eden yeni bir hizmet geliştirdi.
+[7.03.2026 19:34:34] Huseyin Karayağız: Bu firma sanırım avuklardan olusuyor
+[7.03.2026 21:35:45] Ayhan Ağırgöl: Bize sunum yapanların yaptıklarını anlatıyor adam bizde aynı şeyi söylüyoruz sunum yapan uygulamaların hepsi bir yargıtay karaları veri tabanından sorgu yapıyor
+[7.03.2026 21:36:30] Huseyin Karayağız: Evet ! Bu yüzden bizim kendi ürünümüz ve bizde yapıyoruz demek yanlış zaten
+[7.03.2026 21:37:07] Huseyin Karayağız: Avukatlık ürünlerinin vega müşteri talebinin ne oldugunu anlamadan biz de yaptik demek yanlış.
+[7.03.2026 21:37:38] Ayhan Ağırgöl: Adamların bize ürn olarak sunduklarını bizde yaparız dedim ben
+[7.03.2026 21:38:02] Huseyin Karayağız: Satılabilir olma ihtimali bişey yakalarsak  ancak o zaman biz para ve kaynak harcariz
+[7.03.2026 21:38:49] Ayhan Ağırgöl: Biz hukuk ürünü satmayacağız sadece kep cevabı hasırlayan bir geliştirme yapacağız
+[7.03.2026 21:38:49] Huseyin Karayağız: Tamam : bu demek icin bu ogrenme süreci yaşadık işte
+
+Şimdi yazılım ekipleri ürün veya satış ekipleride ogrendikleri ile sahadan bilgi almalılar
+[7.03.2026 21:39:21] Huseyin Karayağız: Ayhan bunu satiş ekibi talep etmeden yapma lütfen
+[7.03.2026 21:40:07] Huseyin Karayağız: Ve ürün ekibi ile satiş ekiplerine 
+Teknik departmandan al size yaptik sizde satin mi diyecegsi
+[7.03.2026 21:40:12] Huseyin Karayağız: Konular karişmasın
+[7.03.2026 21:44:33] Huseyin Karayağız: Bu yaziyi yollama sebebim : ‎<Bu mesaj düzenlendi>
+[7.03.2026 21:44:55] Huseyin Karayağız: Tamda adamin yazdigi şu konudur:
+[7.03.2026 21:44:57] Huseyin Karayağız: Gerçek AI ne demek anlatayım. Teknik gidiyorum:
+Bir hukuk AI’ının “gerçek” olması için minimum şunları yapması lazım:
+∙Semantic search (kelime değil, anlam bazlı arama)
+∙Embedding modelleri ile vektör uzayında benzerlik hesaplama
+∙RAG (Retrieval Augmented Generation) ile bağlam bazlı üretim
+∙LLM’lere doğru prompt mühendisliği ile görev yaptırma
+Bunların hiçbirini yapmayıp “AI” yazan çok platform var.
+[7.03.2026 21:45:50] Huseyin Karayağız: Ve bunun gibi devam eden pek çok gercek hukuk yazısı ve yapılmasi gereken kafa patlatılması ve düşünülmesi gereken konulardir
+[7.03.2026 21:46:25] Huseyin Karayağız: Ve bu konulari taakii 
+Urun ve satış ekibide anlayana kadar takip edecegiz ‎<Bu mesaj düzenlendi>
+[9.03.2026 16:18:13] Huseyin Karayağız: ‎Huseyin Karayağız grup adını "Proje Ofisi TÜRKKEP YK" olarak değiştirdi
+[9.03.2026 16:35:55] Huseyin Karayağız: Selamlar @⁨Aykut Kutlusan⁩  bey ve @⁨Ayhan Ağırgöl⁩ bey
+
+Sizden ricam finans yönetiminden Burcin hanima yz ve ajanlar konusunda ön bilgi vermenizi rica edecegiz
+[9.03.2026 16:36:31] Huseyin Karayağız: Finans ve yatırım yönetimine hazırlık için orada da yz ajanlari kullanılması gerekecek
+[9.03.2026 16:37:07] Huseyin Karayağız: Goldman Sachs'te Kıdemli Analist sizsiniz. [ŞİRKET ADI] için tam bir DCF (İskontolu Nakit Akışı) değerleme modeline ihtiyacım var.
+
+Lütfen sağlayın:
+
+- Serbest nakit akışı projeksiyonları: Sonraki 5 yıl için büyüme varsayımlarıyla
+- WACC hesaplaması: Öz sermaye maliyeti + borç maliyeti ayrıştırması
+- Terminal değer: Hem sürekli büyüme hem de çıkış çarpanı yöntemleri
+- Duyarlılık analizi: Farklı varsayımlarla değerin nasıl değiştiği
+- İskonto oranı gerekçesi: Neden bu WACC'yi seçtiğimiz
+- Temel itici güçler: Nakit akışını yukarı veya aşağı çeken nedir
+- Karşılaştırılabilir şirketler: Varsayımlarımızın rakiplere göre nasıl olduğu
+- Değerleme aralığı: Boğa senaryosu, baz senaryo, ayı senaryosu
+
+Yatırım bankacılığı sunum kitabı değerleme sayfası formatında, net formüllerle.
+
+Şirket: [ŞİRKETİ, SEKTÖRÜ, FİNANSALLARI TANIMLAYIN]
+[9.03.2026 16:37:07] Huseyin Karayağız: https://x.com/nefissiteierim/status/2027035049577545804?s=48
+[9.03.2026 16:37:08] Huseyin Karayağız: https://x.com/nefissiteierim/status/2027035049577545804?s=48
+[9.03.2026 16:37:58] Huseyin Karayağız: @⁨Aykut Kutlusan⁩  bey
+Yukaridaki postun içindeki ajan yönetimi konusunda Burcin haniminda benzer ajan ve tool kullanımını rica edecegiz
+[9.03.2026 16:38:16] Huseyin Karayağız: Ama tam anlarmi ? Ne kadar anlar teknik olarak desteginiz onemli olabilir
+[11.03.2026 12:54:51] Aykut Kutlusan: Merhaba Hüseyin Bey,
+Dün Burçin Hanım ile görüştüm. Sizinle de görüştüğünü ve şirket finansal bilgilerini YZ ajanı ile paylaşmak konusundaki çekinmesini iletti. Chatbot geliştirme ortamı sağlayan Orbina AI ile konuştuk. Genel Müdürlük personelimiz için kendi LLM’leri üzerinden kapalı çevrim GPT imkanı sağlayabileceklerini söylediler. Bu LLM ile dış dünyaya açılmayacak bir sohbet ortamı sağlamaya çalışacağız.
+Burçin Hanım’a finansal analiz ve Dashboard gösterimler için halen kendi sunucularımızda çalışan PowerBI aracını kullanmayı  da önerdik. Bu konuda da bir çalışma başlatacağız.
+[11.03.2026 12:57:40] Huseyin Karayağız: Selamlar @⁨Ayhan Ağırgöl⁩  bey ve @⁨Aykut Kutlusan⁩  bey
+
+Tesekkürler, dün emailde yazdigim Türkkepin bir esaklama ve şirket degerleme danışmanlık  ve hizmet firmasına donüşümünü burada önce size aktarmak isterim.
+Emailde son kısımdaki bilgiyi buna göre tekrar okursaniz sevinirim
+[11.03.2026 12:58:12] Huseyin Karayağız: Bu arada bu dönüşümü adım adım herkesin anlamasi için parça parça iletecegiz
+‎[11.03.2026 12:59:24] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[11.03.2026 13:01:48] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[11.03.2026 13:03:05] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[11.03.2026 13:04:17] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[11.03.2026 13:05:39] Huseyin Karayağız: ‎ses dahil edilmedi
+[11.03.2026 14:01:33] Huseyin Karayağız: ‎Bu mesaj silindi.
+[11.03.2026 14:01:34] Huseyin Karayağız: https://x.com/tobi/status/2031479029249806840?s=48
+[11.03.2026 14:01:34] Huseyin Karayağız: Bunu yazan adam, Shopify'ın CEO'su
+[11.03.2026 14:01:34] Huseyin Karayağız: Bu Vector yapmadan ama istersen Vector'la da kullanabiliyorsun.
+
+Bütün doküman tabanını bir Data Room'a çevirip üzerinde arama yapabilmesini sağlıyor. Agent'ların da arama yapabilmesini sağlıyor.
+[11.03.2026 14:02:19] Huseyin Karayağız: @⁨Ayhan Ağırgöl⁩  ve @⁨Aykut Kutlusan⁩  beyler bu bilgi bizim Amerikadaki girisimden  geldi
+[11.03.2026 14:02:50] Huseyin Karayağız: Açık kod olursa alıp kullanırsak güvenlik derdide kalmaz
+[11.03.2026 14:03:58] Huseyin Karayağız: @⁨Ayhan Ağırgöl⁩  bey ve @⁨Aykut Kutlusan⁩ bey bizim TRPE icin hazirladigimi Dataroom duruyorsa lütfen Murat bey ve Burcin hanim ile ilk draftdenemeleri yapalim ‎<Bu mesaj düzenlendi>
+[11.03.2026 16:15:57] Huseyin Karayağız: @⁨Aykut Kutlusan⁩  bey 
+
+Yönetici seviyesi ai egitimlerina bakalim lütfen
+[11.03.2026 16:19:55] Ayhan Ağırgöl: Bu konuda görüşmeler yapıyoruz
+[11.03.2026 16:20:01] Ayhan Ağırgöl: Teklif te istedik
+[11.03.2026 16:21:08] Pelin: Ne teklifi istedik
+[11.03.2026 16:21:42] Pelin: Bunu mu
+[11.03.2026 16:29:54] Ayhan Ağırgöl: Yöneticişer için yapay zeka eğitimi
+[11.03.2026 17:10:53] Pelin: Güzel
+[24.03.2026 20:52:06] Huseyin Karayağız: Selamlar 🖖 
+@⁨Ayhan Ağırgöl⁩  bey ve @⁨Aykut Kutlusan⁩  bey
+
+SUGAR CRM konusu
+Ve YZ konusu
+[24.03.2026 20:52:13] Huseyin Karayağız: Ve mobil app
+‎[24.03.2026 20:52:57] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[24.03.2026 20:54:16] Huseyin Karayağız: ‎ses dahil edilmedi
+‎[24.03.2026 20:56:38] Huseyin Karayağız: ‎ses dahil edilmedi
+[24.03.2026 21:52:03] Aykut Kutlusan: Merhaba Hüseyin Bey,
+Sizin de bahsetmiş olduğunuz gibi SugarCRM’de YZ eklentisi var. Bu kapsamda yaptığımız incelemede Sugar Intelligence’ın bize faydalı olabileceğini değerlendirdik.
+Sales AI Agent için incelemelerimiz devam ediyor. Bu konudaki beklentileri Burcu Hanım’dan aldık. Bu ajan doğal olarak CRM verileri ile çalışıyor olacak. 
+CRM’de Chatbot üzerinden Text-to-SQL için de iki firma ile görüşme yaptık. Teknik olarak yapılabilir görünüyor. Bizim ortamda çalışması için donanım satın alma ihtiyacını da değerlendireceğiz.
+[24.03.2026 21:54:38] Aykut Kutlusan: Sugar Intelligence hakkındaki özet bilgiyi aşağıda paylaşıyorum:
+
+Sugar Intelligence (part of the SugarCRM Intelligence add-on) is an AI-driven platform that delivers actionable insights to boost sales, marketing, and service. It leverages SugarPredict to analyze CRM and external data to identify churn risk, predict lead conversion, and provide AI-generated summaries of customer interactions. 
+
+Key Components of Sugar Intelligence:
+Account Intelligence: Provides actionable insights from data, helping to identify "hidden opportunities" and detect at-risk customers 30 days earlier.
+AI Summarization: Delivers concise, automated summaries of cases and opportunities, helping teams review history quickly and close deals faster.
+SugarPredict: Generates predictive insights (every 24 hours) for lead conversion and opportunity close, even with limited CRM data.
+AI Meeting Assistant: Processes video or audio meetings to automate note-taking and identify key action items.
+Revenue Intelligence: Connects CRM and ERP data for real-time trend reporting and forecasting, aiming to prevent revenue leaks. 
+
+Key Benefits:
+Increased Revenue: Users can drive higher revenue and improve opportunity close rates, with some reporting significant year-over-year gains.
+Actionable Insights: Rather than just displaying data, it provides "next-best-step" suggestions to users.
+Data Privacy: Customer data is never used to train external models, and it is anonymized before processing.

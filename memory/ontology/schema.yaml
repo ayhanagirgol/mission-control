@@ -1,0 +1,13 @@
+types:
+  Task:
+    required: [title, status]
+    status_enum: [open, in_progress, blocked, done]
+  Project:
+    required: [name]
+  Person:
+    required: [name]
+relations:
+  has_owner:
+    from_types: [Project, Task]
+    to_types: [Person]
+    cardinality: many_to_one

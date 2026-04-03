@@ -1,0 +1,1 @@
+0 9 * * * cd /Users/baykus/.openclaw/workspace && /usr/bin/env python3 scripts/turkkep_watch.py >> logs/turkkep_watch.log 2>&1

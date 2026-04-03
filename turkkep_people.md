@@ -82,7 +82,7 @@ Not: Aşağıdaki roller ve iletişim tarzı notları yalnızca mail içeriğind
 - **Gözlem:** Partner ve lead tarafında sıcak temas kuruyor; iç ekipten hızlı assign bekliyor.
 
 ### Hülya Yemşen — `hulya.yemsen@turkkep.com.tr`
-- **Rol:** Ürün Yönetimi Direktörü
+- **Rol:** Ürün Koordinatörü
 - **Aktif alanlar:** ürün roadmap, Datassist, KEP toplulaştırma, mobil, e-Dönüşüm, müşteri toplantıları
 - **İletişim tarzı:** Dengeli, ürün/ticari filtreyle bakan, kapsam netleştiren
 - **Gözlem:** Ürünün satılabilirliği ve ticari karşılığı üzerinden değerlendirme yapıyor; sponsorluk rolü de alıyor.
@@ -111,8 +111,8 @@ Not: Aşağıdaki roller ve iletişim tarzı notları yalnızca mail içeriğind
 - **Aktif alanlar:** ciro, yenileme performansı, partner akışları
 - **İletişim tarzı:** rakamsal, hedef bazlı
 
-### Burcu D. — satış operasyon / ciro / faturalandırma
-- **Rol:** ciro, tahsilat, organizasyon, satış toplantıları
+### Burcu Doruk — Bayi Kanal ve Satış Koordinatörü
+- **Rol:** Bayi kanal yönetimi, satış koordinasyonu, ciro/tahsilat takibi
 - **İletişim tarzı:** operasyonel ve sayısal
 
 ## Proje yöneticileri / operasyonel PMO
@@ -131,6 +131,18 @@ Not: Aşağıdaki roller ve iletişim tarzı notları yalnızca mail içeriğind
 - **Rol:** Proje yöneticisi / uyum koordinasyonu
 - **Aktif alanlar:** GİB denetim bulguları
 - **İletişim tarzı:** kanıt, erişim, kapanış disiplini
+
+### İclal Dilercan — `iclal.dilercan@turkkep.com.tr`
+- **Rol:** satış destek / müşteri yönlendirme hattı
+- **Aktif alanlar:** CallTurk benzeri partner/müşteri yönlendirmeleri, ilk telefon teması, hızlı soru-cevap kapatma
+- **İletişim tarzı:** yardımcı, hızlı devreye giren, telefonla sıcak takip yapan
+- **Gözlem:** 25 Mart CallTurk thread'inde bilgilerini paylaşarak müşteriyle doğrudan görüşüp ilk soruları kapattığını belirtti; kısa sürede assign edilen icracı profili veriyor.
+
+### Talha Deniz Hatip — `deniz.hatip@turkkep.com.tr`
+- **Rol:** Uyum Uzman Yardımcısı
+- **Aktif alanlar:** KVKK bilgi/belge talepleri, uyum yazışmaları, resmi kurum dönüşlerinin iç paydaşlara aktarımı
+- **İletişim tarzı:** resmi, kısa ve kayıt odaklı
+- **Gözlem:** 26 Mart tarihli mailbox akışında KVKK'dan gelen dosyayı hızla ilgili iç ekiplere yönlendirdi; uyum-operasyon köprüsü rolünde görünüyor.
 
 ### İlkem Alvanoğlu
 - **Rol:** Proje yöneticisi
@@ -288,6 +300,12 @@ Not: Aşağıdaki roller ve iletişim tarzı notları yalnızca mail içeriğind
 - **Rol:** sektör temsil / ekosistem yönetişimi tarafı güçlü oyuncu
 - **İletişim tarzı:** temsilci, çalıştay ve masa kurma diliyle konuşuyor
 - **Gözlem:** GİB–ÖE–SMMM/TURMOB üçgeninde ortak zemin arayan isimlerden.
+
+### Erçin Tunca Türerer — `ercin.turerer@turkkep.com.tr` (tahmini)
+- **Rol:** Genel Müdür Yardımcısı — Satış, Pazarlama Bölümü
+- **Başlangıç:** 2 Nisan 2026
+- **Aktif alanlar:** Satış, pazarlama, iş geliştirme (yeni katılım — henüz izlenmedi)
+- **Gözlem:** Yeni katılım; Dilek Akyürek ile birlikte satış/pazarlama hattını güçlendirecek. İlk haftalarında aktif alanları netleşecek.
 
 ## Hızlı yorum
 - Kurumda **mail üzerinden yürüyen güçlü bir proje ve koordinasyon kültürü** var.

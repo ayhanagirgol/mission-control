@@ -1,0 +1,96 @@
+SKYMOD AI İŞ ORTAKLIĞI SÖZLEŞMESİ
+
+1. TARAFLAR
+İşbu İş Ortaklığı Sözleşmesi ("Sözleşme") …………… adresinde mukim …………………………… VKN/TCKN numaralı ……………… ("……", "İş Ortağı") ile ITOB OSB MAH. 10032 SK. NO: 2 İÇ KAPI NO: Z01 MENDERES/İZMİR adresinde mukim 7721634467 VKN numaralı SKYMOD TEKNOLOJİ BİLİŞİM VE DANIŞMANLIK SANAYİ TİCARET ANONİM ŞİRKETİ ("Skymod" veya "Skymod AI") arasında imza altına alınmıştır.
+Bundan böyle İş Ortağı ve Skymod birlikte "Taraflar", ayrı ayrı "Taraf" olarak anılırlar.
+MADDE 1 – SÖZLEŞMENİN KONUSU VE KAPSAMI
+1.1. İşbu Sözleşme'nin konusu; Skymod tarafından belirlenen ürün ve hizmet fiyatları ışığında İş Ortağı tarafından potansiyel müşteri bulunması, bu müşterilerin İş Ortağı tarafından Skymod'a tanıtılması, bu yolla Skymod'un bizzat ve direkt olarak ürün veya hizmet satışı yapması ile işbu ortaklık boyunca tarafların hak ve yükümlülüklerinin belirlenmesidir.
+1.2. İş Ortaklığı Türü: [  ] Satış Partneri (Referral)   [  ] Entegratör Partner (Reseller)
+1.3. İş ortağı, Skymod ile mutabık kaldığı ölçüde müşterilerine doğrudan satış yapabilir. İş ortağı aşağıdaki şartlar dahilinde Skymod'un ürün ve hizmetlerini doğrudan satabilir:
+a) İş ortağı, Skymod'dan yazılı olarak onay talep etmelidir.
+b) İş ortağının müşterisi VPC (özel sunucu) talep ettiğinde, bu satış Skymod tarafından gerçekleştirilecek olup, İş Ortağı'nın bulduğu müşteri için komisyon hakları saklıdır.
+c) İş ortağı, çapraz satış ve satış büyütme faaliyetleri kapsamında Skymod'a teklif formatında sunmalı ve yazılı onay almalıdır.
+1.4. İşbu Sözleşme Skymod'un aşağıda yer alan ürün ve hizmetlerini kapsamakta olup; bu kapsam İş Ortağı tarafından tek taraflı olarak değiştirilemez:
+• SkyStudio Asistan Yapay Zekâ Yazılımı
+• SkyStudio Chat Modülü
+• SkyStudio Asistan Entegrasyonu & API Modülü
+• SkyStudio Workflow Modülü
+MADDE 2 – TARAFLARIN HAK VE YÜKÜMLÜLÜKLERİ
+2.1. İş Ortağı; Skymod ile iş birliğine girmesi halinde Skymod'un doğrudan rakibi olan şirketlerin aynı kategorideki ürünlerini (kurumsal yapay zekâ platformları) satmamayı kabul eder. Bu kısıtlama, tamamlayıcı nitelikteki farklı kategorideki ürün ve hizmetleri kapsamaz.
+2.2. İş Ortağı, işbu Sözleşme'de yer alan ortaklık nedeniyle ilettiği bilgi ve belgelerin doğru ve güncel olduğunu ve her hâlükârda Skymod'a karşı basiretli bir tacir olarak ve dürüstlük kuralına uygun biçimde davranacağını kabul, beyan ve taahhüt eder.
+2.3. İşbu Sözleşme'nin akdedilmesi yalnızca Taraflar arasındaki ticari ortaklık ilişkisinin kapsamını nitelemekte olup; Taraflar'ı birbirlerinin yasal temsilcileri ya da vekili haline getirmemekle birlikte, Taraflar arasında alt işverenlik ilişkisinin kurulduğu anlamına da gelmemektedir.
+2.4. İş ortağı, Skymod'un ürün ve hizmetleri üzerinden demo veya tanıtım yaptığında, sunumlarında Skymod logosunu görünür şekilde göstermek zorundadır.
+2.5. İş Ortağı, yalnızca kendi fiil, ihmal veya sözleşmeye aykırı davranışlarından kaynaklanan zarar, ceza ya da tazminat taleplerinden sorumludur.
+2.6. İş Ortağı işbu Sözleşme konusu ortaklık boyunca, tüm mevzuat düzenlemelerine uygun davrandığını kabul, beyan ve taahhüt eder.
+2.7. İş Ortağı kendisinin ve Skymod'un müşterisine kesintisiz şekilde hizmet sunacağını kabul, beyan ve taahhüt eder.
+2.8. İş Ortağı herhangi bir şekilde görüşme yaptığı, teklif verdiği, tanıtım/pazarlama faaliyeti yürüttüğü her müşteri ve potansiyel müşteriye ilişkin bilgileri Skymod'un CRM yazılımına 7 (yedi) iş günü içinde işleyecektir.
+2.9. İş Ortağı Skymod'un ürün ve hizmetlerini, ticari markalarını, üzerinde telif hakkı bulunan her türden eserini kopyalayamaz, taklit edemez.
+2.10. Skymod'un Yükümlülükleri:
+a) Skymod, İş Ortağı'na gerekli ürün eğitimlerini ve satış materyallerini sağlayacaktır.
+b) Skymod, fiyat değişikliklerini yürürlük tarihinden en az 30 (otuz) gün önce yazılı olarak İş Ortağı'na bildirecektir.
+c) Fiyat değişikliğinden önce İş Ortağı tarafından müşteriye sunulmuş ve CRM sistemine kaydedilmiş teklifler, teklif tarihinden itibaren 60 (altmış) gün süreyle eski fiyat üzerinden geçerli olacaktır.
+d) Skymod, İş Ortağı'nın yazılı onay taleplerini en geç 10 (on) iş günü içinde yanıtlayacaktır. Bu süre içinde yanıt verilmemesi halinde talep kabul edilmiş sayılacaktır.
+e) Skymod, İş Ortağı tarafından CRM'e kaydedilen potansiyel müşterilere, o müşteri kaydının aktif olduğu süre boyunca doğrudan temas kurmayacaktır.
+MADDE 3 – ÜCRET VE ÖDEME KOŞULLARI
+3.1. İş Ortağı işbu sözleşmedeki şartlar uyarınca Skymod tarafından belirlenen fiyatlar üzerinden Skymod'un ürün ve hizmetlerinin lisansına ilişkin satış faaliyetlerini yürütecektir.
+3.2. İş Ortağı tarafından aracılık edilen müşteriler konusunda komisyon oranları, marj oranları ve ürün fiyatları işbu Sözleşme'nin ayrılmaz parçası olan EK-1: Skymod AI Partner Hakediş Programı'nda yer almakta olup; bunlarda bir değişiklik meydana gelmesi halinde Skymod tarafından 30 (otuz) gün önceden yazılı şekilde İş Ortağı'na bilgi verilecektir.
+3.3. Ödeme Koşulları:
+a) Satış Partneri: Komisyonlar, müşterinin Skymod'a ödeme yapmasını takip eden 30 (otuz) gün içinde İş Ortağı'na ödenir.
+b) Entegratör Partner: Skymod'a yapılan ödemeler peşindir. İş Ortağı, müşterisinden kendi belirlediği koşullarda tahsilat yapar.
+
+MADDE 4 – FİKRİ MÜLKİYET HAKLARI
+4.1. İş Ortağı işbu Sözleşme konusu hizmetin yerine getirilmesi esnasında Skymod'a sağladığı her türlü bilgi ve belgeyi Sözleşme'de belirtilen amaçlar dışında kullanamaz, üçüncü şahıslara kiralayamaz, kullandıramaz, satamaz, devredemez, herhangi bir şekilde birbirlerinin kaynak kodlarına ulaşmak, tersine mühendislik yapmak gibi fikri haklarına müdahale niteliğindeki fiilleri gerçekleştiremez.
+4.2. İş Ortağı işbu Sözleşme konusu hizmeti ifa ederken Skymod'a ait olduğunu gösterir herhangi bir işaretleme, logo veya bildirimi kaldıramaz ve değiştiremez, Skymod'un yazılı onayı olmadan herhangi bir ürünün üzerine Skymod'un logosunu, adını, ticaret unvanını, markasını ekleyemez.
+4.3. Skymod'un yazılı onayı alınmadan Skymod'un fikri ve sınai haklarının kullanılması halinde Skymod Sözleşme'yi derhal ve tek taraflı olarak feshedebilir. Skymod'un, ihlale ilişkin her türlü davayı açma hakkı, maddi ve manevi ile doğrudan ve dolaylı zararların tazmini talepleri ve suç duyurusunda bulunma hakkı saklıdır.
+4.4. Taraflar, işbu Sözleşme konusu hizmetin ifasına ilişkin fikri mülkiyet haklarının ihlalinin FSEK ile TCK ve ilgili diğer mevzuat tarafından yasaklanmış olduğunu kabul eder.
+MADDE 5 – SÖZLEŞMENİN SÜRESİ VE FESHİ
+5.1. Süre: İşbu Sözleşme imza tarihinden itibaren 1 (bir) yıl süreyle geçerlidir. Taraflardan biri, süre bitiminden en az 30 gün önce yazılı bildirimde bulunmadıkça, Sözleşme aynı koşullarla birer yıllık dönemler halinde otomatik olarak yenilenir.
+5.2. Haklı Nedenle Fesih: Taraflar'dan her biri, diğer Taraf'ın Sözleşme hükümlerine esaslı aykırılığı halinde, 30 (otuz) gün önceden yazılı ihbar vermek suretiyle Sözleşme'yi feshedebilir. İhbar süresi içinde ihlal giderilirse fesih hakkı düşer.
+5.3. Nedensiz Fesih: Her iki Taraf, 60 (altmış) gün önceden yazılı bildirimde bulunmak kaydıyla, herhangi bir neden göstermeksizin Sözleşme'yi feshedebilir.
+5.4. Fesih Sonrası Komisyonlar: Sözleşme'nin herhangi bir nedenle sona ermesi halinde, fesih tarihinden önce İş Ortağı tarafından CRM'e kaydedilmiş ve satışa dönüşmüş müşterilerden kaynaklanan komisyon hakları, müşteri Skymod ile çalışmaya devam ettiği sürece (en fazla 2 yıl süreyle) İş Ortağı'na ödenmeye devam eder. Ancak, İş Ortağı'nın ağır kusuru veya kasıtlı ihlali nedeniyle fesih halinde bu hak saklıdır.
+MADDE 6 – TAZMİNAT YÜKÜMLÜLÜĞÜ
+6.1. Taraflar'dan birinin, diğer Taraf'ın sözleşmeye aykırı fiili nedeniyle zarara uğraması halinde, kusurlu Taraf bu zararı tazmin eder.
+6.2. Tazminat Üst Sınırı: Kasıt ve ağır ihmal halleri ile fikri mülkiyet ihlalleri hariç olmak üzere, herhangi bir Tarafın işbu Sözleşme kapsamındaki toplam tazminat yükümlülüğü, son 12 ayda o Tarafın elde ettiği/ödediği komisyon/gelirin 2 (iki) katını aşamaz.
+6.3. Dolaylı zararlar (kâr kaybı, itibar kaybı, veri kaybı vb.) ancak kasıt veya ağır ihmal halinde talep edilebilir.
+MADDE 7 – GİZLİLİK VE KİŞİSEL VERİLERİN KORUNMASI
+7.1. İş Ortağı, Sözleşme süresiyle sınırlı olmaksızın Sözleşme'den kaynaklanan yükümlülüklerinin yerine getirilmesi ile ilgili olarak 6698 sayılı Kişisel Verilerin Korunması Kanunu'na ("KVKK") ve ikincil düzenlemelere uygun şekilde hareket edeceklerini kabul ve beyan eder.
+7.2. Taraflar, işbu Sözleşme kapsamında edindikleri tüm ticari sır, müşteri bilgileri, teknik bilgiler ve diğer gizli bilgileri üçüncü kişilerle paylaşmayacaktır.
+7.3. Gizlilik Süresi: Gizlilik yükümlülüğü, Sözleşme'nin sona ermesinden itibaren 5 (beş) yıl süreyle geçerli olmaya devam eder.
+7.4. Veri ihlali halinde, sorumlu Taraf diğer Tarafı 24 saat içinde yazılı olarak bilgilendirecektir.
+7.5. İş Ortağı, gizli bilgilere en az kendi gizli bilgilerini muhafaza etmek için gösterdiği özen ve çabanın aynısını gösterecektir.
+7.6. Sözleşme'nin sona ermesi halinde İş Ortağı, kendisine iletilmiş olan gizli bilgi ve belgeleri 14 (ondört) gün içinde Skymod'a iade edecektir.
+7.7. İş Ortağı'nın bilgi sistemlerinde meydana gelecek herhangi bir siber saldırı, yetkisiz erişim sonucu oluşacak veri ihlali durumunda İş Ortağı, ilgili kişilerin uğradığı zararları tazmin etmekle yükümlüdür.
+MADDE 8 – MÜCBİR SEBEP
+8.1. Deprem, sel, yangın, savaş, salgın hastalık, genel grev, hükümet kararları gibi Tarafların kontrolü dışındaki olaylar mücbir sebep sayılır.
+8.2. Mücbir Sebep halinin etkisinin 60 günden fazla sürmesi halinde, her iki Taraf da tazminatsız olarak Sözleşme'yi feshedebilir.
+8.3. Mücbir sebeplerden dolayı yükümlülüklerin yerine getirilmesinde gecikmeler yaşanması halinde vade tarihi Taraflar tarafından belirlenecek süre kadar uzatılabilir.
+MADDE 9 – TEBLİGAT
+9.1. Sözleşme'nin başında belirtilen adresler Tarafların yasal tebligat adresleri olup, aksi yazılı olarak bildirilmedikçe geçerliliğini korur.
+9.2. Taraflar ayrıca, bildirimin açıkça bu amaçla yapıldığının anlaşıldığı ve gönderim sistem kayıtlarıyla tevsik edilebildiği hâllerde, bildirimlerin e-posta adresleri üzerinden yapılmasını da geçerli bildirim olarak kabul eder.
+9.3. Taraflardan herhangi biri adres değişikliği hâlinde, yeni adresini gecikmeksizin yazılı olarak diğer tarafa bildirmekle yükümlüdür.
+MADDE 10 – DİĞER HÜKÜMLER
+10.1. Bölünebilirlik: İşbu Sözleşmenin herhangi bir hükmünün geçersiz sayılması, diğer hükümlerin geçerliliğini etkilemez.
+10.2. Devir Yasağı: İş Ortağı, Skymod'dan önceden yazılı izin almaksızın işbu Sözleşme'deki yükümlülüklerini kısmen ve/veya tamamen üçüncü şahıslara devredemeyecektir.
+10.3. Delil Anlaşması: İşbu Sözleşme kapsamında Taraflar arasında çıkabilecek uyuşmazlıklarda, her iki Tarafın ticari defterleri, belgeleri, elektronik ortamda tutulan her türlü kayıt, Hukuk Muhakemeleri Kanunu'nun 193. maddesi uyarınca delil teşkil eder.
+10.4. Tadil: İşbu Sözleşme'yi değiştirecek her türlü anlaşmanın yazılı ve işbu Sözleşmeye ek protokol olarak yapılması zorunlu olup, Taraflar arasındaki sözlü anlaşmalar geçersizdir.
+10.5. Uyuşmazlıkların Çözümü: İşbu Sözleşme Türk Hukukuna tabi olup, sözleşmeye ilişkin uyuşmazlıkların çözüm yeri İzmir Mahkemeleri ve İcra Daireleridir.
+10.6. Vergi ve Harçlar: Sözleşme ile ilgili her türlü damga vergisi de dahil vergi, harçlar Skymod ve İş Ortağı tarafından eşit olarak karşılanacaktır.
+MADDE 11 – EKLER
+11.1. İşbu Sözleşme'nin ayrılmaz parçası olan ekler:
+• EK-1: Skymod AI Partner Hakediş Programı (Komisyon Oranları, Marjlar ve Fiyat Listesi)
+MADDE 12 – YÜRÜRLÜK
+İşbu Sözleşme, 12 (on iki) ana madde ve 1 (bir) ekten ibaret olup, iki asıl nüsha halinde düzenlenmiş olup, imza tarihinde yürürlüğe girmek üzere,     /    /2025    tarihinde Taraflarca kabul ve imza edilmiştir.
+
+İş Ortağı
+Skymod Teknoloji Bilişim ve Danışmanlık Sanayi Ticaret Anonim Şirketi
+
+
+Şirket: ___________________
+Yetkili: Mahmut Oltan Dere
+Yetkili: ___________________
+Unvan: CEO
+Tarih: ___________________
+Tarih: ___________________
+İmza: ___________________
+İmza: ___________________
+

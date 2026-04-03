@@ -1,0 +1,81 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('ayhan.agirgol%40finhouse.com.tr')/messages(subject,from,receivedDateTime,isRead,webLink,bodyPreview)",
+  "value": [
+    {
+      "@odata.etag": "W/\"CQAAABYAAABlGQ8ZNTsSQK7xd+ys3MzhAAHwbxiC\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd_ys3MzhAAAAAAETAABlGQ8ZNTsSQK7xd_ys3MzhAAHxgGZgAAA=",
+      "receivedDateTime": "2026-03-18T14:23:05Z",
+      "subject": "What's new in ATM software?",
+      "bodyPreview": "________________________________\r\nMarch 18, 2026  SUBSCRIBE // ADVERTISE\r\n\r\nIt's a busy week for crypto ATMs. Indiana is the first state to ban the devices entirely, citing rising fraud. Tennessee and Minnesota are also considering crypto bans as well, ",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd%2Bys3MzhAAAAAAETAABlGQ8ZNTsSQK7xd%2Bys3MzhAAHxgGZgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "from": {
+        "emailAddress": {
+          "name": "ATM Marketplace",
+          "address": "news@atmmarketplace.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAABlGQ8ZNTsSQK7xd+ys3MzhAAHwbxh4\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd_ys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd_ys3MzhAAHxf_p4AAA=",
+      "receivedDateTime": "2026-03-18T14:16:57Z",
+      "subject": "Re:  Proforma Invoice PI-2026-003 - FinHouse",
+      "bodyPreview": "Hello Ekber\r\n\r\nI have asked the shipping company if this is ok.\r\n\r\n\r\nPaul Walker\r\n\r\n\r\n\r\nSPL Computer Trading GmbH\r\n\r\nIndustriestr. 32\r\n\r\n49565 Bramsche\r\n\r\nGermany\r\n\r\n\r\n\r\nT: +49 5461 88278 620\r\n\r\nwww.spl-group.com\r\n\r\n\r\n\r\n\r\n________________________________",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd%2Bys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd%2Bys3MzhAAHxf%2Bp4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "from": {
+        "emailAddress": {
+          "name": "Paul Walker / SPL Group",
+          "address": "Paul.Walker@spl-group.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAABlGQ8ZNTsSQK7xd+ys3MzhAAHwbxhd\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd_ys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd_ys3MzhAAHxf_p3AAA=",
+      "receivedDateTime": "2026-03-18T13:55:30Z",
+      "subject": "İTO - İtalya'ya Yönelik Ticaret ve Yatırım Fırsatları Semineri",
+      "bodyPreview": "Sayın Üyemiz,\r\n\r\nİstanbul Ticaret Odası ev sahipliğinde ve İtalyan Ticaret ve Sanayi Odası Derneği iş birliğiyle, 31 Mart 2026 Salı günü saat 09:30’da Odamız 4. Kat Meclis Salonu’nda, İtalya’ya Yönelik Ticaret ve Yatırım Fırsatları başlıklı bir seminer dü",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd%2Bys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd%2Bys3MzhAAHxf%2Bp3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "from": {
+        "emailAddress": {
+          "name": "İTO",
+          "address": "noreply@bilgi.ito.org.tr"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAABlGQ8ZNTsSQK7xd+ys3MzhAAHwbxVX\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd_ys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd_ys3MzhAAHxf_p2AAA=",
+      "receivedDateTime": "2026-03-18T11:55:04Z",
+      "subject": "Re: Burgan Bank - Bankacılıkta Callie sunumu",
+      "bodyPreview": "Çok pardon OdeaBank olacaktı.😃\r\n\r\nTeşekkürler.\r\n\r\nOn Wed, Mar 18, 2026 at 2:52 PM Sırma Eren <sirma.eren@cloudandcloud.net> wrote:\r\nAyhan Bey merhaba\r\nEkte Bankacılıkta Callie sunumunu iletiyorum.\r\nBaşka yardımcı olabileceğim bir konu varsa, her zaman gö",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd%2Bys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd%2Bys3MzhAAHxf%2Bp2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "from": {
+        "emailAddress": {
+          "name": "Sırma Eren",
+          "address": "sirma.eren@cloudandcloud.net"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAABlGQ8ZNTsSQK7xd+ys3MzhAAHwbxVO\"",
+      "id": "AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd_ys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd_ys3MzhAAHxf_p1AAA=",
+      "receivedDateTime": "2026-03-18T11:53:28Z",
+      "subject": "Burgan Bank - Bankacılıkta Callie sunumu",
+      "bodyPreview": "Ayhan Bey merhaba\r\nEkte Bankacılıkta Callie sunumunu iletiyorum.\r\nBaşka yardımcı olabileceğim bir konu varsa, her zaman görüşebiliriz.\r\n\r\nİyi çalışmalar\r\n\r\n--\r\nSirma Eren\r\nCloud&Cloud\r\nSales Europe\r\n+43 664 4324 300\r\n+90 530 643 5777",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGYwNzcwZWUwLWE4ODQtNDJiMC1iYTNkLTlkYzYyZTcxZTBiNQBGAAAAAAA4W7Jae4Y0SolSTf6aiGjXBwBlGQ8ZNTsSQK7xd%2Bys3MzhAAAAAAEMAABlGQ8ZNTsSQK7xd%2Bys3MzhAAHxf%2Bp1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "from": {
+        "emailAddress": {
+          "name": "Sırma Eren",
+          "address": "sirma.eren@cloudandcloud.net"
+        }
+      }
+    }
+  ],
+  "@odata.nextLink": "https://graph.microsoft.com/v1.0/users/ayhan.agirgol@finhouse.com.tr/messages?%24orderby=receivedDateTime+DESC&%24select=subject%2cfrom%2creceivedDateTime%2cisRead%2cwebLink%2cbodyPreview&%24top=5&%24skip=5"
+}

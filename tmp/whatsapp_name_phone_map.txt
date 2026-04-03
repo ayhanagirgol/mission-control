@@ -1,0 +1,301 @@
+TOTAL_NAME_PHONE_ROWS=2820
+1. 3K emlak akasya | 05424436635
+2. 905455463412 | +905455463412
+3. ^ernlh | 05528964522
+4. A.Can Oğuz | +905396450930
+5. Abdulkerim Güney | +905076971774
+6. Abdullah Dilek | +90216469
+7. Abdullah Dilek | +905436050375
+8. Abdullah Dilek | +90592002123206650
+9. Abdullah Dogan | +905308346425
+10. Abdullah Girgin | +905336886344
+11. Abdurrahman Yigit | 05322663372
+12. Abo Al Maali | +9647727009040
+13. Adem Aykın | +905323351029
+14. ADNAN | 05334255039
+15. Adnan AKSOY | +905322484599
+16. Adnan Metin | +905324735360
+17. AGT Kurye | 05538646157
+18. AHMET AKYUZ\; | 5337600120
+19. Ahmet Alpago | +905332100048
+20. Ahmet Anlaş | +905327731930
+21. Ahmet Avcı | 05335672703
+22. Ahmet Aydın | 54221642265337111193
+23. Ahmet Aydın Kuyumcu | +905347285179
+24. Ahmet Babacan | +905318819822
+25. Ahmet Bahşi | +905554344465
+26. Ahmet Bilgen | +905323078595
+27. Ahmet BOSTANCI | 02122440068
+28. Ahmet BOSTANCI | 05321587809
+29. Ahmet Cenk Açıltan | 02122246606
+30. Ahmet Cenk Açıltan | 05332397890
+31. Ahmet Club patara Yönetim | 05323593984
+32. Ahmet Dedeoğlu | Getir Ops Direktör | +905335910053
+33. Ahmet Dülger | 05325878711
+34. AHMET ERZENGIN | +905322560563
+35. AHMET ERZENGİN | 4315
+36. Ahmet Guray Batmaz | +905309710999
+37. Ahmet Gürdap | +905454894226
+38. Ahmet Gürs | 05363420989
+39. Ahmet Gürsoy | 05363420989
+40. Ahmet Hacıoğlu | +905326332257
+41. Ahmet Hamdi ARIKAN | 02124652717
+42. Ahmet Hamdi ARIKAN | 2124652710
+43. Ahmet Hamdi ARIKAN | 7101700
+44. Ahmet Hekim TURKKEP | +905336589715
+45. Ahmet Kadıoğlu | +905323354645
+46. Ahmet Karaca | +905313360981
+47. AHMET KARASU | +9002165283334
+48. AHMET KARASU | +9002165283580
+49. AHMET KARASU | 902165283
+50. AHMET KARASU | 905332521425
+51. Ahmet Kaya | +905545903985
+52. Ahmet Kocamaz | +905337657672
+53. Ahmet Kucu | +905337230799
+54. AHMET MALLI | +905324371720
+55. AHMET MALLI\; | 05309311805
+56. AHMET MALLI\; | 5324371720
+57. Ahmet Nazmi Gökçeler | +903462181444115
+58. Ahmet Nazmi Gökçeler | +905336318058
+59. Ahmet Notebook Onarım | 05392278250
+60. Ahmet Ozan Özbek. | +905396890847
+61. Ahmet Ozan Özbek. | +908502411112
+62. Ahmet Taskeser Taskeser | +905384016462
+63. Ahmet Tetik | +905323313233
+64. Ahmet Tolunay | 02124650423
+65. Ahmet Tolunay | 02124650424
+66. Ahmet Uğur Yıldırım | 05318883182
+67. Ahmet Yeşilvadi Komşu | +905355564481
+68. Ahmet Özen | +905333582100
+69. Ahmet Şahin Yalabık | +905330393819
+70. Akan Akyüz | +905536123646
+71. Akasya D:185 Kiracısı Atahan Bey | +905324129033
+72. Akasya emlak | 05555890930
+73. Akgün | +905337431095
+74. Akif Yazicilar Paratika | +905422885855
+75. Akü Takviye | 05443462060
+76. Akın KAMBİLGİ | +905496707172
+77. Aleyna | 05411049854
+78. Aleyna Kiraz | +905367785465
+79. Ali | +905517022062
+80. Ali | +905529133693
+81. Ali Alvanoğlu Bank Pozitif | +905314688639
+82. ali aydoğan | 05555017806
+83. Ali Bekisoglu | +905323372151
+84. Ali Bey Startech | +905336343290
+85. Ali Ekinci | +905354562174
+86. Ali Ercan | +491731951583
+87. Ali Fuat ERGENÇ | +905326581898
+88. Ali G Ü Ica N | +902123408426
+89. Ali G Ü Ica N | +905301729151
+90. Ali Haydar Taçkıron | +905423623798
+91. Ali İhsan | 05325105099
+92. Ali İhsan Adü | +905322213632
+93. Ali Kurt | +902129080506
+94. Ali Kurt | +905327169986
+95. Ali marangoz bank | 05367111217
+96. Ali Murat Alkanlı | +905332734912
+97. Ali Muşoğlu | +905552554282
+98. Ali Noor | +9647801242100
+99. Ali Qadirbeyii | +994552077967
+100. Ali R Kucuk | +905327483847
+101. Ali R Kucuk | +971582063079
+102. Ali Serdar Mete | +902162501870
+103. Ali Serdar Mete | +905425586412
+104. Ali Serdar Yakut | +905051211141
+105. Ali Sevinç | 05306686720
+106. Ali Sinpaş Site Teknik | +905011731544
+107. Ali taracı | 05323810766
+108. Ali Yüksel | +902162856091
+109. Ali Yüksel | +902165386290
+110. Ali Yüksel | +905322262566
+111. alican | +905495767359
+112. Alis ferda oğlu | +905304153946
+113. Alladdin Aydın Evlat | +905322711774
+114. Alp Akın Hocus Devops | +905351035075
+115. Alp Baktek | +905355245367
+116. Alp Özdemir | +905322763135
+117. Alparslan | 05327363095
+118. Alparslan Özbey | 05422342582
+119. Alpaslan Doğusan | +905534648080
+120. Alpay | +905327774871
+121. Alpay Yüksel | +905322637713
+122. Alper | +905357306875
+123. Alper | +905364300829
+124. Alper | 05336907102
+125. Alper Abuzer Barut | +905061034711
+126. Alper Arin | +902167094686
+127. Alper Arin | +905324454792
+128. Alper Aydın 2 | +905550953029
+129. Alper Durmuş | +905334687782
+130. Alper Erdoğan | +902122127969
+131. Alper Erdoğan | +902122128753
+132. Alper Erdoğan | +905533367630
+133. Alper İkde | 05337114523
+134. Alper İnteraktifkredi | +905550953029
+135. ALPER YASA\; | +05324270238
+136. Alper Çakır | +905325930322
+137. Alper Çakır PEP | +905325930322
+138. Alperen Kışla | +905343324360
+139. Alphan | 05447768725
+140. Alphan Manas | +905323122008
+141. Alsev Utku | 05327742676
+142. altuğ Bulutistan | +905412520000
+143. Altuğ Eker | +905347931179
+144. Amana servis | 05302360400
+145. Amber | 05325732526
+146. An-tes Eyüp | +905322514102
+147. Anadolu Üniversitesi Gülcihan Gürcan Daire Başkanı | +905425773715
+148. Angelina Goncharenko | +994772199966
+149. Anna Haro | 5555228243
+150. Anne | +905538635435
+151. Annem | 05439313701
+152. Annem bakıcı | +905358156925
+153. Antalya Bölge Müdürü Türkkep | 05301714116
+154. Anıl Birinci | +905496192211
+155. Anıl Birinci | +908502000022
+156. Anıl Tangül | +905443902645
+157. Anıl Tek | +905319759251
+158. Apple Inc. | 1800
+159. Arabulucu | 05315092282
+160. Arabulucu | 05419317353
+161. Arabulucu Ufuk Rafet Onder | +905325123737
+162. Araç Değişimi | 05373136544
+163. Ardaserim Ardaserim | +905322369676
+164. Arena | +905464739747
+165. ARGUN | 05338105026
+166. Arif Ferah | +905319872051
+167. Arif Toy | +905326834861
+168. Arif Özsoy | +905491488918
+169. Armağan Aziz Kaymakçı | +905528882828
+170. Arzu Akkaya | +905322662394
+171. Arzu Alev | 05524376934
+172. Arzu Arpa | +905306421611
+173. Arzu Er | +905423873015
+174. Arzu SANCAR | +905330344245
+175. Aslan | +9941259808001005
+176. Aslan | +994502108042
+177. Aslihan Gurescier | +905330640803
+178. Aslı | +905054002826
+179. Aslı bey konağı Sakarya | +905334551520
+180. Aslı Evre 1 | +905072211598
+181. Aslı Harunoğlu | +905446900480
+182. Aslı Öztürk | +902166872974
+183. aslıhan antalya | +905323930842
+184. Asseco Özkan | +905364021711
+185. Asu | 05303617799
+186. asuman | +96899382548
+187. Asuman Ozer | +905336232764
+188. Asuman Sesışık | +905324436623
+189. ata 2 kiracı Serdar bey | 05303704373
+190. Ata 2 Yönetimi | 0216486022425
+191. Ata Eyidoðan | 03124833315
+192. Ata Eyidoðan | 03124835777
+193. ATA2 SAGI | +902164860245
+194. Atakan Babacan | +905397641985
+195. Atakan Bey Birevim | +905527607149
+196. Atakan Erol | +905347931284
+197. Atanur Yılmaz | +905434271674
+198. Ataşehir amerikan Muhallebi | +905414267713
+199. Ataşehir Elektrikçi | 05324470118
+200. Atlas Online | 02122938055
+201. ATON TEK.UR.SER.TIC.LTD.STI. | 111653
+202. Av Hasan Şirngül | 05324856698
+203. Av Özlem Hanım Ayhan Ağırgöl | +905335517960
+204. Av. Arzu Maltepe | +905302432981
+205. Av. Erkan Tan | +903122308177
+206. Av. Erkan Tan | +905324180917
+207. Av. Ozan Boydak | +905333749123
+208. Av. Sedat Yılmaz | +902123375383
+209. Av. Sedat Yılmaz | +905380410720
+210. Avk Berfu evre1 | +905076986234
+211. Avukat Ahmet Argun | +905058344363
+212. Aws Berna | 05332769949
+213. Aybars | 05436256682
+214. Aydin Yilmaz | +905447396165
+215. Aydo 2 | +905335078888
+216. Aydın | 05311016815
+217. Aydın | 05497472211
+218. Aydın 3 | +905306695049
+219. Aydın Marin | +905331929520
+220. Aydın Yılmaz | +905447396165
+221. Ayfer Güreş | +905324118903
+222. Ayhan | +905318865971
+223. Ayhan AGIRGOL | 05326142316
+224. Ayhan Aksu | +905457676952
+225. Ayhan Ağırgöl | +05326142316
+226. Ayhan Ağırgöl | 5326142316
+227. Ayhan Ağırgöl 2 | +905304682440
+228. Ayhan Bamyacý | 02163607875
+229. Ayhan Bamyacý | 02164672260
+230. Ayhan Bamyacý | 05333616475
+231. Ayhan Bamyacı | +905325623057
+232. Ayhan Emlak cadde | +905424103100
+233. Ayhan Eser | 02123171544
+234. Ayhan Eser | 05563171544
+235. Ayhan Karayel | +905324685328
+236. Ayhan Usta | 05056732494
+237. Ayhan Çetin | +905399227342
+238. Ayhan Şentürk | +902122102770
+239. Ayhan Şentürk | +902122102773
+240. Ayhan Şentürk | +902129394050
+241. Ayhan Şentürk | +905335727019
+242. Ayhan şile saklıköy | 05337105525
+243. aykut | 05306649342
+244. aykut 59 Saklıköy | 05327664588
+245. Aykut Ergen | +905327338322
+246. Aykut Kutlusan | +905325232122
+247. Aykut Kutlusan | 05306649342
+248. Aykut Seyrek | +905323720627
+249. Aykut Tunçelli | +905336081290
+250. Aykut Özelçi | +905443785144
+251. Aylin | +905358200305
+252. Aylin Işık | +905307003577
+253. Aylin Tekçi Eltes | +905326985139
+254. Aynur Yılmaz | +905354077508
+255. Ayse Gedikli | +902166656558
+256. Ayse Gedikli | +905318876200
+257. Aysel Demir | 05439251877
+258. Aysel Demir Temizlik | +905439251877
+259. Aysel Güner | +905301547174
+260. Aysel Kahya | +905313822497
+261. aysenil güven | +905525013978
+262. Aysin | +905322570083
+263. Aytan Haydarkhanlı | 05383122585
+264. Aytaç Aydın | +905339693356
+265. Aytaç Yıldız | +905356228275
+266. Aytaç Yıldız Teb Küçüksu | +905356228275
+267. Aytek Yalçın | 05334744646
+268. Ayça | +905349742730
+269. Ayça | 05346645605
+270. Ayça Dağlı | 05359623960
+271. Ayşe Canan | +90905420201787
+272. Ayşe Ufuk Ağar | +905325551888
+273. Ayşe Yılmaz | +905054383837
+274. Ayşegül BAKAR | +905525780057
+275. Ayşegül Kallioğlu | 02165400313116111
+276. Ayşegül Kallioğlu | 05337667778
+277. Ayşegül Kallioğlu | 05423805684
+278. Ayşegül SAYIN | +905324113691
+279. Ayşin Nair | +905333174846
+280. Azer Fintech Asosation Sedr | +994503543584
+281. Aziz | +905326633520
+282. Aziz Erbay | +905333067324
+283. B. Ahmet Sevinç | +905333357545
+284. B^ntepe Moh. B(J»/Jkj(Rfe Cad | +08505023912
+285. B^ntepe Moh. B(J»/Jkj(Rfe Cad | +902122446200
+286. B^ntepe Moh. B(J»/Jkj(Rfe Cad | +905354927405
+287. Bahadir Aktan | +905332105114
+288. Bahadir Buruni Hastanesi | +905432914656
+289. Bahadır | 05332105114
+290. Bahadır Gülcan | 05498608811
+291. Bahadır Mercedes Servis | +905369264000
+292. Balıkçı | 05070495304
+293. Banka Burak Gordeal | +905546921330
+294. Banu Sencer | +905323056583
+295. Baran Sarısaltukoğlu | 05412626262
+296. Baris Akbas | +905346489117
+297. Baris Akdamar | +905339283298
+298. Baris Gençay | +905332738796
+299. Baris Tekin | +905324169222
+300. Barkın Akın/OdeaBank | +905422050007

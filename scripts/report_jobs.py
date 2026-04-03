@@ -47,6 +47,7 @@ REPORT_CONFIGS: Dict[str, Dict] = {
                 'site:x.com Fintekwins fintech OR ödeme OR açık bankacılık',
                 'Visa Mastercard Türkiye fintech',
                 'fintech yönetici atama Türkiye',
+                'site:fundalina.com fintech ödeme',
             ],
             "Yurt Dışı Fintech / Ödeme Gündemi": [
                 'global fintech payments open banking card issuer news',
@@ -151,7 +152,65 @@ def dedupe_results(items: List[dict]) -> List[dict]:
     return out
 
 
-def collect_section(api_key: str, queries: List[str], days: int, count_each: int = 5) -> List[dict]:
+FINTECH_POSITIVE_TOKENS = [
+    "fintech", "ödeme", "payment", "payments", "e-para", "elektronik para", "wallet",
+    "cüzdan", "açık bankacılık", "open banking", "pos", "sanal pos", "kart", "card",
+    "visa", "mastercard", "issuer", "acquirer", "acquiring", "banka", "bankacılık",
+    "bank", "embedded finance", "merchant", "checkout", "fraud", "chargeback",
+]
+
+FINTECH_NEGATIVE_TOKENS = [
+    "meb", "öğretmen", "müdür", "müdür yardımcısı", "okul", "sınav", "ekys",
+    "kamu personel", "personel alımı", "atama takvimi", "yurtdışı daimî", "ajans personel",
+    "memurlar.net", "mebpersonel", "kamuajans",
+]
+
+TRUSTED_FINTECH_DOMAINS = [
+    "fintekwins.com", "thepaypers.com", "finextra.com", "pymnts.com", "ibsintelligence.com",
+    "fintechfutures.com", "techcrunch.com", "sifted.eu", "crowdfundinsider.com",
+    "visa.com", "mastercard.com", "bloomberg.com", "reuters.com", "finansgundem.com",
+    "businesswire.com", "paymentexpert.com", "globalgovernmentfintech.com",
+]
+
+STOCK_PAGE_TOKENS = [
+    "stock price", "price target", "dividend info", "short interest", "$gpn", "marketbeat.com",
+    "nasdaq.com/market-activity", "seekingalpha.com", "investor relations", "analyst ratings",
+]
+
+TR_TOKENS = [
+    ".tr", "türkiye", "turkiye", "istanbul", "ankara", "bddk", "tcmb", "papara", "iyzico",
+    "sipay", "param", "colendi", "ininal", "fibabanka", "akbank", "iş bankası", "is bankasi",
+]
+
+
+def _haystack(item: dict) -> str:
+    return normalize_text(f"{item.get('title','')} {item.get('description','')} {item.get('url','')}")
+
+
+def passes_fintech_relevance(item: dict, require_tr: bool = False, require_trusted_for_global: bool = False) -> bool:
+    haystack = _haystack(item)
+    if any(token in haystack for token in FINTECH_NEGATIVE_TOKENS):
+        return False
+    if any(token in haystack for token in STOCK_PAGE_TOKENS):
+        return False
+    positive_hits = sum(1 for token in FINTECH_POSITIVE_TOKENS if token in haystack)
+    trusted_domain_hit = any(domain in haystack for domain in TRUSTED_FINTECH_DOMAINS)
+    tr_hit = any(token in haystack for token in TR_TOKENS)
+    if require_tr and not tr_hit and not any(domain in haystack for domain in ["fintekwins.com"]):
+        return False
+    if require_trusted_for_global and not trusted_domain_hit:
+        return False
+    return positive_hits >= 2 or trusted_domain_hit
+
+
+def filter_fintech_results(items: List[dict], section_name: str = "") -> List[dict]:
+    sec = normalize_text(section_name)
+    require_tr = "türkiye" in sec or "turkiye" in sec
+    require_trusted_for_global = "yurt dışı" in sec or "yurt disi" in sec
+    return [item for item in items if passes_fintech_relevance(item, require_tr=require_tr, require_trusted_for_global=require_trusted_for_global)]
+
+
+def collect_section(api_key: str, queries: List[str], days: int, count_each: int = 5, strict_fintech: bool = False, section_name: str = "") -> List[dict]:
     freshness = freshness_for_days(days)
     results: List[dict] = []
     for query in queries:
@@ -168,7 +227,10 @@ def collect_section(api_key: str, queries: List[str], days: int, count_each: int
                 "age": "",
             })
         time.sleep(0.35)
-    return dedupe_results(results)
+    results = dedupe_results(results)
+    if strict_fintech:
+        results = filter_fintech_results(results, section_name=section_name)
+    return results
 
 
 def summarize_results(section_name: str, items: List[dict], limit: int = 6) -> str:
@@ -226,8 +288,9 @@ def build_report(report_key: str) -> tuple[str, str, str]:
     days = config["days"]
 
     section_results: Dict[str, List[dict]] = {}
+    strict_fintech = report_key in {"daily_fintech", "weekly_fintech"}
     for section_name, queries in config["sections"].items():
-        section_results[section_name] = collect_section(api_key, queries, days)
+        section_results[section_name] = collect_section(api_key, queries, days, strict_fintech=strict_fintech, section_name=section_name)
 
     executive_notes = build_executive_notes(report_key, section_results, days)
 

@@ -1,0 +1,209 @@
+Proje Kapanış Belgesi
+Proje Adı:
+
+Yapay Zeka Destekli Çağrı Karşılama Projesi
+
+Proje Numarası:
+
+2025-TKEP-029
+
+Belge Tarihi/Revizyon No:
+
+02.03.2026/00
+
+1. Tedarik İşleri Sonlandırma
+
+Proje kapsamında eğitim ve akademik danışmanlık
+hizmetleri alınmış, geliştirme sürecinde kullanılan yapay
+zeka/GPT altyapısına ilişkin lisans ve platform
+kullanımları tamamlanmıştır. Geliştirilen sistem
+operasyonel kullanıma hazır hale getirilmiş olup açık
+tedarik kalemi bulunmamaktadır.
+Projede hedeflendiği gibi, Türkkep Teknoloji Çözüm
+Merkezi’nin birinci seviye (L1) çağrı karşılama süreçlerine
+yönelik yapay zeka tabanlı chatbot geliştirilmiş ve
+operasyonel kullanıma hazır hale getirilmiştir. GPT
+tabanlı altyapı ile kurgulanan sistem, müşteri taleplerini
+metin tabanlı olarak analiz edebilmekte ve uygun
+senaryolar
+doğrultusunda
+otomatik
+yanıt
+üretebilmektedir.
+
+2. Projenin
+Başarısının Müşteri taleplerinin önemli bir bölümü otomatik olarak
+Değerlendirilmesi
+karşılanabilir seviyeye ulaşmış, karmaşık ve özel
+durumlar ise insan temsilcilere yönlendirilerek hibrit bir
+yapı oluşturulmuştur. Bu sayede çağrı merkezi
+operasyonlarında verimlilik artışı sağlanmış ve iş gücü
+kullanımında
+iyileşme
+elde
+edilmiştir.
+Proje başlangıcında belirlenen doğruluk, verimlilik ve
+dijital dönüşüm hedefleri gerçekleştirilmiş; müşteri
+deneyimini iyileştiren sürdürülebilir bir yapay zeka
+çözümü hayata geçirilmiştir.
+•
+
+3. Öğrenilmiş
+Öneriler
+
+Dersler
+
+ve
+
+Belge No:
+
+Gizlilik :
+
+RPT_001
+
+Bütünlük :
+Erişilebilirlik :
+
+Başarılar:
+- Chatbot çözümü 2 fazlı test süreçlerinden
+geçirilmiş, her faz sonunda yapılan
+iyileştirmeler ile canlı ortama başarıyla
+alınmıştır.
+- Yapay zeka tabanlı chatbot sistemi
+operasyonel
+kullanıma
+hazır
+hale
+getirilmiştir.
+
+Hizmete Özel
+Düşük
+Düşük
+
+Yayım Tarihi :
+
+Sayfa:
+
+Yürürlük Tarihi :
+Değişiklik Tarih – No :
+
+1/3
+
+Proje Kapanış Belgesi
+-
+
+•
+
+•
+
+Türkkep Teknoloji Çözüm Merkezi L1
+operasyon süreçlerine entegre çalışabilir
+sürdürülebilir bir çözüm geliştirilmiştir.
+Zorluklar:
+- Chatbot veri havuzunun genişletilmesi kapsamında
+gerekli soru–cevap içeriklerinin ilgili iş birimlerinden
+temin edilmesi sürecinde koordinasyon zorlukları
+yaşanmıştır.
+- Veri setinin başlangıç aşamasında sınırlı olması, model
+doğruluğu ve senaryo kapsamının genişletilmesini
+zorlaştırmıştır.
+- Chatbot bilgi tabanının genişletilmesi için farklı
+ekiplerle yürütülen içerik toplama ve doğrulama
+süreçleri beklenenden daha uzun sürmüştür.
+- İş birimlerinden gelen içeriklerin standardize edilmesi
+ve sisteme uygun formatta hazırlanması ek efor
+gerektirmiştir.
+- n8n
+platformu
+ile
+ilgili
+versiyon
+güncellemeleri ve değişiklik duyurularının
+düzenli takibinin sağlanması süreçsel zorluk
+oluşturmuştur.
+Öğrenimler:
+- Yapay zeka tabanlı chatbot projelerinde veri
+kalitesi ve veri çeşitliliği sistem performansını
+doğrudan etkilemektedir.
+- Proje başlangıcında bilgi tabanı oluşturma
+sürecinin net yönetişim modeli ile tanımlanması
+gerekmektedir.
+- İş birimleri ile içerik paylaşımı için standart
+format ve süreçlerin önceden belirlenmesi proje
+ilerleyişini hızlandırmaktadır.
+- AI tabanlı sistemlerde sürekli öğrenme ve
+iyileştirme yaklaşımı proje sonrası operasyon
+süreçlerinin önemli bir parçasıdır.
+- Erken aşamada pilot kullanım ve kullanıcı geri
+bildirimlerinin alınması sistem doğruluğunu artırmaktadır.
+- CRM entegrasyonu ile çağrı karşılama etkinliğinin
+arttırılması Chatbot’un sağlayacağı faydaları arttıracaktır.
+
+Proje Yönetimi ve Arşiv Dokümanları ortak alanda yer almaktadır.
+
+4. Arşiv Dokümanları
+
+Y:\Proje_Yonetimi_Veri_Analitigi\02_Devam_Eden_Projeler\2024TÇO-002_Yapay Zeka Destekli Çağrı Karşılama Projesi
+
+Belge No:
+
+Gizlilik :
+
+RPT_001
+
+Bütünlük :
+Erişilebilirlik :
+
+Hizmete Özel
+Düşük
+Düşük
+
+Yayım Tarihi :
+
+Sayfa:
+
+Yürürlük Tarihi :
+Değişiklik Tarih – No :
+
+2/3
+
+Proje Kapanış Belgesi
+Proje Yönlendirme Komitesi
+
+Proje Yöneticisi
+
+Ayhan Ağırgöl
+5. Proje
+Kapanış
+İmza/Tarih
+
+Onayı
+
+Sibel Aka
+Elvan Gürler
+Cemal Önder Doğan
+Aykut Kutlusan
+
+Belge No:
+
+Gizlilik :
+
+RPT_001
+
+Bütünlük :
+Erişilebilirlik :
+
+Hizmete Özel
+Düşük
+Düşük
+
+Yayım Tarihi :
+
+Sayfa:
+
+Yürürlük Tarihi :
+Değişiklik Tarih – No :
+
+3/3
+
+

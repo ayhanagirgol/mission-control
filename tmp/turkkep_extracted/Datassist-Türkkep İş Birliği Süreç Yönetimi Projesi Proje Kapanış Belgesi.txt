@@ -1,0 +1,209 @@
+Proje Kapanış Belgesi
+Proje Adı:
+
+Datassist-Türkkep İş Birliği Süreç Yönetimi Projesi
+
+Proje Numarası:
+
+2025-PYO-014
+
+Belge Tarihi/Revizyon No:
+
+09.03.2026 / 00
+
+1. Tedarik İşleri Sonlandırma
+
+Projede tedarik süreci bulunmamaktadır.
+• Kapsam Performansı:
+Datassist senaryosunun karşılanabilmesi adına
+Uzaktan Kimlik Doğrulama Sistemi(UKDS) ve Türkkep
+CRM tarafında değişiklikler gerçekleştirilmiştir.
+-
+
+-
+
+İnsan Kaynakları projelerinde kullanılacak
+yeni başvuru tipleri oluşturulmuştur.
+IKENTEGRATORKURUMSAL tipinde gelecek
+başvurular için CRM iş akışlarının
+otomasyonu gerçekleştirilmiştir.
+Entegrasyon Suite UKDS modülü aktivasyon
+süreçleri netleştirilmiş ve gerekli metot
+ekleme/düzenleme işlemleri
+tamamlanmıştır.
+
+Servis tüketimlerinin bütünleşik olarak
+2. Projenin
+Başarısının gerçekleştirilmesi adına UKDS metotları Entegrasyon
+Suite içerisine modül olarak eklenmiştir.
+Değerlendirilmesi
+Arayüz bileşenlerinin bütünlüğünün sağlanması
+adına Türkkep Mobil KEP uygulamasında gerekli
+güncellemeler sağlanmıştır.
+
+• Zaman Performansı:
+Proje, Ocak ayı sonunda tamamlanmış olup
+Datassist entegrasyon ve canlı test süreçlerinin takip
+edilmesi adına kapanış süreci uzatılmıştır.
+Proje, Ekim ayı sonu itibariyle kapanış sürecine
+alınmış ancak kapsama dahil edilen ve tamamlanan
+işlerin proje hedefleri için yeterli olmayacağı
+anlaşıldığı için proje süresi uzatılmıştır.
+
+Belge No:
+
+Gizlilik :
+
+RPT_001
+
+Bütünlük :
+Erişilebilirlik :
+
+Hizmete Özel
+Düşük
+Düşük
+
+Yayım Tarihi :
+
+Sayfa:
+
+Yürürlük Tarihi :
+Değişiklik Tarih – No :
+
+1/3
+
+Proje Kapanış Belgesi
+• Kalite Performansı:
+Test süreçleri tamamlanmış, canlıya geçiş sonrası
+kritik hata gözlemlenmemiştir. Süreç mevzuata ve
+teknik gerekliliklere uygun şekilde devreye alınmıştır.
+Geliştirmeler mümkün olduğunca parametrik olarak
+gerçekleştirilerek farklı senaryoları karşılayabilecek
+ensek yapı oluşturulmuştur.
+• Başarılar:
+-
+
+-
+
+-
+
+Kapsam dahilinde geliştirmeler birden fazla
+sistemde eşzamanlı olarak yürütülmüş ve
+tamamlanmıştır.
+Ekip içi gerçekleştirilen görüşmeler sayesinde
+servis
+katmanı
+mimarisi
+ihtiyacı
+karşılayabilecek ve en az efor gerektirecek
+şekilde tasarlanmıştır.
+Proje hedefine ulaşılmış ve canlı gönderim
+süreçleri Kurumsal ve Bireysel KEP hesapları
+için onaylanmıştır.
+
+• Zorluklar:
+-
+
+3. Öğrenilmiş
+Öneriler
+
+Dersler
+
+ve
+
+-
+
+-
+
+Kaynakların eş zamanlı projelerde görev alması
+planlamayı etkilemiştir.
+UKDS sürecinde regülasyon gereklilikleri dikkatli
+ilerlemeyi gerektirmiştir.
+Onay süreci tamamlanan başvurular için CRM tarafında
+yürütülecek iş akışlarının oluşturulması adına kapsamın
+genişleme ihtiyacı oluşmuştur.
+Etkilenen sistemlerin fazlalığı nedeniyle koordinasyon
+ve iletişim yönetimi zorlukları yaşanmıştır.
+Ekip üyesi değişikliği nedeniyle zaman kaybı yaşanması.
+
+• Öğrenimler:
+-
+
+-
+
+Belge No:
+
+Gizlilik :
+
+RPT_001
+
+Bütünlük :
+Erişilebilirlik :
+
+Hizmete Özel
+Düşük
+Düşük
+
+Proje kapsamı ile proje hedeflerinin uyumluluğu gözden
+geçirilmelidir.
+Geliştirmeler farklı senaryolarda en az değişiklik ihtiyacı
+olacak şekilde esnek yapıda kurgulanmalıdır.
+Etkilenecek sistemlerde yapılacak çalışmalar öncesinde
+uzman görüşleri alınmalı ve geliştirme süreci
+ilerletilmelidir.
+Birden fazla geliştirme ekibi ile yürütülen projelerde
+başarı sağlanabilmesi için etkili iletişim ve koordinasyon
+sağlanması önemlidir.
+
+Yayım Tarihi :
+
+Sayfa:
+
+Yürürlük Tarihi :
+Değişiklik Tarih – No :
+
+2/3
+
+Proje Kapanış Belgesi
+Proje Yönetimi ve Arşiv Dokümanları ortak alanda yer
+almaktadır.
+
+4. Arşiv Dokümanları
+
+5. Proje
+Kapanış
+İmza/Tarih
+
+Onayı
+
+Belge No:
+
+Gizlilik :
+
+RPT_001
+
+Bütünlük :
+Erişilebilirlik :
+
+Proje Sponsoru
+
+Proje Yöneticisi
+
+Hülya Yemşen
+
+Hacı Hasan Coşkun
+
+Hizmete Özel
+Düşük
+Düşük
+
+Yayım Tarihi :
+
+Sayfa:
+
+Yürürlük Tarihi :
+Değişiklik Tarih – No :
+
+3/3
+
+

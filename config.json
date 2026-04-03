@@ -1,0 +1,10 @@
+{
+  "tools": {
+    "exec": {
+      "host": "gateway",
+      "security": "full",
+      "ask": "off",
+      "pathPrepend": ["/opt/homebrew/bin"]
+    }
+  }
+}

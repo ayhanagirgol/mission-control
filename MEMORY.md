@@ -12,6 +12,12 @@
 - Service desk atama mailleri CTO için task sayılmaz; sadece onay isteyen mailleri task olarak çıkar
 - Finhouse mail yönlendirmesi (→ Gmail) devre dışı durumda, silinmedi
 
+## ⚠️ Takvim Saat Kuralı — KESİN (2026-04-01)
+- MS Graph calendar API çağrılarında **her zaman** `Prefer: outlook.timezone="Turkey Standard Time"` header'ı eklenecek
+- Bu olmadan saatler UTC olarak gelir ve 3 saat geri görünür (Istanbul = UTC+3)
+- Kural: finhouse_calendar_test.js, calendar_sync.mjs, add_today_meetings.mjs ve yeni yazılan tüm takvim scriptlerine bu header zorunlu
+- Etkinlik oluştururken de `timeZone: "Turkey Standard Time"` kullanılacak (UTC değil)
+
 ## Takvim Senkronizasyonu (2026-03-19)
 - Türkkep + Gmail → Finhouse tek yönlü senkronizasyon kuruldu
 - launchd job: com.openclaw.calendar-sync — hafta içi 08-18 arası saat başı çalışır
@@ -41,6 +47,42 @@
 - Workspace'e yüklenen kişi listeleri lookup kaynağı olarak benimsenmeli; kişi/telefon aramalarında önce bu yerel rehbere bakılmalı.
 - Özellikle WhatsApp gönderimlerinde hızlı erişim için bu rehberden isim → telefon eşleşmesi çıkarılıp kullanılmalı.
 - Kullanıcı, `ayhan.agirgol@finhouse.com.tr` için Microsoft Graph bağlantısının her sabah proaktif olarak kontrol edilmesini istiyor; bu kalıcı bir takip görevi olarak ele alınmalı.
+
+## Finans Agent (2026-04-01, güncellendi 2026-04-02)
+- `finans-agent` (💰 Finans) kuruldu — yatırım ve portföy takip agent'ı
+- Aktif fonlar: TLY (Tera Portföy Serbest), DFI (Deniz Portföy Serbest)
+- Radar: PHE, TTE, PBR
+- Portföy tanımı: `data/portfoy.json`
+- Cron: Hafta içi 10:00 TEFAS günlük takip (mail), Cuma 10:00 haftalık rapor (mail + webchat)
+- Önemli hareket (günlük >%2) → WhatsApp bildirimi
+- TEFAS geçmiş verileri: `data/fon_takip.csv`
+
+## BIST Hisse Takibi (2026-04-02)
+- Ayhan ASELS'i hedef fiyata satıp çıktı; aynı stratejiyle yeni liste oluşturuldu
+- Takip hisseleri: KCHOL, ASELS (yeniden pozisyon için), ASTUR, TUPRS, GARAN
+- Script: `scripts/hisse_tracker.mjs` — Yahoo Finance üzerinden çeker
+- Cron: `bist-hisse-tracker` — Hafta içi 11:30 + 18:30 (finans-agent)
+- Hedef fiyatlar henüz belirlenmedi — izleme modunda
+- >%2 hareket → WhatsApp bildirimi (+905326142316)
+- Geçmiş veriler: `data/hisse_takip.csv`, state: `data/hisse_state.json`
+- ASTUR → ASTOR (Astor Enerji / ASTOR.IS) olarak düzeltildi
+- Strateji: ORB (Opening Range Breakout) — script: `scripts/bist_orb_live.py`
+- ORB cron'ları: 10:35, 11:00, 14:00 (hafta içi, finans-agent)
+- AL/BREAKDOWN sinyali → WhatsApp (+905326142316) + webchat (agent:main:main)
+- ISCTR (İş Bankası C) eklendi 2026-04-02 — Türkkep'ten Özge Hanım tavsiyesi, referans fiyat 12.94 TL
+- YKBNK (Yapı Kredi) de listede (önceki oturumdan)
+- Hedef fiyat belirlenince `data/portfoy.json` içindeki ilgili hissenin `hedef_fiyat` alanını güncelle
+
+## Süleyman Şener (2026-04-01)
+- +905344884949 WhatsApp allowlist'e eklendi — artık mesaj gönderilebilir
+- Irak projesi bağlantısı var — mail adresi henüz bilinmiyor (Türkkep mailboxta aranacak)
+- Cuma 4 Nisan 14:00 Teams toplantısı organize edildi (Aykut Kutlusan + Dilek Akyürek da katılacak)
+
+## TÜBİSAD Güvenlik Etkinliği (2026-04-01)
+- Hüseyin Bey (Türkkep YK Başkanı Hüseyin Karayağız) etkinlik için mail atmış
+- Aykut Kutlusan CC
+- Hazırlık dosyası: `tubisad_guvenlik_etkinligi.md`
+- Etkinlik tarihi/yeri henüz teyit edilmedi — Hüseyin Bey'in mailinden kontrol edilmeli
 - Kullanıcı, OpenClaw'a bağlı WhatsApp hattı üzerinden her sabah +905326142316 numarasına kısa bir günaydın mesajı gönderilmesini istiyor; bu kalıcı tercih olarak hatırlanmalı.
 - Kullanıcı, çalışma tarzımın daha araştırmacı, sürekli öğrenen ve güçlü memory kullanan bir yapıda olmasını istiyor; gerektiğinde GitHub/Reddit/dış kaynak araştırması yapmalı ve faydalı olduğunda lokal diskten çekinmeden yararlanmalıyım.
 - Kullanıcı CTO olarak çalışıyor, AI danışmanlığı veriyor; Türkkep ve Bulutistan bağlamına uygun, yüksek sinyalli OpenClaw/AI/operasyon materyallerini proaktif araştırmamı ve gerçekten faydalı bulursam e-posta iletmeyi uygun buluyor.
@@ -48,13 +90,13 @@
 - Kullanıcı toplantılarını takip eden, işlerini listeleyen daha proaktif bir asistan karakteri istiyor; bu yönde davranışımı genişletmeliyim.
 - Kullanıcı bazen WhatsApp üzerinden toplantı oluşturmak isteyecek; bu durumda mümkünse Teams toplantısı oluşturup davet e-postasını katılımcılara iletmeliyim. Katılımcılar belirtilmemişse veya tarih/saat eksikse önce kullanıcıdan eksik bilgileri istemeliyim.
 - Güneş'e (+905333610236) WhatsApp mesajı gönderirken bol emoji kullan: aşk emojileri (❤️😍🥰💕😘), gülücükler, sevimli ifadeler. Sıcak ve sevecen ton.
-- ⚠️ KRİTİK WhatsApp KURALI: Başkalarına (Ayhan dışı) doğrudan WhatsApp yanıtı GÖNDERME. Bunun yerine:
-  1. Mesajı oku ve anla
-  2. Cevap taslağı hazırla
-  3. Taslağı webchat'te Ayhan'a göster ve onay bekle
-  4. Ayhan onaylarsa → gönder; onaylamazsa → gönderme
-  - Ayhan'a (+905326142316) direkt yanıt verebilirsin, onay gerekmez.
-  - Ayhan "mesaj yaz/gönder" derse de doğrudan gönder, onay gerekmez. Başka herkese (grup, DM, her türlü mesaj) kesinlikle yanıt verme — NO_REPLY bile gönderme, tamamen sessiz kal. Ayhan bile olsa, başkalarına gelen mesajlara cevap yazma; mesajları oku ama yanıt vermeyi Ayhan'a bırak.
+- ⚠️ KRİTİK WhatsApp KURALI (güncellendi):
+  **GELEN:** Herkesten (DM + grup) gelen mesajları al, oku, takip et, gerekirse webchat'te özetle.
+  **GİDEN:** WhatsApp'tan HİÇKİMSEYE mesaj iletme veya gönderme — Ayhan dahil.
+  - Başkalarına WhatsApp mesajı iletme (forwarding) YASAK.
+  - Proaktif mesaj başlatma YASAK.
+  - Sadece Ayhan doğrudan isterse ve açıkça onaylarsa gönder.
+  - Taslak/özet göster, onay al, sonra gönder — asla kendiliğinden iletme.
 - Kullanıcı, daha az soru soran; daha otonom, araştırmacı ve sonuç odaklı bir çalışma tarzı istiyor. Mümkün olduğunda önce kendim çözmeli, yalnızca gerçekten eksik bilgi varsa sormalıyım.
 
 ## Microsoft To Do Erişimi (2026-03-21)
@@ -192,6 +234,11 @@
 
 - Fon Takibi: TLY ve DFI serbest fonları TEFAS üzerinden günlük takip ediliyor (Hafta içi 10:00).
 
+## Model Kullanım Tercihi — Rapor & Taslak (2026-03-30)
+- Rapor, taslak ve yazılı/sözlü iletişim gerektiren çıktılarda GPT tercih edilecek — kullanıcı GPT'nin bu alanlarda daha iyi sonuç verdiğini belirtti
+- Pratik uygulama: Rapor/bülten/savunma metni/mail taslağı gibi işler → GPT agent'a (gpt-agent) veya GPT modeline yönlendir
+- Analitik, teknik, otomasyon, script yazma → mevcut model (Opus/Sonnet) ile devam
+
 ## Mission Control / Fintech KOBİ Kurulum Paketi — Gelir Modeli (2026-03-24)
 - Kaynak: "OpenClaw Mission Control: 15 Insane Use Cases!" (Vibe with AI) https://youtu.be/GzNM_bp1WaE
 - Bu video gelir modelimiz için kritik pazar doğrulaması: 7 agent'lı tam otonom işletme kurulumu
@@ -236,3 +283,38 @@
 - Finhouse, FirmaCom'un sahibi/geliştiricisi — iki ayrı marka, iki ayrı iş modeli
 - ClawHub skill'leri Finhouse markasıyla yayınlanıyor (finhouse.ai CTA)
 - FirmaCom uygulamasında Finhouse markası footer'da görünüyor
+
+## 📧 Türkkep Mail Gönderim Kuralı — KESİN (2026-04-02)
+- Türkkep alıcılarına (@turkkep.com.tr) mail gönderilirken **mutlaka** ayhan.agirgol@turkkep.com.tr adresi kullanılmalı
+- Finhouse mail adresi (@finhouse.com.tr, @finhouse.ai) Türkkep alıcılarına ASLA kullanılmaz
+- Üst yönetici olarak mail imzasında "Saygılarımla" yerine "Teşekkürler" kullanılır
+- Bu kural tüm agentlar için geçerlidir — main, kep, orbina, coone, bulut, demir dahil
+
+## Mail Hitap Kuralı — KESİN (2026-04-02)
+- Türkkep'te alt kademe çalışanlara (Okan, Melikşah vb.) "Bey/Hanım" eklenmez
+- Doğru hitap: "Okan merhaba," / "Melikşah merhaba,"
+- "Bey/Hanım" sadece eşit veya üst düzey kişilere kullanılır
+- Ayhan CTO/GMY olarak yaşça ve ünvanca yukarıda — buna göre ton ayarlanmalı
+- Bu kural tüm agentlar için geçerlidir
+
+## Mail Hitap Detayı — Türkkep Kişileri (2026-04-02)
+- **Aykut Kutlusan:** "Aykut Bey" — yaşça büyük, saygılı hitap
+- **Okan, Melikşah, Zeynep, Elif vb.:** İsim + merhaba (Bey/Hanım yok) — alt kademe
+- Genel kural: Eşit/üst düzey → Bey/Hanım, alt kademe → sadece isim
+
+## Türkkep Mail İmzası (2026-04-02)
+- İmza şablonu: turkkep_signature.html
+- Bundan sonra tüm Türkkep maillerine bu imza otomatik eklenecek
+- Ünvan: BT Altyapı ve Çözümler Genel Müdür Yardımcısı
+- Logo + sosyal medya ikonları dahil
+- Bu kural tüm agentlar için geçerlidir
+
+## finhouse.ai GA4 Kurulumu (2026-04-03)
+- Google Analytics 4 property'si `finhouse.ai` için oluşturuldu
+- Measurement ID: `G-49LGHRE523`
+- Tracking kodları tüm HTML sayfalarına eklendi ve .env dosyasına kaydedildi
+- İlgili To Do task'ı başarıyla kapatıldı
+
+## Türkkep Patch Deployment Takibi (2026-04-03)
+- Eksik yamalar konusunda Melikşah ve Tan'a uyarı niteliğinde mail atıldı
+- Sürekli izleme devam ediyor, hedeflenen eksik sayısı <20 (Pazartesi, 7 Nisan)

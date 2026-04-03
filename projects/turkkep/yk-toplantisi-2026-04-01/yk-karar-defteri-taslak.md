@@ -135,17 +135,24 @@ Orbina.ai tarafından sunulan, şirkete özel bulut altyapısında çalışan ka
 
 ### KARAR NO: 2026/…-06
 
-**Gündem Maddesi:** Claude Code Yazılım Geliştirme AI Asistanı Lisans Alımı
+**Gündem Maddesi:** Claude Code Yazılım Geliştirme AI Asistanı Lisans Alımı + Co-one CodeGuard Entegrasyonu
 
 **Özet:**
-e-Dönüşüm Paketi projesi kapsamında 10 kişilik ekip için (1 iş analisti + 9 yazılım geliştirici) Anthropic Claude Code takım lisansı alımı — kişi başı 100 USD/ay, toplam ~1.000 USD/ay.
+Yazılım ekibinin geliştirme kapasitesini artırmak ve AI destekli kod üretimini güvenli hale getirmek amacıyla iki bileşenli paket:
+
+**A) Claude Code (Anthropic) — Geliştirici AI Asistanı**
+e-Dönüşüm Paketi projesi kapsamında 10 kişilik ekip için (1 iş analisti + 9 yazılım geliştirici) Anthropic Claude Code takım lisansı alımı — kişi başı ~100 USD/ay, toplam ~1.000 USD/ay. Yazılım geliştirme hızını ve kalitesini artırmak, dokümantasyon ve test süreçlerini otomatize etmek hedeflenmektedir.
+
+**B) Co-one CodeGuard — AI Kod Güvenlik Katmanı**
+Claude Code ve benzeri AI kod üretim araçlarıyla üretilen kodun güvenlik açısından taranması, KVKK/GDPR uyumunun korunması ve üretim ortamına çıkmadan önce denetlenmesi amacıyla Co-one'un CodeGuard ürününün alımı. CodeGuard, AI üretimli kodda güvenlik açığı, veri sızıntısı riski ve uyumsuzluk tespiti sağlamaktadır.
 
 **Karar:**
-☐ Onaylandı.  ☐ Reddedildi.  ☐ Kapsam revize edilsin.
+☐ Her iki bileşen birlikte onaylandı.  ☐ Yalnızca Claude Code onaylandı.  ☐ Reddedildi.  ☐ Revize edilsin.
 
 **Oy Dağılımı:** Kabul: ……  /  Ret: ……  /  Çekimser: ……
 
-**Sorumlu:** Aykut Kutlusan / Cemal Doğan  
+**Sorumlu:** Aykut Kutlusan / Cemal Doğan (Claude Code) — Ayhan Ağırgöl (CodeGuard entegrasyonu)
+**Tahmini Maliyet:** Claude Code ~1.000 USD/ay + CodeGuard (teklif alınacak)
 **Termin:** ………………………
 
 ---
@@ -185,6 +192,24 @@ AI ürün geliştirme kapasitesi için iç yetenek güçlendirmesi planı. Güve
 ---
 
 ### KARAR NO: 2026/…-09
+
+**Gündem Maddesi:** Zero-Knowledge Dağıtık Saklama Altyapısı — PoC Başlatma Onayı (TransferChain Benzeri)
+
+**Özet:**
+TÜRKKEP'in "Trusted AI" vizyonu kapsamında, müşteri veri egemenliğini garanti eden zero-knowledge, blockchain destekli dağıtık saklama altyapısı (TransferChain ve alternatif çözümler) için fizibilite ve PoC çalışması başlatılması talep edilmektedir. Bu altyapı; mevcut e-Saklama hizmetini güçlendirecek, AI ürün grupları için güvenli veri katmanı oluşturacak ve KEP arşivine kriptografik bütünlük garantisi katacaktır.
+
+**Karar:**
+☐ PoC çalışması onaylandı.  ☐ Reddedildi.  ☐ Detaylı fizibilite önce sunulsun.
+
+**Oy Dağılımı:** Kabul: ……  /  Ret: ……  /  Çekimser: ……
+
+**Sorumlu:** Ayhan Ağırgöl (CTO)
+**Tahmini PoC Bütçesi:** 20.000 – 50.000 USD
+**Termin:** 2026 Q3 — YK'ya PoC raporu sunumu
+
+---
+
+### KARAR NO: 2026/…-10
 
 **Gündem Maddesi:** BTK Güvenlik Olayı Durum Güncellemesi — Bilgi
 

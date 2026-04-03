@@ -1,0 +1,91 @@
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+[warn] Brave API unreachable: _ssl.c:1112: The handshake operation timed out — query='ntb kepik'
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+Gönderilen haber sayısı: 30
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 5, 'TBM': 0, 'PTTKEP': 9}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 5, 'e-Defter': 8, 'e-İmza': 1, 'e-Arşiv': 3, 'e-Mutabakat': 1, 'RegTech': 4}
+[kep_watch] Email gönderildi: 46 haber — '[KEP Watch] Haftalık Özet — 15 Mar – 22 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 4, 'TBM': 0, 'PTTKEP': 9}
+[kep_watch] Konular: {'KEP Genel': 2, 'e-Fatura': 5, 'e-Defter': 8, 'e-İmza': 1, 'e-Arşiv': 3, 'e-Mutabakat': 1, 'RegTech': 4}
+[kep_watch] Email gönderildi: 44 haber — '[KEP Watch] Haftalık Özet — 16 Mar – 23 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 4, 'TBM': 0, 'PTTKEP': 8}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 5, 'e-Defter': 7, 'e-İmza': 1, 'e-Arşiv': 4, 'e-Mutabakat': 6, 'RegTech': 4}
+[kep_watch] Email gönderildi: 49 haber — '[KEP Watch] Haftalık Özet — 17 Mar – 24 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 4, 'TBM': 0, 'PTTKEP': 9}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 6, 'e-Defter': 7, 'e-İmza': 1, 'e-Arşiv': 4, 'e-Mutabakat': 6, 'RegTech': 4}
+[kep_watch] Email gönderildi: 51 haber — '[KEP Watch] Haftalık Özet — 18 Mar – 25 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 4, 'TBM': 0, 'PTTKEP': 8}
+[kep_watch] Konular: {'KEP Genel': 2, 'e-Fatura': 6, 'e-Defter': 7, 'e-İmza': 1, 'e-Arşiv': 5, 'e-Mutabakat': 5, 'RegTech': 4}
+[kep_watch] Email gönderildi: 49 haber — '[KEP Watch] Haftalık Özet — 19 Mar – 26 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 6, 'EDM': 4, 'TBM': 0, 'PTTKEP': 8}
+[kep_watch] Konular: {'KEP Genel': 2, 'e-Fatura': 5, 'e-Defter': 6, 'e-İmza': 2, 'e-Arşiv': 6, 'e-Mutabakat': 1, 'RegTech': 4}
+[kep_watch] Email gönderildi: 44 haber — '[KEP Watch] Haftalık Özet — 20 Mar – 27 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 4, 'TBM': 0, 'PTTKEP': 8}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 5, 'e-Defter': 6, 'e-İmza': 1, 'e-Arşiv': 6, 'e-Mutabakat': 1, 'RegTech': 4}
+[kep_watch] Email gönderildi: 45 haber — '[KEP Watch] Haftalık Özet — 21 Mar – 28 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 5, 'EDM': 4, 'TBM': 0, 'PTTKEP': 8}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 6, 'e-Defter': 6, 'e-İmza': 1, 'e-Arşiv': 5, 'e-Mutabakat': 1, 'RegTech': 3}
+[kep_watch] Email gönderildi: 42 haber — '[KEP Watch] Haftalık Özet — 22 Mar – 29 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 4, 'TBM': 0, 'PTTKEP': 8}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 6, 'e-Defter': 6, 'e-İmza': 1, 'e-Arşiv': 4, 'e-Mutabakat': 1, 'RegTech': 3}
+[kep_watch] Email gönderildi: 43 haber — '[KEP Watch] Haftalık Özet — 23 Mar – 30 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 4, 'TBM': 0, 'PTTKEP': 7}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 6, 'e-Defter': 8, 'e-İmza': 1, 'e-Arşiv': 4, 'e-Mutabakat': 2, 'RegTech': 4}
+[kep_watch] Email gönderildi: 46 haber — '[KEP Watch] Haftalık Özet — 24 Mar – 31 Mar 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 5, 'TBM': 0, 'PTTKEP': 7}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 6, 'e-Defter': 7, 'e-İmza': 1, 'e-Arşiv': 4, 'e-Mutabakat': 2, 'RegTech': 4}
+[kep_watch] Email gönderildi: 46 haber — '[KEP Watch] Haftalık Özet — 25 Mar – 01 Apr 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 7, 'EDM': 5, 'TBM': 0, 'PTTKEP': 7}
+[kep_watch] Konular: {'KEP Genel': 4, 'e-Fatura': 5, 'e-Defter': 7, 'e-İmza': 1, 'e-Arşiv': 5, 'e-Mutabakat': 1, 'RegTech': 4}
+[kep_watch] Email gönderildi: 46 haber — '[KEP Watch] Haftalık Özet — 26 Mar – 02 Apr 2026'
+[kep_watch] Brave Search sorguları başlatılıyor…
+[fetch] https://www.tbm.com.tr/haberler → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[fetch] https://www.tbm.com.tr/duyurular → <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>
+[kep_watch] Sağlayıcılar: {'TÜRKKEP': 8, 'EDM': 4, 'TBM': 0, 'PTTKEP': 7}
+[kep_watch] Konular: {'KEP Genel': 3, 'e-Fatura': 5, 'e-Defter': 7, 'e-İmza': 1, 'e-Arşiv': 5, 'e-Mutabakat': 2, 'RegTech': 4}
+[kep_watch] Email gönderildi: 46 haber — '[KEP Watch] Haftalık Özet — 27 Mar – 03 Apr 2026'

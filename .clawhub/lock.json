@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "skills": {
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1774485936970
+    },
+    "word-docx": {
+      "version": "1.0.2",
+      "installedAt": 1774485948695
+    },
+    "excel-xlsx": {
+      "version": "1.0.2",
+      "installedAt": 1774485952632
+    },
+    "powerpoint-pptx": {
+      "version": "1.0.1",
+      "installedAt": 1774485955055
+    },
+    "self-improving-agent": {
+      "version": "3.0.6",
+      "installedAt": 1774486058374
+    },
+    "moltguard": {
+      "version": "6.8.16",
+      "installedAt": 1774486186027
+    },
+    "accli": {
+      "version": "1.0.0",
+      "installedAt": 1774486792801
+    },
+    "meeting-to-action": {
+      "version": "1.0.0",
+      "installedAt": 1774486795854
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1774487156713
+    },
+    "nano-pdf": {
+      "version": "1.0.0",
+      "installedAt": 1774487158655
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1774487161454
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1774487163571
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1774487165618
+    },
+    "data-analysis": {
+      "version": "1.0.2",
+      "installedAt": 1774487168094
+    }
+  }
+}
